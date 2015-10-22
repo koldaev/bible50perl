@@ -1,0 +1,35 @@
+1 “Šie yra giminių vardai. Nuo šiaurės einant Hetlono keliu link Hamato, Hacar Enonas, šiaurinė Damasko riba iki pat Hamato, bus Dano dalis nuo rytų iki vakarų.
+2 Šalia Dano, nuo rytų iki vakarų, bus Ašero dalis.
+3 Šalia Ašero, nuo rytų iki vakarų, bus Neftalio dalis.
+4 Šalia Neftalio, nuo rytų iki vakarų, bus Manaso dalis.
+5 Šalia Manaso, nuo rytų iki vakarų, bus Efraimo dalis.
+6 Šalia Efraimo, nuo rytų iki vakarų, bus Rubeno dalis.
+7 Šalia Rubeno, nuo rytų iki vakarų, bus Judo dalis.
+8 Šalia Judo, nuo rytų iki vakarų, atskirkite dvidešimt penkių tūkstančių nendrių pločio ir tokio pat ilgio, kaip vienos giminės dalis, plotą šventyklai.
+9 Viešpačiui atskirsite dalį dvidešimt penkių tūkstančių nendrių ilgio ir dešimt tūkstančių nendrių pločio.
+10 Kunigams priklausys dvidešimt penki tūkstančiai nendrių į šiaurę, dešimt tūkstančių į vakarus, dešimt tūkstančių į rytus ir dvidešimt penki tūkstančiai į pietus; Viešpaties šventykla bus viduryje.
+11 Ši dalis priklausys pasišventinusiems kunigams, Cadoko sūnums, kurie man ištikimai tarnavo, kai izraelitai ir levitai buvo nuklydę.
+12 Jiems priklausanti krašto dalis, esanti šalia levitų dalies, bus labai šventa.
+13 Levitai šalia kunigų dalies gaus dvidešimt penkių tūkstančių nendrių ilgio ir dešimties tūkstančių nendrių pločio žemę. Visas plotas bus dvidešimt penkių tūkstančių ilgio ir dešimties tūkstančių pločio.
+14 Jie neturės teisės to ploto nei parduoti, nei iškeisti. Taip pat krašto pirmavaisių negalės perleisti į kitų rankas, nes tai yra pašvęsta Viešpačiui.
+15 Likęs penkių tūkstančių nedrių pločio ir dvidešimt penkių tūkstančių nendrių ilgio plotas priklausys miestui namams statyti ir ganykloms. Miestas bus jo viduryje.
+16 Žemės plotas bus keturkampis, keturių tūkstančių penkių šimtų nendrių ilgio ir keturių tūkstančių penkių šimtų nendrių pločio.
+17 Miesto priemiesčiai bus dviejų šimtų penkiasdešimties nendrių šiaurėje, dviejų šimtų penkiasdešimties nendrių pietuose, dviejų šimtų penkiasdešimties nendrių rytuose ir dviejų šimtų penkiasdešimties nendrių vakaruose.
+18 Likusio žemės ploto, esančio prie šventojo sklypo, dešimties tūkstančių nendrių ilgio rytuose ir dešimties tūkstančių nendrių vakaruose, derlius bus maistas tiems, kurie dirba mieste.
+19 Miesto darbininkai bus iš visų Izraelio giminių.
+20 Visas išskirtas plotas bus keturkampis, dvidešimt penkių tūkstančių nendrių ilgio ir dvidešimt penkių tūkstančių nendrių pločio­tai bus šventoji dalis ir miesto nuosavybė.
+21 Likusi dalis abiejose šventojo ploto ir miesto nuosavybės pusėse, būtent dvidešimt penki tūkstančiai nendrių rytų ir dvidešimt penki tūkstančiai nendrių vakarų pusėje, priklausys kunigaikščiui. Šventykla ir šventasis plotas bus jo viduryje.
+22 Dalis tarp levitų ir miesto nuosavybės bei Judo dalies ir Benjamino dalies priklausys kunigaikščiui.
+23 Likusių giminių žemės: nuo rytų iki vakarų bus Benjamino dalis.
+24 Šalia Benjamino, nuo rytų iki vakarų, bus Simeono dalis.
+25 Šalia Simeono, nuo rytų iki vakarų, bus Isacharo dalis.
+26 Šalia Isacharo, nuo rytų iki vakarų, bus Zabulono dalis.
+27 Šalia Zabulono, nuo rytų iki vakarų, bus Gado dalis.
+28 Gado dalies pietų siena eis nuo Tamaros iki Kadešo kivirčų vandens, toliau Egipto upeliu iki Didžiosios jūros.
+29 Tai kraštas, kurį padalysite, mesdami burtus Izraelio giminėms,­sako Viešpats Dievas.­
+30 Tai yra išėjimai iš miesto. Šiaurės pusėje atmatuosite keturis tūkstančius penkis šimtus nendrių.
+31 Miesto vartai bus vadinami Izraelio giminių vardais. Trejų vartų šiaurės pusėje vardai: Rubeno vartai, Judo vartai ir Levio vartai.
+32 Rytų pusėje atmatuosite keturis tūkstančius penkis šimtus nendrių. Trejų vartų vardai: Juozapo vartai, Benjamino vartai ir Dano vartai.
+33 Pietų pusėje atmatuosite keturis tūkstančius penkis šimtus nendrių. Trejų vartų vardai: Simeono vartai, Isacharo vartai ir Zabulono vartai.
+34 Vakarų pusė yra keturių tūkstančių penkių šimtų nendrių ir turi trejus vartus: Gado vartus, Ašero vartus ir Neftalio vartus.
+35 Aplinkui miestą bus aštuoniolika tūkstančių nedrių. Nuo tos dienos miesto vardas bus ‘Viešpats čia’ ”.

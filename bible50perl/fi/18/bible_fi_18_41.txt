@@ -1,0 +1,31 @@
+2 (H40:21) Voitko kiinnittää kaislaköyden sen kuonoon ja väkäraudalla lävistää siltä posken?
+3 (H40:22) Rukoileeko se sinua paljon, tahi puhutteleeko se sinua lempeästi?
+4 (H40:23) Tekeekö se liiton sinun kanssasi, että saisit sen olemaan orjanasi ainaisesti?
+5 (H40:24) Voitko leikkiä sillä niinkuin lintusella tahi sitoa sen tyttöjesi pidellä?
+6 (H40:25) Hierovatko pyyntikunnat siitä kauppaa, jakavatko sen kauppamiesten kesken?
+7 (H40:26) Voitko iskeä sen nahan täyteen ahinkaita ja sen pään kala-ahraimia?
+8 (H40:27) Laskehan vain kätesi sen päälle, niin muistat sen ottelun; et sitä toiste yritä!
+9 (H40:28) Katso, siinä toivo pettää; jo sen näkemisestä sortuu maahan.
+10 (H41:1) Ei ole niin rohkeata, joka sitä ärsyttäisi. Kuka sitten kestäisi minun edessäni?
+11 (H41:2) Kuka on minulle ensin antanut jotakin, joka minun olisi korvattava? Mitä kaiken taivaan alla on, se on minun.
+12 (H41:3) En saata olla puhumatta sen jäsenistä, en sen voimasta ja sorjasta rakenteesta.
+13 (H41:4) Kuka voi riisua siltä päällysvaatteen, kuka tunkeutua sen kaksinkertaisten purimien väliin?
+14 (H41:5) Kuka on avannut sen kasvojen kaksoisoven? Sen hammasten ympärillä on kauhu.
+15 (H41:6) Sen ylpeytenä ovat uurteiset selkäkilvet, kiinnitetyt lujalla sinetillä.
+16 (H41:7) Ne käyvät tarkoin toinen toiseensa, niin ettei ilma välitse pääse.
+17 (H41:8) Ne ovat toisiinsa liitetyt, pysyvät kiinni erkanematta.
+18 (H41:9) Sen aivastus on kuin valon välähdys, sen silmät ovat kuin aamuruskon silmäripset.
+19 (H41:10) Sen kidasta lähtee tulisoihtuja, sinkoilee säkeniä.
+20 (H41:11) Sen sieramista käy savu niinkuin kihisevästä kattilasta ja kaislatulesta.
+21 (H41:12) Sen puhallus polttaa kuin tuliset hiilet, ja sen suusta lähtee liekki.
+22 (H41:13) Sen kaulassa asuu voima, ja sen edellä hyppii kauhistus.
+23 (H41:14) Sen pahkuraiset lihat ovat kiinteät, ovat kuin valetut, järkkymättömät.
+24 (H41:15) Sen sydän on valettu kovaksi kuin kivi, kovaksi valettu kuin alempi jauhinkivi.
+25 (H41:16) Kun se nousee, peljästyvät sankarit, kauhusta he tyrmistyvät.
+26 (H41:17) Jos sen kimppuun käydään miekoin, ei miekka kestä, ei keihäs, ei heittoase eikä panssari.
+28 (H41:19) Ei aja sitä pakoon nuoli, jousen poika, akanoiksi muuttuvat sille linkokivet.
+29 (H41:20) Kuin oljenkorsi on sille nuija, keihästen ryskeelle se nauraa.
+30 (H41:21) Sen vatsapuolessa on terävät piikit, se kyntää mutaa leveälti kuin puimaäes.
+32 (H41:23) Sen jäljessä polku loistaa, syvyydellä on kuin hopeahapset.
+33 (H41:24) Ei ole maan päällä sen vertaista; se on luotu pelottomaksi.
+34 (H41:25) Se katsoo ylen kaikkea, mikä korkeata on; se on kaikkien ylväitten eläinten kuningas.
