@@ -2,6 +2,9 @@
 2 Og de talte til ham og sagde: 'Sig os, af hvad Magt gør du disse Ting, eller hvem er det, som har givet dig denne Magt?'
 3 Men han svarede og sagde til dem: 'Også jeg vil spørge eder om en Ting, siger mig det:
 4 Johannes's Dåb, var den fra Himmelen eller fra Mennesker?'
+5 Men de overvejede med hverandre og sagde: 'Sige vi: Fra Himmelen, da vil han sige: Hvorfor troede I ham ikke?
+6 Men sige vi: Fra Mennesker, da vil hele Folket stene os; thi det er overbevist om, at Johannes var en Profet.'
+7 Og de svarede, at de vidste ikke hvorfra.
 8 Og Jesus sagde til dem: 'Så siger ikke heller jeg eder, af hvad Magt jeg gør disse Ting.'
 9 Men han begyndte at sige denne Lignelse til Folket: 'En Mand plantede en Vingård og lejede den ud til Vingårdsmænd og drog udenlands for lange Tider.
 10 Og da Tiden kom, sendte han en Tjener til Vingårdsmændene, for at de skulde give ham af Vingårdens Frugt; men Vingårdsmændene sloge ham og sendte ham tomhændet bort.
@@ -16,6 +19,7 @@
 19 Og Ypperstepræsterne og de skriftkloge søgte at lægge Hånd på ham i den samme Time, men de frygtede for Folket; thi de forstode, at han sagde denne Lignelse imod dem.
 20 Og de toge Vare på ham og udsendte Lurere, der anstillede sig, som om de vare retfærdige, for at fange ham i Ord, så de kunde overgive ham til Øvrigheden og Landshøvdingens Magt.
 21 Og de spurgte ham og sagde: 'Mester! vi vide, at du taler og lærer Rettelig og ikke ser på Personer, men lærer Guds Vej i Sandhed.
+22 Er det os tilladt at give Kejseren Skat eller ej?'
 23 Men da han mærkede deres Træskhed, sagde han til dem: 'Hvorfor friste I mig?
 24 Viser mig en Denar'; hvis Billede og Overskrift bærer den?' Men de svarede og sagde: 'Kejserens.'
 25 Men han sagde til dem: 'Så giver da Kejseren, hvad Kejserens er, og Gud, hvad Guds er.'
@@ -32,6 +36,7 @@
 36 Thi de kunne ikke mere dø; thi de ere Engle lige og ere Guds Børn, idet de ere Opstandelsens Børn.
 37 Men at de døde oprejses, har også Moses givet til Kende i Stedet om Tornebusken, når han kalder Herren: Abrahams Gud og Isaks Gud og Jakobs Gud.
 38 Men han er ikke dødes, men levendes Gud; thi for ham leve de alle.'
+39 Men nogle af de skriftkloge svarede og sagde: 'Mester! du talte vel.'
 40 Og de turde ikke mere spørge ham om noget.
 41 Men han sagde til dem: 'Hvorledes siger man, at Kristus er Davids Søn?
 42 David selv siger jo i Salmernes Bog: Herren sagde til min Herre: Sæt dig ved min højre Hånd,

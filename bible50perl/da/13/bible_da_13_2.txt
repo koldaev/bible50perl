@@ -1,4 +1,5 @@
 1 Israels Sønner var følgende: Ruben, Simeon, Levi, Juda, Issakar, Zabulon,
+2 Dan, Josef, Benjamin, Naftali, Gad og Aser.
 3 Judas Sønner: Er, Onan og Sjela; disse tre fødtes ham af Kana'anæer kvinden Batsjua. Men Er, Judas førstefødte, var HERREN imod, og han lod ham dø.
 4 Derpå fødte Judas Sønnekone Tamar ham Perez og Zera, så at Judas Sønner i alt var fem.
 5 Perez's Sønner: Hezron og Hamul.
@@ -7,6 +8,8 @@
 8 Etans Sønner: Azarja.
 9 Hezrons Sønner, som fødfes ham: Jerame'el, Ram og Kelubaj.
 10 Ram avlede Amminadab; Amminadab avlede Nahasjon, Judæernes Øverste;
+11 Nahasjon avlede Salma; Salma avlede Boaz;
+12 Boaz avlede Obed; Obed avlede Isaj;
 13 Isaj avlede sin førstefødte Eliab, sin anden Søn Abinadab, sin tredje Søn, Sjim'a,
 14 sin fjerde Søn Netan'el, sin femte Søn Raddaj,
 15 sin sjette Søn Ozem og sin syvende Søn David;
@@ -14,10 +17,13 @@
 17 Abigajil fødte Amasa, hvis Fader var Ismaeliten Jeter.
 18 Hezrons Søn Kaleb avlede med sin Hustru Azuba Jeriot; og hendes Sønner var følgende: Jesjer, Sjobab og Ardon.
 19 Da Azuba døde, ægtede Kaleb frat, som fødte ham Hur.
+20 Hur avlede Uri, og Uri avlede Bezal'el.
 21 Derefter gik Hezron ind til Gileads Fader Makirs Datter, som han ægtede, da han var tredsindstyve År gammel, og hun fødte ham Segub.
+22 Segub avlede Ja'ir, som ejede tre og tyve Byer i Gileads Land.
 23 Men Gesjur og Aram fratog dem Ja'irs Teltbyer, Kenat med Småbyer, tresindstyve Byer. Alle disse var Gileads Fader Makirs Sønner.
 24 Efter Hezrons Død gik Kaleb ind til sin Fader Hezrons Hustru Efrata, og hun fødte ham Asjhur, der blev Fader til Tekoa.
 25 Jerame'els, Hezrons førstefødtes, Sønner: Ram, den førstefødte, dernæst Buna, Oren og Ozem, hans Brødre.
+26 Og Jerame'el havde en anden Hustru ved Navn Atara, som var Moder til Onam.
 27 Rams, Jerame'els førstefødtes, Sønner: Ma'az, Jamin og Eker.
 28 Onams Sønner: Sjammaj og Jada. Sjammajs Sønner: Nadab og Abisjur.
 29 Abisjurs Hustru hed Abihajil; hun fødte ham Aban og Molid.
@@ -27,13 +33,22 @@
 33 Jonatans Sønner: Pelet og Zaza. Det var Jerame'els Efterkommere.
 34 Sjesjan havde kun Døtre, ingen Sønner. Men Sjesjan havde en ægyptisk Træl ved Navn Jarha,
 35 og Sjesjan gav sin Træl Jarha sin Datter til Ægte, og hun fødte ham Attaj.
+36 Attaj avlede Natan; Natan avlede Zabad;
+37 Zabad avlede Eflal; Eflal avlede Obed;
+38 Obed avlede Jehu; Jehu avlede Azarja;
+39 Azarja avlede Helez; Helez avlede El'asa;
+40 El'asa avlede Sismaj; Sismaj avlede Sjallum;
+41 Sjallum avlede Jekamja; Jekamja avlede Elisjama.
 42 Jerame'els Broder Kalebs Sønner: Maresja, hans førstefødte, som var Fader til Zif. Maresjas Sønner: Hebron.
 43 Hebrons Sønner: Kora, Tappua, Rekem og Sjema.
+44 Sjema avlede Raham, der var Fader til Jorke'am. Rekem avlede Sjammaj.
 45 Sjammajs Søn var Maon, som var Fader til Bet-Zur.
 46 Kalebs Medhustru Efa fødte Karan, Moza og Gazez; Karan avlede Gazez.
 47 Jadajs Sønner: Regem, Jotam, Gersjan, Pelet, Efa og Sja'af.
 48 Halebs Medhustru Ma'aka fødfe Sjeber og Tirhana.
+49 Sja'af, Madmannasader, avlede Sjeva, Makbenas Fader og Gibeas Fader. Kalebs Datter var Aksa.
 50 Det var Halebs Efterkommere. Hurs, Efratas førstefødtes, Sønner: Sjobal, Kirjat-Jearims Fader,
+51 Salma, Betlehems Fader, og Haref, Bef-Gaders Fader.
 52 Sjobal, Birjat-Jearims Fader, havde følgende Sønner: Reaja, Halvdelen af Manahatiterne.
 53 Kirjat-Jearims Slægter: Jitriterne, Putiterne, Sjumatiterne og Misjraiterne; fra dem udgik Zor'atiterne og Esjtaoliterne.
 54 Salmas Sønner: Betlehem, Netofatiterne, Atarot-Bet-Joab, Halvdelen af Manahatiterne og Zor'iterne.

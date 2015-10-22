@@ -16,3 +16,6 @@
 16 Alles neljas põlv tuleb siia tagasi, sest emorlaste süü ei ole tänini veel küllaldane.'
 17 Ja kui päike oli loojunud ja kui oli pime, siis nähti suitsevat küpsetusahju ja tuleleeki, mis nende lõigatud tükkide vahelt läbi käis. 
 18 Selsamal päeval tegi Issand Aabramiga lepingu ja ütles:  'Sinu soole ma annan selle maa Egiptuseojast suure jõeni, Frati jõeni, 
+19 keenlased, kenislased, kadmonlased, 
+20 hetid, perislased, refalased, 
+21 emorlased, kaananlased, girgaaslased ja jebuuslased.'

@@ -1,5 +1,8 @@
 1 Teine liisk langes Siimeonile, siimeonlaste suguharule nende suguvõsade kaupa; ja nende pärisosa tuli juudalaste pärisosa keskele. 
 2 Neile said pärisosaks: Beer-Seba, Seba, Moolada, 
+3 Hasar-Suual, Baala, Esem, 
+4 Eltolad, Betuul, Horma, 
+5 Siklag, Beet-Markabot, Hasar-Suusa, 
 6 Beet-Lebaot ja Saaruhen - kolmteist linna ja nende külad; 
 7 Ain, Rimmon, Eter ja Aasan - neli linna ja nende külad; 
 8 siis kõik need külad, mis olid nende linnade ümber kuni Baalat-Beerini, Lõunamaa Raamani. See oli siimeonlaste suguharu pärisosa nende suguvõsade kaupa. 
@@ -12,21 +15,35 @@
 15 Kattat, Nahalal, Simron, Jidala ja Beet-Lehem - kaksteist linna ja nende külad. 
 16 See oli sebulonlaste pärisosa nende suguvõsade kaupa, need linnad ja nende külad.
 17 Neljas liisk langes Issaskarile, issaskarlastele nende suguvõsade kaupa: 
+18 nende maa-alal olid: Jisreel, Kesullot, Suunem, 
+19 Hafaraim, Siion, Anaharat, 
+20 Daaberat, Kisjon, Ebes, 
+21 Remet, Een-Gannim, Een-Hadda ja Beet-Passes. 
 22 Ja piir riivab Taaborit, Sahasimat ja Beet-Semesit, ja nende maa-ala lõpp on Jordani ääres - kuusteist linna ja nende külad.  
 23 See oli issaskarlaste suguharu pärisosa nende suguvõsade kaupa, linnad ja nende külad.
 24 Viies liisk langes aaserlaste suguharule nende suguvõsade kaupa: 
+25 nende maa-alal olid: Helkat, Hali, Beten, Aksaf, 
 26 Alammelek, Amad ja Misal; ja lääne pool riivab piir Karmelit ja Siihor-Libnatit, 
 27 pöördub siis päikesetõusu poole Beet-Daagonisse ja riivab Sebuloni ja Jiftah-Eeli orgu põhjas, Beet-Eemekit ja Neielit, ja jätkub Kaabulisse põhja pool; 
+28 Ebron, Rehob, Hammon ja Kaana kuni suure Siidonini; 
 29 siis kulgeb piir Raamasse ja kindlustatud Tüürose linnani; siis pöördub piir Hosasse ja selle lõpp on mere ääres, Aksiba maaribal; 
 30 Umma, Afek ja Rehob - kakskümmend kaks linna ja nende külad.  
 31 See oli aaserlaste suguharu pärisosa nende suguvõsade kaupa, need linnad ja nende külad.
 32 Kuues liisk langes naftalilastele, naftalilastele nende suguvõsade kaupa: 
 33 nende maa-ala algab Heelefist; Saanannimi tammest üle Adami-Nekebi ja Jabneeli kuni Lakkumini, ja selle lõpp on Jordani ääres; 
 34 siis pöördub piir lääne poole Asnot-Taaborisse, läheb sealt Hukkokasse ja riivab lõunas Sebuloni, läänes Aaserit ja päikesetõusu pool Juudat Jordani ääres; 
+35 kindlustatud linnad on: Siddim, Seer, Hammat, Rakkat, Kinneret,  
+36 Adama, Raama, Haasor, 
+37 Kedes, Edrei, Een-Haasor, 
 38 Jireon, Migdal-Eel, Horem, Beet-Anat ja Beet-Semes - üheksateist linna ja nende külad. 
 39 See oli naftalilaste suguharu pärisosa nende suguvõsade kaupa, linnad ja nende külad.
 40 Seitsmes liisk langes daanlaste suguharule nende suguvõsade kaupa: 
 41 nende pärisosa maa-alal olid: Sora, Estaol, Iir-Semes, 
+42 Saalabbin, Ajjalon, Jitla, 
+43 Eelon, Timna, Ekron, 
+44 Elteke, Gibbeton, Baalat, 
+45 Jehud, Bene-Berak, Gat-Rimmon, 
+46 Mee-Jarkoni veed ja Rakkon koos maa-alaga Jaafo kohal. 
 47 Aga kui daanlaste maa-ala läks nende käest ära, siis läksid daanlased ja sõdisid Lesemi vastu, vallutasid selle ja lõid seda mõõgateraga; ja nad pärisid selle ning elasid seal ja nimetasid Lesemi Daaniks, oma esiisa Daani nime järgi. 
 48 See oli daanlaste suguharu pärisosa nende suguvõsade kaupa, need linnad ja nende külad.
 49 Ja kui Iisraeli lapsed olid võtnud maa selle piiride järgi täiesti oma valdusesse, siis andsid nad Joosuale, Nuuni pojale, pärisosa eneste keskel. 

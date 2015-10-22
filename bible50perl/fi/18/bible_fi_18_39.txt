@@ -4,6 +4,7 @@
 4 (H39:7) Niiden vasikat vahvistuvat, kasvavat kedolla; ne lähtevät tiehensä eivätkä enää palaja.
 5 (H39:8) Kuka on laskenut villiaasin vapaaksi, kuka irroittanut metsäaasin siteet,
 6 (H39:9) sen, jolle minä annoin aavikon asunnoksi ja suola-aron asuinsijaksi?
+7 (H39:10) Se nauraa kaupungin kohinalle, ajajan huutoa se ei kuule;
 8 (H39:11) se tähystelee vuorilta laiduntansa ja etsii kaikkea vihantaa.
 9 (H39:12) Taipuuko villihärkä sinua palvelemaan, ja yöpyykö se sinun seimesi ääreen?
 10 (H39:13) Voitko ohjaksilla pakottaa villihärän vaolle, tahi äestääkö se laaksonpohjia sinua seuraten?

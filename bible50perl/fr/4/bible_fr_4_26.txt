@@ -3,6 +3,7 @@
 3 Moïse et le sacrificateur Éléazar leur parlèrent dans les plaines de Moab, près du Jourdain, vis-à-vis de Jéricho. Ils dirent: 
 4 On fera le dénombrement, depuis l'âge de vingt ans et au-dessus, comme l'Éternel l'avait ordonné à Moïse et aux enfants d'Israël, quand ils furent sortis du pays d'Égypte. 
 5 Ruben, premier-né d'Israël. Fils de Ruben: Hénoc de qui descend la famille des Hénokites; Pallu, de qui descend la famille des Palluites; 
+6 Hetsron, de qui descend la famille des Hetsronites; Carmi, de qui descend la famille des Carmites. 
 7 Ce sont là les familles des Rubénites: ceux dont on fit le dénombrement furent quarante-trois mille sept cent trente. - 
 8 Fils de Pallu: Éliab. 
 9 Fils d'Éliab: Nemuel, Dathan et Abiram. C'est ce Dathan et cet Abiram, qui étaient de ceux que l'on convoquait à l'assemblée, et qui se soulevèrent contre Moïse et Aaron, dans l'assemblée de Koré, lors de leur révolte contre l'Éternel. 
@@ -11,13 +12,16 @@
 12 Fils de Siméon, selon leurs familles: de Nemuel descend la famille des Nemuélites; de Jamin, la famille des Jaminites; de Jakin, la famille des Jakinites; 
 13 de Zérach, la famille des Zérachites; de Saül, la famille des Saülites. 
 14 Ce sont là les familles des Siméonites; vingt-deux mille deux cents. 
+15 Fils de Gad, selon leurs familles: de Tsephon descend la famille des Tsephonites; de Haggi, la famille des Haggites; de Schuni, la famille des Schunites; 
 16 d'Ozni, la famille des Oznites; d'Éri, la famille des Érites; 
 17 d'Arod, la famille des Arodites; d'Areéli, la famille des Areélites. 
 18 Ce sont là les familles des fils de Gad, d'après leur dénombrement: quarante mille cinq cents. 
+19 Fils de Juda: Er et Onan; mais Er et Onan moururent au pays de Canaan. 
 20 Voici les fils de Juda, selon leurs familles: de Schéla descend la famille des Schélanites; de Pérets, la famille des Péretsites; de Zérach, la famille des Zérachites. 
 21 Les fils de Pérets furent: Hetsron, de qui descend la famille des Hetsronites; Hamul, de qui descend la famille des Hamulites. 
 22 Ce sont là les familles de Juda, d'après leur dénombrement: soixante-seize mille cinq cents. 
 23 Fils d'Issacar, selon leurs familles: de Thola descend la famille des Tholaïtes; de Puva, la famille des Puvites; 
+24 de Jaschub, la famille des Jaschubites; de Schimron, la famille des Schimronites. 
 25 Ce sont là les familles d'Issacar, d'après leur dénombrement: soixante quatre mille trois cents. 
 26 Fils de Zabulon, selon leurs familles: de Séred descend la famille des Sardites; d'Élon, la famille des Élonites; de Jahleel, la famille des Jahleélites. 
 27 Ce sont là les familles des Zabulonites, d'après leur dénombrement: soixante mille cinq cents. 
@@ -32,10 +36,12 @@
 36 Voici les fils de Schutélach: d'Éran est descendue la famille des Éranites. 
 37 Ce sont là les familles des fils d'Éphraïm, d'après leur dénombrement: trente-deux mille cinq cents. Ce sont là les fils de Joseph, selon leurs familles. 
 38 Fils de Benjamin, selon leurs familles: de Béla descend la famille des Balites; d'Aschbel, la famille des Aschbélites; d'Achiram, la famille des Achiramites; 
+39 de Schupham, la famille des Schuphamites; de Hupham, la famille des Huphamites. - 
 40 Les fils de Béla furent: Ard et Naaman. D'Ard descend la famille des Ardites; de Naaman, la famille des Naamanites. 
 41 Ce sont là les fils de Benjamin, selon leurs familles et d'après leur dénombrement; quarante-cinq mille six cents. 
 42 Voici les fils de Dan, selon leurs familles: de Schucham descend la famille des Schuchamites. Ce sont là les familles de Dan, selon leurs familles. 
 43 Total pour les familles des Schuchamites, d'après leur dénombrement: soixante-quatre mille quatre cents. 
+44 Fils d'Aser, selon leurs familles: de Jimna descend la famille des Jimnites; de Jischvi, la famille des Jischvites; de Beria, la famille des Beriites. 
 45 Des fils de Beria descendent: de Héber, la famille des Hébrites; de Malkiel, la famille des Malkiélites. 
 46 Le nom de la fille d'Aser était Sérach. 
 47 Ce sont là les familles des fils d'Aser, d'après leur dénombrement: cinquante-trois mille quatre cents. 

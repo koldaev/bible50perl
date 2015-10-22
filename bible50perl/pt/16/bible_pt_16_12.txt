@@ -1,5 +1,8 @@
 1 Ora, estes são os sacerdotes e os levitas que subiram com Zorobabel, filho de Sealtiel, e com Jesuá: Seraías, Jeremias, Esdras,
+2 Amarias, Maluque, Hatus,
 3 Ido, Ginetói, Abias,
+4 Secanias, Reum, Meremote,
+5 Miamim, Maadias, Bilga,
 6 Semaías, Joiaribe, Jedaías,
 7 Salu, Amoque, Hilquias e Jedaías; estes foram os chefes dos sacerdotes e de seus irmãos, nos dias de Jesuá.
 8 E os levitas: Jesuá, Binuí, Cadmiel, Serebias, Judá, Matanias; este e seus irmãos dirigiam os louvores.
@@ -11,8 +14,10 @@
 14 por Malúqui, Jonatã; por Sebanias, José;
 15 por Harim, Adná; por Meraiote, Helcai;
 16 por Ido, Zacarias; por Gineton, Mesulão;
+17 por Abias, Zicri; por Miniamim, por Moadias, Piltai;
 18 por Bilga, Samua; por Semaías, Jeonatã;
 19 por Joiaribe, Matenai; por Jedaías, Uzi;
+20 por Salai, Calai; por Amoque, Eber;
 21 por Hilquias, Hasabias; por Jedaías, Netanel.
 22 Nos dias de Eliasibe, Joiada, Joanã e Jadua foram inscritos, dos levitas, os chefes das casas paternas; e assim também os dos sacerdotes, no reinado de Dário, o persa.
 23 Os filhos de Levi, chefes de casas paternas, foram inscritos no livro das crônicas, até os dias de Joanã, filho de Eliasibe.
@@ -22,6 +27,7 @@
 27 Ora, na dedicação dos muros de Jerusalém buscaram os levitas de todos os lugares, para os trazerem a Jerusalém, a fim de celebrarem a dedicação com alegria e com ações de graças, e com canto, címbalos, alaúdes e harpas.
 28 Ajuntaram-se os filhos dos cantores, tanto da campina dos arredores de Jerusalém, como das aldeias do netofatitas;
 29 como também de Bete-Gilgal, e dos campos de Geba e Azmavete; pois os cantores tinham edificado para si aldeias ao redor de Jerusalém.
+30 E os sacerdotes e os levitas se purificaram, e purificaram o povo, as portas e o muro.
 31 Então fiz subir os príncipes de Judá sobre o muro, e constituí duas grandes companhias para darem graças e andarem em procissão, uma das quais foi para a direita sobre o muro, em direção à porta do monturo;
 32 e após ela seguiam Hosaías, e a metade dos príncipes de Judá,
 33 e Azarias, Esdras, Mesulão,

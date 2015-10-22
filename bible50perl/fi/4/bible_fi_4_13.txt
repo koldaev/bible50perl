@@ -1,6 +1,18 @@
+1 Ja Herra puhui Moosekselle sanoen:
 2 Lähetä miehiä vakoilemaan Kanaanin maata, jonka minä annan israelilaisille; lähettäkää mies kustakin isien sukukunnasta, ainoastaan niitä, jotka ovat ruhtinaita heidän keskuudessaan.
 3 Niin Mooses lähetti heidät Paaranin erämaasta Herran käskyn mukaan; kaikki ne miehet olivat israelilaisten päämiehiä.
 4 Ja nämä olivat heidän nimensä: Ruubenin sukukunnasta Sammua, Sakkurin poika,
+5 Simeonin sukukunnasta Saafat, Hoorin poika,
+6 Juudan sukukunnasta Kaaleb, Jefunnen poika,
+7 Isaskarin sukukunnasta Jigal, Joosefin poika,
+8 Efraimin sukukunnasta Hoosea, Nuunin poika,
+9 Benjaminin sukukunnasta Palti, Raafun poika,
+10 Sebulonin sukukunnasta Gaddiel, Soodin poika,
+11 Manassen sukukunnasta Joosefin sukukuntaa Gaddi, Suusin poika,
+12 Daanin sukukunnasta Ammiel, Gemallin poika,
+13 Asserin sukukunnasta Setur, Miikaelin poika,
+14 Naftalin sukukunnasta Nahbi, Vofsin poika,
+15 Gaadin sukukunnasta Genuel, Maakin poika.
 16 Nämä olivat niiden miesten nimet, jotka Mooses lähetti maata vakoilemaan. Mutta Mooses kutsui Hoosean, Nuunin pojan, Joosuaksi.
 17 Ja lähettäessään heidät vakoilemaan Kanaanin maata Mooses sanoi heille: Lähtekää nyt Etelämaahan ja nouskaa vuoristoon
 18 ja katselkaa, minkälainen maa on ja minkälainen kansa, joka siinä asuu, onko se voimakas vai heikko, onko sitä vähän vai paljon,

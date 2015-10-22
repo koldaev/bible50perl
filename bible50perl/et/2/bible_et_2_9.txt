@@ -1,4 +1,5 @@
 1 Siis Issand ütles Moosesele: 'Mine vaarao juurde ja räägi temale: Nõnda ütleb Issand, heebrealaste Jumal: Lase mu rahvas minna ja mind teenida! 
+2 Sest kui sa keelad neid minemast ja pead neid veel kinni, 
 3 vaata, siis on Issanda käsi su karja peal, kes on väljal: hobuste, eeslite, kaamelite, veiste, lammaste ja kitsede peal väga raske katkuga. 
 4 Aga Issand eraldab Iisraeli karja ja egiptlaste karja, ja Iisraeli laste omadest ei sure ühtainsatki.' 
 5 Ja Issand määras aja, öeldes: 'Homme teeb Issand seda siin maal.' 
@@ -22,9 +23,11 @@
 23 Ja Mooses sirutas oma kepi taeva poole ning Issand andis müristamist ja rahet, ja tuli lõi maha; ja Issand laskis Egiptusemaale rahet sadada. 
 24 Ja rahe ja tuli, mis oli rahega segamini, olid väga rängad, milliseid ei ole olnud kogu Egiptusemaal selle asustamisest alates. 
 25 Ja rahe lõi maha kogu Egiptusemaal kõik, kes olid väljal, niihästi inimesed kui loomad; ja rahe lõi maha kogu rohu ning murdis kõik puud väljal. 
+26 Ainult Gooseni maakonnas, kus olid Iisraeli lapsed, ei olnud rahet.
 27 Siis vaarao läkitas järele ja kutsus Moosese ja Aaroni ning ütles neile: 'Ma olen seekord pattu teinud. Issand on õiglane, aga mina ja mu rahvas oleme õelad. 
 28 Paluge Issandat, sest on küllalt Jumala müristamisest ja rahest. Ma lasen teid minna ja teil pole enam vaja jääda!' 
 29 Ja Mooses vastas temale: 'Kui ma olen linnast välja läinud, siis ma sirutan oma käed Issanda poole: müristamine lakkab ja rahet ei ole enam, et sa teaksid, et maa on Issanda päralt. 
+30 Aga sinust ja su sulaseist ma tean, et te veelgi ei karda Jumalat Issandat.' 
 31 Ja lina ja oder löödi maha, sest oder oli loonud ja lina oli kupras; 
 32 nisu ja okasnisu aga ei löödud maha, sest need olid hilised. 
 33 Ja Mooses läks ära vaarao juurest, linnast välja, ja sirutas oma käed Issanda poole: müristamine ja rahe lakkasid ning vihma ei sadanud enam maa peale. 

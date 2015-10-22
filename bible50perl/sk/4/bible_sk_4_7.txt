@@ -13,6 +13,7 @@
 13 Jeho obetný dar bol: strieborná misa o váhe stotridsať šeklov, strieborná miska o váhe sedemdesiat šeklov podľa posvätnej váhy; obe boli naplnené jemnou múkou, poliatou olejom na potravinovú obetu,
 14 panvička o váhe desať zlatých šeklov, naplnená kadidlom,
 15 jeden býček, jeden baran a jeden ročný baránok na celostnú žertvu,
+16 jeden cap na obetu za hriech
 17 a na pokojnú žertvu: dva býky, päť baranov, päť capov a päť jednoročných baránkov. To bol obetný dar Aminadabovho syna Nahasona.
 18 Na druhý deň obetovalo knieža Isacharových synov, Suarov syn Natanael.
 19 Ako obetný dar priniesol: striebornú misu o váhe stotridsať šeklov, striebornú misku o váhe sedemdesiat šeklov podľa posvätnej váhy, obe boli naplnené jemnou múkou, poliatou olejom na potravinovú obetu,
@@ -24,51 +25,61 @@
 25 Jeho obetný dar bol: strieborná misa o váhe stotridsať šeklov, strieborná miska o váhe sedemdesiat šeklov podľa posvätnej váhy, obe boli naplnené jemnou múkou, poliatou olejom na potravinovú obetu,
 26 panvička o váhe desať zlatých šeklov, naplnená kadidlom,
 27 jeden býček, jeden baran a jeden ročný baránok na celostnú žertvu,
+28 jeden cap na obetu za hriech
 29 a na pokojnú žertvu: dva býky, päť baranov, päť capov a päť jednoročných baránkov. To bol obetný dar Helonovho syna Eliaba.
 30 Na štvrtý deň (obetovalo) knieža Rubenových synov, Sedeurov syn Elisur.
 31 Jeho obetný dar bol: strieborná misa o váhe stotridsať šeklov, strieborná miska o váhe sedemdesiat šeklov podľa posvätnej váhy, obe boli naplnené jemnou múkou, poliatou olejom na potravinovú obetu,
 32 panvička o váhe desať zlatých šeklov, naplnená kadidlom,
 33 jeden býček, jeden baran a jeden ročný baránok na celostnú žertvu,
+34 jeden cap na obetu za hriech
 35 a na pokojnú žertvu: dva býky, päť baranov, päť capov a päť jednoročných baránkov. To bol obetný dar Sedeurovho syna Elisura.
 36 V piaty deň obetovalo knieža Simeonových synov, Surišadaiho syn Salamiel.
 37 Jeho obetný dar bol: strieborná misa o váhe stotridsať šeklov, strieborná miska o váhe sedemdesiat šeklov podľa posvätnej váhy, obe boli naplnené jemnou múkou, poliatou olejom na potravinovú obetu,
 38 panvička o váhe desať zlatých šeklov naplnená kadidlom,
 39 jeden býček, jeden baran a jeden ročný baránok na celostnú žertvu,
+40 jeden cap na obetu za hriech
 41 a na pokojnú žertvu: dva býky, päť baranov, päť capov a päť jednoročných baránkov. To bol obetný dar Surišadaiho syna Salamiela.
 42 Na šiesty deň obetovalo knieža Gadových synov, Duelov syn Eliasaf.
 43 Jeho obetný dar bol: strieborná misa o váhe stotridsať šeklov, strieborná miska o váhe sedemdesiat šeklov podľa posvätnej váhy, obe boli naplnené jemnou múkou, poliatou olejom na potravinovú obetu,
 44 panvička o váhe desať zlatých šeklov, naplnená kadidlom,
 45 jeden býček, jeden baran a jeden ročný baránok na celostnú žertvu,
+46 jeden cap na obetu za hriech
 47 a na pokojnú žertvu: dva býky, päť baranov, päť capov a päť jednoročných baránkov. To bol obetný dar Duelovho syna Eliasafa.
 48 Na siedmy deň obetovalo knieža Efraimových synov, Abiudov syn Elisama.
 49 Jeho obetný dar bol: strieborná misa o váhe stotridsať šeklov, strieborná miska o váhe sedemdesiat šeklov podľa posvätnej váhy, obe boli naplnené jemnou múkou, poliatou olejom na potravinovú obetu,
 50 panvička o váhe desať zlatých šeklov naplnená kadidlom,
 51 jeden býček, jeden baran a jeden ročný baránok na celostnú žertvu,
+52 jeden cap na obetu za hriech
 53 a na pokojnú žertvu: dva býky, päť baranov, päť capov a päť jednoročných baránkov. To bol obetný dar Abiudovho syna Elisama.
 54 Na ôsmy deň obetovalo knieža Manassesových synov, Fadasurov syn Gamaliel.
 55 Jeho obetný dar bol: strieborná misa o váhe stotridsať šeklov, strieborná miska o váhe sedemdesiat šeklov podľa posvätnej váhy, obe boli naplnené jemnou múkou, poliatou olejom na potravinovú obetu,
 56 panvička o váhe desať zlatých šeklov naplnená kadidlom,
 57 jeden býček, jeden baran a jeden ročný baránok na celostnú žertvu,
+58 jeden cap na obetu za hriech
 59 a na pokojnú žertvu: dva býky, päť baranov, päť capov a päť jednoročných baránkov. To bol obetný dar Fadasurovho syna Gamaliela.
 60 Na deviaty deň obetovalo knieža Benjamínových synov, Gedeonov syn Abidan.
 61 Jeho obetný dar bol: strieborná misa o váhe stotridsať šeklov, strieborná miska o váhe sedemdesiat šeklov podľa posvätnej váhy, obe boli naplnené jemnou múkou, poliatou olejom na potravinovú obetu,
 62 panvička o váhe desať zlatých šeklov naplnená kadidlom,
 63 jeden býček, jeden baran a jeden ročný baránok na celostnú žertvu,
+64 jeden cap na obetu za hriech
 65 a na pokojnú žertvu: dva býky, päť baranov, päť capov a päť jednoročných baránkov. To bol obetný dar Gedeonovho syna Abidana.
 66 Na desiaty deň obetovalo knieža Danových synov, Amišadaiho syn Ahiezer.
 67 Jeho obetný dar bol: strieborná misa o váhe stotridsať šeklov, strieborná miska o váhe sedemdesiat šeklov podľa posvätnej váhy, obe boli naplnené jemnou múkou, poliatou olejom na potravinovú obetu,
 68 panvička o váhe desať zlatých šeklov naplnená kadidlom,
 69 jeden býček, jeden baran a jeden ročný baránok na celostnú žertvu,
+70 jeden cap na obetu za hriech
 71 a na pokojnú žertvu: dva býky, päť baranov, päť capov a päť jednoročných baránkov. To bol obetný dar Amišadaiho syna Ahiezera.
 72 Na jedenásty deň obetovalo knieža Aserových synov, Ochranov syn Fegiel.
 73 Jeho obetný dar bol: strieborná misa o váhe stotridsať šeklov, strieborná miska o váhe sedemdesiat šeklov podľa posvätnej váhy, obe boli naplnené jemnou múkou, poliatou olejom na potravinovú obetu,
 74 panvička o váhe desať zlatých šeklov, naplnená kadidlom,
 75 jeden býček, jeden baran a jeden ročný baránok na celostnú žertvu,
+76 jeden cap na obetu za hriech
 77 a na pokojnú žertvu: dva býky, päť baranov, päť capov a päť jednoročných baránkov. To bol obetný dar Ochranovho syna Fegiela.
 78 Na dvanásty deň obetovalo knieža Neftaliho synov, Enanov syn Ahira.
 79 Jeho obetný dar bol: strieborná misa o váhe stotridsať šeklov, strieborná miska o váhe sedemdesiat šeklov podľa posvätnej váhy, obe boli naplnené jemnou múkou, poliatou olejom na potravinovú obetu,
 80 panvička o váhe desať zlatých šeklov, naplnená kadidlom,
 81 jeden býček, jeden baran a jeden ročný baránok na celostnú žertvu,
+82 jeden cap na obetu za hriech
 83 a na pokojnú žertvu: dva býky, päť baranov, päť capov a päť jednoročných baránkov. To bol obetný dar Enanovho syna Ahiru.
 84 Toto boli dary na posviacku oltára v čase, keď bol posvätený: dvanásť strieborných mís, dvanásť strieborných misiek, dvanásť zlatých panvičiek,
 85 každá misa mala stotridsať šeklov striebra a každá miska sedemdesiat šeklov. Všetky nádoby mali dvetisícštyristo šeklov striebra podľa posvätnej váhy.

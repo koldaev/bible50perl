@@ -6,6 +6,8 @@
 6 Siis ümbritseti kuldäärisega karneoolikivid, millesse olid pitsatitaoliselt uurendatud Iisraeli poegade nimed. 
 7 Need asetati õlarüü õlatükkidele kui mälestuskivid Iisraeli poegadele, nagu Issand Moosest oli käskinud.
 8 Rinnakilp tehti kunstipäraselt kootuna, nagu oli tehtud õlarüügi, kuldsest, sinisest, purpurpunasest ja helepunasest lõngast ning korrutatud linasest lõimest. 
+9 See oli neljanurgeline; rinnakilp oli tehtud kahekordsena, vaksapikkune ja vaksalaiune kahekordselt. 
+10 See kaeti nelja rea kalliskividega: rubiin, topaas, smaragd ridamisi esimeses reas; 
 11 teises reas: türkiis, safiir, jaspis; 
 12 kolmandas reas: hüatsint, ahhaat, ametüst; 
 13 neljandas reas: krüsoliit, karneool, nefriit; kuldäärisest ümbritsetuna olid need oma asemeis. 
@@ -30,6 +32,7 @@
 32 Nõnda valmis kogu töö: elamu, kogudusetelk. Iisraeli lapsed tegid kõik. Nõnda nagu Issand Moosest oli käskinud, nõnda nad tegid.
 33 Siis nad tõid Moosese juurde elamu, telgi ja kõik selle riistad, haagid, lauad, põiklatid, sambad ja jalad, 
 34 katte punastest jääranahkadest, katte merilehmanahkadest, katva eesriide, 
+35 tunnistuslaeka ja selle kangid, lepituskaane, 
 36 laua kõigi selle riistadega, ohvrileivad, 
 37 puhtast kullast lambijala lampidega lampide reastuses, ja kõik selle riistad, valgustusõli, 
 38 kuldaltari, võideõli, healõhnalisi suitsutusrohte, telgi ukse katte, 

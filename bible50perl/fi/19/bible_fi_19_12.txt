@@ -21,10 +21,13 @@
 13 (H102:14) Nouse ja armahda Siionia, sillä aika on tehdä sille laupeus ja määrähetki on tullut.
 14 (H102:15) Sillä sen kivet ovat sinun palvelijoillesi rakkaat, ja sen soraläjiä heidän on sääli.
 15 (H102:16) Silloin pakanat pelkäävät Herran nimeä ja kaikki maan kuninkaat sinun kunniaasi,
+16 (H102:17) kun Herra rakentaa Siionin ja ilmestyy kunniassansa,
 17 (H102:18) kun hän kääntyy niiden rukouksen puoleen, jotka ovat kaikkensa menettäneet, eikä enää heidän rukoustansa hylkää.
 18 (H102:19) Tämä kirjoitettakoon tulevalle polvelle, ja kansa, joka vastedes luodaan, on kiittävä Herraa,
 19 (H102:20) että hän katseli pyhästä korkeudestaan, että Herra katsoi taivaasta maahan,
+20 (H102:21) kuullaksensa vankien huokaukset, vapauttaaksensa kuoleman lapset,
 21 (H102:22) jotta Siionissa julistettaisiin Herran nimeä ja hänen ylistystänsä Jerusalemissa,
+22 (H102:23) kun kaikki kansat kokoontuvat yhteen, ja valtakunnat, palvelemaan Herraa.
 23 (H102:24) Hän on lannistanut matkalla minun voimani, on lyhentänyt minun päiväni.
 24 (H102:25) Minä sanon: Jumalani, älä tempaa minua pois kesken ikääni; sinun vuotesi kestävät suvusta sukuun.
 25 (H102:26) Muinoin sinä perustit maan, ja taivaat ovat sinun käsialasi.

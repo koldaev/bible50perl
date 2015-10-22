@@ -1,6 +1,7 @@
 1 Og Herren talte til Moses i Sinai ørken i sammenkomstens telt på den første dag i den annen måned i det annet år efterat de var gått ut av Egyptens land, og sa: 
 2 Ta op manntall over hele Israels barns menighet efter deres ætter og familier og skriv op deres navn - alle som er av mannkjønn, en for en, 
 3 fra tyveårsalderen og opover; alle dem i Israel som kan dra ut i krig, skal I mønstre, hær efter hær, du og Aron. 
+4 I skal ha med eder en mann for hver stamme, den som er overhode for stammens familier. 
 5 Dette er navnene på de menn som I skal ha til hjelp: For Ruben: Elisur, Sede'urs sønn, 
 6 for Simeon: Selumiel, Surisaddais sønn, 
 7 for Juda: Nahson, Amminadabs sønn, 
@@ -13,6 +14,7 @@
 14 for Gad: Eljasaf, De'uels sønn, 
 15 for Naftali: Akira, Enans sønn. 
 16 Dette var menighetens utkårne, høvdingene for sine fedrenestammer, overhodene for Israels tusener. 
+17 Da lot Moses og Aron disse menn, som var nevnt ved navn, komme, 
 18 og de samlet hele menigheten på den første dag i den annen måned; og de lot sig innføre i ættelistene med sine navn, efter sine ætter og familier, fra tyveårsalderen og opover, en for en, 
 19 således som Herren hadde befalt Moses; og han mønstret dem i Sinai ørken. 
 20 Efterkommerne av Rubens sønner - han som var Israels førstefødte - opskrevet efter sine ætter og familier, med sine navn, en for en, alt mannkjønn fra tyveårsalderen og opover, alle som kunde dra ut i krig, 
@@ -43,6 +45,7 @@
 45 Og alle de av Israels barn som blev mønstret efter sine familier, fra tyveårsalderen og opover, alle i Israel som kunde dra ut i krig, 
 46 så mange som blev mønstret, var seks hundre og tre tusen, fem hundre og femti; 
 47 Men levittene efter sin fedrenestamme blev ikke mønstret sammen med dem. 
+48 For Herren talte til Moses og sa: 
 49 Bare Levi stamme skal du ikke mønstre, og over dem skal du ikke opta manntall sammen med de andre Israels barn. 
 50 Men du skal sette levittene over vidnesbyrdets tabernakel og over alle dets redskaper og over alt som hører til; de skal bære tabernaklet og alle dets redskaper, og de skal tjene ved tabernaklet og leire sig rundt omkring det. 
 51 Når tabernaklet skal bryte op, skal levittene ta det ned, og når tabernaklet skal leire sig, skal levittene reise det op; kommer nogen fremmed; 

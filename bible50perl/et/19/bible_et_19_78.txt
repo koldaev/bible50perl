@@ -1,5 +1,6 @@
 1 Aasafi õpetuslaul.  Pane tähele, mu rahvas, minu Seadust, pöörake oma kõrvad minu sõnade poole! 
 2 Ma avan oma suu õpetussõnadega, ma ilmutan mõistatusi muistsest ajast. 
+3 Mida me oleme kuulnud ja mida me teame ja mida meie vanemad on meile jutustanud, 
 4 seda me ei taha salata nende laste eest; me jutustame tulevasele põlvele Issanda kiituseväärt tegudest, tema vägevusest ja tema imedest, mis ta on teinud. 
 5 Ta asetas tunnistuse Jaakobisse ja seadis Iisraelisse Seaduse, mida ta käskis meie esivanemail teatada oma lastele, 
 6 et tulevane põlv seda tunneks, lapsed, kes sünnivad, et nemadki tõuseksid seda jutustama oma lastele, 
@@ -20,6 +21,7 @@
 21 Sellepärast, kui Issand seda kuulis, siis ta raevutses, tuli süttis Jaakobis ja viha tõusis Iisraeli vastu, 
 22 sest et nad ei uskunud Jumalasse ega lootnud tema pääste peale. 
 23 Siis ta andis käsu pilvedele ülal ja avas taeva uksed 
+24 ning laskis sadada nende peale mannat toiduks; ta andis neile taeva vilja. 
 25 Inimene sõi inglite leiba; ta lähetas neile rooga, nõnda et küllalt sai. 
 26 Ta tõstis taeva alla idatuule ja ajas üles oma vägevusega lõunatuule; 
 27 ja ta laskis nende peale sadada liha nagu põrmu ja tiivulisi linde nagu mere liiva, 
@@ -31,6 +33,7 @@
 33 Siis ta lõpetas nende päevad tuulepuhangus ja nende aastad äkilises hukkumises. 
 34 Kui ta neid tappis, nõudsid nad teda ning pöördusid ja otsisid Jumalat 
 35 ja tuletasid meelde, et Jumal on nende kalju, ja et Jumal, Kõigekõrgem, on nende lunastaja. 
+36 Kuid nad petsid teda oma suuga ja valetasid temale oma keelega. 
 37 Sest nende süda ei olnud kindlasti tema küljes, ja nad ei olnud ustavad tema lepingu pidamises. 
 38 Aga tema on armuline: ta lepitab pahateod ega tule hävitama, vaid võtab sagedasti tagasi oma viha ega lase kogu oma vihaleeki tõusta. 
 39 Talle tuli meelde, et nad on liha, tuuleõhk, mis läheb ära ega tule tagasi. 

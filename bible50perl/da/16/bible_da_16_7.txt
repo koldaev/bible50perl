@@ -5,6 +5,24 @@
 5 Da skød min Gud mig i Sinde at samle de store, Forstanderne og Folket for at indføre dem i Slægtsfortegnelser. Og da fandt jeg Slægtebogen over dem, der først var draget op, og i den fandt jeg skrevet:
 6 Følgende er de Folk fra vor Landsdel, der drog op fra Land flygtigheden og Fangenskabet. Kong Nebukadnezar af Babel havde ført dem bort, men nu vendte de til bage til Jerusalem og Juda, hver til sin By;
 7 de kom sammen med Zerubbabel, Jesua, Nehemja, Azarja, Ra'amja, Nahamani, Mordokaj, Bilsjan, Misperet, Bigvaj, Nehum og Ba'ana. Tallet på Mændene i Israels Folk var:
+8 Par'osj's Efterkommere 2172,
+9 Sjefatjas Efterkommere 372,
+10 Aras Efterkommere 652,
+11 Pahat-Moabs Efterkommere, Jesuas og Joabs Efterkommere, 2818,
+12 Elams Efterkommere 1254,
+13 Zattus Efterkommere 845,
+14 Zakkajs Efterkommere 760,
+15 Binnujs Efterkommere 648,
+16 Bebajs Efterkommere 628,
+17 Azgads Efterkommere 2322,
+18 Adonikams Efterkommere 667,
+19 Bigvajs Efterkommere 2067,
+20 Adins Efterkommere 655,
+21 Aters Efterkommere gennem Hizkija 98,
+22 Hasjums Efterkommere 328,
+23 Bezajs Efterkommere 324,
+24 Harifs Efterkommere 112,
+25 Gibeons Efterkommere 95,
 26 Mændene fra Betlehem og Netofa 188,
 27 Mændene fra Anatot 128,
 28 Mændene fra Bet-Azmavet 42,
@@ -13,16 +31,41 @@
 31 Mændene fra Mikmas 122,
 32 Mændene fra Betel og Aj 123,
 33 Mændene fra det andet Nebo 52,
+34 det andet Elams Efterkommere 1254,
+35 Harims Efterkommere 320,
+36 Jerikos Efterkommere 345,
+37 Lods, Hadids og Onos Efterkommere 721,
+38 Sena'as Efterkommere 3930.
 39 Præsterne var: Jedajas Efterkommere af Jesuas Hus 973,
+40 Immers Efterkommere 1052,
+41 Pasjhurs Efterkommere 1247,
+42 Harims Efterkommere 1017.
+43 Leviterne var: Jesuas og Kadmiels Efterkommere af Hodavjas Efterkommere 74.
+44 Tempelsangerne var: Asafs Efterkommere 148.
 45 Dørvogterne var: Sjallums, Aters, Talmons, Akkubs, Hatitas og Sjobajs Efterkommere 138.
 46 Tempeltrællene var: Zihas, Hasufas, Tabbaots,
+47 Keros's, Si'as, Padons,
+48 Lebanas, Hagabas, Salmajs,
+49 Hanans, Giddels, Gahars,
+50 Reajas, Rezins, Nekodas,
+51 Gazzams, Uzzas, Paseas,
+52 Besajs, Me'uniternes, Nefusiternes,
+53 Bakbuks, Hakufas, Harhurs,
+54 Bazluts, Mehidas, Harsjas,
+55 Barkos's, Siseras, Temas,
+56 Nezias og Hatifas Efterkommere.
 57 Efterkommerne af Salomos Trælle var: Sotajs, Soferets, Peridas,
+58 Ja'alas, Darkons, Giddels,
+59 Sjefatjas, Hattils, Pokeret-Hazzebajims og Amons Efterkommere.
 60 Alle Tempeltrælle og Efferkommerne af Salomos Trælle var tilsammen 392.
 61 Følgende, som drog op fra Tel-Mela, Tel-Harsja, Kerub-Addon og Immer, kunde ikke opgive, hvorvidt deres Fædrenehuse og Slægt hørte til Israeliterne:
+62 Delajas, Tobijas og Nekodas Efterkommere 642.
 63 Og følgende Præster: Habajas, Hakoz's og Barzillajs Efterkommere; denne sidste havde ægtet en af Gileaditen Barzillajs Døtre og var blevet opkaldt efter dem.
 64 De ledte efter deres Slægtebøger, men kunde ikke finde dem; derfor blev de som urene udelukket fra Præstestanden.
 65 Statholderen forbød dem at spise af det højhellige, indtil der fremstod en Præst med Urim og Tummim.
+66 Hele Menigheden udgjorde 42360
 67 foruden deres Trælle og Trælkvinder, som udgjorde 7337, hvor til kom 245 Sangere og Sangerinder.
+68 Deres Heste udgjorde 736, deres Mulddyr 245,
 69 deres Kameler 435 og deres Æsler 6720.
 70 En Del af Fædrenehusenes Overhoveder ydede Tilskud til Byggearbejdet. Statholderen gav til Byggesummen 1000 Drakmer Guld, 50 Skåle og 30 Præstekjortler.
 71 Af Fædrenehusenes Overhoveder gav nogle til Byggesummen 20.000 Drakmer Guld og 2.200 Miner Sølv.

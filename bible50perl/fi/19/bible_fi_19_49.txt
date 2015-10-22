@@ -3,6 +3,7 @@
 3 (H49:4) Minun suuni puhuu viisautta, minun sydämeni ajatus on ymmärrystä.
 4 (H49:5) Minä kallistan korvani kuulemaan mietelauseita, minä selitän ongelmani kannelta soittaen.
 5 (H49:6) Miksi minä pelkäisin pahoina päivinä, kun minun vainoojani vääryys piirittää minut?
+6 (H49:7) He luottavat tavaroihinsa ja kerskaavat suuresta rikkaudestaan.
 7 (H49:8) Kukaan ei voi veljeänsä lunastaa eikä hänestä Jumalalle sovitusta maksaa.
 8 (H49:9) Sillä hänen sielunsa lunastus on ylen kallis ja jää iäti suorittamatta,
 9 (H49:10) että hän saisi elää iankaikkisesti eikä kuolemaa näkisi.

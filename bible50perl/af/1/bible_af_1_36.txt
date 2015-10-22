@@ -1,3 +1,4 @@
+1 En dit is die geskiedenis van Esau, dit is Edom.
 2 Esau het sy vroue geneem uit die dogters van Kanaän: Ada, die dogter van Elon, die Hetiet, en Oholibáma, die dogter van Ana, die dogter van Síbeon, die Hewiet;
 3 en Basmat, die dogter van Ismael, die suster van Nébajot.
 4 En Ada het vir Esau gebaar Élifas, en Basmat het gebaar Réhuel.
@@ -15,14 +16,19 @@
 16 die stamhoof Korag, die stamhoof Gáetam, die stamhoof Amalek. Dit is die stamhoofde van Élifas in die land Edom; dit is die seuns van Ada.
 17 En dit is die seuns van Réhuel, die seun van Esau: die stamhoof Nahat, die stamhoof Serag, die stamhoof Samma, die stamhoof Missa. Dit is die stamhoofde van Réhuel in die land Edom. Dit is die seuns van Basmat, die vrou van Esau.
 18 En dit is die seuns van Oholibáma, die vrou van Esau: die stamhoof Jehus, die stamhoof Jáelam, die stamhoof Korag. Dit is die stamhoofde van Oholibáma, die dogter van Ana, die vrou van Esau.
+19 Dit is die seuns van Esau, en dit is hulle stamhoofde. Dit is Edom.
 20 Dit is die seuns van Seïr, die Horiet, die eerste inwoners van die land: Lotan en Sobal en Síbeon en Ana
 21 en Dison en Eser en Disan. Dit is die stamhoofde van die Horiete, die seuns van Seïr in die land Edom.
+22 En die seuns van Lotan was Hori en Hemam; en die suster van Lotan was Timna.
 23 En dit is die seuns van Sobal: Alwan en Manáhat en Ebal, Sefo en Onam.
 24 En dit is die seuns van Síbeon: Aja en Ana. Dit is dié Ana wat die warm fonteine in die woestyn gekry het toe hy die esels van sy vader Síbeon opgepas het.
 25 En dit is die seuns van Ana: Dison; en Oholibáma was die dogter van Ana.
+26 En dit is die seuns van Dison: Hemdan en Esban en Jitran en Keran.
 27 Dit is die seuns van Eser: Bilhan en Saäwan en Akan.
+28 Dit is die seuns van Disan: Us en Aran.
 29 Dit is die stamhoofde van die Horiete: die stamhoof Lotan, die stamhoof Sobal, die stamhoof Síbeon, die stamhoof Ana,
 30 die stamhoof Dison, die stamhoof Eser, die stamhoof Disan. Dit is die stamhoofde van die Horiete volgens hulle stamme in die land Seïr.
+31 En dit is die konings wat geregeer het in die land Edom voordat daar 'n koning geregeer het oor die kinders van Israel:
 32 Bela, die seun van Beor, het geregeer in Edom; en die naam van sy stad was Dinhába.
 33 En ná die dood van Bela het Jobab, die seun van Serag, van Bosra, in sy plek geregeer.
 34 En ná die dood van Jobab het Husam, uit die land van die Temaniete, in sy plek geregeer.
@@ -31,5 +37,7 @@
 37 En ná die dood van Samla het Saul van Réhobot, aan die rivier, in sy plek geregeer.
 38 En ná die dood van Saul het Baäl-Hanan, die seun van Akbor, in sy plek geregeer.
 39 En ná die dood van Baäl-Hanan, die seun van Akbor, het Hadar in sy plek geregeer; en die naam van sy stad was Pahu; en die naam van sy vrou was Mehetábeël, die dogter van Matred, die dogter van Mésahab.
+40 Dit is die name van die stamhoofde van Esau, volgens hulle geslagte, volgens hulle woonplekke, met hulle name: die stamhoof Timna, die stamhoof Alwa, die stamhoof Jetet.
 41 die stamhoof Oholibáma, die stamhoof Ela, die stamhoof Pinon,
+42 die stamhoof Kenas, die stamhoof Teman, die stamhoof Mibsar,
 43 die stamhoof Mágdiël, die stamhoof Iram. Dit is die stamhoofde van Edom, volgens hulle verblyfplekke in die land van hulle besitting. Dit is Esau, die stamvader van die Edomiete.

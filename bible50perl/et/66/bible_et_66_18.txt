@@ -12,6 +12,7 @@
 12 ei kulda ega hõbedat, ei kalliskive ega pärleid, ei peenlinast ega purpurit, ei siidi ega erepunast riiet, ei mingisugust healõhnalist puud ega mingisugust elevandiluust eset, ei mingisugust väärispuust tehtud või vasest või rauast või marmorist eset, 
 13 ei kaneeli ega kardemoni, ei suitsutusrohte, mürri ega viirukit, ei veini ega õli, ei püülijahu ega nisu, ei veiseid ega lambaid, ei hobuseid ega tõldu, ei orje ega inimhingi.  
 14 Puuviljad, mida su hing himustas, on su käest kadunud ning kõik, mis särav ja läikiv, on su käest läinud kaotsi ning neid ei leita enam. 
+15 Nende asjadega kauplejad, kes on rikastunud selle linna varal, seisavad kartusest tema piina ees kaugel eemal, nuttes ja leinates:  
 16 'Häda, häda, suur linn, riietatud peenlinasesse ja purpurisse ja erepunasesse ning ehitud kulla ja kalliskivide ja pärlitega, sest üheainsa tunniga on ära rüüstatud nii suur rikkus!' 
 17 Kõik tüürimehed ja laevnikud ja kõik meremehed ja kõik, kes merel sõidavad, seisid kaugel eemal 
 18 ja kisendasid, kui nad nägid ta põlemise suitsu: 'Kes on selle suure linna sarnane?' 

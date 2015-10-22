@@ -1,7 +1,17 @@
 1 Bijtë e Levit ishin Gershomi, Kehathi dhe Merari.
 2 Bijtë e Kehathit ishin Amrami, Itshari, Hebroni dhe Uzieli.
 3 Bijtë e Amramit ishin Aaroni, Moisiu dhe Miriami. Bijtë e Aaronit ishin Nadabi, Abihu, Eleazari dhe Ithamari.
+4 Eleazarit i lindi Finehasi; Finehasit i lindi Abishua;
+5 Abishuas i lindi Buki; Bukit i lindi Uzi.
+6 Uzit i lindi Zerahiahu; Zerahiahut i lindi Merajothi;
+7 Merajothit i lindi Amariahu; Amariahut i lindi Ahitubi;
+8 Ahitubit i lindi Tsadoku; Tsadokut i lindi Ahimaatsi.
+9 Ahimaatsit i lindi Azariahu; Azariahut i lindi Johanani.
 10 Johananit i lindi Azariahu (ai shërbeu si prift në tempullin që Salomoni ndërtoi në Jeruzalem);
+11 Azariahut i lindi Amariahu; Amariahut i lindi Ahitubi;
+12 Ahitubit i lindi Tsadoku; Tsadokut i lindi Shalumi;
+13 Shalumit i lindi Hilkiahu; Hilkiahut i lindi Azariahu;
+14 Azariahut i lindi Serajahu; Serajahut i lindi Jehotsadaku;
 15 Jehotsadaku shkoi në mërgim, kur Zoti çoi në robëri Judën dhe Jeruzalemin me anë të Nebukadnetsarit.
 16 Bijtë e Levit ishin Gershomi, Kehathi dhe Merari.
 17 Këta janë emrat e bijve të Gershomit: Libni dhe Shimei.
@@ -21,8 +31,20 @@
 31 Këta janë ata që Davidi caktoi për shërbimin e këngës në shtëpinë e Zotit, mbasi iu gjet një vend prehjeje arkës.
 32 Ata ushtruan shërbimin e tyre me këngë përpara tabernakullit të çadrës së mbledhjes, deri sa Salomoni ndërtoi shtëpinë e Zotit në Jeruzalem; dhe shërbenin sipas rregullores që u ishte caktuar.
 33 Këta janë ata që kryenin shërbimin dhe këta bijtë e tyre: Nga bijtë e Kehathitit ishte Hemani, këngëtari, bir i Joelit, bir i Samuelit,
+34 bir i Elkanahut, bir i Jerohamit, bir i Elielit, bir i Toahut,
+35 bir i Tsufit, bir i Elkanahut, bir i Mahathit, bir i Amasait,
+36 bir i Elkanahut, bir i Joelit, bir i Azariahut, bir i Sofonias,
+37 bir i Tahathit, bir i Asirit, bir i Ebiasafit, bir i Koreut,
+38 bir i Itsharit, bir i Kehathit, bir i Levit, bir i Izraelit.
 39 Pastaj vinte i vëllai Asaf, që rrinte në të djathtë të tij; Asafi, bir i Berekiahut, bir i Shimeut,
+40 bir i Mikaelit, bir i Baasejahut, bir i Malkijahut,
+41 bir i Ethnit, bir i Zerahut, bir i Adajahut,
+42 bir i Ethanit, bir i Zimahut, bir i Shimeit,
+43 bir i Jahathit, bir i Ghershomit, bir i Levit.
 44 Bijtë e Merarit, vëllezërit e tyre, qëndronin në të majtë dhe ishin Ethsani, bir i Kishit, bir i Abdiut, bir i Mallukut,
+45 bir i Hadshabiahut, bir i Amatsiahut, bir i Hilkiahut,
+46 bir i Amtsit, bir i Banit, bir i Shemerit,
+47 bir i Mahlit, bir i Mushit, bir i Merarit, bir i Levit.
 48 Vëllezërit e tyre, Levitët, ishin caktuar për çdo lloj shërbimi në tabernakullin e shtëpisë së Perëndisë.
 49 Por Aaroni dhe bijtë e tij ofronin flijime mbi altarin e olokausteve dhe mbi altarin e temjanit, duke e bërë gjithë shërbimin në vendin shumë të shenjtë, dhe për të bërë shlyerjen për Izraelin, sipas  gjithë atyre që kishte urdhëruar Moisiu,  shërbëtor i Perëndisë.
 50 Këta ishin bijtë e Aaronit: Eleazari, bir i të cilit ishte Finehasi, bir i të cilit ishte Abishua,

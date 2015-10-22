@@ -29,7 +29,16 @@
 29 Nga bijtë e Banit: Meshulami, Maluku, Adajahu, Jashubi, Sheali dhe Ramothi.
 30 Nga bijtë e Pahath-Moabit: Adnai, Kelali, Benajahu, Maasejahu, Mataniahu, Betsaleeli, Binui dhe Manasi.
 31 Nga bijtë e Harimit: Eliezeri, Ishshijahu, Malkiahu, Shemajahu, Simeoni,
+32 Beniamini, Malluku dhe Shemariahu.
 33 Nga bijtë e Hashumit: Matenai, Matatahu, Zabadi, Elifeleti, Jeremai, Manasi dhe Shimei.
 34 Nga bijtë e Banit: Maadai, Amrami, Ueli,
+35 Benajahu, Bedejahu, Keluhi,
+36 Vaniahu, Meremothi, Eliashibi,
+37 Mataniahu, Matenai, Jaasai,
+38 Bani, Binui, Shimei,
+39 Shelemiahu, Nathani, Adajahu,
+40 Maknadbai, Shashai, Sharai,
+41 Azareli, Shelemiahu, Shemariahu,
+42 Shalumi, Amariahu dhe Jozefi.
 43 Nga bijtë e Nebos: Jeijeli, Matithiahu, Zabadi, Zebina, Jadai, Joeli dhe Benajahu.
 44 Tërë këta ishin martuar me gra të huaja; dhe disa nga këta kishin pasur fëmijë nga këto gra.

@@ -26,6 +26,8 @@
 26 Sinule ma jutustan oma teid ja sa vastad mulle; õpeta mulle oma määrusi! 
 27 Oma korralduste teedest lase mind aru saada, ja ma tahan meelt mõlgutada su imeasjade üle. 
 28 Mu hing valab pisaraid meelehärmist - tõsta mind üles oma sõna järgi! 
+29 Vale tee hoia minust eemal ja kingi mulle armust oma Seadus! 
+30 Ma olen valinud ustavuse tee, ma olen pannud enese ette sinu seadused. 
 31 Ma pean kinni su tunnistustest, Issand. Ära lase mind sattuda häbisse! 
 32 Ma jooksen su käskude teed, sest sina teed mu südame avaraks.  
 33 Õpeta mulle, Issand, oma määruste teed, et ma seda otsani peaksin! 
@@ -34,10 +36,12 @@
 36 Pööra mu süda oma tunnistuste poole, aga mitte ahnuse poole! 
 37 Eemalda mu silmad tühja vaatamast, elusta mind oma teedel! 
 38 Kinnita oma sulasele oma sõna, mis saadab sind kartma! 
+39 Eemalda mu teotus, mida ma kardan, sest sinu seadused on head! 
 40 Näe, ma igatsen su korraldusi, elusta mind oma õiguse läbi!  
 41 Tulgu mulle sinu heldus, Issand, ja su pääste su ütluse järgi, 
 42 et ma vastaksin oma teotajaile; sest ma loodan sinu sõna peale! 
 43 Ära kisu ilmaski mu suust ära tõesõna, sest ma loodan su seaduste peale! 
+44 Ma tahan hoida su Seadust alati, ikka ja igavesti, 
 45 ja avaruses käia, sest ma nõuan sinu korraldusi. 
 46 Ma tahan rääkida su tunnistustest kuningate ees ja mitte häbeneda. 
 47 Ma tahan ennast rõõmustada sinu käskudega, mida ma armastan. 
@@ -45,6 +49,7 @@
 49 Tuleta meelde sõna oma sulase kohta, mille peale sa mind oled pannud lootma! 
 50 See on mulle troostiks mu viletsuses, et su ütlus mind elustab. 
 51 Ülbed pilkavad mind väga; ometi ma ei pöördunud kõrvale su Seadusest. 
+52 Mul seisid meeles, Issand, su seadused muistsest ajast ja ma sain troosti. 
 53 Tuline viha on mind haaranud õelate pärast, kes hülgavad su Seaduse. 
 54 Su määrused on mu kiituslauluks mu võõraspõlve majas. 
 55 Mulle meenub öösel su nimi, Issand, ja ma hoian su Seadust. 
@@ -85,6 +90,7 @@
 90 Põlvest põlve kestab su ustavus. Sina oled kinnitanud maa ja see seisab. 
 91 Sinu seaduste kohaselt nad püsivad tänapäev, sest need kõik on sinu sulased. 
 92 Kui sinu Seadus ei oleks olnud mu rõõm, siis ma oleksin hukkunud oma viletsuses. 
+93 Ma ei unusta iialgi su korraldusi, sest nendega sa oled mind elustanud. 
 94 Sinu oma olen mina, päästa mind, sest ma nõuan taga su korraldusi! 
 95 Õelad lootsid mind hukata; mina panen tähele sinu tunnistusi. 
 96 Ma olen näinud, et ka kõige täiuslikumal asjal on lõpp, kuid sinu käsk on väga avar. 
@@ -100,6 +106,7 @@
 16 Ma olen vandunud ja täidan seda, et ma pean sinu õiguse seadusi. 
 17 Ma olen väga vaevatud. Issand, elusta mind oma sõna järgi! 
 18 Minu suu vabatahtlikud ohvrid olgu su meelt mööda, Issand, ja õpeta mulle oma seadusi! 
+19 Mu hing on alati mu pihus ja sinu Seadust ma ei unusta. 
 110 Õelad on mulle pannud püüdepaela, kuid mina ei eksi ära sinu korraldustest. 
 111 Su tunnistused ma olen saanud pärandiks igavesti, sest nad on mu südame rõõm. 
 112 Ma pöörasin oma südame tegema su määruste järgi alaliselt ja otsani.  
@@ -115,6 +122,7 @@
 122 Kosta oma sulase eest tema heaks, ärgu rõhugu mind ülbed! 
 123 Mu silmad on lõppenud ootamast su abi ja su õiguse tõotust. 
 124 Tee oma sulasega oma heldust mööda ja õpeta mulle oma määrusi! 
+125 Mina olen su sulane; anna mulle arusaamist, et ma tunnetaksin su tunnistusi! 
 126 Aeg on Issandal tegutseda; on ju tehtud tühjaks su Seadus. 
 127 Seepärast ma armastan su käske enam kui kulda ja selgemat kulda; 
 128 seepärast ma pean kõiki su korraldusi täiesti õigeks, ma vihkan iga valeteed.  
@@ -141,6 +149,8 @@
 149 Kuule mu häält oma helduse pärast! Issand, elusta mind oma seadusi mööda! 
 150 Mulle lähenesid ilguste toimepanijad; nemad on sinu Seadusest kaugel. 
 151 Sina oled ligi, Issand, ja kõik su käsud on tõde. 
+152 Ammu ma teadsin sinu tunnistustest, et sa need oled rajanud igavesti.  
+153 Vaata mu viletsust ja vabasta mind, sest ma ei unusta su Seadust! 
 154 Aja mu tüliasja ja lunasta mind, elusta mind oma ütlust mööda! 
 155 Õelaist on pääste kaugel, sest nad ei hooli su määrustest. 
 156 Sinu halastus, Issand, on suur. Elusta mind oma seadusi mööda! 
@@ -152,6 +162,7 @@
 162 Ma rõõmutsen su ütlusest nagu see, kes leiab palju saaki. 
 163 Ma vihkan valet ja see on mu meelest jäle, ent sinu Seadust ma armastan. 
 164 Seitse korda päevas ma kiidan sind su õiguse seaduste eest. 
+165 Sinu Seaduse armastajail on suur rahu ja nad ei komista. 
 166 Ma ootan päästet sinult, Issand, ja teen su käske mööda. 
 167 Mu hing hoiab su tunnistusi ja ma armastan neid väga. 
 168 Ma pean su korraldusi ja su tunnistusi, sest kõik mu teed on sinu ees.  
@@ -161,4 +172,5 @@
 172 Mu keel kuulutagu sinu ütlusi, sest kõik su käsud on õigus! 
 173 Olgu su käsi mind aitamas, sest ma olen valinud su korraldused! 
 174 Ma igatsen päästet sinult, Issand, ja sinu Seadus on mu rõõm. 
+175 Elagu mu hing, et ta sind kiidaks, ja su seadused aidaku mind! 
 176 Ma olen eksinud nagu kadunud lammas. Otsi oma sulast, sest ma ei unusta su käske!

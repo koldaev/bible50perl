@@ -1,5 +1,8 @@
+1 Og HERREN talede til Moses og sagde:
 2 'Skaf Israelitterne Hævn over Midjaniterne; så skal du samles til din Slægt!'
 3 Da talte Moses til Folket og sagde: 'Udrust Mænd af eders Midte til Kamp, for at de kan falde over Midjan og fuldbyrde HERRENs Hævn på Midjan;
+4 1000 Mand af hver af Israels Stammer skal I sende i Kamp!'
+5 Af Israels Tusinder udtoges da 1000 af hver Stamme, i alt 12.000 Mand, rustede til Kamp.
 6 Og Moses sendte dem i kamp, 1000 af hver Stamme, og sammen med dem Pinehas, Præsten Eleazars Søn, der medbragte de hellige Redskaber og Alarmtrompeterne.
 7 De drog så ud i kamp mod Midjaniterne, som HERREN havde pålagt Moses, og dræbte alle af Mandkøn;
 8 og foruden de andre, der blev slået ihjel, dræbte de også Midjans Konger, Evi, Rekem, Zur, Hur og Reba, Midjans fem Konger; også Bileam, Beors Søn, dræbte de med Sværdet.
@@ -9,6 +12,7 @@
 12 og de bragte Fangerne, Byttet og det røvede til Moses og Præsten Eleazar og Israelitternes Menighed i Lejren på Moabs Sletter ved Jordan over for Jeriko.
 13 Men Moses, Præsten Eleazar og alle Menighedens Øverste gik dem i Møde uden for Lejren,
 14 og Moses blev vred på Hærens Førere, Tusindførerne og Hundredførerne, som kom tilbage fra Krigstoget.
+15 Og Moses sagde til dem: 'Har I ladet alle Kvinder i Live?
 16 Det var jo dem, der efter Bileams Råd blev Årsag til, at Israelitterne var troløse mod HERREN i den Sag med Peor, så at Plagen ramte HERRENs Menighed.
 17 Dræb derfor alle Drengebørn og alle kvinder, der har kendt Mand og haft Samleje med Mænd;
 18 men alle Piger, der ikke har haft Samleje med Mænd, skal I lade i Live og beholde,
@@ -18,6 +22,7 @@
 22 Kun Guld, Sølv, kobber, Jern, Tin og Bly,
 23 alt, hvad der kan tåle Ild, skal I lade gå gennem Ild, så bliver det rent; dog må det renses med Renselsesvand. Men alt, hvad der ikke kan tåle Ild, skal I lade gå gennem Vand.
 24 Og eders klæder skal I tvætte på den syvende Dag, så bliver I rene og kan gå ind i Lejren.'
+25 Og HERREN talede til Moses og sagde:
 26 'Sammen med Præsten Eleazar og Overhovederne for Menighedens Fædrenehuse skal du opgøre det samlede Bytte, der er taget, både Mennesker og Dyr.
 27 Derefter skal du dele Byttet i to lige store Dele mellem dem, der har taget Del i Krigen og været i Kamp, og hele den øvrige Menighed.
 28 Derpå skal du udtage en Afgift til HERREN fra krigerne, der har været i Kamp, et Stykke af hver fem Hundrede, både af Mennesker, Hornkvæg, Æsler og Småkvæg;
@@ -32,15 +37,18 @@
 37 hvoraf Afgiften til HERREN udgjorde 675 Stykker Småkvæg,
 38 36000 Stykker Hornkvæg, hvoraf 72 i Afgift til HERREN,
 39 30500 Æsler, hvoraf til i Afgift til HERREN,
+40 og 16000 Mennesker, hvoraf 32 i Afgift til HERREN.
 41 Og Moses overgav Afgiften, HERRENs Offerydelse, til Præsten Eleazar, som HERREN havde pålagt Moses.
 42 Og af den Halvdel, som tilfaldt de andre Israelitter, og som Moses havde taget som deres del fra de Mænd, der havde været i Kamp
 43 denne Menighedens Halvdel udgjorde 337 500 Stykker Småkvæg,
 44 36 000 Stykker Hornkvæg,
 45 30 500 Æsler
+46 og 16000 Mennesker
 47 af den Halvdel, som tilfaldt de andre Israelitter, udtog Moses et Stykke for hver halvtredsindstyve, både af Mennesker og Kvæg, og gav dem til Leviterne, som tog Vare på, hvad der var at varetage ved HERRENs Bolig, som HERREN havde pålagt Moses.
 48 Da trådte Førerne for Hærens Afdelinger, Tusindførerne og Hundredførerne, hen til Moses
 49 og sagde til ham: 'Dine Trælle har holdt Mandtal over de krigere, der stod under os; og der manglede ikke en eneste af os;
 50 derfor frembærer nu enhver af os som Offergave til HERREN, hvad han har taget af Guldsmykker, Armbånd, Spange, Fingerringe, Ørenringe og Halssmykker, for at skaffe os Soning for HERRENs Åsyn.'
 51 Moses og Præsten Eleazar modtog Guldet af dem, alskens med Kunst virkede Smykker;
 52 og alt Offerydelsesguldet, som de ydede HERREN, udgjorde 16750 Sekel, hvilket Tusindførerne og Hundredførerne bragte som Gave.
+53 Krigerne havde taget Bytte hver for sig.
 54 Så modtog Moses og Præsten Eleazar Guldet af Tusindførerne og Hundredførerne og bragte det ind i Åbenbaringsteltet, for at det skulde bringe Israelitterne i Minde for HERRENs Åsyn.

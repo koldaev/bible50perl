@@ -3,6 +3,8 @@
 3 (H40-27) Ti rivolgerà egli molte supplicazioni? Ti dirà egli delle parole dolci?
 4 (H40-28) Farà egli teco un patto perché tu lo prenda per sempre al tuo servizio?
 5 (H40-29) Scherzerai tu con lui come fosse un uccello? L’attaccherai a un filo per divertir le tue ragazze?
+6 (H40-30) Ne trafficheranno forse i pescatori? Lo spartiranno essi fra i negozianti?
+7 (H40-31) Gli coprirai tu la pelle di dardi e la testa di ramponi?
 8 (H40-32) Mettigli un po’ le mani addosso!… Ti ricorderai del combattimento e non ci tornerai!
 9 (H41-1) Ecco, fallace è la speranza di chi l’assale; basta scorgerlo e s’è atterrati.
 10 (H41-2) Nessuno è tanto ardito da provocarlo. E chi dunque oserà starmi a fronte?
@@ -12,12 +14,19 @@
 14 (H41-6) Chi gli ha aperti i due battenti della gola? Intorno alla chiostra de’ suoi denti sta il terrore.
 15 (H41-7) Superbe son le file de’ suoi scudi, strettamente uniti come da un sigillo.
 16 (H41-8) Uno tocca l’altro, e tra loro non passa l’aria.
+17 (H41-9) Sono saldati assieme, si tengono stretti, sono inseparabili.
 18 (H41-10) I suoi starnuti dànno sprazzi di luce; i suoi occhi son come le palpebre dell’aurora.
+19 (H41-11) Dalla sua bocca partono vampe, ne scappan fuori scintille di fuoco.
+20 (H41-12) Dalle sue narici esce un fumo, come da una pignatta che bolla o da una caldaia.
 21 (H41-13) L’alito suo accende i carboni, e una fiamma gli erompe dalla gola.
+22 (H41-14) Nel suo collo risiede la forza, dinanzi a lui salta il terrore.
+23 (H41-15) Compatte sono in lui le parti flosce della carne, gli stanno salde addosso, non si muovono.
 24 (H41-16) Il suo cuore è duro come il sasso, duro come la macina di sotto.
 25 (H41-17) Quando si rizza, tremano i più forti, e dalla paura son fuori di sé.
+26 (H41-18) Invano lo si attacca con la spada; a nulla valgon lancia, giavellotto, corazza.
 27 (H41-19) Il ferro è per lui come paglia; il rame, come legno tarlato.
 28 (H41-20) La figlia dell’arco non lo mette in fuga; le pietre della fionda si mutano per lui in stoppia.
+29 (H41-21) Stoppia gli par la mazza e si ride del fremer della lancia.
 30 (H41-22) Il suo ventre è armato di punte acute, e lascia come tracce d’erpice sul fango.
 31 (H41-23) Fa bollire l’abisso come una caldaia, del mare fa come un gran vaso da profumi.
 32 (H41-24) Si lascia dietro una scia di luce; l’abisso par coperto di bianca chioma.

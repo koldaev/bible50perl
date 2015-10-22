@@ -1,6 +1,7 @@
 1 Da Moses var færdig med at rejese Boligen og havde salvet og helliget den med alt dens Tilbehør og ligeledes salvet og helliget Alteret med alt dets Tilbehør,
 2 trådte Israels Øverster, Overhovederne for deres Fædrenehuse, Stammernes Øverster, der havde forestået Mønstringen, frem
 3 og førte deres Offergave frem for HERRENs Åsyn, seks lukkede Vogne og tolv Stykker Hornkvæg, en Vogn for hver to Øverster og et Stykke Hornkvæg for hver een, og de bragte dem hen foran Boligen.
+4 Da sagde HERREN til Moses:
 5 Modtag dette af dem, for at det kan bruges til Arbejdet ved Åbenbaringsteltet, og giv Leviterne det med Henblik på hver enkeltes særlige Arbejde!
 6 Så modtog Moses Vognene og Hornkvæget og gav Leviterne dem.
 7 To Vogne og fire Stykker Hornkvæg gav han Gersoniterne med Henblik på deres særlige Arbejde,
@@ -12,16 +13,19 @@
 13 Og hans Offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,
 14 en Kande på 10 Guldsekel, fyldt med Røgelse,
 15 en ung Tyr, en Væder, et årgammelt Lam til Brændoffer,
+16 en Gedebuk til Syndoffer
 17 og til Takoffer to Stykker Hornkvæg, fem Vædre, fem Bukke og fem årgamle Lam. Det var Nahasjons, Amminadabs Søns, Offergave.
 18 Anden Dag bragte Netanel, Zuars Søn, Issakars Øverste, sin Offergave;
 19 han bragte som Offergave et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,
 20 en Kande på 10 Guldsekel, fyldt med Røgelse,
 21 en ung Tyr, en Væder, et årgammelt Lam til Brændoffer,
+22 en Gedebuk til Syndoffer
 23 og til Takoffer to Stykker Hornkvæg, fem Vædre, fem Bukke og fem årgamle Lam. Det var Neanels, Zuars Søns, Offergave.
 24 Tredje Dag kom Zebuloniternes Øverste, Eliab, Helons Søn;
 25 hans Offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,
 26 en Kande på 10 Guldsekel, fyldt med Røgelse,
 27 en ung Tyr, en Væder, et årgammelt Lam til Brændoffer,
+28 en Gedebuk til Syndoffer
 29 og til Takoffer to Stykker Hornkvæg, fem Vædre, fem Bukke og fem årgamle Lam. Det var Eliabs, Helons Søns, Offergave.
 30 Fjerde Dag kom Rubeniternes Øverste, Elizur, Sjedeurs Søn;
 31 hans Offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,
@@ -33,41 +37,49 @@
 37 hans Offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,
 38 en Kande på 10 Guldsekel, fyldt med Røgelse,
 39 en ung Tyr, en Væder, et årgammelt Lam til Brændoffer,
+40 en Gedebuk til Syndoffer
 41 og til Takoffer to Stykker Hornkvæg, fem Vædre, fem Bukke. og fem årgamle Lam. Det var Sjelumiels, Zurisjaddajs Søns,Offergave.
 42 Sjette Dag kom Gaditernes Øverste, Eljasaf, Deuels Søn;
 43 hans Offergaver et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,
 44 en Kande på lO Guldsekel, fyldt med Røgelse,
 45 en ung Tyr, en Væder, et årgammelt Lam til Brændoffer,
+46 en Gedebuk til Syndoffer
 47 og til Takoffer to Stykker Hornkvæg, fem Vædre, fem Bukke og fem årgamle Lam. Det var Eljasafs, Deuels Søns, Offergave.
 48 Syvende Dag kom Efraimiternes Øverste, Elisjama, Ammihuds Søn:
 49 hans offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,
 50 en Kande på lO Guldsekel, fyldt med Røgelse,
 51 en ung Tyr, en Væder, et årgammelt Lam til Brændoffer,
+52 en Gedebuk til Syndoffer
 53 og til Takoffer to Stykker Hornkvæg, fem Vædre, fem Bukke og fem årgamle Lam. Det var Elisjamas, Ammihuds Søns, Offergave.
 54 Ottende Dag kom Mannassiternes Øverste, Gamliel, Pedazurs Søn;
 55 hans Offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,
 56 en Kande på lO Guldsekel, fyldt med Røgelse,
 57 en ung Tyr, en Væder, et årgammelt Lam til Brændoffer,
+58 en Gedebuk til Syndoffer
 59 og til Takoffer to Stykker Hornkvæg, fem Vædre, fem Bukke og fem årgamle Lam. Det var Gamliels, Pedazurs Søns, Offergave.
 60 Niende dag kom Benjaminiternes Øverste, Abidan, Gidonis Søn;
 61 hans Offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,
 62 en Kande på IO Guldsekel, fyldt med Røgelse,
 63 en ung Tyr, en Væder, et årgammelt Lam til Brændoffer,
+64 en Gedebuk til Syndoffer
 65 og til Takoffer to Stykker Hornkvæg, fem, Vædre, fem Bukke og fem årgamle Lam. Det var Abidans, Gidonis Søns, Offergave.
 66 Tiende Dag kom Daniternes Øverste, Ahiezer, Ammisjaddajs Søn;
 67 hans Offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,
 68 en Kande på lO Guldsekel, fyldt med Røgelse,
 69 en ung Tyr, en Væder, et årgammelt Lam til Brændoffer,
+70 en Gedebuk til Syndoffer
 71 og til Takoffer to Stykker Hornkvæg, fem Vædre, fem Bukke og fem årgamle Lam. Det var Ahiezers, Ammisjaddajs Søns, Offergave.
 72 Elevte Dag kom Aseriternes Øverste, Pagiel, Okrans Søn;
 73 hans Offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,
 74 en Kande på 10 Guldsekel, fyldt med Røgelse,
 75 en ung Tyr, en Væder, et årgammelt Lam til Brændoffer,
+76 en Gedebuk til Syndoffer
 77 og til Takoffer to Stykker Hornkvæg, fem Vædre, fem Bukke og fem årgamle Lam. Det var Pagiels, Okrans Søns, Offergave.
 78 Tolvte Dag kom Naftaliternes Øverste, Ahira, Enans Søn;
 79 hans Offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,
 80 en kande på lO Guldsekel, fyldt med Røgelse,
 81 en ung Tyr, en Væder, et årgammelt Lam til Brændoffer,
+82 en Gedebuk til Syndoffer
 83 og til Takoffer to Stykker Hornkvæg, fem Vædre, fem Bukke og fem årgamle Lam. Det var Ahiras, Enans Søns, Offergave.
 84 Det var Gaverne fra Israelitternes Øverster til Alterets Indvielse, dengang det blev salvet: 12 Sølvfade, 12 Sølvskåle, 12 Guldkander,
 85 hvert Sølvfad på 130 Sekel og hver Sølvskål på 70 Sekel, alle Sølvkar tilsammen 2400 Sekel efter hellig Vægt;

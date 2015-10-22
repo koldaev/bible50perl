@@ -11,12 +11,14 @@
 11 Kun Saul ja koko Israel kuuli nämä filistealaisen puheet, valtasi heidät kauhu, ja he pelkäsivät suuresti.
 12 Mutta Daavid oli sen efratilaisen miehen poika Juudan Beetlehemistä, jonka nimi oli Iisai, ja tällä oli kahdeksan poikaa; hän oli Saulin aikana jo vanha, iäkäs mies.
 13 Ja Iisain kolme vanhinta poikaa oli seurannut Saulia sotaan; ja näiden hänen kolmen sotaan lähteneen poikansa nimet olivat: esikoisen Eliab, toisen Abinadab ja kolmannen Samma.
+14 Daavid oli nuorin. Ja nuo kolme vanhinta olivat seuranneet Saulia.
 15 Mutta Daavid lähti tuontuostakin Saulin luota Beetlehemiin kaitsemaan isänsä lampaita.
 16 Ja filistealainen astui esiin haastaen taisteluun joka aamu ja ilta, neljänäkymmenenä päivänä.
 17 Ja Iisai sanoi pojallensa Daavidille: Ota veljillesi eefa-mitta näitä paahdettuja jyviä ja nämä kymmenen leipää, ja vie ne kiiruusti leiriin veljillesi.
 18 Ja vie nämä kymmenen juustoa tuhannenpäämiehelle. Tiedustele veljiesi vointia ja hanki varmuus, että lähetys on heille saapunut.
 19 Saul ja he ynnä kaikki Israelin miehet ovat Tammilaaksossa sotimassa filistealaisia vastaan.
 20 Varhain seuraavana aamuna Daavid jätti lampaat vartijan haltuun, otti kantamuksensa ja lähti matkalle, niinkuin Iisai oli häntä käskenyt. Kun hän tuli leiriin, lähti sotaväki taistelurintaan ja nosti sotahuudon.
+21 Ja Israel ja filistealaiset asettuivat sotarintaan toisiansa vastaan.
 22 Niin Daavid heitti tavarat selästänsä kuormaston vartijalle ja riensi sotarintaan; ja sinne tultuaan hän tervehti veljiänsä.
 23 Kun hän puhutteli heitä, niin katso, kaksintaistelija, Goljat niminen filistealainen, kotoisin Gatista, tuli filistealaisten taisteluriveistä ja puhui niinkuin ennenkin; ja Daavid kuuli sen.
 24 Ja kun israelilaiset näkivät tuon miehen, pakenivat he häntä kaikki ja pelkäsivät suuresti.
@@ -51,5 +53,6 @@
 53 Sitten israelilaiset palasivat ajamasta filistealaisia takaa ja ryöstivät heidän leirinsä.
 54 Ja Daavid otti filistealaisen pään ja vei sen Jerusalemiin, mutta hänen aseensa hän asetti majaansa.
 55 Kun Saul näki Daavidin menevän filistealaista vastaan, kysyi hän sotapäälliköltään Abnerilta: Kenen poika tuo nuorukainen on, Abner? Abner vastasi: Niin totta kuin sinä, kuningas, elät, minä en sitä tiedä.
+56 Niin kuningas sanoi: Kysele sitten, kenen poika tuo nuori mies on.
 57 Ja kun Daavid palasi takaisin surmattuaan filistealaisen, otti Abner hänet ja vei hänet Saulin eteen, ja hänellä oli kädessään filistealaisen pää.
 58 Niin Saul kysyi häneltä: Kenen poika sinä olet, nuorukainen? Daavid vastasi: Palvelijasi beetlehemiläisen Iisain poika.

@@ -2,6 +2,7 @@
 2 Amarya, Malluk, Hattuş,
 3 Şekanya, Rehum, Meremot,
 4 İddo, Ginneton, Aviya,
+5 Miyamin, Maadya, Bilga,
 6 Şemaya, Yoyariv, Yedaya,
 7 Sallu, Amok, Hilkiya, Yedaya. Bunlar Yeşunun döneminde kâhinlere ve öbür kardeşlerine önderlik ediyorlardı.
 8 Levililer: Yeşu, Binnuy, Kadmiel, Şerevya, Yahuda ve şükran ezgileri sorumlusu Mattanya ile kardeşleri.
@@ -11,6 +12,7 @@
 12 Yoyakimin döneminde, kâhin ailelerinin başları şunlardı: Seraya ailesinin başında Meraya, Yeremyanın Hananya,
 13 Ezranın Meşullam, Amaryanın Yehohanan,
 14 Melikunun Yonatan, Şevanyanın Yusuf,
+15 Harimin Adna, Merayotun Helkay,
 16 İddonun Zekeriya, Ginnetonun Meşullam,
 17 Aviyanın Zikri, Minyaminin, Moadyanın Piltay,
 18 Bilganın Şammua, Şemayanın Yehonatan,

@@ -2,8 +2,10 @@
 2 Dan, Józef, i Benjamin, Neftali, Gad i Aser.
 3 Synowie Judy: Her, i Onan, i Sela. Ci trzej urodzili mu się z córki Sui Chananejskiej. Ale Her, pierworodny Judy, był złym przed oczyma Pańskiemi; przetoż go zabił.
 4 Tamar zasię, niewiastka jego, urodziła mu Faresa i Zarę. Wszystkich synów Judowych pięć.
+5 Synowie Faresowi: Hesron i Hamuel.
 6 Synowie zaś Zary: Zamry, i Etan, i Heman, i Chalkol, i Darda; wszystkich tych było pięć.
 7 Asynowie Zamrego: Charmi, wnuk Acharowy, który zamięszanie uczynił w Izraelu, zgrzeszywszy kradzieżą rzeczy przeklętych.
+8 Asynowie Etanowi: Azaryjasz.
 9 A synowie Esronowi, którzy mu się urodzili: Jerameel, i Ram, i Chalubaj.
 10 Ale Ram spłodził Aminadaba, a Aminadab spłodził Naasona, książęcia synów Judzkich.
 11 A Naason spłodził Salmona, a Salmon spłodził Booza.
@@ -11,6 +13,7 @@
 13 A Isaj spłodził pierworodnego swego Elijaba, i Abinadaba wtórego, i Samma trzeciego.
 14 Natanaela czwartego, Raddaja piątego.
 15 Ozema szóstego, Dawida siódmego.
+16 A siostry ich: Sareija, i Abigail; a synowie Sarwii: Abisaj, i Joab, i Asael, trzej.
 17 A Abigail urodziła Amazę, a ojciec Amazy był Jeter Ismaelczyk.
 18 A Kaleb, syn Hesronowy, spłodził z Azubą, małżonką swoją, i z Jeryjotą synów. A ci byli synowie jego: Jeser, i Sobab, i Ardon.
 19 A gdy umarła Azuba, pojął sobie Kaleb Esratę, która mu urodziła Hura.
@@ -21,6 +24,7 @@
 24 A gdy umarł Hesron w Kaleb Efrata, tedy żona Hesronowa Abija porodziła mu Assura, ojca Tekui.
 25 Byli też synowie Jerameelowi, pierworodnego Hesronowego: Pierworodny Ram, po nim Buana, i Oren, i Osem z Abii.
 26 Miał także drugą żonę Jerameel, imieniem Atara; ta jest matka Onamowa.
+27 Ale synowie Ramowi, pierworodnego Jerameelowego, byli: Maas, i Jamin, i Achar.
 28 Byli też synowie Onamowi: Semaj, i Jada, a synowie Semejego: Nadad i Abisur;
 29 A imię żony Abisurowej Abihail, która mu urodziła Achobbana i Molida.
 30 Synowie Nadabowi: Saled i Affaim; lecz Saled umarł bez potomstwa.
@@ -36,9 +40,11 @@
 40 A Elas spłodził Sysmaja, a Sysmaj spłodził Selluma.
 41 A Sellum spłodził Ikamijasza, a Ikamijasz spłodził Elisama.
 42 A synowie Kaleba, brata Jerameelowego: Mesa pierworodny jego, który był ojcem Zyfejczyków i synów Maresy, ojca Hebrowowego.
+43 A synowie Hebronowi: Kore i Tafua, i Rechem, i Semma.
 44 A Semma spłodził Rahama, syna Jerkaamowego, a Rechem spłodził Sammajego.
 45 A Sammaj był synem Maonowym, a Maon był ojcem Betsurczyków.
 46 Efa też, założnica Kalebowa, urodziła Harana, i Moze, i Giezeza; a Haran spłodził Giezeza.
+47 A synowie Jachdajowi: Regiem, i Jotam, i Giesan, i Falet, i Efa, i Saaf,
 48 Założnica zaś druga Kalebowa Maacha urodziła Sabera, i Tyrchana.
 49 A żona Saafowa urodziła ojca Madmeńczyków, i Sewa, ojca Machbeńczyków, i ojca Gabaończyków; a córka Kalebowa była Achsa.
 50 Cić byli synowie Kaleba, syna Hurowego, pierworodnego Efraty: Sobal, ojciec Karyjatyjarymczyków.
@@ -51,8 +57,10 @@
 2 Dan, Józef, i Benjamin, Neftali, Gad i Aser.
 3 Synowie Judy: Her, i Onan, i Sela. Ci trzej urodzili mu się z córki Sui Chananejskiej. Ale Her, pierworodny Judy, był złym przed oczyma Pańskiemi; przetoż go zabił.
 4 Tamar zasię, niewiastka jego, urodziła mu Faresa i Zarę. Wszystkich synów Judowych pięć.
+5 Synowie Faresowi: Hesron i Hamuel.
 6 Synowie zaś Zary: Zamry, i Etan, i Heman, i Chalkol, i Darda; wszystkich tych było pięć.
 7 Asynowie Zamrego: Charmi, wnuk Acharowy, który zamięszanie uczynił w Izraelu, zgrzeszywszy kradzieżą rzeczy przeklętych.
+8 Asynowie Etanowi: Azaryjasz.
 9 A synowie Esronowi, którzy mu się urodzili: Jerameel, i Ram, i Chalubaj.
 10 Ale Ram spłodził Aminadaba, a Aminadab spłodził Naasona, książęcia synów Judzkich.
 11 A Naason spłodził Salmona, a Salmon spłodził Booza.
@@ -60,6 +68,7 @@
 13 A Isaj spłodził pierworodnego swego Elijaba, i Abinadaba wtórego, i Samma trzeciego.
 14 Natanaela czwartego, Raddaja piątego.
 15 Ozema szóstego, Dawida siódmego.
+16 A siostry ich: Sareija, i Abigail; a synowie Sarwii: Abisaj, i Joab, i Asael, trzej.
 17 A Abigail urodziła Amazę, a ojciec Amazy był Jeter Ismaelczyk.
 18 A Kaleb, syn Hesronowy, spłodził z Azubą, małżonką swoją, i z Jeryjotą synów. A ci byli synowie jego: Jeser, i Sobab, i Ardon.
 19 A gdy umarła Azuba, pojął sobie Kaleb Esratę, która mu urodziła Hura.
@@ -70,6 +79,7 @@
 24 A gdy umarł Hesron w Kaleb Efrata, tedy żona Hesronowa Abija porodziła mu Assura, ojca Tekui.
 25 Byli też synowie Jerameelowi, pierworodnego Hesronowego: Pierworodny Ram, po nim Buana, i Oren, i Osem z Abii.
 26 Miał także drugą żonę Jerameel, imieniem Atara; ta jest matka Onamowa.
+27 Ale synowie Ramowi, pierworodnego Jerameelowego, byli: Maas, i Jamin, i Achar.
 28 Byli też synowie Onamowi: Semaj, i Jada, a synowie Semejego: Nadad i Abisur;
 29 A imię żony Abisurowej Abihail, która mu urodziła Achobbana i Molida.
 30 Synowie Nadabowi: Saled i Affaim; lecz Saled umarł bez potomstwa.
@@ -85,9 +95,11 @@
 40 A Elas spłodził Sysmaja, a Sysmaj spłodził Selluma.
 41 A Sellum spłodził Ikamijasza, a Ikamijasz spłodził Elisama.
 42 A synowie Kaleba, brata Jerameelowego: Mesa pierworodny jego, który był ojcem Zyfejczyków i synów Maresy, ojca Hebrowowego.
+43 A synowie Hebronowi: Kore i Tafua, i Rechem, i Semma.
 44 A Semma spłodził Rahama, syna Jerkaamowego, a Rechem spłodził Sammajego.
 45 A Sammaj był synem Maonowym, a Maon był ojcem Betsurczyków.
 46 Efa też, założnica Kalebowa, urodziła Harana, i Moze, i Giezeza; a Haran spłodził Giezeza.
+47 A synowie Jachdajowi: Regiem, i Jotam, i Giesan, i Falet, i Efa, i Saaf,
 48 Założnica zaś druga Kalebowa Maacha urodziła Sabera, i Tyrchana.
 49 A żona Saafowa urodziła ojca Madmeńczyków, i Sewa, ojca Machbeńczyków, i ojca Gabaończyków; a córka Kalebowa była Achsa.
 50 Cić byli synowie Kaleba, syna Hurowego, pierworodnego Efraty: Sobal, ojciec Karyjatyjarymczyków.

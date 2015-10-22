@@ -1,3 +1,4 @@
+1 Aronovi su sinovi imali svoje redove. Sinovi Aronovi bili  su: Nadab, Abihu, Eleazar i Itamar. 
 2 Ali su Nadab i Abihu umrli  prije oca i nisu imali djece; zato su svećeničku službu vršili  Eleazar i Itamar. 
 3 David je razdijelio na redove njih i Sadoka, od Eleazarovih sinova, i Ahimeleka, od Itamarovih sinova, po  njihovu redu u njihovoj službi. 
 4 Ali se u Eleazarovih sinova  našlo više muških poglavara nego u Itamarovih sinova, pa kad  ih podijeliše, od Eleazarovih je sinova bilo šesnaest porodičnih  poglavara, a od Itamarovih sinova samo osam porodičnih poglavara. 
@@ -6,10 +7,14 @@
 7 Prvi je ždrijeb pao na Jojariba, drugi na Jedaju, 
 8 treći  na Harima, četvrti na Seorima, 
 9 peti na Malkiju, šesti na Mijamina,
+10 sedmi na Hakosa, osmi na Abiju, 
 11 deveti na Ješuu, deseti  na Šekaniju, 
 12 jedanaesti na Elijašiba, dvanaesti na Jakima,
 13 trinaesti na Hupu, četrnaesti na Ješebaba, 
 14 petnaesti  na Bilgu, šesnaesti na Imera, 
+15 sedamnaesti na Hezira, osamnaesti  na Hapisesa, 
+16 devetnaesti na Petahju, dvadeseti na Ezekiela,
+17 dvadeset i prvi na Jakina, dvadeset i drugi na Gamula, 
 18 dvadeset  i treći na Delaju, dvadeset i četvrti na Maazju.
 19 To je njihov red u službi kojim treba da idu u Jahvin  Dom, po svom pravilu, primljenu od oca im Arona, kako mu je zapovjedio  Jahve, Bog Izraelov.
 20 Od ostalih Levijevih sinova bio je od Amramovih sinova  Šubael; od Šubaelovih sinova Jehdeja; 
@@ -20,6 +25,7 @@
 25 Mikin brat Jišija; od Jišijinih sinova Zaharija; 
 26 Merarijevi  sinovi: Mahli i Muši; sinovi Jaazije, njegova sina. 
 27 Merarijevi  sinovi po Jaaziji, njegovu sinu: Šoham, Zakur i Ibri; 
+28 po  Mahliju Eleazar, koji nije imao djece; 
 29 po Kišu, Kišovi sinovi, Jerahmeel. 
 30 Mušijevi sinovi: Mahli, Eder i Jerimot. To su bili levitski sinovi po svojim porodicama. 
 31 I oni  su bacali ždrebove kao njihovi rođaci, Aronovi sinovi, pred kraljem  Davidom, Sadokom, Ahimelekom i porodičnim poglavarima među svećenicima  i levitima, i to jednako glavar obitelji kao i njegov najmlađi  brat. 

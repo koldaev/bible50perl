@@ -4,17 +4,20 @@
 4 Veena oled sa vooganud - esikohale sa ei jää, sest sa tõusid oma isa sängi! Sel korral sa rüvetasid selle, sina, kes tõusid mu voodile. 
 5 Vennaksed Siimeon ja Leevi, nende noad on vägivalla riistad. 
 6 Nende nõusse ei astu mu hing, nende seltsiga ei liitu mu süda. Sest oma vihas nad tapsid mehi ja meelevallatuses halvasid härgi. 
+7 Olgu neetud nende kange viha ja nende metsik raev! Ma jaotan nad Jaakobis ja hajutan Iisraelis! 
 8 Juuda, sind ülistavad su vennad. Sinu käsi on su vaenlaste turjal, sind kummardavad su isa pojad. 
 9 Juuda on lõvikutsikas - saagi kallalt, mu poeg, oled tõusnud. Ta on heitnud maha, ta lebab nagu lõvi, nagu metsik lõvi - kes julgeks teda äratada? 
 10 Ei lahku valitsuskepp Juudast ega sau tema jalgelt, kuni tuleb Juuda poeg Siilo, ja teda võtavad rahvad kuulda. 
 11 Ta seob oma eesli viinapuu külge, hea viinapuu külge oma eeslivarsa; ta peseb oma kuube veiniga ja oma vammust viinamarjade verega. 
 12 Ta silmad on veinist hämused ja hambad piimast valged. 
 13 Sebulon elab mererannal, ta saab laevade rannikuks ja tema selg on pööratud Siidoni poole. 
+14 Issaskar on kondine eesel, kes lebab sadulakorvide vahel. 
 15 Kui ta nägi head hingamispaika ja meeldivat maad, ta langetas oma turja koormat kandma ja sai tööorjaks. 
 16 Daan mõistab kohut oma rahvale, üks Iisraeli suguharu on temagi. 
 17 Daan on madu teel, rästik raja peal, kes salvab hobuse kandu, nõnda et ratsanik kukub selili. 
 18 Ma ootan päästet sinult, Issand! 
 19 Gaad - röövjõugud ründavad teda, aga ta ise ründab neid, olles neil kannul. 
+20 Aaserilt tuleb rammus roog ja temal on anda kuninglikke maiuspalu. 
 21 Naftali on nobe emahirv, kes toob kuuldavale ilusaid sõnu. 
 22 Joosep on viljapuu poeg, viljapuu poeg allikal, oksad ulatuvad üle müüri. 
 23 Ammukütid ahistavad teda, ründavad ja rõhuvad teda, 
@@ -25,5 +28,6 @@
 28 Need kõik olid Iisraeli suguharud, neid oli kaksteist, ja see oli, mis nende isa neile rääkis, kui ta neid õnnistas: ta õnnistas igaüht temale kohase õnnistusega. 
 29 Ja ta käskis neid ning ütles neile: 'Mind koristatakse mu rahva juurde. Matke mind mu isade juurde koopasse, mis on hett Efroni väljal, 
 30 sellesse koopasse, mis on Makpela väljal Mamre kohal Kaananimaal, mille Aabraham ostis koos väljaga hett Efronilt pärushauaks. 
+31 Sinna on maetud Aabraham ja tema naine Saara, sinna on maetud Iisak ja tema naine Rebeka, ja sinna ma olen matnud Lea. 
 32 Väli ja seal olev koobas on hettidelt ostetud.' 
 33 Kui Jaakob oli oma poegadele käsu andnud, siis ta sirutas voodis oma jalad välja ja heitis hinge; ja ta koristati oma rahva juurde.

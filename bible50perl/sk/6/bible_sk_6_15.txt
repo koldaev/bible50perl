@@ -19,21 +19,43 @@
 19 Odpovedala: „Daj mi veno! Dal si mi síce pole v Negebe, ale daj mi aj vodné pramene!“ Dal jej teda horné pramene i dolné pramene.
 20 To je dedičný podiel kmeňa Júdových synov podľa ich rodov.
 21 Mestá v Negebe, na pohraničí kmeňa Júdovcov až po edomskú hranicu, boli: Kabseel, Eder, Jagur,
+22 Kina, Dimona, Adada,
 23 Kádeš, Asor, Jetnam,
+24 Zif, Telem, Balot,
 25 Nový Asor, Karjot-Hesron, to je Asor,
+26 Amam, Sama, Molada,
+27 Aser-gada, Hasemon, Bet-felet,
+28 Hasersual, Bersabe, Baziotia,
 29 Bála, Jim, Esem,
+30 Eltolad, Kesil, Harma,
+31 Sikeleg, Medemena, Sensena,
 32 Lebaot, Selim, Aen-Remon. Spolu dvadsaťdeväť miest s ich dedinami.
 33 Na nížine: Estaol, Sarea, Asena,
+34 Zanoe, Enganim, Tafua, Enaim,
+35 Jerimot, Odolam, Socho, Azeka,
 36 Saraim, Aditaim, Gedera, Gederotaim: štrnásť miest s ich dedinami.
+37 Sanan, Hadasa, Magdal-gad,
+38 Delean, Masefa, Jektel,
 39 Lachiš, Baskat, Eglon,
+40 Chebon, Leheman, Ketlis,
 41 Giderot, Bet-Dagon, Náma a Makeda: šestnásť miest s ich dedinami.
+42 Labana, Eter, Asan,
+43 Jefta, Esna, Nesib,
 44 Keila, Achzib, Maresa: deväť miest s ich dedinami.
+45 Akaron so svojimi dedinami a osadami.
 46 Od Akarona až po more všetko, čo je na okolí (Azota a jeho dedín):
 47 Azot s jeho dedinami a osadami, Gaza s jej dedinami a osadami až po Egyptský potok. Veľké more je teda hranica.
+48 Na vrchovine: Samir, Jeter, Sokot,
+49 Dana, Karjat-sena, to je Dabir,
+50 Anab, Istemo, Anim,
 51 Gosen, Olon a Gilo: jedenásť miest s ich dedinami.
 52 Arab, Ruma, Esán,
+53 Janum, Bet-Tafua, Afeka,
 54 Atmata, Karjat-Arbe, to je Hebron, a Sior: deväť miest s ich dedinami.
+55 Maon, Karmel, Zif, Jota,
+56 Jezrael, Jukadam, Zanoe,
 57 Akain, Gabaa a Tamma: desať miest s ich dedinami.
+58 Halhul, Besur, Gedor,
 59 Maret, Bet-Anot, Eltekon: šesť miest s ich dedinami.
 60 Karjat-bál, to je Karjatiarim, a Areba: dve mestá s ich dedinami.
 61 Na púšti: Bet-Araba, Medin, Sachacha,

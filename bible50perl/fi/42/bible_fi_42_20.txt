@@ -27,7 +27,9 @@
 27 Niin astui esiin muutamia saddukeuksia, jotka väittävät, ettei ylösnousemusta ole, ja he kysyivät häneltä
 28 sanoen: Opettaja, Mooses on säätänyt meille: 'Jos joltakin kuolee veli, jolla on vaimo, mutta ei ole lapsia, niin ottakoon hän veljensä vaimon ja herättäköön siemenen veljelleen'.
 29 Nyt oli seitsemän veljestä. Ensimmäinen otti vaimon ja kuoli lapsetonna.
+30 Niin toinen otti sen vaimon,
 31 ja sitten kolmas, ja samoin kaikki seitsemän; ja he kuolivat jättämättä lapsia.
+32 Viimeiseksi vaimokin kuoli.
 33 Kenelle heistä siis tämä vaimo ylösnousemuksessa joutuu vaimoksi? Sillä kaikkien seitsemän vaimona hän oli ollut.
 34 Niin Jeesus sanoi heille: Tämän maailmanajan lapset naivat ja menevät miehelle.
 35 Mutta ne, jotka on arvollisiksi nähty pääsemään toiseen maailmaan ja ylösnousemukseen kuolleista, eivät nai eivätkä mene miehelle.
@@ -37,6 +39,7 @@
 39 Niin muutamat kirjanoppineista vastasivat ja sanoivat: Opettaja, oikein sinä sanoit.
 40 Ja he eivät enää rohjenneet kysyä häneltä mitään.
 41 Niin hän sanoi heille: Kuinka he voivat sanoa, että Kristus on Daavidin poika?
+42 Sanoohan Daavid itse psalmien kirjassa: 'Herra sanoi minun Herralleni: Istu minun oikealle puolelleni,
 43 kunnes minä panen sinun vihollisesi sinun jalkojesi astinlaudaksi.'
 44 Daavid siis kutsuu häntä Herraksi; kuinka hän sitten on hänen poikansa?
 45 Ja kaiken kansan kuullen hän sanoi opetuslapsillensa:

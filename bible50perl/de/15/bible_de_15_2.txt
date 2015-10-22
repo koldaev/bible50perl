@@ -22,6 +22,8 @@
 22 die Männer Netophas: 56;
 23 die Männer Anatots: 128;
 24 die Söhne Asmavets: 42;
+25 die Leute von Kirjat-Arim, Kirjat -Kephira und Kirjat -Beerot: 743;
+26 die Leute von Rama und Geba: 621;
 27 die Männer von Michmas: 122;
 28 die Männer von Bethel und Ai: 223;
 29 die Söhne Nebos: 52;
@@ -29,6 +31,7 @@
 31 die Söhne Elams, des zweiten: 1254;
 32 die Söhne Harims: 320;
 33 die Söhne Lods, Hadids und Onos: 725;
+34 die Leute von Jericho: 345;
 35 die Söhne Senaas: 3630.
 36 Die Priester: Die Söhne Jedajas, vom Hause Jesuas: 973;
 37 die Söhne Immers: 1052;
@@ -56,9 +59,12 @@
 59 Und folgende zogen auch mit herauf aus Tel-Melach und Tel-Harsa, Kerub, Addan und Immer, konnten aber das Vaterhaus und ihre Abstammung nicht nachweisen, ob sie aus Israel wären:
 60 Die Söhne Delajas, die Söhne Tobias, die Söhne Nekodas: 652.
 61 Und von den Söhnen der Priester: Die Söhne Habajas, die Söhne Hakkoz, die Söhne Barsillais, der von den Töchtern Barsillais, des Gileaditers, ein Weib genommen und nach dessen Namen genannt worden war.
+62 Diese suchten ihre Geschlechtsregister und fanden keine; darum wurden sie als unrein vom Priestertum ausgeschlossen.
 63 Und der Landpfleger sagte ihnen, sie sollten nicht vom Allerheiligsten essen, bis ein Priester mit dem Licht und Recht aufstünde.
 64 Die ganze Gemeinde zählte insgesamt 42360 Seelen,
 65 ausgenommen ihre Knechte und ihre Mägde; derer waren 7337; und dazu 200 Sänger und Sängerinnen.
+66 Sie hatten 736 Pferde und 245 Maultiere,
+67 an Kamelen 435, und 6720 Esel.
 68 Und von etlichen Familienhäuptern wurden, als sie zum Hause des HERRN nach Jerusalem kamen, freiwillige Gaben für das Haus Gottes zu seinem Wiederaufbau geschenkt;
 69 und zwar gaben sie nach ihrem Vermögen an den Bauschatz 61000 Dareiken und 5000 Silberminen und 100 Priesterröcke.
 70 Also ließen sich die Priester und die Leviten und die von dem Volk und die Sänger und die Torhüter und die Tempeldiener in ihren Städten nieder und ganz Israel in seinen Städten.

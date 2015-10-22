@@ -1,3 +1,4 @@
+1 Ja Herra puhui Moosekselle ja Aaronille sanoen heille:
 2 Puhukaa israelilaisille ja sanokaa: Nämä ovat ne eläimet, joita te saatte syödä kaikista nelijalkaisista eläimistä maan päällä:
 3 Kaikkia nelijalkaisia eläimiä, joilla on kokonansa halkinaiset sorkat ja jotka märehtivät, te saatte syödä.
 4 Näitä älkää kuitenkaan syökö niistä, jotka märehtivät, ja niistä, joilla on sorkat: kamelia, joka kyllä märehtii, mutta jolla ei ole sorkkia: se olkoon teille saastainen;
@@ -10,6 +11,8 @@
 11 Niitä inhotkaa; niiden lihaa älkää syökö, ja niiden raadot inhottakoot teitä.
 12 Kaikkia niitä vesieläimiä, joilla ei ole eviä eikä suomuksia, inhotkaa.
 13 Linnuista taas inhotkaa näitä; älköön niitä syötäkö, vaan olkoot inhottavia: kotka, partakorppikotka ja harmaa korppikotka,
+14 haarahaukka ja suohaukkalajit,
+15 kaikki kaarnelajit,
 16 kamelikurki, pääskynen, kalalokki ja jalohaukkalajit,
 17 huuhkaja, kalasääksi ja kissapöllö,
 18 sarvipöllö, pelikaani ja likakorppikotka,

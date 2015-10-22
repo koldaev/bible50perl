@@ -6,9 +6,16 @@
 6 $VAU Kazuju strahovitu silu djela tvojih, veličinu tvoju pripovijedaju.
 7 $ZAJIN Razglašuju spomen velike dobrote tvoje i pravednosti tvojoj kliču.
 8 $HET Milostiv je Jahve i milosrdan, spor na srdžbu, bogat dobrotom.
+9 $TET Gospodin je dobar svima, milosrdan svim djelima svojim.
+10 $JOD Nek' te slave, Jahve, sva djela tvoja i tvoji sveti nek' te blagoslivlju!
+11 $KAF Neka kazuju slavu tvoga kraljevstva, neka o sili tvojoj govore
+12 $LAMED da objave ljudskoj djeci silu tvoju i slavu divnoga kraljevstva tvoga.
 13 $MEM Kraljevstvo tvoje kraljevstvo je vječno, tvoja vladavina za sva pokoljenja. $NUN Vjeran je Jahve u svim riječima svojim i svet u svim svojim djelima.
 14 $SAMEK Jahve podupire sve koji posrću i pognute on uspravlja.
 15 $AJIN Oči sviju u tebe su uprte, ti im hranu daješ u pravo vrijeme.
 16 $PE Ti otvaraš ruku svoju, do mile volje sitiš sve živo.
+17 $SADE Pravedan si, Jahve, na svim putovima svojim i svet u svim svojim djelima.
+18 $KOF Blizu je Jahve svima koji ga prizivlju, svima koji ga zazivaju iskreno.
 19 $REŠ On ispunja želje štovatelja svojih, sluša njihove vapaje i spasava ih.
 20 $ŠIN Jahve štiti one koji njega ljube, a zlotvore sve će zatrti.
+21 $TAU Nek' usta moja kazuju hvalu Jahvinu i svako tijelo nek' slavi sveto ime njegovo - uvijek i dovijeka.

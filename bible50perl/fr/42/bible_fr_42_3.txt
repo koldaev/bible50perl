@@ -3,9 +3,11 @@
 3 Et il alla dans tout le pays des environs du Jourdain, prêchant le baptême de repentance, pour la rémission des péchés, 
 4 selon ce qui est écrit dans le livre des paroles d'Ésaïe, le prophète: C'est la voix de celui qui crie dans le désert: Préparez le chemin du Seigneur, Aplanissez ses sentiers. 
 5 Toute vallée sera comblée, Toute montagne et toute colline seront abaissées; Ce qui est tortueux sera redressé, Et les chemins raboteux seront aplanis. 
+6 Et toute chair verra le salut de Dieu. 
 7 Il disait donc à ceux qui venaient en foule pour être baptisés par lui: Races de vipères, qui vous a appris à fuir la colère à venir? 
 8 Produisez donc des fruits dignes de la repentance, et ne vous mettez pas à dire en vous-mêmes: Nous avons Abraham pour père! Car je vous déclare que de ces pierres Dieu peut susciter des enfants à Abraham. 
 9 Déjà même la cognée est mise à la racine des arbres: tout arbre donc qui ne produit pas de bons fruits sera coupé et jeté au feu. 
+10 La foule l'interrogeait, disant: Que devons-nous donc faire? 
 11 Il leur répondit: Que celui qui a deux tuniques partage avec celui qui n'en a point, et que celui qui a de quoi manger agisse de même. 
 12 Il vint aussi des publicains pour être baptisés, et ils lui dirent: Maître, que devons-nous faire? 
 13 Il leur répondit: N'exigez rien au delà de ce qui vous a été ordonné. 
@@ -23,11 +25,13 @@
 25 fils de Mattathias, fils d'Amos, fils de Nahum, fils d'Esli, fils de Naggaï, 
 26 fils de Maath, fils de Mattathias, fils de Sémeï, fils de Josech, fils de Joda, 
 27 fils de Joanan, fils de Rhésa, fils de Zorobabel, fils de Salathiel, fils de Néri, 
+28 fils de Melchi, fils d'Addi, fils de Kosam, fils d'Elmadam, fils D'Er, 
 29 fils de Jésus, fils d'Éliézer, fils de Jorim, fils de Matthat, fils de Lévi, 
 30 fils de Siméon, fils de Juda, fils de Joseph, fils de Jonam, fils d'Éliakim, 
 31 fils de Méléa, fils de Menna, fils de Mattatha, fils de Nathan, fils de David, 
 32 fils d'Isaï, fils de Jobed, fils de Booz, fils de Salmon, fils de Naasson, 
 33 fils d'Aminadab, fils d'Admin, fils d'Arni, fils d'Esrom, fils de Pharès, fils de Juda, 
+34 fils de Jacob, fils d'Isaac, fils d'Abraham, fils de Thara, fils de Nachor, 
 35 fils de Seruch, fils de Ragau, fils de Phalek, fils d'Éber, fils de Sala, 
 36 fils de Kaïnam, fils d'Arphaxad, fils de Sem, fils de Noé, fils de Lamech, 
 37 fils de Mathusala, fils d'Énoch, fils de Jared, fils de Maléléel, fils de Kaïnan, 

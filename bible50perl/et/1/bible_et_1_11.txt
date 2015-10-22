@@ -2,6 +2,7 @@
 2 Ja sündis, kui nad hommiku poolt teele läksid, et nad Sinearimaal leidsid oru ja jäid sinna elama. 
 3 Nad ütlesid üksteisele: 'Tehkem nüüd telliskive ja põletagem neid hästi.' Siis olid telliskivid neile ehituskivideks ja maapigi oli sideaineks. 
 4 Ja nad ütlesid: 'Tulge, ehitagem enestele linn ja torn, mille tipp oleks taevas, ja tehkem enestele nimi, et me ei hajuks üle kogu maailma!' 
+5 Aga Issand tuli alla vaatama linna ja torni, mida inimlapsed ehitasid. 
 6 Ja Issand ütles: 'Vaata, rahvas on üks ja neil kõigil on üks keel, ja see on alles nende tegude algus. Nüüd ei ole neil võimatu ükski asi, mida nad kavatsevad teha! 
 7 Mingem nüüd alla ja segagem seal nende keel, et nad üksteise keelt ei mõistaks!' 
 8 Ja Issand pillutas nad sealt üle kogu maailma ja nad jätsid linna ehitamata. 
@@ -26,5 +27,6 @@
 27 Ja need olid Terahi järeltulijad: Terahile sündisid Aabram, Naahor ja Haaran; ja Haaranile sündis Lott. 
 28 Aga Haaran suri enne kui ta isa Terah oma sünnimaal Kaldea Uuris. 
 29 Ja Aabram ja Naahor võtsid enestele naised; Aabrami naise nimi oli Saarai ja Naahori naise nimi oli Milka, Haarani tütar; Haaran oli Milka ja Jiska isa. 
+30 Aga Saarai oli viljatu, temal ei olnud last. 
 31 Ja Terah võttis oma poja Aabrami ja Haarani poja Loti, oma pojapoja, ja Saarai, oma minia, oma poja Aabrami naise, ja lahkus koos nendega Kaldea Uurist, et minna Kaananimaale; ja nad jõudsid Haaranini ning jäid sinna elama. 
 32 Ja Terahi elupäevi oli kakssada viis aastat, ja Terah suri Haaranis.

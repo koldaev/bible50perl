@@ -1,3 +1,4 @@
+1 Le Seigneur sut que les pharisiens avaient appris qu'il faisait et baptisait plus de disciples que Jean. 
 2 Toutefois Jésus ne baptisait pas lui-même, mais c'étaient ses disciples. 
 3 Alors il quitta la Judée, et retourna en Galilée. 
 4 Comme il fallait qu'il passât par la Samarie, 
@@ -11,16 +12,23 @@
 12 Es-tu plus grand que notre père Jacob, qui nous a donné ce puits, et qui en a bu lui-même, ainsi que ses fils et ses troupeaux? 
 13 Jésus lui répondit: Quiconque boit de cette eau aura encore soif; 
 14 mais celui qui boira de l'eau que je lui donnerai n'aura jamais soif, et l'eau que je lui donnerai deviendra en lui une source d'eau qui jaillira jusque dans la vie éternelle. 
+15 La femme lui dit: Seigneur, donne-moi cette eau, afin que je n'aie plus soif, et que je ne vienne plus puiser ici. 
 16 Va, lui dit Jésus, appelle ton mari, et viens ici. 
 17 La femme répondit: Je n'ai point de mari. Jésus lui dit: Tu as eu raison de dire: Je n'ai point de mari. 
+18 Car tu as eu cinq maris, et celui que tu as maintenant n'est pas ton mari. En cela tu as dit vrai. 
 19 Seigneur, lui dit la femme, je vois que tu es prophète. 
 20 Nos pères ont adoré sur cette montagne; et vous dites, vous, que le lieu où il faut adorer est à Jérusalem. 
 21 Femme, lui dit Jésus, crois-moi, l'heure vient où ce ne sera ni sur cette montagne ni à Jérusalem que vous adorerez le Père. 
+22 Vous adorez ce que vous ne connaissez pas; nous, nous adorons ce que nous connaissons, car le salut vient des Juifs. 
 23 Mais l'heure vient, et elle est déjà venue, où les vrais adorateurs adoreront le Père en esprit et en vérité; car ce sont là les adorateurs que le Père demande. 
 24 Dieu est Esprit, et il faut que ceux qui l'adorent l'adorent en esprit et en vérité. 
+25 La femme lui dit: Je sais que le Messie doit venir (celui qu'on appelle Christ); quand il sera venu, il nous annoncera toutes choses. 
 26 Jésus lui dit: Je le suis, moi qui te parle. 
 27 Là-dessus arrivèrent ses disciples, qui furent étonnés de ce qu'il parlait avec une femme. Toutefois aucun ne dit: Que demandes-tu? ou: De quoi parles-tu avec elle? 
 28 Alors la femme, ayant laissé sa cruche, s'en alla dans la ville, et dit aux gens: 
+29 Venez voir un homme qui m'a dit tout ce que j'ai fait; ne serait-ce point le Christ? 
+30 Ils sortirent de la ville, et ils vinrent vers lui. 
+31 Pendant ce temps, les disciples le pressaient de manger, disant: Rabbi, mange. 
 32 Mais il leur dit: J'ai à manger une nourriture que vous ne connaissez pas. 
 33 Les disciples se disaient donc les uns aux autres: Quelqu'un lui aurait-il apporté à manger? 
 34 Jésus leur dit: Ma nourriture est de faire la volonté de celui qui m'a envoyé, et d'accomplir son oeuvre. 
@@ -38,6 +46,7 @@
 46 Il retourna donc à Cana en Galilée, où il avait changé l'eau en vin. Il y avait à Capernaüm un officier du roi, dont le fils était malade. 
 47 Ayant appris que Jésus était venu de Judée en Galilée, il alla vers lui, et le pria de descendre et de guérir son fils, qui était près de mourir. 
 48 Jésus lui dit: Si vous ne voyez des miracles et des prodiges, vous ne croyez point. 
+49 L'officier du roi lui dit: Seigneur, descends avant que mon enfant meure. 
 50 Va, lui dit Jésus, ton fils vit. Et cet homme crut à la parole que Jésus lui avait dite, et il s'en alla. 
 51 Comme déjà il descendait, ses serviteurs venant à sa rencontre, lui apportèrent cette nouvelle: Ton enfant vit. 
 52 Il leur demanda à quelle heure il s'était trouvé mieux; et ils lui dirent: Hier, à la septième heure, la fièvre l'a quitté. 

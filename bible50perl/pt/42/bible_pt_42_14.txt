@@ -3,12 +3,14 @@
 3 E Jesus, tomando a palavra, falou aos doutores da lei e aos fariseus, e perguntou: É lícito curar no sábado, ou não?
 4 Eles, porém, ficaram calados. E Jesus, pegando no homem, o curou, e o despediu.
 5 Então lhes perguntou: Qual de vós, se lhe cair num poço um filho, ou um boi, não o tirará logo, mesmo em dia de sábado?
+6 A isto nada puderam responder.
 7 Ao notar como os convidados escolhiam os primeiros lugares, propôs-lhes esta parábola:
 8 Quando por alguém fores convidado às bodas, não te reclines no primeiro lugar; não aconteça que esteja convidado outro mais digno do que tu;
 9 e vindo o que te convidou a ti e a ele, te diga: Dá o lugar a este; e então, com vergonha, tenhas de tomar o último lugar.
 10 Mas, quando fores convidado, vai e reclina-te no último lugar, para que, quando vier o que te convidou, te diga: Amigo, sobe mais para cima. Então terás honra diante de todos os que estiverem contigo à mesa.
 11 Porque todo o que a si mesmo se exaltar será humilhado, e aquele que a si mesmo se humilhar será exaltado.
 12 Disse também ao que o havia convidado: Quando deres um jantar, ou uma ceia, não convides teus amigos, nem teus irmãos, nem teus parentes, nem os vizinhos ricos, para que não suceda que também eles te tornem a convidar, e te seja isso retribuído.
+13 Mas quando deres um banquete, convida os pobres, os aleijados, os mancos e os cegos;
 14 e serás bem-aventurado; porque eles não têm com que te retribuir; pois retribuído te será na ressurreição dos justos.
 15 Ao ouvir isso um dos que estavam com ele à mesa, disse-lhe: Bem-aventurado aquele que comer pão no reino de Deus.
 16 Jesus, porém, lhe disse: Certo homem dava uma grande ceia, e convidou a muitos.
@@ -18,6 +20,7 @@
 20 Ainda outro disse: Casei-me e portanto não posso ir.
 21 Voltou o servo e contou tudo isto a seu senhor: Então o dono da casa, indignado, disse a seu servo: Sai depressa para as ruas e becos da cidade e traze aqui os pobres, os aleijados, os cegos e os coxos.
 22 Depois disse o servo: Senhor, feito está como o ordenaste, e ainda há lugar.
+23 Respondeu o senhor ao servo: Sai pelos caminhos e valados, e obriga-os a entrar, para que a minha casa se encha.
 24 Pois eu vos digo que nenhum daqueles homens que foram convidados provará a minha ceia.
 25 Ora, iam com ele grandes multidões; e, voltando-se, disse-lhes:
 26 Se alguém vier a mim, e não aborrecer a pai e mãe, a mulher e filhos, a irmãos e irmãs, e ainda também à própria vida, não pode ser meu discípulo.

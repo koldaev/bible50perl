@@ -19,13 +19,19 @@
 19 Un viņa atbildēja: Dod man savu svētības dāvanu, jo tu man esi devis dienvidu zemi, un tad dod man arī ūdens avotus. Un tad tas viņai atvēlēja gan augšējos, gan apakšējos ūdens avotus. 
 20 Un šis ir Jūdas bērnu cilts īpašums pēc viņu dzimtām. 
 21 Tā Jūdam krita šādas pilsētas, sākot no cilts novada gala pret dienvidiem pie Edomas robežām: Kabceēla, Edera un Jagura, 
+22 Kina, Dimona un Adada, 
 23 Kedeša, Hacora un Itnana, 
+24 Zifa, Telema un Bealota, 
 25 Hacora-Hadata, Keriot-Hecrona - tā ir Hacora, 
 26 Āmama, Šema un Molada, 
 27 Hacara-Gada, Hešmona un Bet-Peleta, 
 28 Hacara-Šuala, Bēršeba un Bisjotja, 
+29 Baala, Ijima un Ezema, 
+30 Eltolada, Kesila un Horma, 
+31 Ciklaga, Madmana un Sansana, 
 32 Lebaota, Šilhima, Ajina un Rimona - pavisam divdesmit deviņas pilsētas ar to ciemiem. 
 33 Līdzenumā: Ēštaola, Cora un Ašna, 
+34 Sanoa, Ajin-Ganima, Tapua un Enama, 
 35 Jarmuta, Adullāma, Šoho un Aseka, 
 36 Šaaraima, Aditaima, Gedera un Gederotaima - četrpadsmit pilsētas ar to ciemiem; 
 37 Cenana, Hadaša un Migdal-Gada, 
@@ -44,7 +50,9 @@
 50 Anāba, Eštemoa un Anīma, 
 51 Gošene, Holona un Gilo - vienpadsmit pilsētas ar to ciemiem; 
 52 Araba, Dūma un Ešgana, 
+53 Januma, Bet-Tapua un Afeka, 
 54 Humta un Kirjat-Arba, tā ir Hebrona, un Ciora - deviņas pilsētas ar to ciemiem; 
+55 Maona, Karmela, Zifa un Juta, 
 56 Jezreēla, Jokdeāma un Sanoa, 
 57 Kaina, Gibea un Timna - desmit pilsētas ar to ciemiem; 
 58 Halhula, Bet-Cūra un Gedora, 

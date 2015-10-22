@@ -11,6 +11,7 @@
 11 Nemad läksid aga raevu ja arutasid omavahel, mida nad küll saaksid teha Jeesusele.
 12 Aga neil päevil sündis, et Jeesus läks mäele palvetama ja veetis kogu öö Jumalat paludes. 
 13 Ja kui valgeks läks, kutsus ta oma jüngrid enese juurde ja valis nende seast kaksteist, keda ta nimetas ka apostliteks: 
+14 Siimona, keda ta nimetas ka Peetruseks, ja tema venna Andrease, ja Jaakobuse ja Johannese ja Filippuse ja Bartolomeuse 
 15 ja Matteuse ja Tooma ja Jaakobuse, Alfeuse poja, ja Siimona, keda hüütakse Selooteseks, 
 16 ja Juuda, Jaakobuse poja, ja Juudas Iskarioti, kes sai äraandjaks.
 17 Ja kui Jeesus oli tulnud koos nendega mäelt alla, peatus ta lagedas paigas; seal oli suur hulk tema jüngreid ja väga palju rahvast kogu Juudamaalt ja Jeruusalemmast ning Tüürose ja Siidoni rannikualalt. 
@@ -28,9 +29,11 @@
 29 Kes sind lööb põse pihta, sellele paku ka teine, ja kes sinult võtab kuue, sellele ära keela ka särki! 
 30 Anna igaühele, kes sinult palub, ja sellelt, kes võtab sinu oma, ära küsi tagasi! 
 31 Ja nii, nagu te tahate, et inimesed teile teeksid, nõnda tehke neile! 
+32 Ja kui te armastate neid, kes teid armastavad, mis lahkust te selle eest ootate? Isegi patused armastavad neid, kes neid armastavad. 
 33 Ja kui te teete head neile, kes teile head teevad, mis tänu te selle eest ootate? Isegi patused teevad sedasama. 
 34 Ja kui te laenate neile, kellelt te loodate tagasi saada, mis tänu te selle eest ootate? Ka patused laenavad patustele, et nad samavõrra tagasi saaksid. 
 35 Aga armastage oma vaenlasi ning tehke head ning laenake ilma midagi tagasi lootmata, ja teie palk on suur ja te olete Kõigekõrgema lapsed, sest tema on helde tänamatute ja kurjade vastu! 
+36 Olge armulised, nagu teie Isa on armuline!
 37 Ärge mõistke kohut, ja ka teie üle ei mõisteta kohut! Ärge mõistke hukka, ja ka teid ei mõisteta hukka! Andke andeks, ja teile antakse andeks! 
 38 Andke, ja teile antakse - hea, tihedaks vajutatud, raputatud, kuhjaga mõõt antakse teie rüppe, sest selle mõõduga, millega teie mõõdate, mõõdetakse teile tagasi.'
 39 Aga ta rääkis neile ka tähendamissõna: 'Ega pime suuda pimedat juhtida teel? Eks nad mõlemad kuku auku? 

@@ -1,4 +1,5 @@
 1 Kas sa tead kaljukitsede poegimisaega, kas valvad hirvede sünnitust? 
+2 Kas sa loed nende tiinuskuid ja tead aega, millal nad poegivad, 
 3 kui nad kõveraks tõmbudes vasikaid heites oma ihuviljast vabanevad? 
 4 Nende vasikad kosuvad, kasvavad avaral aasal, lähevad ära ega tule tagasi nende juurde. 
 5 Kes on sebra lahti lasknud ja kes on valla päästnud metseesli köidikud, 
@@ -8,6 +9,7 @@
 9 Kas metshärg tahab sind teenida? Kas ta jääb ööseks su sõime juurde? 
 10 Kas sa saad metshärja siduda köiega vaole? Kas ta äestab su järel orumaad? 
 11 Kas sa võid loota tema peale, kuigi ta rammult on suur, ja jätta oma töö tema hooleks? 
+12 Kas sa usud, et ta toob tagasi ja kogub su seemne rehealusesse? 
 13 Jaanalinnu tiivad lehvivad rõõmsasti, aga ons need tiivad ja suled tegusad? 
 14 Sest ta jätab ju oma munad maa peale ja laseb neid liivas soojeneda, 
 15 unustades, et jalg võib need purustada ja metsloom tallata. 

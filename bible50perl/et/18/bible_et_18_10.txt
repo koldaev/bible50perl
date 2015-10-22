@@ -7,7 +7,9 @@
 7 kuigi sa tead, et mina ei ole süüdlane ja et ei ole kedagi, kes sinu käest võiks päästa?  
 8 Sinu käed kujundasid ja valmistasid mind üheskoos ümberringi - ja sa neelad mu ära! 
 9 Pea meeles, et sa mind oled teinud otsekui savist. Ja nüüd tahad mind jälle viia tagasi põrmu. 
+10 Eks sa ole mind valanud nagu piima ja lasknud kalgendada juustu sarnaselt? 
 11 Sa katsid mind naha ja lihaga ning põimisid ühte kontide ja kõõlustega. 
+12 Sa andsid mulle elu ja osaduse, ja su hoolitsus hoidis mu vaimu. 
 13 Aga selle sa talletasid oma südamesse, ma tean, et sul oli meeles see: 
 14 kui mina pattu teen, siis valvad sina mind ega jäta mind karistamata. 
 15 Häda mulle, kui oleksin süüdi! Aga isegi õigena ei julge ma pead tõsta, olles täis häbi ja nähes oma viletsust. 
@@ -17,3 +19,4 @@
 19 Siis oleks mind viidud emaüsast hauda, otsekui mind ei oleks olnudki.  
 20 Eks lakka mu päevade pisku? Jäta mind, et võiksin olla pisutki rõõmsam, 
 21 enne kui ma tagasitulekuta lähen pimeduse ja surmavarju maale, 
+22 maale, kus pimedus on pilkane, kus on surmavari ja kaos ja kus valguski on pimedus!'

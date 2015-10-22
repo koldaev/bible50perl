@@ -1,11 +1,18 @@
+1 Need olid Iisraeli pojad: Ruuben, Siimeon, Leevi, Juuda, Issaskar, Sebulon, 
+2 Daan, Joosep, Benjamin, Naftali, Gaad ja Aaser.
 3 Juuda pojad olid Eer, Oonan ja Seela; need kolm sünnitas temale Suua tütar, kaananlanna. Aga Eer, Juuda esmasündinu, oli Issanda silmis paha, seepärast ta laskis tema surra. 
 4 Ja Taamar, tema minia, tõi temale ilmale Peretsi ja Serahi; Juuda poegi oli kokku viis.
+5 Peretsi pojad olid Hesron ja Haamul. 
+6 Ja Serahi pojad olid Simri, Eetan, Heeman, Kalkol ja Daara; neid oli kokku viis. 
 7 Ja Karmi poegi oli Aakar, Iisraeli pahandusetegija, kes hävitamisele määratuga üleannetult talitas. 
+8 Ja Eetani poeg oli Asarja. 
 9 Ja Hesroni pojad, kes temale sündisid, olid Jerahmeel, Raam ja Keluubai.
 10 Ja Raamile sündis Amminadab, ja Amminadabile sündis Nahson, Juuda laste vürst. 
 11 Ja Nahsonile sündis Salma, ja Salmale sündis Boas. 
 12 Ja Boasele sündis Oobed, ja Oobedile sündis Iisai. 
 13 Ja Iisaile sündis esimese pojana Eliab, teisena Abinadab, kolmandana Simea, 
+14 neljandana Netaneel, viiendana Raddai, 
+15 kuuendana Osem, seitsmendana Taavet. 
 16 Ja nende õed olid Seruja ja Abigail; ja Seruja pojad olid Abisai, Joab ja Asael kolmekesi. 
 17 Ja Abigail tõi ilmale Amaasa; Amaasa isa oli Jeter, ismaeliit. 
 18 Ja Kaalebile, Hesroni pojale, sündis lapsi Asuubaga ja Jeriotiga, ja need olid ta pojad: Jeeser, Soobab ja Ardon. 
@@ -16,8 +23,14 @@
 23 Aga gesurlased ja süürlased võtsid neilt ära Jairi telklaagrid, Kenati ja selle tütarlinnad, kuuskümmend linna. Kõik need olid Gileadi isa Maakiri pojad. 
 24 Ja pärast Hesroni surma Kaalebi Efratas tõi Hesroni naine Abija talle ilmale Ashuri, Tekoa isa.
 25 Ja Jerahmeeli, Hesroni esmasündinu pojad olid Raam, esmasündinu, ja Buuna, Oren, Osem ja Ahija. 
+26 Ja Jerahmeelil oli veel teine naine, Atara nimi; tema oli Oonami ema. 
 27 Ja Raami, Jerahmeeli esmasündinu pojad olid Maas, Jaamin ja Eeker. 
+28 Ja Oonami pojad olid Sammai ja Jaada; ja Sammai pojad olid Naadab ja Abisuur. 
 29 Ja Abisuuri naise nimi oli Abihail; ja tema tõi talle ilmale Ahbani ja Moolidi. 
+30 Ja Naadabi pojad olid Seled ja Appaim; Seled suri lasteta. 
+31 Ja Appaimi poegi oli Iisi; ja Iisi poegi oli Seesan; ja Seesani poegi oli Ahlai. 
+32 Ja Jaada, Sammai venna pojad olid Jeter ja Joonatan; Jeter suri lasteta. 
+33 Ja Joonatani pojad olid Pelet ja Saasa. Need olid Jerahmeeli pojad.
 34 Aga Seesanil ei olnud poegi, vaid olid ainult tütred; aga Seesanil oli egiptlasest sulane, Jarha nimi. 
 35 Ja Seesan andis oma sulasele Jarhale naiseks oma tütre, kes tõi talle ilmale Attai. 
 36 Ja Attaile sündis Naatan, ja Naatanile sündis Saabad. 
@@ -27,10 +40,16 @@
 40 Ja Elaasale sündis Sismai, ja Sismaile sündis Sallum. 
 41 Ja Sallumile sündis Jekamja, ja Jekamjale sündis Elisama.
 42 Ja Kaalebi, Jerahmeeli venna poegi oli Meesa, tema esmasündinu, kes oli Siifi isa; ja Mareesa poegi oli Hebron. 
+43 Ja Hebroni pojad olid Korah, Tappuah, Rekem ja Sema. 
 44 Ja Semale sündis Raham, Jorkoami isa, ja Rekemile sündis Sammai.  
+45 Ja Sammai poeg oli Maon; ja Maon oli Beet-Suuri isa. 
 46 Ja Eefa, Kaalebi liignaine, tõi ilmale Haarani, Moosa ja Gaasesi; ja Haaranile sündis Gaases. 
+47 Ja Jahdai pojad olid Regem, Jootam, Geesan, Pelet, Eefa ja Saaf. 
 48 Maaka, Kaalebi liignaine, tõi ilmale Seberi ja Tirhana. 
 49 Tema tõi ilmale ka Saafi, Madmanna isa, Seva, Makbeena isa ja Gibea isa; ja Kaalebi tütar oli Aksa.
 50 Need olid Kaalebi pojad. Huuri, Efrata esmasündinu pojad olid Soobal, Kirjat-Jearimi isa, 
+51 Salma, Petlemma isa, Haaref, Beet-Gaaderi isa. 
+52 Ja Soobali, Kirjat-Jearimi isa pojad olid Reaja, pooled manahlastest,  
 53 ja Kirjat-Jearimi suguvõsad: jitrilased, puudid, sumatlased ja misrailased; neist tulid soratlased ja estaullased.  
+54 Ja Salma pojad olid Petlemm ja netofalased, Atrot, Beet-Joab ja pooled manahlastest, soorlased. 
 55 Ja kirjatundjate suguvõsad, kes elasid Jaabesis, olid tiratlased, simatlased ja suukatlased; need olid keenlased, kes põlvnesid Hammatist, Reekabi soo isast.

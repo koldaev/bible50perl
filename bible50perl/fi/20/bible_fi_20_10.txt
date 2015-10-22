@@ -4,6 +4,7 @@
 4 Köyhtyy, joka laiskasti kättä käyttää, mutta ahkerain käsi rikastuttaa.
 5 Taitava poika kokoaa kesällä, kunnoton poika elonaikana nukkuu.
 6 Siunaus on vanhurskaan pään päällä, mutta väkivaltaa kätkee jumalattomien suu.
+7 Vanhurskaan muistoa siunataan, mutta jumalattomien nimi lahoaa.
 8 Viisassydäminen ottaa käskyt varteen, mutta hulluhuulinen kukistuu.
 9 Joka nuhteettomasti vaeltaa, vaeltaa turvassa, jonka tiet ovat väärät, se joutuu ilmi.
 10 Joka silmää iskee, saa aikaan tuskaa, ja hulluhuulinen kukistuu.
@@ -24,6 +25,7 @@
 25 Tuulispään käytyä ei jumalatonta enää ole, mutta vanhurskaan perustus pysyy iäti.
 26 Mitä hapan hampaille ja savu silmille, sitä laiska lähettäjillensä.
 27 Herran pelko elinpäiviä jatkaa, mutta jumalattomien vuodet lyhenevät.
+28 Vanhurskasten odotus koituu iloksi, mutta jumalattomien toivo hukkuu.
 29 Herran johdatus on nuhteettoman turva, mutta väärintekijäin turmio.
 30 Vanhurskas ei ikinä horju, mutta jumalattomat eivät saa asua maassa.
 31 Vanhurskaan suu kasvaa viisauden hedelmän, mutta kavala kieli hävitetään.

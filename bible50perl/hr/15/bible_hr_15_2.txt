@@ -2,6 +2,7 @@
 2 Stigli  su oni i s njima Zerubabel, Ješua, Nehemija, Seraja, Reelaja, Nahamani, Mordokaj, Bilšan, Mispar, Bigvaj, Rehum i Baana. Evo popisa ljudi od naroda Izraelova: 
 3 sinovi Paroševi:  dvije tisuće stotinu sedamdeset i dva; 
 4 sinovi Šefatjini: tri  stotine sedamdeset i dva; 
+5 Arahovi sinovi: sedam stotina sedamdeset  i pet; 
 6 sinovi Pahat-Moabovi, to jest sinovi Ješuini i Joabovi  sinovi: dvije tisuće osam stotina i dvanaest; 
 7 Elamovi sinovi:  tisuću dvije stotine pedeset i četiri; 
 8 sinovi Zatuovi: devet  stotina četrdeset i pet; 
@@ -12,13 +13,24 @@
 13 Adonikamovi  sinovi: šest stotina šezdeset i šest; 
 14 sinovi Bigvajevi: dvije  tisuće pedeset i šest; 
 15 Adinovi sinovi: četiri stotine pedeset  i četiri; 
+16 sinovi Aterovi, od Ezekije: devedeset i osam; 
+17 Besajevi  sinovi: tri stotine dvadeset i tri; 
+18 sinovi Jorini: stotinu  i dvanaest; 
 19 Hašumovi sinovi: dvije stotine dvadeset i tri; 
+20 sinovi Gibarovi: devedeset i pet; 
+21 ljudi iz Betlehema:  stotinu dvadeset i tri; 
 22 ljudi iz Netofe: pedeset i šest; 
+23 ljudi iz Anatota: stotinu dvadeset i osam; 
 24 ljudi iz Bet  Azmaveta: četrdeset i dva; 
 25 ljudi iz Kirjat Jearima, Kefire  i Beerota: sedam stotina četrdeset i tri; 
 26 ljudi iz Rame i  Gebe: šest stotina dvadeset i jedan; 
+27 ljudi iz Mikmasa: stotinu  dvadeset i dva; 
+28 ljudi iz Betela i Aja: dvije stotine dvadeset  i tri; 
+29 nebonski sinovi: pedeset i dva; 
 30 sinovi Magbiša:  stotinu pedeset i šest; 
 31 sinovi jednoga drugog Elama: tisuću  dvije stotine pedeset i četiri; 
+32 Harimovi sinovi: tri stotine  i dvadeset; 
+33 sinovi Loda, Hadida i Onona: sedam stotina dvadeset  i pet; 
 34 sinovi Jerihona: tri stotine četrdeset i pet; 
 35 sinovi  Senajini: tri tisuće šest stotina trideset.
 36 Svećenici: Jedajini sinovi, to jest iz kuće Ješuine:  devet stotina sedamdeset i tri; 
@@ -28,9 +40,22 @@
 40 Leviti: sinovi Ješuini i Kadmielovi od Hodavjinovaca:  sedamdeset i četiri.
 41 Pjevači: sinovi Asafovi: stotinu dvadeset i osam.
 42 Vratari: sinovi Šalumovi, sinovi Aterovi, sinovi Talmonovi, sinovi Akubovi, sinovi Hatitini i sinovi Šobajevi: u svemu stotinu  trideset i devet.
+43 Netinci - sluge hramske: Sihini sinovi, sinovi Hasufini, sinovi Tabaotovi, 
+44 Kerosovi sinovi, Siahini sinovi, Fadonovi  sinovi, 
+45 sinovi Lebanovi, sinovi Hagabini, sinovi Akubovi,
 46 Hagabovi sinovi, Šamlajevi sinovi, Hananovi sinovi, 
+47 sinovi  Gidelovi, sinovi Gaharovi, sinovi Reajini, 
+48 Resinovi sinovi, Nekodini sinovi, Gazamovi sinovi, 
+49 sinovi Uzini, sinovi Faseahini, sinovi Besajevi, 
+50 Asnanini sinovi, Meunimovi sinovi, Nefusimovi  sinovi, 
+51 sinovi Bakbukovi, sinovi Hakufini, sinovi Harhurovi,
 52 Baslutovi sinovi, Mehidini sinovi, Haršini sinovi, 
+53 sinovi  Barkosovi, sinovi Sisrini, sinovi Tamahovi, 
+54 Nesiahovi sinovi, Hatifini sinovi.
+55 Sinovi slugu Salomonovih: sinovi Sotajevi, sinovi Hasoferetovi, sinovi Farudini, 
+56 Jalini sinovi, Darkonovi sinovi, Gidelovi  sinovi, 
 57 sinovi Šefatjini, sinovi Hatilovi, sinovi Pokeret-Hasebajimovi, sinovi Amijevi.
+58 Svega netinaca i sinova slugu Salomonovih: tri stotine  dvadeset i dva.
 59 Oni koji su pošli iz Tel Melaha, Tel Harše, Keruba, Adana, Imera, a nisu mogli dokazati da li je njihov dom i njihovo sjeme  izraelskog podrijetla: 
 60 sinovi Dalajini, sinovi Tobijini,  sinovi Nekodini - njih šest stotina pedeset i dva.
 61 A od svećeničkih sinova: Hobajini sinovi, Hakosovi sinovi, sinovi Barzilaja - onoga koji je uzeo za ženu jednu kćer Barzilaja  Gileađanina te se prozvao tim imenom. 

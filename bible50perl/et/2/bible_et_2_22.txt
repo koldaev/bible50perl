@@ -11,6 +11,7 @@
 11 Kui see aga tõepoolest on temalt varastatud, siis ta peab omanikule tasuma. 
 12 Kui see aga tõepoolest on maha murtud, siis ta toogu see tõendiks; mahamurtut ta ei tarvitse tasuda. 
 13 Kui keegi teiselt laenab looma ja see saab vigastada või sureb, ilma et omanik juures oleks, siis ta peab selle eest temale tasuma. 
+14 Aga kui omanik juures oli, siis tal ei ole vaja tasuda; kui see oli renditud, siis asendab selle rendihind.
 15 Kui keegi võrgutab neitsi, kes ei ole kihlatud, ja magab temaga, siis ta peab mõrsjahinna eest tema enesele naiseks võtma. 
 16 Aga kui selle isa keeldub teda temale andmast, siis mees vaagigu raha, nagu on mõrsjahind neitsi eest.
 17 Sa ei tohi nõida ellu jätta! 

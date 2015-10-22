@@ -11,8 +11,10 @@
 11 Jah, need olgu teile jälgid, nende liha ärge sööge ja nende raibe olgu teile jälk! 
 12 Kõik need vees, kellel ei ole uimi ja soomuseid, olgu teile jälgid!
 13 Ja lindudest olgu teile jälgid need, neid ärge sööge, need on jälgid: kotkas, lambakotkas, must raisakotkas, 
+14 harksabakull, raudkull oma liikidega, 
 15 kõik kaarnad oma liikidega, 
 16 jaanalind, kägu, kajakas, haugas oma liikidega, 
+17 kakuke, kormoran, kassikakk, 
 18 öökull, puguhani, raisakull, 
 19 toonekurg, haigur oma liikidega, vaenukägu ja nahkhiir.
 20 Kõik tiivulised putukad, kes käivad neljal jalal, olgu teile jälgid! 

@@ -1,11 +1,24 @@
 1 A cić są kapłani i Lewitowie, którzy przyszli z Zorobabelem, synem Sealtyjelowym, i z Jesuą: Serejasz, Jeremijasz, Ezdrasz.
+2 Amaryjasz, Malluch, Hattus,
+3 Sechanijasz, Rehum, Meremot,
+4 Iddo, Ginnetoj, Abijasz;
+5 Mijamin, Maadyjasz, Bilgal,
+6 Semejasz, i Jojaryb, Jedajasz,
 7 Sallu, Amok, Helkijasz, Jedajasz. Cić byli przedniejsi z kapłanów i z braci swych, za dni Jesuego.
 8 A Lewitowie: Jesua, Binnui, Kadmiel, Serebijasz, Juda; Matanijasz nad pieśniami, sam i bracia jego.
 9 A Bakbukijasz i Hunni, bracia ich, byli przeciwko nim w porządku swoim.
 10 A Jesua spłodził Joakima, a Joakim spłodził Elijasyba, a Elijasyb spłodził Jojadę:
 11 A Jojada spłodził Jonatana, a Jonatan spłodził Jadduę.
 12 A za dni Joakima byli kapłani przedniejsi z domów ojcowskich: z Serajaszowego Merajasz, z Jeremijaszowego Chananijasz;
+13 Z Ezdraszowego Mesullam, z Amaryjaszowego Jochanan;
 14 Z Melchowego Jonatan, z Sechanijaszowego Józef;
+15 Z Harymowego Adna, z Merajotowego Helkaj;
+16 Z Iddowego Zacharyjasz, z Ginnetowego Mesullam;
+17 Z Abijaszowego Zychry, z Miniaminowego i z Maadyjaszowego Piltaj;
+18 Z Bilgowego Sammua, z Semejaszowego Jonatan;
+19 A z Jojarybowego Mattenaj, z Jedajaszowego Uzy;
+20 Z Sallajowego Kalaj, z Amokowego Heber;
+21 Z Helkijaszowego Hasabijasz, z Jedajaszowego Natanael.
 22 A Lewitowie za dni Elijasyba, Jojady, i Jochanana, i Jadduego popisani są, którzy byli przedniejszymi z domów ojcowskich; także i kapłani aż do królestwa Daryjusza, króla Perskiego.
 23 Synowie mówię Lewiego, przedniejsi z domów ojcowskich, zapisani są w księgach kroniki aż do dni Jochanana, syna Elijasybowego.
 24 Przedniejsi mówię z Lewitów byli Hasabijasz, Serebijasz, i Jesua, syn Kadmielowy, i bracia ich przeciwko nim, ku chwaleniu i wysławianiu Boga według rozkazania Dawida, męża Bożego, straż przeciwko straży.
@@ -18,6 +31,7 @@
 31 Zatemem rozkazał wstąpić książętom Judzkim na mur, i postawiłem dwa hufy wielkie chwalących, z których jedni szli na prawo od wyższej strony muru ku bramie gnojowej.
 32 A za nimi szedł Hozajasz, i połowa książąt Judzkich;
 33 Także Azaryjasz, Ezdrasz, i Mesullam,
+34 Juda, i Benjamin, i Semejasz, i Jeremijasz.
 35 Potem niektórzy z synów kapłańskich z trąbami, mianowicie Zacharyjasz, syn Jonatana, syna Semejaszowego, syna Matanijaszowego, syna Michajaszowego, syna Zachurowego, syna Asafowego;
 36 A bracia jego Semejasz, i Asarel, Milalaj, Gilalaj, Maaj, Netaneel, i Juda, Chanani, z instrumentami muzycznemi Dawida, męża Bożego, a Ezdrasz, nauczony w Piśmie, przed nimi.
 37 Potem ku bramie źródła, która przeciwko nim była, wstępowali po schodach miasta Dawidowego, którędy chodzą na mur, a od muru przy domu Dawidowym aż do bramy wodnej na wschód słońca.
@@ -32,13 +46,26 @@
 46 Bo za dni Dawida i Asafa byli postanowieni z starodawna przełożeni nad śpiewakami dla śpiewania, wychwalania i dziękczynienia Bogu.
 47 Przetoż wszystek Izrael za dni Zorobabela, i za dni Nehemijasza, dawali działy dla śpiewaków i odźwiernych, każdodzienny wymiar, a oddawali to, co poświęcili, Lewitom; Lewitowie zaś oddawali synom Aaronowym.
 1 A cić są kapłani i Lewitowie, którzy przyszli z Zorobabelem, synem Sealtyjelowym, i z Jesuą: Serejasz, Jeremijasz, Ezdrasz.
+2 Amaryjasz, Malluch, Hattus,
+3 Sechanijasz, Rehum, Meremot,
+4 Iddo, Ginnetoj, Abijasz;
+5 Mijamin, Maadyjasz, Bilgal,
+6 Semejasz, i Jojaryb, Jedajasz,
 7 Sallu, Amok, Helkijasz, Jedajasz. Cić byli przedniejsi z kapłanów i z braci swych, za dni Jesuego.
 8 A Lewitowie: Jesua, Binnui, Kadmiel, Serebijasz, Juda; Matanijasz nad pieśniami, sam i bracia jego.
 9 A Bakbukijasz i Hunni, bracia ich, byli przeciwko nim w porządku swoim.
 10 A Jesua spłodził Joakima, a Joakim spłodził Elijasyba, a Elijasyb spłodził Jojadę:
 11 A Jojada spłodził Jonatana, a Jonatan spłodził Jadduę.
 12 A za dni Joakima byli kapłani przedniejsi z domów ojcowskich: z Serajaszowego Merajasz, z Jeremijaszowego Chananijasz;
+13 Z Ezdraszowego Mesullam, z Amaryjaszowego Jochanan;
 14 Z Melchowego Jonatan, z Sechanijaszowego Józef;
+15 Z Harymowego Adna, z Merajotowego Helkaj;
+16 Z Iddowego Zacharyjasz, z Ginnetowego Mesullam;
+17 Z Abijaszowego Zychry, z Miniaminowego i z Maadyjaszowego Piltaj;
+18 Z Bilgowego Sammua, z Semejaszowego Jonatan;
+19 A z Jojarybowego Mattenaj, z Jedajaszowego Uzy;
+20 Z Sallajowego Kalaj, z Amokowego Heber;
+21 Z Helkijaszowego Hasabijasz, z Jedajaszowego Natanael.
 22 A Lewitowie za dni Elijasyba, Jojady, i Jochanana, i Jadduego popisani są, którzy byli przedniejszymi z domów ojcowskich; także i kapłani aż do królestwa Daryjusza, króla Perskiego.
 23 Synowie mówię Lewiego, przedniejsi z domów ojcowskich, zapisani są w księgach kroniki aż do dni Jochanana, syna Elijasybowego.
 24 Przedniejsi mówię z Lewitów byli Hasabijasz, Serebijasz, i Jesua, syn Kadmielowy, i bracia ich przeciwko nim, ku chwaleniu i wysławianiu Boga według rozkazania Dawida, męża Bożego, straż przeciwko straży.
@@ -51,6 +78,7 @@
 31 Zatemem rozkazał wstąpić książętom Judzkim na mur, i postawiłem dwa hufy wielkie chwalących, z których jedni szli na prawo od wyższej strony muru ku bramie gnojowej.
 32 A za nimi szedł Hozajasz, i połowa książąt Judzkich;
 33 Także Azaryjasz, Ezdrasz, i Mesullam,
+34 Juda, i Benjamin, i Semejasz, i Jeremijasz.
 35 Potem niektórzy z synów kapłańskich z trąbami, mianowicie Zacharyjasz, syn Jonatana, syna Semejaszowego, syna Matanijaszowego, syna Michajaszowego, syna Zachurowego, syna Asafowego;
 36 A bracia jego Semejasz, i Asarel, Milalaj, Gilalaj, Maaj, Netaneel, i Juda, Chanani, z instrumentami muzycznemi Dawida, męża Bożego, a Ezdrasz, nauczony w Piśmie, przed nimi.
 37 Potem ku bramie źródła, która przeciwko nim była, wstępowali po schodach miasta Dawidowego, którędy chodzą na mur, a od muru przy domu Dawidowym aż do bramy wodnej na wschód słońca.

@@ -1,7 +1,9 @@
 1 Tark naine ehitab enesele koja, aga rumalus kisub selle maha oma kätega. 
 2 Ausasti elab, kes Issandat kardab, aga eksiteedel käib, kes teda põlgab. 
+3 Rumala suus on vits ta uhkusele, aga tarku kaitsevad nende huuled. 
 4 Kus pole härgi, seal puudub vili, aga härja rammuga saab palju saaki. 
 5 Tõetruu tunnistaja ei valeta, aga valetunnistaja sepitseb valesid. 
+6 Pilkaja otsib tarkust ilmaaegu, aga arukale on tunnetus kerge. 
 7 Mine ära albi mehe juurest, sest seal sa ei märka teadlikke huuli. 
 8 Mõistliku mehe tarkus on tunda oma teed, aga alpide rumalus eksitab. 
 9 Rumalad pilkavad süüohvrit, aga õigete keskel on hea meel. 
@@ -11,6 +13,7 @@
 13 Naerdeski võib süda valutada ja rõõmule võib järgneda meelehärm. 
 14 Truudusetu süda küllastub oma viisidest, aga hea mees oma tegudest. 
 15 Lihtsameelne usub iga sõna, aga taiplik paneb tähele oma samme. 
+16 Tark kardab ja hoidub kurjast, aga alp on jultunud ja enesekindel. 
 17 Kes on äkilise vihaga, talitab meeletult, salasepitsejat meest vihatakse. 
 18 Lihtsameelsed pärivad rumaluse, aga tarku kroonitakse teadlikkusega. 
 19 Kurjad peavad kummardama heade ees ja õelad õigete väravais. 
@@ -20,6 +23,7 @@
 23 Igast vaevanägemisest on kasu, aga tühjast kõnest ainult kahju. 
 24 Tarkade kroon on nende rikkus, alpide rumalus jääb rumaluseks. 
 25 Tõetruu tunnistaja päästab hingi, aga kes sepitseb valesid, petab. 
+26 Issanda kartuses on tugeva lootus ja varjupaik tema lastele. 
 27 Issanda kartus on eluallikas surmapaeltest pääsemiseks. 
 28 Rahva rohkus on kuninga uhkus, aga rahva vähesus on vürsti hukk. 
 29 Pikameelsel on palju arukust, aga kannatamatu näitab suurimat rumalust. 

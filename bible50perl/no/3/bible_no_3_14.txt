@@ -1,6 +1,8 @@
+1 Og Herren talte til Moses og sa: 
 2 Dette er loven om den spedalske, når han skal renses: Han skal føres til presten; 
 3 og presten skal gå utenfor leiren, og når da presten ser på ham og finner at han er helbredet for sin spedalskhet, 
 4 da skal presten befale at det for den som lar sig rense, skal tas to levende rene fugler og sedertre og karmosinrød ull og isop, 
+5 og la dem slakte den ene fugl over et lerkar som er fylt med rinnende vann. 
 6 Så skal han ta den levende fugl og sedertreet og den karmosinrøde ull og isopen og dyppe dem sammen med den levende fugl i blodet av den fugl som er slaktet over det rinnende vann, 
 7 og sprenge syv ganger på den som lar sig rense for spedalskhet, og således rense ham, og den levende fugl skal han la flyve sin vei bortover marken. 
 8 Og den som lar sig rense, skal tvette sine klær og rake av alt sitt hår og bade sig i vann, så er han ren, og derefter kan han gå inn i leiren; men han skal holde sig utenfor sitt telt i syv dager. 
@@ -28,6 +30,7 @@
 30 Så skal han ofre den ene av turtelduene eller av dueungene - det som han har råd til - 
 31 som syndoffer og den andre som brennoffer sammen med matofferet; og presten skal gjøre soning for den som lar sig rense, for Herrens åsyn. 
 32 Dette er loven om den som lider av spedalskhet, men ikke har råd til å ofre meget når han skal renses. 
+33 Og Herren talte til Moses og Aron og sa: 
 34 Når I kommer inn i Kana'ans land, som jeg gir eder til eiendom, og jeg lar spedalskhet komme på noget hus i det land I får i eie, 
 35 da skal den som eier huset, gå og melde det til presten og si: Det ser ut for mig som det er kommet spedalskhet på huset. 
 36 Så skal presten la huset rydde, før han selv kommer for å se på flekkene, så ikke alt det som er i huset, skal bli urent; og derefter skal han komme og se på huset. 
@@ -44,9 +47,11 @@
 47 og den som ligger i huset, skal tvette sine klær, og den som eter i huset, skal tvette sine klær. 
 48 Men dersom presten, når han kommer og ser på det, finner at flekkene ikke har bredt sig ut på huset efterat det er blitt overstrøket, da skal han si huset rent; for da er ondet borte. 
 49 Så skal han, forat huset kan bli renset, ta to fugler og sedertre og karmosinrød ull og isop. 
+50 Den ene fugl skal han slakte over et lerkar som er fylt med rinnende vann, 
 51 og så skal han ta sedertreet og isopen og den karmosinrøde ull og den levende fugl og dyppe dem i blodet av den fugl som er slaktet, og i det rinnende vann og sprenge på huset syv ganger. 
 52 Og han skal rense huset med fuglens blod og med det rinnende vann og med den levende fugl og med sedertreet og med isopen og med den karmosinrøde ull 
 53 og så la den levende fugl flyve utenfor byen, bortover marken; således skal han gjøre soning for huset, så det blir rent. 
+54 Dette er loven om alle slags spedalskhet og om skurv 
 55 og om spedalskhet på klær og på hus 
 56 og om knuter i huden og om utslett og om lyse flekker på huden - 
 57 til oplysning om når noget er urent, og når det er rent. Dette er loven om spedalskhet. 

@@ -1,6 +1,7 @@
 1 y Jesús se fue al monte de los Olivos. 
 2 Y por la mañana volvió al templo, y todo el pueblo vino a él; y sentado él, les enseñaba. 
 3 Entonces los escribas y los fariseos le trajeron una mujer sorprendida en adulterio; y poniéndola en medio, 
+4 le dijeron: Maestro, esta mujer ha sido sorprendida en el acto mismo de adulterio. 
 5 Y en la ley nos mandó Moisés apedrear a tales mujeres. Tú, pues, їqué dices? 
 6 Mas esto decían tentándole, para poder acusarle. Pero Jesús, inclinado hacia el suelo, escribía en tierra con el dedo. 
 7 Y como insistieran en preguntarle, se enderezó y les dijo: El que de vosotros esté sin pecado sea el primero en arrojar la piedra contra ella. 
@@ -19,9 +20,11 @@
 20 Estas palabras habló Jesús en el lugar de las ofrendas, enseñando en el templo; y nadie le prendió, porque aún no había llegado su hora. 
 21 Otra vez les dijo Jesús: Yo me voy, y me buscaréis, pero en vuestro pecado moriréis; a donde yo voy, vosotros no podéis venir. 
 22 Decían entonces los judíos: їAcaso se matará a sí mismo, que dice: A donde yo voy, vosotros no podéis venir? 
+23 Y les dijo: Vosotros sois de abajo, yo soy de arriba; vosotros sois de este mundo, yo no soy de este mundo. 
 24 Por eso os dije que moriréis en vuestros pecados; porque si no creéis que yo soy, en vuestros pecados moriréis. 
 25 Entonces le dijeron: їTú quién eres? Entonces Jesús les dijo: Lo que desde el principio os he dicho. 
 26 Muchas cosas tengo que decir y juzgar de vosotros; pero el que me envió es verdadero; y yo, lo que he oído de él, esto hablo al mundo. 
+27 Pero no entendieron que les hablaba del Padre. 
 28 Les dijo, pues, Jesús: Cuando hayáis levantado al Hijo del Hombre, entonces conoceréis que yo soy, y que nada hago por mí mismo, sino que según me enseñó el Padre, así hablo. 
 29 Porque el que me envió, conmigo está; no me ha dejado solo el Padre, porque yo hago siempre lo que le agrada. 
 30 Hablando él estas cosas, muchos creyeron en él. 
@@ -44,6 +47,7 @@
 47 El que es de Dios, las palabras de Dios oye; por esto no las oís vosotros, porque no sois de Dios. 
 48 Respondieron entonces los judíos, y le dijeron: їNo decimos bien nosotros, que tú eres samaritano, y que tienes demonio? 
 49 Respondió Jesús: Yo no tengo demonio, antes honro a mi Padre; y vosotros me deshonráis. 
+50 Pero yo no busco mi gloria; hay quien la busca, y juzga. 
 51 De cierto, de cierto os digo, que el que guarda mi palabra, nunca verá muerte. 
 52 Entonces los judíos le dijeron: Ahora conocemos que tienes demonio. Abraham murió, y los profetas; y tú dices: El que guarda mi palabra, nunca sufrirá muerte. 
 53 їEres tú acaso mayor que nuestro padre Abraham, el cual murió? ¡Y los profetas murieron! їQuién te haces a ti mismo? 

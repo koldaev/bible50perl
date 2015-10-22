@@ -2,6 +2,7 @@
 2 Synové pak Kahat: Amram, Izar, Hebron a Uziel.
 3 Synové pak Amramovi: Aron, Mojžíš, a Maria. Synové pak Aronovi: Nádab, Abiu, Eleazar a Itamar.
 4 Eleazar zplodil Fínesa, Fínes zplodil Abisua.
+5 Abisua pak zplodil Bukki, Bukki pak zplodil Uzi.
 6 Uzi pak zplodil Zerachiáše, Zerachiáš pak zplodil Meraiota.
 7 Meraiot zplodil Amariáše, Amariáš pak zplodil Achitoba.
 8 Achitob pak zplodil Sádocha, Sádoch pak zplodil Achimaasa.
@@ -16,6 +17,7 @@
 17 Tato pak jsou jména synů Gersomových: Lebni a Semei.
 18 Synové pak Kahat: Amram, Izar, Hebron a Uziel.
 19 Synové Merari: Moholi a Musi. A tak ty jsou čeledi Levítů po otcích jejich.
+20 Gersomovi: Lebni syn jeho, Jachat syn jeho, Zimma syn jeho,
 21 Joach syn jeho, Iddo syn jeho, Zára syn jeho, Jetrai syn jeho.
 22 Synové Kahat: Aminadab syn jeho, Chóre syn jeho, Assir syn jeho,
 23 Elkána syn jeho, a Abiazaf syn jeho, Assir syn jeho,
@@ -37,6 +39,7 @@
 39 A bratr jeho Azaf, kterýž stával po pravici jeho. Azaf pak byl syn Berechiáše, syna Simova,
 40 Syna Michaelova, syna Baaseiášova, syna Malkiášova,
 41 Syna Etni, syna Záry, syna Adaiova,
+42 Syna Etanova, syna Zimmova, syna Semeiova,
 43 Syna Jachatova, syna Gersomova, syna Léví.
 44 Synové pak Merari, bratří jejich, stávali po levici: Etan, syn Kísi, syna Abdova, syna Malluchova,
 45 Syna Chasabiášova, syna Amaziášova, syna Helkiášova,

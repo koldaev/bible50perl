@@ -6,6 +6,7 @@
 6 Tee ka viiskümmend kuldhaaki ja ühenda nende haakidega vaibad üksteise külge, et neist saaks täielik elamu!
 7 Ja tee kitsekarvadest vaibad telgiks elamu peale; neid vaipu tee  üksteist! 
 8 Iga vaiba pikkus olgu kolmkümmend küünart ja iga vaiba laius neli küünart; üheteistkümnel vaibal olgu samad mõõdud! 
+9 Seo kokku viis vaipa eraldi ja kuus vaipa eraldi, aga kuues vaip pane kahekordselt telgi suule! 
 10 Tee viiskümmend aasa esimese vaiba servale, äärmisele reastuses, ja viiskümmend aasa vaiba servale teises reastuses! 
 11 Tee viiskümmend vaskhaaki, pista haagid aasadesse ja ühenda telk üheks tervikuks! 
 12 Telgi vaipade liigse ülerippuvuse korral rippugu pool liigsest vaibast elamu tagaküljes! 
@@ -33,3 +34,4 @@
 34 Pane lepituskaas tunnistuslaekale peale kõige pühamas paigas! 
 35 Aseta laud eesriide ette ja lauaga kohakuti lambijalg elamu lõunapoolsesse külge; laud aga pane põhjapoolsesse külge!
 36 Tee kate ka telgi uksele sinisest, purpurpunasest ja helepunasest lõngast ning korrutatud linasest lõimest kunstipäraselt  kootuna! 
+37 Katte jaoks tee viis akaatsiapuust sammast ja karda need kullaga; nende haagid olgu kullast; ja vala neile viis vaskjalga!

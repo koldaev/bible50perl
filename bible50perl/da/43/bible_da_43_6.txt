@@ -5,6 +5,7 @@
 5 Da Jesus nu opløftede sine Øjne og så, at en stor Skare kom til ham, sagde han til Filip: 'Hvor skulle vi købe Brød, for at disse kunne få noget at spise?'
 6 Men dette sagde han for at prøve ham; thi han vidste selv, hvad han vilde gøre.
 7 Filip svarede ham: 'Brød for to Hundrede Denarer er ikke nok for dem, til at hver kan få noget lidet.'
+8 En af hans Disciple, Andreas, Simon Peters Broder, siger til ham:
 9 'Her er en lille Dreng, som har fem Bygbrød og to Småfisk; men hvad er dette til så mange?'
 10 Jesus sagde: 'Lader Folkene sætte sig ned;' og der var meget Græs på Stedet. Da satte Mændene sig ned, omtrent fem Tusinde i Tallet.
 11 Så tog Jesus Brødene og takkede og uddelte dem til dem, som havde sat sig ned; ligeledes også af Småfiskene så meget, de vilde.
@@ -16,6 +17,8 @@
 17 Og de gik om Bord i et Skib og vilde sætte over til hin Side af Søen til Kapernaum. Og det var allerede blevet mørkt, og Jesus var endnu ikke kommen til dem.
 18 Og Søen rejste sig, da der blæste en stærk Vind.
 19 Da de nu havde roet omtrent fem og tyve eller tredive Stadier, se de Jesus vandre på Søen og komme nær til Skibet, og de forfærdedes.
+20 Men han siger til dem: 'Det er mig; frygter ikke!'
+21 Da vilde de tage ham op i Skibet; og straks kom Skibet til Landet, som de sejlede til.
 22 Den næste dag så Skaren, som stod på hin Side af Søen, at der ikke havde været mere end eet Skib der, og at Jesus ikke var gået om Bord med sine Disciple, men at hans Disciple vare dragne bort alene,
 23 (men der var kommet Skibe fra Tiberias nær til det Sted, hvor de spiste Brødet, efter at Herren havde gjort Taksigelse):
 24 da Skaren nu så, at Jesus ikke var der, ej heller hans Disciple, gik de om Bord i Skibene og kom til Kapernaum for at søge efter Jesus.
@@ -30,13 +33,17 @@
 33 Thi Guds Brød er det, som kommer ned fra Himmelen og giver Verden Liv.'
 34 Da sagde de til ham: 'Herre! giv os altid dette Brød!'
 35 Jesus sagde til dem: 'Jeg er Livets Brød. Den, som kommer til mig, skal ikke hungre; og den, som tror på mig, skal aldrig tørste.
+36 Men jeg har sagt eder, at I have set mig og dog ikke tro.
+37 Alt, hvad Faderen giver mig, skal komme til mig; og den, som kommer til mig, vil jeg ingenlunde kaste ud.
 38 Thi jeg er kommen ned fra Himmelen, ikke for at gøre min Villie, men hans Villie, som sendte mig.
 39 Men dette er hans Villie, som sendte mig, at jeg skal intet miste af alt det, som han har givet mig, men jeg skal oprejse det på den yderste Dag.
 40 Thi dette er min Faders Villie, at hver den, som ser Sønnen og tror på ham, skal have et evigt Liv, og jeg skal oprejse ham på den yderste Dag.'
 41 Da knurrede Jøderne over ham, fordi han sagde: 'Jeg er det Brød, som kom ned fra Himmelen,'
 42 og de sagde: 'Er dette ikke Jesus, Josefs Søn, hvis Fader og Moder vi kende? Hvorledes kan han da sige: Jeg er kommen ned fra Himmelen?'
+43 Jesus svarede og sagde til dem: 'Knurrer ikke indbyrdes!
 44 Ingen kan komme til mig, uden Faderen, som sendte mig, drager ham; og jeg skal oprejse ham på den yderste Dag.
 45 Der er skrevet hos Profeterne: 'Og de skulle alle være oplærte af Gud.' Hver den, som har hørt af Faderen og lært, kommer til mig.
+46 Ikke at nogen har set Faderen, kun den, som er fra Gud, han har set Faderen.
 47 Sandelig, sandelig, siger jeg eder, den, som tror på mig, har et evigt Liv.
 48 Jeg er Livets Brød.
 49 Eders Fædre åde Manna i Ørkenen og døde.
@@ -51,11 +58,14 @@
 58 dette er det Brød, som er kommet ned fra Himmelen; ikke som eders Fædre åde og døde. Den, som æder dette Brød, skal leve evindelig.'
 59 Dette sagde han, da han lærte i en Synagoge i Kapernaum.
 60 Da sagde mange af hans Disciple, som havde hørt ham: 'Dette er en hård Tale; hvem kan høre den?'
+61 Men da Jesus vidste hos sig selv, at hans Disciple knurrede derover, sagde han til dem: 'Forarger dette eder?
 62 Hvad om I da få at se, at Menneskesønnen farer op, hvor han var før?
 63 Det er Ånden, som levendegør, Kødet gavner intet; de Ord, som jeg har talt til eder, ere Ånd og ere Liv.
 64 Men der er nogle af eder, som ikke tro.' Thi Jesus vidste fra Begyndelsen, hvem det var, der ikke troede, og hvem den var, der skulde forråde ham.
+65 Og han sagde: 'Derfor har jeg sagt eder, at ingen kan komme til mig, uden det er givet ham af Faderen.'
 66 Fra den Tid trådte mange af hans Disciple tilbage og vandrede ikke mere med ham.
 67 Jesus sagde da til de tolv: 'Mon også I ville gå bort?'
 68 Simon Peter svarede ham: 'Herre! til hvem skulle vi gå hen? Du har det evige Livs Ord;
+69 og vi have troet og erkendt, at du er Guds Hellige.'
 70 Jesus svarede dem: 'Har jeg ikke udvalgt mig eder tolv, og en af eder er en Djævel?'
 71 Men han talte om Judas, Simon Iskariots Søn; thi det var ham, som siden skulde forråde ham, skønt han var en af de tolv.

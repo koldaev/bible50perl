@@ -39,6 +39,7 @@
 39 kunigas jį apžiūrės. Jei blizgantis odoje baltumas yra apytamsis, težino, kad tai ne raupsai, bet baltos spalvos taškas,­žmogus švarus.
 40 Jei kuriam vyrui slenka nuo galvos plaukai, jis tampa plikagalvis, bet yra švarus.
 41 Jei plaukai nuslinko nuo kaktos, jis pasidarė plikakaktis, bet švarus.
+42 O jei nuplikusi galva ar kakta pabalo ar paraudo,
 43 tai kunigas patikrinęs paskelbs jį raupsuotu.
 44 Jis serga raupsais ir yra nešvarus, kunigas paskelbs jį nešvariu; ant jo galvos raupsai.
 45 Raupsuotasis turi persiplėšti drabužį, atidengti galvą, burną laikyti uždengtą ir šaukti: ‘Nešvarus, nešvarus!’

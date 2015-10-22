@@ -1,3 +1,7 @@
+1 Adami, Sethi, Enoshi,
+2 Kenani, Mahalaleeli, Jaredi,
+3 Enoku, Methusalehu, Lameku,
+4 Noeu, Semi, Kami dhe Jafeti.
 5 Bijtë e Jafetit ishin Gomeri, Magogu, Madai, Javani, Tubali, Mesheku dhe Tirasi.
 6 Bijtë e Gomerit ishin Ashkenazi, Rifathi dhe Togarmahu.
 7 Bijtë e Javanit ishin Elishami, Tarshishi, Kitimi dhe Dodanimi.
@@ -11,11 +15,19 @@
 15 Hivejtë, Arkejtë, Sinejtë,
 16 Arvadejtë, Tsemarejtë dhe Hamathejtë.
 17 Bijtë e Semit ishin Elami, Asuri, Arpakshadi, Ludi dhe Arami, Uzi, Huli, Getheri dhe Mesheku.
+18 Arpakshadit i lindi Shelahu dhe Shelahut i lindi Eberi.
 19 Eberit i lindën dy bij: njeri quhej Peleg, sepse në ditët e tij toka u nda, dhe i vëllai quhej Joktan.
+20 Joktanit i lindi Almodali, Shelefi, Hatsarmavethi, Jerahu,
+21 Hadorami, Uzali, Diklahu,
+22 Ebali, Abimaeli, Sheba,
 23 Ofiri, Havilahu dhe Jobabi. Të tërë këta ishin bijtë e Joktanit.
+24 Semi, Arpakshadi, Shelahu,
+25 Eberi, Pelegu, Reu,
+26 Serugu, Nahori, Terahu,
 27 Abrami, që është Abrahami.
 28 Bijtë e Abrahamit ishin Isaku dhe Ismaeli.
 29 Këta janë pasardhësit e tyre: i parëlinduri i Ismaelit ishte Nebajothi; pastaj vinin Kedari, Abdeeli, Mibsami,
+30 Mishma, Dumahu, Masa, Hadadi, Tema,
 31 Jeturi, Nafishi dhe Kedemahu. Këta ishin bijtë e Ismaelit.
 32 Bijtë e Keturahës, konkubinës së Abrahamit: ajo lindi Zimramin, Jokshanin, Medanin, Madianin, Ishbakun dhe Shuahun. Bijtë e Jokshanit ishin Sheba dhe Dedani.
 33 Bijtë e Madianit ishin Efahu, Eferi, Hanoku, Abidahu dhe Eldaahu. Të tërë këta ishin bijtë e Keturahut.
@@ -37,4 +49,6 @@
 49 Kur vdiq Sauli, në vend të tij mbretëroi Baal-Hanani, bir i Akborit.
 50 Kur vdiq Baal-Hanani, në vend të tij mbretëroi Hadabi. Emri i qytetit të tij ishte Pan dhe e shoqja quhej Mehetabeel; ishte bijë e Matredit, që ishte e bija e Mezahabit.
 51 Pastaj vdiq Hadabi. Krerët e Edomit ishin: shefi Timnah, shefi Avlah, shefi Jetheth,
+52 shefi Oholibamah, shefi Elah, shefi Pinon,
+53 shefi Kenaz, shefi Teman, shefi Mibtsar,
 54 shefi Magdiel, shefi Iram. Këta ishin shefat e Edomit.

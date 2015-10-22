@@ -2,6 +2,7 @@
 2 (H4:3) Te miehet, kuinka kauan minun kunniaani pidetään pilkkana, kuinka kauan te rakastatte turhuutta, etsitte valhetta? Sela.
 3 (H4:4) Tietäkää: ihmeellinen on Herra hurskastansa kohtaan, Herra kuulee, kun minä häntä huudan.
 4 (H4:5) Vaviskaa, älkääkä syntiä tehkö. Puhukaa sydämissänne vuoteillanne ja olkaa hiljaa. Sela.
+5 (H4:6) Uhratkaa vanhurskauden uhreja ja luottakaa Herraan.
 6 (H4:7) Moni sanoo: Kuka antaa meille sitä, mikä hyvä on? Herra, käännä sinä meihin kasvojesi valkeus.
 7 (H4:8) Sinä annat minun sydämeeni suuremman ilon, kuin heillä on runsaasta viljasta ja viinistä.
 8 (H4:9) Rauhassa minä käyn levolle ja nukun, sillä sinä, Herra, yksin annat minun turvassa asua.

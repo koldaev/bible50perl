@@ -1,11 +1,13 @@
 1 Inimesel, naisest sündinul, on lühikesed elupäevad ja palju tüli. 
 2 Ta tõuseb nagu lilleke ja ta lõigatakse ära, ta põgeneb nagu vari ega jää püsima. 
+3 Ometi pead sa seesugust silmas ja viid mind enesega kohtu ette. 
 4 Kes võib roojasest teha puhta? Mitte keegi! 
 5 Kuna tema elupäevad on määratud ja tema kuude arv on sinu käes - sa oled pannud piiri, millest ta ei saa üle minna -, 
 6 siis pööra oma pilk tema pealt ära ja jäta ta rahule, seni kui ta päevilisena oma päevast rõõmu tunneb!  
 7 Sest puulgi on lootus: kui ta maha raiutakse, siis ta võrsub taas ja tal pole võsudest puudu. 
 8 Kuigi ta juur maa sees kõduneb ja känd mullas sureb, 
 9 hakkab ta veehõngust haljendama ja võsusid ajama otsekui istik. 
+10 Aga kui mees sureb ja kaob, kui inimene hinge heidab - kus on ta siis? 
 11 Vesi voolab järvest ja jõgi taheneb ning kuivab, 
 12 nõnda heidab inimene magama ega tõuse enam. Enne kui taevaid pole enam, nad ei ärka, neid ei äratata unest.  
 13 Oh, et sa varjaksid mind surmavallas, peidaksid, kuni su viha möödub; et sa määraksid mulle aja ja siis peaksid mind meeles. 
@@ -17,3 +19,4 @@
 19 vesi kulutab kive, vihmavaling uhub maamulla - nõnda hävitad sina inimese lootuse. 
 20 Sina alistad tema igaveseks ja ta peab minema, muudad ta näo ja saadad ta ära. 
 21 Kas ta lapsi austatakse - tema ei saa seda teada, või kas neid põlatakse - tema seda ei märka. 
+22 Tema tunneb valu ainult omaenese ihus ja leina omaenese hinges.'

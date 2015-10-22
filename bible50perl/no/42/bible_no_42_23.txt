@@ -1,10 +1,12 @@
 1 Og hele hopen stod op og førte ham for Pilatus; 
 2 og de begynte å føre klagemål imot ham og sa: Denne mann har vi funnet vill-leder vårt folk og forbyder å gi keiseren skatt, og sier om sig selv at han er Messias, en konge. 
 3 Da spurte Pilatus ham: Er du jødenes konge? Han svarte ham: Du sier det. 
+4 Da sa Pilatus til yppersteprestene og folket: Jeg finner ingen skyld hos denne mann. 
 5 Men de tok sterkere i og sa: Han opvigler folket, han lærer over hele Jødeland, fra Galilea av, hvor han begynte, og like hit. 
 6 Da Pilatus hørte det, spurte han om mannen var fra Galilea, 
 7 og da han fikk vite at han hørte under Herodes, sendte han ham til Herodes, som også var i Jerusalem i de dager. 
 8 Og da Herodes så Jesus, blev han meget glad; for han hadde i lang tid ønsket å få se ham, fordi han hadde hørt om ham, og han håpet å få se et tegn av ham. 
+9 Han spurte ham da med mange ord; men Jesus svarte ham intet. 
 10 Og yppersteprestene og de skriftlærde stod og klaget hårdt på ham. 
 11 Men Herodes med sine krigsfolk hånte og spottet ham; derefter kastet han et skinnende klædebon om ham og sendte ham således tilbake til Pilatus. 
 12 Den dag blev Pilatus og Herodes venner; før hadde de ligget i fiendskap med hverandre. 
@@ -15,6 +17,8 @@
 17 Men på høitiden måtte han gi dem én fri. 
 18 De ropte da alle som én: Bort med denne, men gi oss Barabbas fri! 
 19 Dette var en som var kastet i fengsel for et oprør som hadde vært i byen, og for et mord. 
+20 Pilatus talte da atter til dem, fordi han gjerne vilde gi Jesus fri. 
+21 Men de ropte til ham og sa: Korsfest, korsfest ham! 
 22 Da sa han for tredje gang til dem: Hvad ondt har da denne mann gjort? Jeg har ikke funnet nogen dødsskyld hos ham; derfor vil jeg refse ham og så gi ham fri. 
 23 Men de trengte på med stort skrik og krevde at han skulde korsfestes; og deres skrik fikk overhånd. 
 24 Så felte da Pilatus den dom at det skulde skje som de krevde; 
@@ -32,6 +36,8 @@
 36 Også stridsmennene hånte ham, de gikk bort til ham og rakte ham eddik og sa: 
 37 Er du jødenes konge, da frels dig selv! 
 38 Men det var også satt en innskrift over ham: Dette er jødenes konge. 
+39 En av ugjerningsmennene som hang der, spottet ham og sa: Er ikke du Messias? Frels dig selv og oss! 
+40 Men den andre svarte og irettesatte ham og sa: Frykter du ikke engang for Gud, du som dog er under samme dom? 
 41 Og vi med rette; for vi får igjen hvad våre gjerninger har forskyldt; men denne har ikke gjort noget galt. 
 42 Og han sa: Jesus! kom mig i hu når du kommer i ditt rike! 
 43 Og han sa til ham: Sannelig sier jeg dig: Idag skal du være med mig i Paradis. 
@@ -43,6 +49,8 @@
 49 Men alle hans kjenninger og de kvinner som hadde fulgt ham fra Galilea, stod langt borte og så dette. 
 50 Og se, det var en mann ved navn Josef, som var rådsherre, og en god og rettferdig mann - 
 51 han hadde ikke samtykket i deres råd og gjerning - fra den jødiske by Arimatea, og han ventet på Guds rike; 
+52 han gikk til Pilatus og bad om Jesu legeme, 
 53 og han tok det ned og svøpte det i fint linklæde, og la det i en grav som var hugget i klippen, og som aldri nogen hadde ligget i. 
+54 Det var beredelses-dagen, og sabbaten stundet til. 
 55 Men nogen kvinner som var kommet med ham fra Galilea, fulgte med, og de så graven, og hvorledes hans legeme blev lagt. 
 56 Så vendte de tilbake og tilberedte velluktende urter og salver, og sabbaten over holdt de sig stille efter lovens bud. 

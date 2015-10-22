@@ -25,6 +25,7 @@
 25 Ka teine keerub oli kümneküünrane - mõlemal keerubil oli ühesugune mõõt ja ühesugune kuju. 
 26 Üks keerub oli kümme küünart kõrge ja nõndasamuti teine keerub. 
 27 Ta pani keerubid keset koja sisemist osa; ja keerubite tiivad laotusid nõnda, et ühe tiib puudutas ühte ja teise keerubi tiib puudutas teist seina, aga keset koda puutusid nende tiivad teineteise külge. 
+28 Ja ta kattis keerubid kullaga.
 29 Ja ta nikerdas kõigi koja seinte peale ümberringi keerubeid ja palme ja puhkenud õiekesi niihästi sisemises kui välimises ruumis. 
 30 Ja ta kattis koja põranda kullaga niihästi sisemises kui välimises ruumis. 
 31 Ja kõige pühama paiga sissekäigule tegi ta õlipuust uksed; piitjala postid olid viietahulised. 
@@ -33,4 +34,5 @@
 34 ja kaks küpressipuust uksepoolt: ühe uksepoole mõlemad tahvlid olid pööratavad, nõndasamuti olid ka teise uksepoole mõlemad tahvlid pööratavad. 
 35 Ja ta nikerdas nende peale keerubeid ja palme ja puhkenud õiekesi ning kattis nikerdatu pealt siledaks taotud kullaga.
 36 Ja ta ehitas siseõue - kolm rida tahutud kive ja rida seedripalke.
+37 Neljandal aastal siivikuus pandi Issanda kojale alus, 
 38 ja üheteistkümnendal aastal buulikuus, see on kaheksandas kuus, sai koda kõigis oma osades valmis, just nagu see pidi olema. Ta ehitas seda seitse aastat.

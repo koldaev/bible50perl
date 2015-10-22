@@ -1,4 +1,5 @@
 1 Estava Jesus em certo lugar orando e, quando acabou, disse-lhe um dos seus discípulos: Senhor, ensina-nos a orar, como também João ensinou aos seus discípulos.
+2 Ao que ele lhes disse: Quando orardes, dizei: Pai, santificado seja o teu nome; venha o teu reino;
 3 dá-nos cada dia o nosso pão cotidiano;
 4 e perdoa-nos os nossos pecados, pois também nós perdoamos a todo aquele que nos deve; e não nos deixes entrar em tentação, [mas livra-nos do mal.]
 5 Disse-lhes também: Se um de vós tiver um amigo, e se for procurá-lo à meia-noite e lhe disser: Amigo, empresta-me três pães,
@@ -18,10 +19,13 @@
 19 E, se eu expulso os demônios por Belzebu, por quem os expulsam os vossos filhos? Por isso eles mesmos serão os vossos juizes.
 20 Mas, se é pelo dedo de Deus que eu expulso os demônios, logo é chegado a vós o reino de Deus.
 21 Quando o valente guarda, armado, a sua casa, em segurança estão os seus bens;
+22 mas, sobrevindo outro mais valente do que ele, e vencendo-o, tira-lhe toda a armadura em que confiava, e reparte os seus despojos.
 23 Quem não é comigo, é contra mim; e quem comigo não ajunta, espalha.
 24 Ora, havendo o espírito imundo saíndo do homem, anda por lugares áridos, buscando repouso; e não o encontrando, diz: Voltarei para minha casa, donde saí.
+25 E chegando, acha-a varrida e adornada.
 26 Então vai, e leva consigo outros sete espíritos piores do que ele e, entrando, habitam ali; e o último estado desse homem vem a ser pior do que o primeiro.
 27 Ora, enquanto ele dizia estas coisas, certa mulher dentre a multidão levantou a voz e lhe disse: Bem-aventurado o ventre que te trouxe e os peitos em que te amamentaste.
+28 Mas ele respondeu: Antes bem-aventurados os que ouvem a palavra de Deus, e a observam.
 29 Como afluíssem as multidões, começou ele a dizer: Geração perversa é esta; ela pede um sinal; e nenhum sinal se lhe dará, senão o de Jonas;
 30 porquanto, assim como Jonas foi sinal para os ninivitas, também o Filho do homem o será para esta geração.
 31 A rainha do sul se levantará no juízo com os homens desta geração, e os condenará; porque veio dos confins da terra para ouvir a sabedoria de Salomão; e eis, aqui quem é maior do que Salomão.
@@ -47,3 +51,4 @@
 51 desde o sangue de Abel, até o sangue de Zacarias, que foi morto entre o altar e o santuário; sim, eu vos digo, a esta geração se pedirão contas.
 52 Ai de vós, doutores da lei! porque tirastes a chave da ciência; vós mesmos não entrastes, e impedistes aos que entravam.
 53 Ao sair ele dali, começaram os escribas e os fariseus a apertá-lo fortemente, e a interrogá-lo acerca de muitas coisas,
+54 armando-lhe ciladas, a fim de o apanharem em alguma coisa que dissesse.

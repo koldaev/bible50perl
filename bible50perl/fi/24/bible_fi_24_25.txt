@@ -1,4 +1,5 @@
 1 Sana, joka tuli Jeremialle, sana koko Juudan kansaa vastaan, Joojakimin, Joosian pojan, Juudan kuninkaan, neljäntenä vuotena, se on Nebukadressarin, Baabelin kuninkaan, ensimmäisenä vuotena-
+2 sana, jonka profeetta Jeremia lausui koko Juudan kansaa ja kaikkia Jerusalemin asukkaita vastaan sanoen:
 3 Joosian, Aamonin pojan, Juudan kuninkaan, kolmannestatoista vuodesta alkaen tähän päivään saakka-kaksikymmentä kolme vuotta-on Herran sana tullut minulle, ja minä olen teille puhunut varhaisesta alkaen, mutta te ette ole kuulleet.
 4 Ja Herra on lähettänyt teidän tykönne kaikki palvelijansa, profeetat, varhaisesta alkaen, mutta te ette ole kuulleet, ette kallistaneet korvaanne kuullaksenne,
 5 kun he sanoivat: Kääntykää itsekukin pahalta tieltänne ja pahoista teoistanne, niin saatte asua maassa, jonka Herra on antanut teille ja teidän isillenne, iankaikkisesta iankaikkiseen.
@@ -17,8 +18,11 @@
 18 Jerusalemia ja Juudan kaupunkeja, sen kuninkaita ja ruhtinaita, tehdäkseni heidät raunioiksi, kauhistukseksi, ivan vihellykseksi ja kiroukseksi, niinkuin tänä päivänä tapahtuu;
 19 faraota, Egyptin kuningasta, ja hänen palvelijoitansa ja ruhtinaitansa ja koko hänen kansaansa;
 20 kaikkea sekakansaa ja kaikkia Uusin maan kuninkaita ja kaikkia filistealaisten maan kuninkaita ja Askelonia ja Gassaa ja Ekronia ja Asdodin tähteitä;
+21 Edomia, Mooabia ja ammonilaisia;
+22 kaikkia Tyyron kuninkaita ja kaikkia Siidonin kuninkaita ja rantamaan kuninkaita, jotka ovat meren tuolla puolen;
 23 Dedania, Teemaa ja Buusia ja kaikkia päälaen ympäriltä kerittyjä;
 24 kaikkia Arabian kuninkaita ja kaikkia sekakansan kuninkaita, jotka asuvat erämaassa;
+25 kaikkia Simrin kuninkaita ja kaikkia Eelamin kuninkaita ja kaikkia Meedian kuninkaita;
 26 kaikkia pohjanpuolen kuninkaita, läheisiä ja kaukaisia, toista toisensa jälkeen, ja kaikkia maan valtakuntia, mitä maan päällä on. Ja heidän jälkeensä on Seesakin kuningas juova.
 27 Sano heille: Näin sanoo Herra Sebaot, Israelin Jumala: Juokaa ja juopukaa, oksentakaa ja kaatukaa, älkääkä enää nousko, -miekan edessä, jonka minä lähetän teidän keskellenne.
 28 Mutta jos he eivät tahdo ottaa maljaa sinun kädestäsi ja juoda, niin sano heille: Näin sanoo Herra Sebaot: Teidän täytyy juoda.
@@ -28,6 +32,7 @@
 32 Näin sanoo Herra Sebaot: Katso, onnettomuus kulkee kansasta kansaan, ja suuri myrsky nousee maan perimmäisistä ääristä.
 33 Ja Herran surmaamia on oleva sinä päivänä maan äärestä maan ääreen. Ei heille pidetä valittajaisia, ei heitä koota eikä haudata; he tulevat maan lannaksi.
 34 Parkukaa, te paimenet, ja huutakaa, vieriskelkää tuhassa, te lauman valtiaat; sillä aika on tullut teidän joutua teurastettaviksi. Te hajoatte pirstoiksi, te kaadutte niinkuin kallisarvoinen astia.
+35 Mennyt on paimenilta pakopaikka ja pelastus lauman valtiailta.
 36 Kuule paimenten huutoa, lauman valtiaitten valitusta! Sillä Herra hävittää heidän laumansa;
 37 heidän rauhaisat laitumensa ovat tuhoutuneet Herran vihan hehkusta.
 38 Hän on lähtenyt niinkuin nuori leijona pensaikostaan: heidän maansa on tullut autioksi hävittäjän vihan hehkusta, Herran vihan hehkusta.

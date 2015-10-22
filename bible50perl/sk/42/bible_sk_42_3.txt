@@ -25,6 +25,7 @@
 25 on Matatiáša, on Amosa, on Nahuma, on Esliho, on Naggeho,
 26 on Maatu, on Matatiáša, on Semeja, on Jozecha, on Jódu,
 27 on Joannu, on Rézu, on Zorobábela, on Salatiela, on Nériho,
+28 on Melchiho, on Addiho, on Kozama, on Elmadama, on Era,
 29 on Jezusa, on Eliezera, on Jorima, on Matata, on Léviho,
 30 on Simeona, on Júdu, on Jozefa, on Jonama, on Eliakima,
 31 on Meleu, on Mennu, on Matatana, on Nátana, on Dávida,
@@ -32,4 +33,6 @@
 33 on Aminadaba, on Admina, on Arniho, on Ezroma, on Faresa, on Júdu,
 34 on Jakuba, on Izáka, on Abraháma, on Táreho, on Nachora,
 35 on Serucha, on Ragaua, on Fáleka, on Ebera, on Salu,
+36 on Kainana, on Arfaxada, on Sema, on Noema, on Lamecha,
+37 on Matuzalema, on Henocha, on Jareda, on Maleleela, on Kainana,
 38 on Enosa, on Seta, on synom Adama, ktorý bol od Boha.

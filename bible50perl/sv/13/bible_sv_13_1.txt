@@ -1,3 +1,7 @@
+1 Adam, Set, Enos,
+2 Kenan, Mahalalel, Jered,
+3 Hanok, Metusela, Lemek,
+4 Noa, Sem, Ham och Jafet.
 5 Jafets söner voro Gomer, Magog, Madai, Javan, Tubal, Mesek och Tiras.
 6 Gomers söner voro Askenas, Difat och Togarma.
 7 Javans söner voro Elisa och Tarsisa, kittéerna och rodanéerna.
@@ -14,10 +18,16 @@
 18 Arpaksad födde Sela, och Sela födde Eber.
 19 Men åt Eber föddes två söner; den ene hette Peleg, ty i hans tid blev jorden fördelad; och hans broder hette Joktan.
 20 Och Joktan födde Almodad, Selef, Hasarmavet, Jera,
+21 Hadoram, Usal, Dikla,
+22 Ebal, Abimael, Saba,
 23 Ofir, Havila och Jobab; alla dessa voro Joktans söner.
+24 Sem, Arpaksad, Sela,
+25 Eber, Peleg, Regu,
+26 Serug, Nahor, Tera,
 27 Abram, det är Abraham
 28 Abrahams söner voro Isak och Ismael.
 29 Detta är deras släkttavla: Nebajot, Ismaels förstfödde, vidare Kedar, Adbeel och Mibsam,
+30 Misma och Duma, Massa, Hadad och Tema,
 31 Jetur, Nafis och Kedma.  Dessa voro Ismaels söner.
 32 Och de söner som Ketura, Abrahams bihustru, födde voro Simran, Joksan, Medan, Midjan, Jisbak och Sua.  Joksans söner voro Saba och Dedan.
 33 Och Midjans söner voro Efa, Efer, Hanok, Abida och Eldaa.  Alla dessa voro Keturas söner.
@@ -39,3 +49,6 @@
 49 När Saul dog, blev Baal-Hanan, Akbors son, konung efter honom
 50 När Baal-Hanan dog, blev Hadad konung efter honom; och hans stad hette Pagi, och hans hustru hette Mehetabel, dotter till Matred, var dotter till Me-Sahab.
 51 Men när Hadad hade dött, voro dessa Edoms stamfurstar: fursten Timna, fursten Alja, fursten Jetet,
+52 fursten Oholibama, fursten Ela, fursten Pinon,
+53 fursten Kenas, fursten Teman, fursten Mibsar,
+54 fursten Magdiel, fursten Iram.  Dessa voro Edoms stamfurstar.

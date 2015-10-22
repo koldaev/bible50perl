@@ -1,7 +1,9 @@
 1 Siis rääkis suhiit Bildad ja ütles:  
 2 'Millal sa teed sõnadele lõpu? Mõtle järele, ja rääkigem siis. 
+3 Miks peetakse meid loomadeks, oleme rumalad teie silmis? 
 4 Sina, kes vihas oma hinge lõhki käristad - kas sinu pärast jäetakse maha maa või nihutatakse kalju oma asemelt?  
 5 Jah, õela valgus kustub ja tema tuleleek ei paista. 
+6 Ta telgis pimeneb valgus ja ta kohal kustub tema lamp. 
 7 Ta jõudsad sammud jäävad lühikeseks ja ta oma nõu paiskab ta maha. 
 8 Sest ta oma jalad viivad ta võrku ja ta käib püüniste peal. 
 9 Püüdepael haarab teda kannast, lõks hoiab teda kinni. 
@@ -9,6 +11,7 @@
 11 Kõikjal kohutab teda suur hirm ja kihutab tema kannul. 
 12 Õnnetus tunneb nälga tema järele, hukatus on valmis tema kukutamiseks. 
 13 Tõbi sööb ta naha, surma esmasündinu sööb ta liikmed. 
+14 Tema telgist kistakse ta lootus ja teda aetakse suure hirmu kuninga juurde. 
 15 Tema telki asub elama see, mis pole tema oma, ta eluaseme peale puistatakse väävlit. 
 16 Temal kuivavad juured alt ja närtsivad oksad pealt. 
 17 Mälestus temast kaob maalt ja ta nime ei nimetata tänaval. 

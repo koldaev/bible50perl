@@ -3,11 +3,13 @@
 3 Filippus ja Bartolomeus, Toomas ja tölner Matteus, Jaakobus, Alfeuse poeg, ja Taddeus, 
 4 Siimon Kananaios ja Juudas Iskariot, kes tema ka ära andis.
 5 Jeesus läkitas välja need kaksteist, käskides neid: 'Ärge minge paganate teele ja ärge astuge samaarlaste linna, 
+6 pigem minge Iisraeli soo kadunud lammaste juurde! 
 7 Ja minnes kuulutage: Taevariik on lähedal! 
 8 Tehke terveks haigeid, äratage üles surnuid, tehke puhtaks pidalitõbiseid, ajage välja kurje vaime! Muidu olete saanud, muidu andke! 
 9 Ärge soetage kulda ega hõbedat ega vaskraha oma vöö vahele, 
 10 ei pauna teele ega kahte särki ega jalatseid ega saua, sest töömees on oma elatist väärt! 
 11 Aga kuhu linna või külasse te iganes sisse astute, uurige, kes seal on vääriline, ja sinna jääge, kuni te sealt lahkute! 
+12 Majja astudes aga tervitage seda! 
 13 Ja kui see maja väärib, tulgu teie rahu tema peale, kui ta aga ei vääri, pöördugu teie rahu tagasi teie juurde! 
 14 Ja kus iganes teid vastu ei võeta ega kuulata teie sõnu, sellest majast või linnast minge välja ja raputage maha selle koha tolm oma jalgadelt! 
 15 Tõesti, ma ütlen teile: Soodoma- ja Gomorramaal on kohtupäeval hõlpsam põli kui sellel linnal!
@@ -31,6 +33,7 @@
 33 Aga igaühe, kes iganes minu ära salgab inimeste ees, tema salgan ära ka mina oma Isa ees, kes on taevas.
 34 Ärge arvake, et ma olen tulnud rahu tooma maa peale! Ma ei ole tulnud tooma rahu, vaid mõõka, 
 35 sest ma olen tulnud lahutama meest tema isast ja tütart tema emast ja miniat tema ämmast, 
+36 ja inimese vaenlasteks saavad tema kodakondsed.
 37 Kes isa või ema armastab enam kui mind, see ei ole mind väärt, ja kes poega või tütart armastab enam kui mind, see ei ole mind väärt. 
 38 Ja kes ei võta oma risti ega järgne mulle, see ei ole mind väärt. 
 39 Kes oma elu leiab, kaotab selle, ja kes oma elu kaotab minu pärast, leiab selle.

@@ -135,6 +135,7 @@
 135 Parodyk savo tarnui savo veidą šviesų ir mokyk mane savo nuostatų.
 136 Iš akių man srūva upeliai, nes jie nesilaiko Tavo įstatymo.
 137 Viešpatie, Tu esi teisus, teisingi Tavo sprendimai.
+138 Tavo liudijimai teisingi ir neabejotini.
 139 Mano uolumas graužia mane, nes priešai pamiršo Tavo žodžius.
 140 Tavo žodis yra visiškai tyras, jį Tavo tarnas brangina.
 141 Nors esu paniekintas ir menkas, bet Tavo potvarkių neužmiršiu.
@@ -171,4 +172,5 @@
 172 Mano liežuvis kalbės apie Tavo žodį, nes Tavo įsakymai teisingi.
 173 Tavo ranka tepadeda man, nes aš pasirinkau Tavo potvarkius.
 174 Ilgiuosi, Viešpatie, Tavo išgelbėjimo, įstatymu Tavo gėriuosi.
+175 Mano siela tegyvena ir tegiria Tave, Tavo sprendimai tepadeda man.
 176 Klaidžioju kaip avis paklydus. Ieškok savo tarno, nes Tavo įsakymų aš neužmiršau.

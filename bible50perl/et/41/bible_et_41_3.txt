@@ -13,7 +13,9 @@
 13 Ja Jeesus läks üles mägedesse ja kutsus enese juurde, keda ta ise tahtis, ja need tulid tema juurde. 
 14 Ja ta seadis kaksteist, keda ta ka nimetas apostliteks, et need oleksid temaga ja et ta võiks nad läkitada kuulutama 
 15 ja et neil oleks meelevald kurje vaime välja ajada. 
+16 Ja ta seadis need kaksteist: Siimona, ja pani talle nimeks Peetrus, 
 17 ja Jaakobuse, Sebedeuse poja, ning Jaakobuse venna Johannese, ja pani neile nimeks Boanerges, see on Kõuepojad, 
+18 ja Andrease ja Filippuse ja Bartolomeuse ja Matteuse ja Tooma ja Jaakobuse, Alfeuse poja, ja Taddeuse ja Siimon Kananaiose 
 19 ja Juudas Iskarioti, kes tema ära andis.
 20 Ja Jeesus tuli koju ja taas kogunes rahvahulk, nii et nad ei saanud leibagi süüa. 
 21 Ja seda kuuldes tulid ta omaksed teda kinni võtma, sest räägiti, et ta on arust ära.
@@ -28,5 +30,6 @@
 30 Nad ju ütlesid: 'Tal on rüve vaim!'
 31 Siis tulid Jeesuse ema ja ta vennad, ja väljas seistes lasksid nad teda kutsuda. 
 32 Ja rahvahulk istus Jeesuse ümber, kui talle öeldi: 'Vaata, su ema ja su vennad ja su õed otsivad sind väljas.' 
+33 Ent Jeesus vastas neile: 'Kes on mu ema ja vennad?' 
 34 Ja silmitsedes neid, kes istusid ringis ta ümber, ütles ta: 'Ennäe, mu ema ja mu vennad! 
 35 Sest kes iganes teeb Jumala tahtmist, see on mu vend ja õde ja ema.'

@@ -4,6 +4,7 @@
 4 Voici les fêtes de l'Éternel, les saintes convocations, que vous publierez à leurs temps fixés. 
 5 Le premier mois, le quatorzième jour du mois, entre les deux soirs, ce sera la Pâque de l'Éternel. 
 6 Et le quinzième jour de ce mois, ce sera la fête des pains sans levain en l'honneur de l'Éternel; vous mangerez pendant sept jours des pains sans levain. 
+7 Le premier jour, vous aurez une sainte convocation: vous ne ferez aucune oeuvre servile. 
 8 Vous offrirez à l'Éternel, pendant sept jours, des sacrifices consumés par le feu. Le septième jour, il y aura une sainte convocation: vous ne ferez aucune oeuvre servile. 
 9 L'Éternel parla à Moïse, et dit: 
 10 Parle aux enfants d'Israël et tu leur diras: Quand vous serez entrés dans le pays que je vous donne, et que vous y ferez la moisson, vous apporterez au sacrificateur une gerbe, prémices de votre moisson. 
@@ -31,6 +32,7 @@
 32 Ce sera pour vous un sabbat, un jour de repos, et vous humilierez vos âmes; dès le soir du neuvième jour jusqu'au soir suivant, vous célébrerez votre sabbat. 
 33 L'Éternel parla à Moïse, et dit: 
 34 Parle aux enfants d'Israël, et dis: Le quinzième jour de ce septième mois, ce sera la fête des tabernacles en l'honneur de l'Éternel, pendant sept jours. 
+35 Le premier jour, il y aura une sainte convocation: vous ne ferez aucune oeuvre servile. 
 36 Pendant sept jours, vous offrirez à l'Éternel des sacrifices consumés par le feu. Le huitième jour, vous aurez une sainte convocation, et vous offrirez à l'Éternel des sacrifices consumés par le feu; ce sera une assemblée solennelle: vous ne ferez aucune oeuvre servile. 
 37 Telles sont les fêtes de l'Éternel, les saintes convocations, que vous publierez, afin que l'on offre à l'Éternel des sacrifices consumés par le feu, des holocaustes, des offrandes, des victimes et des libations, chaque chose au jour fixé. 
 38 Vous observerez en outre les sabbats de l'Éternel, et vous continuerez à faire vos dons à l'Éternel, tous vos sacrifices pour l'accomplissement d'un voeu et toutes vos offrandes volontaires. 

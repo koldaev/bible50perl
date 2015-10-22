@@ -1,7 +1,9 @@
 1 Visa tā dēļ mēs slēdzam un rakstām stipru derību un uz apzīmogotā raksta stāv mūsu lielkungu, mūsu levītu, mūsu priesteru vārdi. 
 2 Un uz apzīmogotā raksta stāv vārdi: Nehemija, zemes pārvaldnieks, Hahaljas dēls, un Cedekija, 
+3 Seraja, Asarja, Jeremija, 
 4 Pašhurs, Amarja, Malkija, 
 5 Hatušs, Šehaņja, Malluhs, 
+6 Harims, Meremots, Obadja, 
 7 Daniēls, Ginnetons, Bāruhs, 
 8 Mešullāms, Abija, Mijamīns, 
 9 Maāsja, Bilgajs, Šemaja; tie ir priesteri. 
@@ -11,13 +13,18 @@
 13 Zakurs, Šerebja, Šebanja, 
 14 Hodija, Banijs, Benīnus. 
 15 Tautas vadoņi: Parošs, Pahat-Moābs, Ēlāms, Zatus, Banijs, 
+16 Bunnijs, Azgads, Bebajs, 
 17 Adonija, Bigvajs, Adīns, 
+18 Aters, Hiskija, Asurs, 
 19 Hodija, Hašums, Becajs, 
+20 Harifs, Anatots, Nobajs, 
 21 Magpiašs, Mešullāms, Hezīrs, 
 22 Mešezabeēls, Cadoks, Jadua, 
+23 Pelatja, Hanans, Anaja, 
 24 Hošea, Hananja, Hašubs, 
 25 Hallohešs, Pilha, Šobeks, 
 26 Rehums, Hašabna, Maāseja, 
+27 Ahija, Hanans, Anans, 
 28 Malluhs, Harims un Baāna. 
 29 Bet pārējā tauta, priesteri, levīti, vārtu sargi, dziedātāji, Tempļa kalpotāji un visi, kas nošķīrušies no tās zemes tautām un turas pie Dieva bauslības, viņu sievas, viņu dēli, viņu meitas, visi, kam bija atziņa un saprašana, 
 30 pievienojās ar šo saviem brāļiem, saviem varenajiem, un svēti apsolījās ar neatsaucamu zvērestu dzīvot Dieva bauslībā, kas ir dota caur Dieva kalpu Mozu, turēt un pildīt visus Tā Kunga, mūsu Dieva, pavēles, Viņa tiesas un likumus. 

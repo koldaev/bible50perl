@@ -1,3 +1,4 @@
+1 A Isus se uputi na Maslinsku goru. 
 2 U zoru eto ga opet u  Hramu. Sav je narod hrlio k njemu. On sjede i stade poučavati. 
 3 Uto mu pismoznanci i farizeji dovedu neku ženu zatečenu u  preljubu. Postave je u sredinu 
 4 i kažu mu: Učitelju! Ova je  žena zatečena u samom preljubu. 
@@ -11,11 +12,15 @@
 12 Isus im zatim ponovno progovori: Ja sam svjetlost svijeta; tko ide za mnom, neće hoditi u tami, nego će imati svjetlost života.
 13 Farizeji mu nato rekoše: Ti svjedočiš sam za sebe: svjedočanstvo  tvoje nije istinito!
 14 Odgovori im Isus: Ako ja i svjedočim sam za sebe, svjedočanstvo je moje istinito jer znam odakle dođoh i kamo idem. A vi ne znate ni odakle dolazim ni kamo idem.
+15 Vi sudite po tijelu; ja ne sudim nikoga;
+16 no ako i sudim, sud je moj istinit jer nisam sam, nego - ja i onaj koji me posla, Otac.
 17 Ta i u vašem zakonu piše da je svjedočanstvo dvojice istinito.
 18 Ja svjedočim za sebe, a svjedoči za mene i onaj koji me posla, Otac.
+19 Nato ga upitaju: Gdje je tvoj Otac? Odgovori Isus: Niti mene poznajete niti Oca mojega. Kad biste poznavali mene, i Oca biste moga poznavali.
 20 Te riječi rekao je Isus u riznici dok je naučavao u Hramu.  I nitko ga ne uhvati jer još ne bijaše došao njegov čas.
 21 Reče im ponovno Isus: Ja odlazim, a vi ćete me tražiti i u svojem ćete grijehu umrijeti. Kamo ja odlazim, vi ne možete doći.
 22 Židovi se nato stanu pitati: Da se možda ne kani ubiti kad  govori: 'Kamo ja odlazim, vi ne možete doći'? 
+23 A Isus nastavi: Vi ste odozdol, ja sam odozgor. Vi ste od ovoga svijeta, a ja nisam od ovoga svijeta.
 24 Stoga vam i rekoh: 'Umrijet ćete u grijesima svojim.' Uistinu, ako ne povjerujete da Ja jesam, umrijet ćete u grijesima svojim.
 25 Nato mu oni rekoše: A tko si ti? Odvrati Isus:
 26 Ta što da vam s početka opet zborim? Mnogo toga imam o vama zboriti i suditi; no onaj koji me posla istinit je, i što sam čuo od njega, to ja zborim svijetu.
@@ -37,6 +42,7 @@
 42 Reče im Isus: Kad bi Bog bio vaš Otac, ljubili biste mene jer sam ja od Boga izišao i došao; nisam sam od sebe došao, nego on me posla.
 43 Zašto moje besjede ne razumijete? Zato što niste kadri slušati moju riječ.
 44 Vama je otac đavao i hoće vam se vršiti prohtjeve oca svoga. On bijaše čovjekoubojica od početka i ne stajaše u istini jer nema istine u njemu: kad govori laž, od svojega govori jer je lažac i otac laži.
+45 A meni, jer istinu govorim, meni ne vjerujete.
 46 Tko će mi od vas dokazati grijeh? Ako istinu govorim, zašto mi ne vjerujete?
 47 Tko je od Boga, riječi Božje sluša; vi zato ne slušate jer niste od Boga.
 48 Odgovoriše mu Židovi: Ne kažemo li pravo da si ti Samarijanac  i da imaš zloduha? 

@@ -13,6 +13,8 @@
 13 Od Izaiho pochádza jeho prvorodený Eliab, druhý Abinadab, tretí Sima,
 14 štvrtý Natanael, piaty Radaj,
 15 šiesty Asom a siedmy Dávid.
+16 Ich sestry boli: Sarvia a Abigail. Synovia Sarvie: Abisai, Joab a Asael, traja.
+17 Abigail porodila Amasu. Amasov otec bol Izmaelovec Jeter.
 18 Hesronov syn Kaleb si vzal za manželku Azubu z Jeriotu a toto sú jej synovia: Jaser, Sobab a Ardon.
 19 Keď Azuba zomrela, vzal si Kaleb Efratu, ktorá mu porodila Hura.
 20 Od Hura pochádza Uri a od Uriho pochádza Bezeleel.
@@ -23,7 +25,10 @@
 25 Synovia Jerameela, Hesronovho prvorodeného, boli: prvorodený Rám, ďalej Buna, Aram, Asom a Achiáš.
 26 Jerameel mal aj druhú manželku, menom Ataru; tá bola Onamovou matkou.
 27 Synovia Ráma, Jerameelovho prvorodeného, boli: Mós, Jamin a Achar.
+28 Onamovi synovia boli Semei a Jada. Semeiho synovia: Nadab a Abisur.
 29 Meno Abisurovej manželky bolo Abihail; ona mu porodila Ahobana a Molida.
+30 Nadabovi synovia: Saled a Apaim. Saled zomrel bez dietok.
+31 Apaimovi synovia: Jesi. Jesiho synovia: Sesan. Sesanovi synovia: Oholai.
 32 Synovia Jadu, Semeiho brata: Jeter a Jonatán. Jeter zomrel bez dietok.
 33 Jonatánovi synovia: Falet a Ziza. To boli synovia Jerameela.
 34 Sesan nemal synov, iba dcéry. Sesan však mal egyptského sluhu, menom Jeraa.
@@ -35,12 +40,15 @@
 40 od Elasu pochádza Sisamoi, od Sisamoiho pochádza Selum,
 41 od Seluma pochádza Ikamiáš, od Ikamiáša pochádza Elisama.
 42 Synovia Kaleba, Jerameelovho brata: jeho prvorodený Mesa je otcom Zifu; a jeho syn Maresa otcom Hebrona.
+43 Hebronovi synovia: Kore, Tafua, Rekem a Sama.
 44 Od Samu pochádza Raham, otec Jerkaama, a od Rekema pochádza Samai.
+45 Samaiho syn bol Maon a Maon bol otec Betsura.
 46 Kalebova vedľajšia žena Efa porodila Harana, Mosu a Gezeza. Od Harana pochádza Gezez.
 47 Jahadaiho synovia: Regom, Joatan, Gesan, Falet, Efa a Sáf.
 48 Kalebova vedľajšia žena Maácha porodila Sabera a Taranu.
 49 Od Sáfa, otca Madmeny, pochádza Sue, otec Machbeny a otec Gabay. Kalebova dcéra bola Achsa.
 50 To boli Kalebovi synovia. Synovia Hura, Efratinho prvorodeného: Sobal, otec Karjatiarima,
+51 Salma, otec Betlehema, Harif, otec Betgadera.
 52 Sobal, otec Karjatiarima, mal synov: Haroeho a polovicu Menuchoťanov.
 53 Rody Karjatiarima: Jetrejci, Afutejci, Sematejci a Maserejci. Od týchto pochádzajú Saraania a Estaolci.
 54 Salmovi synovia: Betlehem, Netofania, Atarot-Bet-Joab, polovica Menuchoťanov a Sarania.

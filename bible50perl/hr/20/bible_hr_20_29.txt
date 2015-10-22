@@ -6,6 +6,7 @@
 6 U grijehu je zamka zlu čovjeku, a pravednik likuje i veseli se.
 7 Pravednik razumije pravo malenih, a opaki ne shvaća spoznaju.
 8 Podsmjevači uzbunjuju grad, a mudri stišavaju srdžbu.
+9 Kad se mudrac parbi s bezumnikom, il' se srdio, il' se smijao, svejednako mira nema.
 10 Krvopije mrze poštenoga, a pravednici mu se za život brinu.
 11 Bezumnik izlijeva sav svoj gnjev, a mudrac susteže svoju srdžbu.
 12 Ako vladalac posluša riječ lažljivu, sve mu sluge postaju opake.
@@ -23,3 +24,4 @@
 24 Tko s lupežom plijen dijeli, mrzi sebe samog: čuje proklinjanje i ništa ne otkriva.
 25 Strah čovjeku postavlja zamku, a tko se uzda u Jahvu, nalazi okrilje.
 26 Mnogi traže milost vladaočevu, ali Jahve dijeli pravdu svakome.
+27 Nepravednik je mrzak pravednicima, a pravednik je mrzak opakima.

@@ -1,7 +1,9 @@
 1 Kennst du die Zeit, da die Steinböcke gebären, oder hast du beobachtet, wann die Hindinnen werfen?
 2 Zählst du die Monde, die sie erfüllen sollen, und weißt du die Zeit ihres Gebärens?
+3 Sie legen sich nieder, werfen ihre Jungen und sind ihrer Wehen los.
 4 Ihre Jungen erstarken, wachsen im Freien auf, verlassen sie und kommen nicht mehr zurück.
 5 Wer hat den Wildesel frei laufen lassen, und wer hat die Bande des Wildlings aufgelöst,
+6 dem ich die Steppe zur Wohnung angewiesen habe, das salzige Land zum Aufenthalt?
 7 Er lacht der lärmenden Stadt, und das Geschrei des Treibers hört er nicht;
 8 er ersieht die Berge zu seiner Weide und läuft allen grünen Kräutern nach.
 9 Wird der Büffel willig sein, dir zu dienen? Bleibt er an deiner Krippe über Nacht?
@@ -12,6 +14,7 @@
 14 Nein, sie überläßt ihre Eier der Erde und läßt sie im Sande ausbrüten.
 15 Sie vergißt, daß ein Fuß sie zertreten und ein wildes Tier sie verderben kann.
 16 Sie ist hart gegen ihre Jungen, als gehörten sie ihr nicht; es macht ihr keinen Kummer, wenn sie sich umsonst abgemüht hat;
+17 denn Gott hat ihr die Weisheit versagt und ihr keinen Verstand zugeteilt.
 18 Zur Zeit, da sie ihre Flügel in die Höhe schlägt, verlacht sie Roß und Reiter.
 19 Hast du dem Roß Stärke verliehen und seinen Hals mit der flatternden Mähne umhüllt?
 20 Lehrst du es springen wie eine Heuschrecke, daß sein stolzes Schnauben furchtbar klingt?
@@ -22,5 +25,6 @@
 25 sobald die Posaune erklingt, spricht es: Hui! Von ferne wittert es die Schlacht, die Donnerstimme der Führer und das Feldgeschrei.
 26 Macht es dein Verstand, daß der Habicht fliegt und seine Flügel gen Süden ausbreitet?
 27 Schwingt sich auf dein Geheiß der Adler empor und legt sein Nest in der Höhe an?
+28 Er wohnt in Felsspalten und horstet auf Klippen und Bergesspitzen.
 29 Von dort aus erspäht er sich Beute, seine Augen schweifen weit umher;
 30 seine Jungen schlürfen Blut, und wo ein Aas ist, da ist er.

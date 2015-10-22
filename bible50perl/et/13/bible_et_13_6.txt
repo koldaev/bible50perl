@@ -1,12 +1,48 @@
+1 Leevi pojad olid Geersom, Kehat ja Merari. 
+2 Ja need olid Geersomi poegade nimed: Libni ja Simei. 
+3 Ja Kehati pojad olid Amram, Jishar, Hebron ja Ussiel. 
 4 Ja Merari pojad olid Mahli ja Muusi. Need olid leviitide suguvõsad nende isade järgi: 
 5 Geersomist põlvnes tema poeg Libni - tema poeg oli Jahat, tema poeg oli Simma, 
+6 tema poeg oli Joah, tema poeg oli Iddo, tema poeg oli Serah, tema poeg oli Jeatrai. 
+7 Kehati pojad olid: tema poeg oli Amminadab, tema poeg oli Korah, tema poeg oli Assir, 
+8 tema poeg oli Elkana, tema poeg oli Ebjasaf, tema poeg oli Assir,  
+9 tema poeg oli Tahat, tema poeg oli Uuriel, tema poeg oli Ussija, tema poeg oli Saul. 
+10 Elkana pojad olid Amaasai ja Ahimoot, 
+11 tema poeg oli Elkana, tema poeg oli Soofai, ja tema poeg oli Nahat,  
+12 tema poeg oli Eliab, tema poeg oli Jeroham, tema poeg oli Elkana.  
 13 Ja Saamueli pojad olid: esmasündinu Joel, ja teine Abija. 
+14 Merari pojad olid: Mahli, tema poeg oli Libni, tema poeg oli Simei, tema poeg oli Ussa, 
+15 tema poeg oli Simea, tema poeg oli Haggija, tema poeg oli Asaja. 
 16 Siis olid veel need, keda Taavet pani laulu eest hoolitsejaiks Issanda kotta, pärast seda kui seaduselaegas enesele peatuspaiga oli saanud. 
+17 Nemad teenisid lauluga kogudusetelgi asupaiga ees, kuni Saalomon Jeruusalemma Issanda koja ehitas; ja nad toimetasid oma teenistust vastavalt neile seatud korrale. 
+18 Ja need olid teenistuses olijad ning nende pojad: kehatlaste poegadest: Heeman, laulja, Joeli poeg, kes oli Saamueli poeg, 
+19 kes oli Elkana poeg, kes oli Jerohami poeg, kes oli Elieli poeg, kes oli Tooahi poeg, 
+20 kes oli Suufi poeg, kes oli Elkana poeg, kes oli Mahati poeg, kes oli Amaasai poeg, 
+21 kes oli Elkana poeg, kes oli Joeli poeg, kes oli Asarja poeg, kes oli Sefanja poeg, 
+22 kes oli Tahati poeg, kes oli Assiri poeg, kes oli Eljasafi poeg, kes oli Korahi poeg, 
+23 kes oli Jishari poeg, kes oli Kehati poeg, kes oli Leevi poeg, kes oli Iisraeli poeg. 
+24 Ja tema vend oli Aasaf, kes seisis temast paremal pool: Aasaf oli Berekja poeg, kes oli Simea poeg, 
+25 kes oli Miikaeli poeg, kes oli Baaseja poeg, kes oli Malkija poeg, 
+26 kes oli Etni poeg, kes oli Serahi poeg, kes oli Adaja poeg,  
+27 kes oli Eetani poeg, kes oli Simma poeg, kes oli Simei poeg, 
+28 kes oli Jahati poeg, kes oli Geersomi poeg, kes oli Leevi poeg.  
+29 Ja nende vennad Merari pojad olid vasakul pool: Eetan, Kiisi poeg, kes oli Abdi poeg, kes oli Malluki poeg, 
+30 kes oli Hasabja poeg, kes oli Amasja poeg, kes oli Hilkija poeg, 
+31 kes oli Amsi poeg, kes oli Baani poeg, kes oli Semeri poeg,  
+32 kes oli Mahli poeg, kes oli Muusi poeg, kes oli Merari poeg, kes oli Leevi poeg. 
 33 Ja nende vennad, leviidid, olid määratud igaks ettetulevaks teenistuseks Jumala koja asukohas.
 34 Aaron ja tema pojad aga suitsutasid põletusohvrialtaril ja suitsutusaltaril, toimetades igasugu teenistust kõige pühamas paigas ja tehes Iisraelile lepitust, kõik vastavalt sellele, nagu Mooses, Jumala sulane, oli käskinud. 
+35 Ja need olid Aaroni pojad: tema poeg oli Eleasar, tema poeg oli Piinehas, tema poeg oli Abisuua, 
+36 tema poeg oli Bukki, tema poeg oli Ussi, tema poeg oli Serahja,  
+37 tema poeg oli Merajot, tema poeg oli Amarja, tema poeg oli Ahituub, 
+38 tema poeg oli Saadok, tema poeg oli Ahimaats.
 39 Ja need olid leviitide elukohad nende leeripaikade järgi neile kuuluval maa-alal: Aaroni poegadele kehatlaste suguvõsast, sest neile langes liisk, 
 40 anti Hebron Juudamaal ja selle ümber olevad karjamaad. 
 41 Aga linna põllud ja selle külad anti Kaalebile, Jefunne pojale.  
+42 Ja Aaroni poegadele anti pelgulinnad Hebron ja Libna ning selle karjamaad, ja Jattir ja Estemoa ning selle karjamaad, 
+43 ja Hiiles ning selle karjamaad, ja Debir ning selle karjamaad,  
+44 ja Aasan ning selle karjamaad, ja Beet-Semes ning selle karjamaad,  
+45 ja Benjamini suguharult Geba ning selle karjamaad, ja Aalemet ning selle karjamaad, ja Anatot ning selle karjamaad. Nende linnu oli kokku kolmteist linna koos nende karjamaadega. 
 46 Ja teised Kehati pojad oma suguvõsade kaupa said liisu läbi Efraimi suguharult ja Daani suguharult ja Manasse poolelt suguharult kümme linna. 
 47 Ja Geersomi pojad oma suguvõsade kaupa said Issaskari suguharult ja Aaseri suguharult ja Naftali suguharult ja Manasse suguharult Baasanis kolmteist linna. 
 48 Ja Merari pojad oma suguvõsade kaupa said Ruubeni suguharult ja Gaadi suguharult ja Sebuloni suguharult liisu läbi kaksteist linna.
@@ -14,7 +50,17 @@
 50 Nad andsid liisu läbi Juuda laste suguharult ja Siimeoni laste suguharult ja Benjamini laste suguharult need linnad, mis nimeliselt on nimetatud.
 51 Ja mõned Kehati poegade suguvõsadest said oma maa-alaks linnad Efraimi suguharult: 
 52 neile anti pelgulinnad Sekem ning selle karjamaad Efraimi mäestikus, ja Geser ning selle karjamaad, 
+53 ja Jokmeam ning selle karjamaad, ja Beet-Hooron ning selle karjamaad, 
+54 ja Ajjalon ning selle karjamaad, ja Gat-Rimmon ning selle karjamaad,  
 55 ja Manasse poolelt suguharult Aaner ning selle karjamaad, ja Bileam ning selle karjamaad; need said ülejäänud Kehati poegade suguvõsadele.
 56 Geersomi pojad said oma suguvõsade kaupa Manasse poolelt suguharult Goolani Baasanis ning selle karjamaad, ja Astaroti ning selle karjamaad; 
+57 ja Issaskari suguharult: Kedesi ning selle karjamaad, ja Dobrati ning selle karjamaad, 
+58 ja Raamoti ning selle karjamaad, ja Aanemi ning selle karjamaad;  
+59 ja Aaseri suguharult: Maasali ning selle karjamaad, ja Abdoni ning selle karjamaad, 
+60 ja Huukoki ning selle karjamaad, ja Rehobi ning selle karjamaad;  
+61 ja Naftali suguharult: Galilea Kedesi ning selle karjamaad, ja Hammoni ning selle karjamaad, ja Kirjataimi ning selle karjamaad.
 62 Ülejäänud Merari pojad said Sebuloni suguharult Rimmoni ning selle karjamaad, ja Taabori ning selle karjamaad, 
 63 ja teiselt poolt Jordanit, Jeeriko kohalt Jordanist ida pool, Ruubeni suguharult kõrbes asuva Beseri ning selle karjamaad, ja Jahsa ning selle karjamaad,  
+64 ja Kedemoti ning selle karjamaad, ja Meefati ning selle karjamaad;  
+65 ja Gaadi suguharult Gileadi Raamoti ning selle karjamaad, ja Mahanaimi ning selle karjamaad, 
+66 ja Hesboni ning selle karjamaad, ja Jaaseri ning selle karjamaad. 

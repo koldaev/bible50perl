@@ -1,5 +1,6 @@
 1 Estas son las generaciones de Esaú, el cual es Edom: 
 2 Esaú tomó sus mujeres de las hijas de Canaán: a Ada, hija de Elón heteo, a Aholibama, hija de Aná, hijo de Zibeón heveo, 
+3 y a Basemat hija de Ismael, hermana de Nebaiot. 
 4 Ada dio a luz a Esaú a Elifaz; y Basemat dio a luz a Reuel. 
 5 Y Aholibama dio a luz a Jeús, a Jaalam y a Coré; estos son los hijos de Esaú, que le nacieron en la tierra de Canaán. 
 6 Y Esaú tomó sus mujeres, sus hijos y sus hijas, y todas las personas de su casa, y sus ganados, y todas sus bestias, y todo cuanto había adquirido en la tierra de Canaán, y se fue a otra tierra, separándose de Jacob su hermano. 
@@ -27,6 +28,7 @@
 28 Estos fueron los hijos de Disán: Uz y Arán. 
 29 Y estos fueron los jefes de los horeos: los jefes Lotán, Sobal, Zibeón, Aná, 
 30 Disón, Ezer y Disán; estos fueron los jefes de los horeos, por sus mandos en la tierra de Seir. 
+31 Y los reyes que reinaron en la tierra de Edom, antes que reinase rey sobre los hijos de Israel, fueron estos: 
 32 Bela hijo de Beor reinó en Edom; y el nombre de su ciudad fue Dinaba. 
 33 Murió Bela, y reinó en su lugar Jobab hijo de Zera, de Bosra. 
 34 Murió Jobab, y en su lugar reinó Husam, de tierra de Temán. 

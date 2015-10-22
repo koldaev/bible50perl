@@ -1,3 +1,4 @@
+1 Und der HERR redete zu Mose und sprach: Rede mit den Kindern Israel und sprich zu ihnen:
 2 Wenn jemand dem HERRN ein besonderes Gelübde tut, wenn er nach deiner Schätzung Seelen gelobt,
 3 so sollst du sie also schätzen: Einen Mann, vom zwanzigsten bis zum sechzigsten Jahr sollst du schätzen auf fünfzig Schekel Silber, nach dem Schekel des Heiligtums.
 4 Ist es aber ein Weib, so sollst du sie auf dreißig Schekel schätzen.
@@ -13,6 +14,7 @@
 14 Wenn jemand sein Haus dem HERRN zum Heiligtum weiht, so soll es der Priester schätzen, je nachdem es gut oder schlecht ist; und wie es der Priester schätzt, so soll es gelten.
 15 Will es aber derjenige lösen, der es geheiligt hat, so soll er den fünften Teil dazulegen; dann gehört es ihm.
 16 Wenn jemand dem HERRN ein Stück Feld von seinem Erbgut weiht, so soll es von dir geschätzt werden nach dem Maß der Aussaat; der Raum für die Aussaat von einem Homer Gerste soll fünfzig Schekel Silber gelten.
+17 Weiht er sein Feld vor dem Jubeljahr, so soll es nach deiner Schatzung gelten.
 18 Weiht er aber das Feld nach dem Jubeljahr, so soll der Priester den Betrag berechnen nach den übrigen Jahren bis zum nächsten Jubeljahr und es je nachdem geringer schätzen.
 19 Wenn aber der, welcher das Feld geweiht hat, es lösen will, so soll er den fünften Teil über die Schatzungssumme dazulegen, dann bleibt es sein.
 20 Will er es aber nicht lösen, sondern verkauft es einem andern, so kann es nicht mehr gelöst werden;
@@ -29,3 +31,4 @@
 31 Will aber jemand etwas von seinem Zehnten lösen, der soll den fünften Teil darübergeben.
 32 Und alle Zehnten von Rindern und Schafen, von allem, was unter dem Hirtenstab hindurchgeht, soll jedes zehnte Stück dem HERRN heilig sein.
 33 Man soll nicht untersuchen, ob es gut oder schlecht sei, man soll es auch nicht auswechseln; sollte es aber jemand auswechseln, so würde es samt dem zur Auswechslung bestimmten Stück heilig sein und könnte nicht gelöst werden.
+34 Das sind die Gebote, die der HERR Mose befohlen hat an die Kinder Israel, auf dem Berge Sinai. 

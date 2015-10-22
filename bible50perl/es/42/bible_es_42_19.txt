@@ -10,6 +10,7 @@
 10 Porque el Hijo del Hombre vino a buscar y a salvar lo que se había perdido. 
 11 Oyendo ellos estas cosas, prosiguió Jesús y dijo una parábola, por cuanto estaba cerca de Jerusalén, y ellos pensaban que el reino de Dios se manifestaría inmediatamente. 
 12 Dijo, pues: Un hombre noble se fue a un país lejano, para recibir un reino y volver. 
+13 Y llamando a diez siervos suyos, les dio diez minas moneda que corresponde a cien dragmas, y les dijo: Negociad entre tanto que vengo. 
 14 Pero sus conciudadanos le aborrecían, y enviaron tras él una embajada, diciendo: No queremos que éste reine sobre nosotros. 
 15 Aconteció que vuelto él, después de recibir el reino, mandó llamar ante él a aquellos siervos a los cuales había dado el dinero, para saber lo que había negociado cada uno. 
 16 Vino el primero, diciendo: Señor, tu mina ha ganado diez minas. 
@@ -17,8 +18,10 @@
 18 Vino otro, diciendo: Señor, tu mina ha producido cinco minas. 
 19 Y también a éste dijo: Tú también sé sobre cinco ciudades. 
 20 Vino otro, diciendo: Señor, aquí está tu mina, la cual he tenido guardada en un pañuelo; 
+21 porque tuve miedo de ti, por cuanto eres hombre severo, que tomas lo que no pusiste, y siegas lo que no sembraste. 
 22 Entonces él le dijo: Mal siervo, por tu propia boca te juzgo. Sabías que yo era hombre severo, que tomo lo que no puse, y que siego lo que no sembré; 
 23 їpor qué, pues, no pusiste mi dinero en el banco, para que al volver yo, lo hubiera recibido con los intereses? 
+24 Y dijo a los que estaban presentes: Quitadle la mina, y dadla al que tiene las diez minas. 
 25 Ellos le dijeron: Señor, tiene diez minas. 
 26 Pues yo os digo que a todo el que tiene, se le dará; mas al que no tiene, aun lo que tiene se le quitará. 
 27 Y también a aquellos mis enemigos que no querían que yo reinase sobre ellos, traedlos acá, y decapitadlos delante de mí. 

@@ -12,6 +12,7 @@
 1 Aleluja!  Hvalite Jahvu jer je dobar, jer je vječna ljubav njegova!
 2 Tko će izreć' djela moći Jahvine, tko li mu iskazat' sve pohvale?
 3 Blaženi što drže naredbe njegove i čine pravo u svako doba!
+4 Sjeti me se, Jahve, po dobroti prema svome puku, pohodi me spasenjem svojim
 5 da uživam sreću izabranih tvojih, da se radujem radosti naroda tvoga, da tvojom se baštinom ponosim.
 6 Zgriješismo kao oci naši, činismo bezakonje, bezbožno radismo.
 7 Oci naši u Egiptu, nehajni za čudesa tvoja, ne spominjahu se velike ljubavi tvoje, već na Svevišnjeg digoše se na Crvenom moru.
@@ -48,6 +49,7 @@
 38 Prolijevahu krv nevinu, krv sinova i kćeri svojih, koje žrtvovahu likovima kanaanskim. Zemlja bješe krvlju okaljana,
 39 djelima se svojim uprljaše, učiniše preljub svojim nedjelima.
 40 Na svoj narod Jahve srdžbom planu, zgadi mu se njegova baština.
+41 Predade ih u ruke pogana te vladahu njima mrzitelji njini.
 42 Mučili ih neprijatelji i tlačili rukom svojom.
 43 Prečesto ih izbavljaše, al' ga razjariše naumima svojim: pokošeni bjehu za bezakonja svoja.
 44 On pogleda opet na nevolju njinu kad njihove molitve začu

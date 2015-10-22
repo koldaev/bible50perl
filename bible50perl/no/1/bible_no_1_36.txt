@@ -1,6 +1,7 @@
 1 Dette er Esaus eller Edoms ætt. 
 2 Esau tok sig hustruer av Kana'ans døtre: Ada, hetitten Elons datter, og Oholibama, Anas datter, hevitten Sibeons sønnedatter, 
 3 og Basmat, Ismaels datter, Nebajots søster. 
+4 Med Ada fikk Esau Elifas, og med Basmat Re'uel, 
 5 og med Oholibama fikk han Je'us og Jalam og Korah; dette var Esaus sønner, som han fikk i Kana'ans land. 
 6 Og Esau tok sine hustruer, sine sønner og døtre og alt sitt husfolk og sin buskap og alle sine kløvdyr og alt sitt gods som han hadde samlet i Kana'ans land, og drog til et annet land for sin bror Jakobs skyld. 
 7 For deres eiendom var for stor til at de kunde bo sammen - det land som de bodde i som fremmede, kunde ikke rumme dem, så stor buskap hadde de. 
@@ -21,9 +22,12 @@
 22 Og Lotans sønner var Hori og Hemam, og Lotans søster var Timna. 
 23 Og dette var Sobals sønner: Alvan og Manahat og Ebal, Sefo og Onam. 
 24 Og dette var Sibeons sønner: Aja og Ana; det var den Ana som fant de varme kilder i ørkenen, mens han gjætte sin far Sibeons asener. 
+25 Og dette var Anas barn: Dison og datteren Oholibama. 
 26 Og dette var Disons sønner: Hemdan og Esban og Jitran og Keran. 
 27 Dette var Esers sønner: Bilhan og Sa'avan og Akan. 
 28 Dette var Disans sønner: Us og Aran. 
+29 Dette var horittenes stammefyrster: stammefyrsten Lotan, stammefyrsten Sobal, stammefyrsten Sibeon, stammefyrsten Ana, 
+30 stammefyrsten Dison, stammefyrsten Eser, stammefyrsten Disan; dette var horittenes stammefyrster, deres stammefyrster i Se'ir-landet. 
 31 Og dette var de konger som regjerte i Edom-landet før det regjerte nogen konge over Israels barn: 
 32 Bela, Beors sønn, var konge i Edom, og hans by hette Dinhaba. 
 33 Da Bela døde, blev Jobab, Serahs sønn, fra Bosra konge i hans sted. 
@@ -34,4 +38,6 @@
 38 Da Saul døde, blev Ba'al-Hanan, Akbors sønn, konge i hans sted. 
 39 Da Ba'al-Hanan, Akbors sønn, døde, blev Hadar konge i hans sted; hans by hette Pa'u, og hans hustru hette Mehetabel, en datter av Matred, Mesahabs datter. 
 40 Og dette er navnene på Esaus stammefyrster efter deres ætter, efter deres bosteder, med deres navn: stammefyrsten Timna, stammefyrsten Alva, stammefyrsten Jetet, 
+41 stammefyrsten Oholibama, stammefyrsten Ela, stammefyrsten Pinon, 
+42 stammefyrsten Kenas, stammefyrsten Teman, stammefyrsten Mibsar, 
 43 stammefyrsten Magdiel, stammefyrsten Iram; dette var Edoms stammefyrster efter sine bosteder i sitt eiendomsland. Dette var Esaus, edomittenes fars ætt. 

@@ -48,6 +48,8 @@ while($i<@biblelangarray) {
                     if (utf8::is_utf8($poemtext)) {
                         utf8::encode($poemtext);
                         print WRITEFILE $poem." ".$poemtext."\n";
+                    } else {
+                        print WRITEFILE $poem." ".$poemtext."\n";
                     }
                 }
             }

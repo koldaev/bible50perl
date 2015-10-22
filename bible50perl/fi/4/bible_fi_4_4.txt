@@ -1,3 +1,4 @@
+1 Ja Herra puhui Moosekselle ja Aaronille sanoen:
 2 Laske Leevin jälkeläisten joukosta Kehatin jälkeläisten lukumäärä suvuittain ja perhekunnittain,
 3 kolmikymmenvuotiset ja sitä vanhemmat aina viisikymmenvuotisiin saakka, kaikki, joiden on palveltava toimittamalla askareita ilmestysmajassa.
 4 Kehatin poikien palvelustehtävänä ilmestysmajassa olkoon tämä: huolenpito korkeasti-pyhistä.
@@ -13,9 +14,11 @@
 14 ja pankoot sen päälle kaiken kaluston, jota alttarilla käytetään: hiilipannut, haarukat, lapiot ja maljat, kaiken alttarikaluston; ja levittäkööt sen päälle sireeninnahkapeitteen ja asettakoot paikoilleen sen korennot.
 15 Ja kun leirin lähtiessä liikkeelle Aaron ja hänen poikansa ovat valmiiksi peittäneet pyhäkön ja pyhäkön kaiken kaluston, niin tulkoot Kehatin pojat kantamaan, mutta älkööt koskeko pyhäkköön, etteivät kuolisi. Tämä on ilmestysmajasta se, mikä on Kehatin poikien kannettava.
 16 Ja Eleasar, pappi Aaronin poika, pitäköön huolen seitsenhaaraisen lampun öljystä, hyvänhajuisesta suitsukkeesta, jokapäiväisestä ruokauhrista ja voiteluöljystä; hän pitäköön huolen koko asumuksesta ja kaikesta, mitä siinä on, pyhäköstä ja sen kalustosta.
+17 Ja Herra puhui Moosekselle ja Aaronille sanoen:
 18 Älkää päästäkö kehatilaisten sukuhaaraa häviämään leeviläisten joukosta.
 19 Näin siis tehkää heille, että he saisivat elää eivätkä kuolisi lähestyessään kaikkeinpyhintä: Aaron ja hänen poikansa menkööt ja asettakoot heidät jokaisen tekemään palvelustehtäväänsä ja kantamaan kannettavaansa;
 20 mutta älkööt nämä menkö katsomaan pyhiä esineitä, älkööt silmänräpäykseksikään, etteivät kuolisi.
+21 Ja Herra puhui Moosekselle sanoen:
 22 Laske myöskin Geersonin jälkeläisten lukumäärä perhekunnittain ja suvuittain;
 23 pidä kolmikymmenvuotisten katselmus ja sitä vanhempien, viisikymmenvuotisiin asti, kaikkien, joiden on palveltava toimittamalla palvelusta ilmestysmajassa.
 24 Geersonilaissukujen tehtävänä palveltaessa ja kannettaessa olkoon tämä:

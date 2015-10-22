@@ -1,3 +1,8 @@
+1 Adam, Set, Enos,
+2 Kainan, Malaleel, Jared,
+3 Henoch, Matuzalem, Lamech,
+4 Noe, Sem, Cham a Jafet.
+5 Jafetovi synovia: Gomer, Magog, Madai, Javan, Tubal, Mosoch, Tiras.
 6 Gomerovi synovia: Askenéz, Rifat a Togorma.
 7 Javanovi synovia: Elisa a Taršiš, Kitim a Dodanim.
 8 Chamovi synovia: Kuš, Mesraim, Fut a Kanaán.
@@ -6,20 +11,34 @@
 11 Od Mesraima pochádza Ludim, Anamim, Laábim a Neftuim,
 12 Fetrusim, Chašluim - odkiaľ vyšli Filištínci - a Kaftorim.
 13 Od Kanaána pochádza Sidon, jeho prvorodený, Het,
+14 Jebus, Amor, Gergez,
+15 Hev, Arak, Sin,
+16 Arad, Samar a Hamat.
 17 Semovi synovia: Elam, Asýr, Arfaxad, Lud, Aram, Chus, Hul, Geter a Mosoch.
 18 Od Arfaxada pochádza Sale a od Saleho pochádza Heber.
 19 Heberovi sa narodili dvaja synovia; meno jedného bolo Faleg, lebo za jeho dní bola rozdelená zem. Meno jeho brata bolo Jektan.
 20 Od Jektana pochádza Elmodad, Salef, Asarmot, Jare,
+21 Adoram, Huzal, Dekla,
+22 Hebal, Abimael, Saba,
 23 Ofir, Hevila a Jobab. Títo všetci sú Jektanovi synovia.
+24 Sem, Arfaxad, Sale,
+25 Heber, Faleg, Ragau,
 26 Sarug, Nachor, Táre,
 27 Abram, čiže Abrahám.
 28 Abrahámovi synovia: Izák a Izmael.
 29 Toto sú ich rody: Izmaelov prvorodený Nabajot, Kedar, Adbél, Mabsam,
+30 Masma, Duma, Masa, Hadad, Tema,
 31 Jetur, Nafis, Kedma. To sú Izmaelovi synovia.
 32 Synovia Ketury, vedľajšej Abrahámovej ženy, ktorých porodila: Zamran, Jeksan, Madan, Madián, Jesbok a Sue. Jeksanovi synovia: Saba a Dadan. (Dadanovi synovia: Asýrčania, Latusiti a Laomania.)
 33 Madiánovi synovia: Efa, Efer, Henoch, Abida a Eldaa. Títo všetci sú synovia Ketury.
 34 Od Abraháma pochádza Izák. Izákovi synovia: Ezau a Izrael.
+35 Ezauovi synovia: Elifaz, Rahuel, Jehus, Ihelom a Kore.
 36 Elifazovi synovia: Teman, Omar, Sefi, Gatan, Kenéz, Tamna a Amalek.
+37 Rahuelovi synovia: Nahat, Zara, Sama a Meza.
+38 Seirovi synovia: Lotan, Sobal, Sebeon, Ana, Dison, Eser a Disan.
+39 Lotanovi synovia: Hori a Homam. Lotanova sestra bola Tamna.
+40 Sobalovi synovia: Alian, Manahat, Ebal, Sefi a Onam. Sebeonovi synovia: Aja a Ana.
+41 Anovi synovia: Dison. Disonovi synovia: Hamram, Eseban, Jetran a Charan.
 42 Eserovi synovia: Balán, Zavan a Jakan. Disanovi synovia: Chus a Aran.
 43 Králi, ktorí kraľovali v Edomsku skôr, ako nad Izraelitmi panoval kráľ: Beorov syn Bale; meno jeho mesta bolo Denaba.
 44 Keď Bale zomrel, stal sa namiesto neho kráľom Jobab, Zareho syn z Bosry.

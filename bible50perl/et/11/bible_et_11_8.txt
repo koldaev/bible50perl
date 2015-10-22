@@ -2,12 +2,15 @@
 2 Ja kõik Iisraeli mehed kogunesid pühadeks kuningas Saalomoni juurde eetanimikuus, mis on seitsmes kuu. 
 3 Ja kui kõik Iisraeli vanemad olid tulnud, siis tõstsid preestrid laeka 
 4 ja tõid üles Issanda laeka, kogudusetelgi ja kõik pühad riistad, mis telgis olid; preestrid ja leviidid tõid need üles. 
+5 Kuningas Saalomon oli laeka ees, ja koos temaga oli kogu Iisraeli kogudus, kes oli kogunenud tema juurde; nad ohverdasid nii palju lambaid, kitsi ja veiseid, et neid ei saadud lugeda ega kokku arvata. 
 6 Ja preestrid tõid Issanda seaduselaeka selle paika koja tagaruumi, kõige pühamasse paika keerubite tiibade alla, 
 7 sest keerubid laotasid oma tiivad laeka paiga üle; keerubid katsid laegast ja selle kandekange pealtpoolt. 
 8 Ja kangid olid nii pikad, et kangide otsi võis näha pühamust, kõige pühama paiga eest, ent neid ei nähtud väljast; ja need on seal tänapäevani.  
+9 Laekas ei olnud muud kui need kaks kivilauda, mis Mooses oli Hoorebil sinna pannud, kui Issand tegi Iisraeli lastega lepingu nende tulles Egiptusemaalt. 
 10 Ja kui preestrid pühamust väljusid, siis sündis, et pilv täitis Issanda koja 
 11 ja preestrid ei võinud jääda teenima pilve pärast: sest Issanda auhiilgus oli täitnud Issanda koja.
 12 Siis kõneles Saalomon:  'Issand on öelnud, et ta tahab elada pimeduses. 
+13 Mina olen sulle ehitanud valitsuskoja, su igavese eluaseme paiga.' 
 14 Ja kuningas pööras oma palge ja õnnistas kogu Iisraeli kogudust, ja kogu Iisraeli kogudus seisis. 
 15 Ja ta ütles: 'Kiidetud olgu Issand, Iisraeli Jumal, kes oma käega on tõeks teinud, mida ta oma suuga on kõnelnud mu isale Taavetile, öeldes: 
 16 Sellest päevast alates, kui ma tõin oma Iisraeli rahva ära Egiptusest, ei ole ma üheltki Iisraeli suguharult valinud ühtegi linna, kuhu ehitada koda, kus oleks mu nimi; aga ma valisin Taaveti, et ta valitseks mu Iisraeli rahva üle. 
@@ -24,8 +27,11 @@
 27 Aga kas Jumal tõesti peaks elama maa peal? Vaata, taevas ja taevaste taevas ei mahuta sind, veel vähem siis see koda, mille ma olen ehitanud. 
 28 Aga pöördu oma sulase palve ja ta anumise poole, Issand, mu Jumal, et sa kuuleksid kaebehüüdu ja palvet, mida su sulane täna palvetab sinu ees, 
 29 et su silmad oleksid lahti ööd ja päevad selle koja kohal, selle paiga kohal, mille kohta sa oled öelnud: Seal peab olema minu nimi!, et sa kuuleksid palvet, mida su sulane palvetab selle paiga poole! 
+30 Kuule siis oma sulase ja oma Iisraeli rahva anumist, kuidas nad palvetavad selle paiga poole! Jah, kuule paigast, kus sa elad - taevast! Ja kui sa kuuled, siis anna andeks!
+31 Kui keegi oma ligimese vastu pattu teeb ja talle pannakse peale vanne teda vannutades, ja vandeasi tuleb sinu altari ette siia kotta, 
 32 siis kuule sina taevast ja tee ning mõista õigust oma sulastele: mõista süüdlane süüdi, pane tema teod ta pea peale, õige aga mõista õigeks, anna temale ta õigust mööda!
 33 Ja kui su Iisraeli rahvas lüüakse maha vaenlase ees, sellepärast et nad sinu vastu on pattu teinud, ent nad pöörduvad tagasi su juurde ja kiidavad sinu nime, palvetavad su poole ja anuvad sind selles kojas, 
+34 siis kuule sina taevast ja anna andeks oma Iisraeli rahva patt ja too nad tagasi maale, mille sa oled andnud nende vanematele!
 35 Kui taevas on suletud ja vihma ei ole, sellepärast et nad on sinu vastu pattu teinud, aga nad palvetavad selle paiga poole ja kiidavad sinu nime ja pöörduvad oma patust, sellepärast et sa neid oled alandanud, 
 36 siis kuule sina taevast ja anna andeks oma sulaste ja oma Iisraeli rahva patt, sest sina õpetad neile head teed, mida nad peavad käima, ja anna vihma oma maale, mille sa oled andnud pärisosaks oma rahvale!
 37 Kui maale tuleb nälg, kui tuleb katk, kui tulevad viljakõrvetus või -rooste, rohutirtsud ja mardikad, kui vaenlane teda rõhub ta maa väravais, kui tabab mingi nuhtlus või mingi haigus, 
@@ -53,6 +59,7 @@
 59 Ja olgu need minu sõnad, millega ma olen anunud Issanda ees, Issanda, meie Jumala juures päevad ja ööd, et ta teeks õigust oma sulasele ja oma Iisraeli rahvale, nagu iga päev on tarvis, 
 60 nõnda et kõik maa rahvad saaksid teada, et Issand on Jumal, aga mitte keegi teine! 
 61 Ja teie süda olgu siiras Issanda, meie Jumala vastu, et te käiksite tema määruste järgi ja peaksite tema käske nagu täna!'
+62 Siis ohverdas kuningas ja kogu Iisrael koos temaga Issanda ees tapaohvreid. 
 63 Saalomon ohverdas tänuohvriks, mida ta Issandale ohverdas, kakskümmend kaks tuhat veist ning sada kakskümmend tuhat lammast ja kitse. Nõnda pühitsesid kuningas ja kõik Iisraeli lapsed Issanda koja. 
 64 Selsamal päeval pühitses kuningas Issanda koja ees oleva õue keskpaiga, sest ta ohverdas seal põletusohvri ja roaohvri ning tänuohvri rasvu, kuna vaskaltar Issanda ees oli liiga väike, et mahutada põletus- ja roaohvrit ning tänuohvri rasvu.
 65 Nõnda pidas Saalomon sel ajal Issanda, meie Jumala ees püha, ja kogu Iisrael koos temaga - üks suur kogudus Hamati teelahkmest kuni Egiptuseojani - seitse päeva ja seitse päeva, see on neliteist päeva. 

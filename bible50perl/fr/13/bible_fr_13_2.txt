@@ -1,4 +1,5 @@
 1 Voici les fils d'Israël. Ruben, Siméon, Lévi, Juda, Issacar, Zabulon, 
+2 Dan, Joseph, Benjamin, Nephthali, Gad et Aser. 
 3 Fils de Juda: Er, Onan, Schéla; ces trois lui naquirent de la fille de Schua, la Cananéenne. Er, premier-né de Juda, était méchant aux yeux de l'Éternel, qui le fit mourir. 
 4 Tamar, belle-fille de Juda, lui enfanta Pérets et Zérach. Total des fils de Juda: cinq. 
 5 Fils de Pérets: Hetsron et Hamul. 
@@ -6,6 +7,8 @@
 7 Fils de Carmi: Acar, qui troubla Israël lorsqu'il commit une infidélité au sujet des choses dévouées par interdit. - 
 8 Fils d'Éthan: Azaria. 
 9 Fils qui naquirent à Hetsron: Jerachmeel, Ram et Kelubaï. 
+10 Ram engendra Amminadab. Amminadab engendra Nachschon, prince des fils de Juda. 
+11 Nachschon engendra Salma. Salma engendra Boaz. 
 12 Boaz engendra Obed. Obed engendra Isaï. 
 13 Isaï engendra Éliab, son premier-né, Abinadab le second, Schimea le troisième, 
 14 Nethaneel le quatrième, Raddaï le cinquième, 
@@ -14,6 +17,7 @@
 17 Abigaïl enfanta Amasa; le père d'Amasa fut Jéther, l'Ismaélite. 
 18 Caleb, fils de Hetsron, eut des enfants d'Azuba, sa femme, et de Jerioth. Voici les fils qu'il eut d'Azuba: Jéscher, Schobab et Ardon. 
 19 Azuba mourut; et Caleb prit Éphrath, qui lui enfanta Hur. 
+20 Hur engendra Uri, et Uri engendra Betsaleel. - 
 21 Ensuite, Hetsron alla vers la fille de Makir, père de Galaad, et il avait soixante ans lorsqu'il la prit; elle lui enfanta Segub. 
 22 Segub engendra Jaïr, qui eut vingt-trois villes dans le pays de Galaad. 
 23 Les Gueschuriens et les Syriens leur prirent les bourgs de Jaïr avec Kenath et les villes de son ressort, soixante villes. Tous ceux-là étaient fils de Makir, père de Galaad. 
@@ -30,6 +34,7 @@
 34 Schéschan n'eut point de fils, mais il eut des filles. Schéschan avait un esclave égyptien nommé Jarcha. 
 35 Et Schéschan donna sa fille pour femme à Jarcha, son esclave, à qui elle enfanta Attaï. 
 36 Attaï engendra Nathan; Nathan engendra Zabad; 
+37 Zabad engendra Ephlal; Ephlal engendra Obed; 
 38 Obed engendra Jéhu; Jéhu engendra Azaria; 
 39 Azaria engendra Halets; Halets engendra Élasa; 
 40 Élasa engendra Sismaï; Sismaï engendra Schallum; 

@@ -2,7 +2,9 @@
 2 Tänage jumalate Jumalat, sest tema heldus kestab igavesti! 
 3 Tänage isandate Isandat, sest tema heldus kestab igavesti; 
 4 teda, kes üksi teeb suuri imetegusid, sest tema heldus kestab igavesti; 
+5 teda, kes arukusega on teinud taeva, sest tema heldus kestab igavesti; 
 6 teda, kes on laotanud maa üle vee, sest tema heldus kestab igavesti; 
+7 teda, kes on teinud suured valgused, sest tema heldus kestab igavesti; 
 8 - päikese pannud valitsema päevaajal, sest tema heldus kestab igavesti; 
 9 - kuu ja tähed valitsema öösel, sest tema heldus kestab igavesti; 
 10 teda, kes lõi surnuks Egiptuse esmasündinud, sest tema heldus kestab igavesti; 
@@ -14,8 +16,11 @@
 16 teda, kes juhtis oma rahvast kõrbes, sest tema heldus kestab igavesti; 
 17 teda, kes lõi surnuks vägevad kuningad, sest tema heldus kestab igavesti; 
 18 ja lõi maha suurtsugu kuningad, sest tema heldus kestab igavesti, 
+19 Siihoni, emorlaste kuninga, sest tema heldus kestab igavesti, 
+20 ja Oogi, Baasani kuninga, sest tema heldus kestab igavesti, 
 21 ja andis nende maa pärisosaks, sest tema heldus kestab igavesti, 
 22 pärisosaks oma sulasele Iisraelile, sest tema heldus kestab igavesti; 
+23 teda, kes meid meelde tuletas meie alanduses, sest tema heldus kestab igavesti, 
 24 ja vabastas meid meie vaenlaste käest, sest tema heldus kestab igavesti; 
 25 teda, kes annab kõigele lihale roa, sest tema heldus kestab igavesti! 
 26 Tänage taeva Jumalat, sest tema heldus kestab igavesti!

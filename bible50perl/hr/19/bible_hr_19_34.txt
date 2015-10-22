@@ -1,3 +1,4 @@
+1 Davidov. Kada se David pravio ludim pred Abimelekom, a on 
 2 $ALEF Blagoslivljat ću Jahvu u svako doba, njegova će mi hvala biti svagda na ustima!
 3 $BET Nek' se Jahvom duša moja hvali: nek' čuju ponizni i nek' se raduju!
 4 $GIMEL Veličajte sa mnom Jahvu, uzvisujmo ime njegovo zajedno!
@@ -6,6 +7,7 @@
 7 $ZAJIN Eto, jadnik vapi, a Jahve ga čuje, izbavlja ga iz svih tjeskoba.
 8 $HET Anđeo Jahvin tabor podiže oko njegovih štovalaca da ih spasi.
 9 $TET Kušajte i vidite kako dobar je Jahve: blago čovjeku koji se njemu utječe!
+10 $JOD Bojte se Jahve, vi sveti njegovi: ne trpe oskudice koji ga se boje.
 11 $KAF Osiromašiše mogućnici i gladuju, a koji traže Jahvu ne trpe oskudice.
 12 $LAMED Dođite, djeco, i poslušajte me, učit ću vas strahu Gospodnjem.
 13 $MEM O čovječe, ljubiš li život? Želiš li dane mnoge uživati dobra?

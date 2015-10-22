@@ -3,6 +3,7 @@
 3 siis tee ometi, mu poeg, enese päästmiseks nõnda, sest sa oled ju sattunud oma ligimese võimusesse: mine, alanda ennast ja anu oma ligimest! 
 4 Ära anna und oma silmadele ega suikumist laugudele! 
 5 Päästa end gasellina lõksu eest  või otsekui lind püüdja käest! 
+6 Mine sipelga juurde, sina laisk, vaatle tema viise ja saa targaks! 
 7 Kuigi tal ei ole pealikut, ülevaatajat ega valitsejat, 
 8 valmistab ta siiski suvel oma leiva ja kogub lõikusajal oma toiduse. 
 9 Kui kaua sa, laisk, magad, millal sa ärkad unest? 
@@ -31,3 +32,4 @@
 32 Kes abielunaisega abielu rikub, on meeletu; seda teeb ainult see, kes oma hinge tahab hävitada. 
 33 Teda tabab nuhtlus ning häbi ja tema teotust ei saa ära pühkida. 
 34 Sest armukadedusest tekib mehe viha ja ta ei halasta kättemaksupäeval. 
+35 Ta ei hooli mingist lepitushinnast ega rahuldu, kuigi sa lisaksid kingitusi.

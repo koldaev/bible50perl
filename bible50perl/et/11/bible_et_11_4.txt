@@ -1,3 +1,4 @@
+1 Kuningas Saalomon oli kogu Iisraeli kuningas. 
 2 Ja need olid tema kõrgemad ametimehed: Asarja, Saadoki poeg, oli ülempreester; 
 3 Elihoref ja Ahija, Siisa pojad, olid kirjutajad; Joosafat, Ahiluudi poeg, oli nõunik; 
 4 Benaja, Joojada poeg, oli väeülem; Saadok ja Ebjatar olid preestrid; 
@@ -5,8 +6,15 @@
 6 Ahisar oli kojaülem; Adoniram, Abda poeg, oli orjatöö ülevaataja.
 7 Ja Saalomonil oli üle kogu Iisraeli kaksteist asevalitsejat, kes muretsesid toidust kuningale ja tema kojale; igaühel oli aastas üks kuu toidust muretseda. 
 8 Need olid nende nimed: Huuri poeg Efraimi mäestikus; 
+9 Dekeri poeg Maakatsis, Saalbimis, Beet-Semesis ja Eelon-Beet-Haananis; 
+10 Hesedi poeg Arubbotis, temal oli Sooko ja kogu Heeferimaa; 
 11 Abinadabi poeg kogu Doori mäeseljandikul, Taafat, Saalomoni tütar, oli tal naiseks; 
 12 Baana, Ahiluudi poeg, Taanakis, Megiddos ja kogu Beet-Seanis, mis on Saaretani kõrval allpool Jisreeli, Beet-Seanist kuni Aabel-Meholani teisel pool Jokmeami; 
 13 Geberi poeg Gileadi Raamotis, temal olid Manasse poja Jairi telklaagrid, mis olid Gileadis, temal oli Argobi piirkond, mis on Baasanis, kuuskümmend suurt linna müüride ja vaskriividega; 
+14 Ahinadab, Iddo poeg, Mahanaimis; 
 15 Ahimaats Naftalis, temagi võttis naiseks Saalomoni tütre - Baasemati; 
+16 Baana, Huusai poeg, Aaseris ja Bealotis; 
+17 Joosafat, Paaruahi poeg, Issaskaris; 
+18 Simei, Eela poeg, Benjaminis; 
+19 Geber, Uuri poeg, Gileadimaal, emorlaste kuninga Siihoni ja Baasani kuninga Oogi maal, kui ainus asevalitseja maal.
 20 Juudas ja Iisraelis oli palju rahvast, rohkuse poolest nagu liiva mere ääres. Nad sõid ja jõid ning olid rõõmsad.

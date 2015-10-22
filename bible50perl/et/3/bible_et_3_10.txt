@@ -17,3 +17,4 @@
 17 'Mispärast te ei ole patuohvrit söönud pühas paigas? See on ju väga püha ja see on antud teile, et te võtaksite ära koguduse patusüü, toimetades neile lepitust Issanda ees. 
 18 Näe, selle verd ei ole viidud pühamusse. Te pidite seda kindlasti sööma pühamus, nagu ma käskisin!' 
 19 Ja Aaron ütles Moosesele: 'Vaata, nad on täna ohverdanud oma patuohvri ja põletusohvri Issanda ees, ja ometi on mulle need asjad juhtunud. Kui ma täna oleksin söönud patuohvrit, kas see oleks siis Issanda silmis hea olnud?' 
+20 Kui Mooses seda kuulis, siis oli see hea tema silmis.

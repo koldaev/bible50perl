@@ -12,14 +12,19 @@
 12 Zakur, Serebiáš, Sebaniáš,
 13 Hodiáš, Báni, Beninu.
 14 Přední z lidu: Paros, Pachat Moáb, Elam, Zattu, Báni,
+15 Bunni, Azgad, Bebai,
 16 Adoniáš, Bigvai, Adin,
 17 Ater, Ezechiáš, Azur,
 18 Hodiáš, Chasum, Bezai,
+19 Charif, Anatot, Nebai,
+20 Magpias, Mesullam, Chezir,
 21 Mesezabel, Sádoch, Jaddua,
 22 Pelatiáš, Chanan, Anaiáš,
 23 Ozeáš, Chananiáš, Chasub,
+24 Loches, Pilcha, Sobek,
 25 Rechum, Chasabna, Maaseiáš,
 26 Achiáš, Chanan, Anan,
+27 Malluch, Charim, Baana.
 28 Tak i jiní z lidu, kněží, Levítů, vrátných, zpěváků, Netinejských i všickni, kteříž se oddělili od národů zemí k zákonu Božímu, ženy jejich, synové jejich i dcery jejich, každý umělý a rozumný,
 29 Chopivše se téhož s bratřími svými a těmi, kteříž byli přednější, přistupovali, prokletím a přísahou se zavazujíce: Že budeme choditi v zákoně Božím, kterýž vydán jest skrze Mojžíše služebníka Božího, a ostříhati i plniti všecka přikázaní Hospodina Pána našeho, i soudy jeho, i ustanovení jeho;
 30 Také že nebudeme dávati dcer svých národům zemí, ani dcer jejich bráti synům svým,

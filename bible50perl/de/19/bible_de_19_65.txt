@@ -2,6 +2,7 @@
 2 (65-3) Du erhörst Gebet, darum kommt alles Fleisch zu dir!
 3 (65-4) Die Summe der Missetaten ist mir zu schwer geworden; du sühnst unsre Übertretungen.
 4 (65-5) Wohl dem, den du erwählst und zu dir nahen lässest, daß er wohne in deinen Vorhöfen! Laß uns satt werden von den Gütern deines Hauses, deines heiligen Tempels!
+5 (65-6) Du antwortest uns wunderbar in Gerechtigkeit, du Gott unsres Heils, du Zuversicht aller Enden der Erde und der fernsten Meere;
 6 (65-7) der die Berge gründet in seiner Kraft, der mit Macht umgürtet ist;
 7 (65-8) welcher stillt das Brausen des Meeres, das Brausen seiner Wellen und das Toben der Völker,
 8 (65-9) daß die, welche an den Enden wohnen, vor deinen Zeichen sich fürchten; die äußersten Länder gegen Morgen und Abend machst du jubeln.

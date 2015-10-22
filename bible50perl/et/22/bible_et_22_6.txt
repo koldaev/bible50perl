@@ -1,5 +1,6 @@
 1 'Kuhu su kallim on läinud, sa ilusaim naistest? Kuhu su kallim põikas, et koos sinuga teda otsida?' 
 2 'Mu kallim läks alla oma rohuaeda, palsamipeenarde juurde, rohuaedadesse karja hoidma ja lillekesi noppima. 
+3 Mina kuulun oma kallimale ja mu kallim on minu, tema, kes lillekeste keskel  karja hoiab.'
 4 'Sa oled ilus nagu Tirsa, mu kullake, kaunis nagu Jeruusalemm, kardetav nagu väehulk lippudega. 
 5 Pööra oma silmad ära mu pealt, sest need teevad mind rahutuks! Su juuksed on nagu kitsekari, kes laskub Gileadilt. 
 6 Su hambad on nagu kari emalambaid, kes pesemiselt tulevad; neil kõigil on kaksikud ja ükski neist pole soota. 
@@ -8,3 +9,4 @@
 9 Aga üksainus on mu tuvike, mu süütuke, oma ema ainus, oma sünnitaja lemmik. Tüdrukud näevad teda ja kiidavad õndsaks, ka kuningannad ja liignaised, ja nad ülistavad teda: 
 10 'Kes see on, kes koiduna alla vaatab, ilus nagu täiskuu, selge nagu päike, kardetav nagu väehulk lippudega?'' 
 11 'Ma läksin alla pähkliaeda vaatama pungi orus, vaatama, kas viinapuu on pakatanud, kas granaatõunapuud õitsevad. 
+12 Ma ei teadnud, et mu hing pani mind Ammi-Nadibi vankritele.'

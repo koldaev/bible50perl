@@ -1,5 +1,6 @@
 1 Nie przyjmuj powieści kłamliwej; nie miej spółki z niepobożnym, abyś miał być świadkiem fałszywym.
 2 Nie udawaj się za wielkością do złego, i nie mów tak za sprawą, cobyś się nakłonił za wielą ich ku podwróceniu sądu.
+3 I nie szanuj ubogiego przy sprawie jego.
 4 Gdybyś natrafił wołu nieprzyjaciela twego, albo osła jego błądzącego, zwrócisz, a dowiedziesz go do niego.
 5 Jeźlibyś ujrzał, że osieł tego, który cię ma w nienawiści, leży pod brzemieniem swojem, azali zaniechasz, abyś mu pomóc nie miał? owszem poratujesz go pospołu z nim.
 6 Nie będziesz podwracał sądu ubogiemu twemu w sprawie jego.
@@ -28,9 +29,11 @@
 29 Nie wyrzucę go przed obliczem twojem za jeden rok, by się snać ziemia w pustynią nie obróciła, a nie namnożyło się przeciwko tobie zwierza dzikiego.
 30 Pomaluczku będę je wyrzucał od oblicza twego, aż się rozmnożysz i osiądziesz ziemię.
 31 A położę granice twoje od morza czerwonego aż do morza Filistyńskiego, a od puszczy aż do rzeki; bo podam w ręce wasze obywatele ziemi, i wypędzisz je od oblicza twego.
+32 Nie postanowisz z nimi, ani z bogami ich przymierza.
 33 Niech nie mieszkają w ziemi twej, by cię snać nie przywiedli do grzechu przeciwko mnie, gdybyś służył bogom ich, co by tobie było sidłem.
 1 Nie przyjmuj powieści kłamliwej; nie miej spółki z niepobożnym, abyś miał być świadkiem fałszywym.
 2 Nie udawaj się za wielkością do złego, i nie mów tak za sprawą, cobyś się nakłonił za wielą ich ku podwróceniu sądu.
+3 I nie szanuj ubogiego przy sprawie jego.
 4 Gdybyś natrafił wołu nieprzyjaciela twego, albo osła jego błądzącego, zwrócisz, a dowiedziesz go do niego.
 5 Jeźlibyś ujrzał, że osieł tego, który cię ma w nienawiści, leży pod brzemieniem swojem, azali zaniechasz, abyś mu pomóc nie miał? owszem poratujesz go pospołu z nim.
 6 Nie będziesz podwracał sądu ubogiemu twemu w sprawie jego.
@@ -59,4 +62,5 @@
 29 Nie wyrzucę go przed obliczem twojem za jeden rok, by się snać ziemia w pustynią nie obróciła, a nie namnożyło się przeciwko tobie zwierza dzikiego.
 30 Pomaluczku będę je wyrzucał od oblicza twego, aż się rozmnożysz i osiądziesz ziemię.
 31 A położę granice twoje od morza czerwonego aż do morza Filistyńskiego, a od puszczy aż do rzeki; bo podam w ręce wasze obywatele ziemi, i wypędzisz je od oblicza twego.
+32 Nie postanowisz z nimi, ani z bogami ich przymierza.
 33 Niech nie mieszkają w ziemi twej, by cię snać nie przywiedli do grzechu przeciwko mnie, gdybyś służył bogom ich, co by tobie było sidłem.

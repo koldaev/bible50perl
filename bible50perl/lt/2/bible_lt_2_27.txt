@@ -1,4 +1,5 @@
 1 “Padirbdinsi iš akacijos medžio keturkampį aukurą, penkių uolekčių ilgio, tiek pat pločio ir trijų uolekčių aukščio.
+2 Keturiuose kampuose padarysi ragus ir visa tai aptrauksi variu.
 3 Padarysi aukurui puodus pelenams supilti, semtuvėlius, dubenis, šakutes ir indus anglims; visus šiuos indus pagaminsi iš vario.
 4 Padirbdinsi iš vario nupintas groteles, prie kurių keturiuose kampuose bus keturios varinės grandys.
 5 Jas pritvirtinsi aplinkui aukurą, kad grotelės siektų nuo apačios iki pusės.

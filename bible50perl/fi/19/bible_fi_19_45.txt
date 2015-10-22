@@ -3,6 +3,7 @@
 3 (H45:4) Vyötä miekka vyöllesi, sinä sankari, vyöttäydy kunniaasi ja korkeuteesi.
 4 (H45:5) Ole onnekas korkeudessasi. Nouse sotavaunuihisi totuuden, nöyryyden ja vanhurskauden puolesta, ja oikea kätesi opettakoon sinulle peljättäviä tekoja.
 5 (H45:6) Sinun nuolesi ovat terävät, kansat kaatuvat sinun allesi; kuninkaan vihollisten sydämet lävistetään.
+6 (H45:7) Jumala, sinun valtaistuimesi pysyy aina ja iankaikkisesti; sinun valtakuntasi valtikka on oikeuden valtikka.
 7 (H45:8) Sinä rakastat vanhurskautta ja vihaat vääryyttä; sentähden on Jumala, sinun Jumalasi, voidellut sinua iloöljyllä enemmän kuin sinun osaveljiäsi.
 8 (H45:9) Mirhaa, aloeta ja kassiaa tuoksuvat kaikki sinun vaatteesi, kanteleet helisevät sinun iloksesi norsunluisista palatseista.
 9 (H45:10) Kuningasten tyttäriä on sinun kaunistuksenasi, kuningatar seisoo sinun oikealla puolellasi, Oofirin kullassa.

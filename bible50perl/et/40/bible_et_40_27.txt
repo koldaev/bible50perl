@@ -13,6 +13,7 @@
 13 Siis ütles Pilaatus talle: 'Kas sa ei kuule, mida kõike nad sinu vastu tunnistavad?' 
 14 Tema ei vastanud talle selle peale ainsatki sõna, nõnda et maavalitseja pani seda väga imeks.
 15 Maavalitsejal oli aga tava vastu pühi lasta vabaks üks vang, keda rahvahulk tahtis. 
+16 Tollal oli vangide seas Barabase-nimeline kurikuulus mees. 
 17 Kui nad nüüd koos olid, küsis Pilaatus neilt: 'Kumma te tahate, et ma lasen teile vabaks, kas Barabase või Messiaks nimetatud Jeesuse?' 
 18 Ta ju teadis, et nad olid Jeesuse kadeduse pärast tema kätte andnud.
 19 Aga kui Pilaatus istus kohtujärjel, saatis ta naine talle sõna: 'Ärgu olgu sul midagi tegemist selle õigega, sest ma olen täna öösel unenäos tema pärast palju kannatanud!'
@@ -21,6 +22,7 @@
 22 Pilaatus küsis neilt: 'Mis ma siis pean tegema Jeesusega, keda nimetatakse Messiaks?' Nad kõik ütlesid: 'Löödagu risti!' 
 23 Aga tema lausus: 'Miks nii, mis halba on ta siis teinud?' Rahvahulk karjus aga veel valjemini: 'Löödagu risti!' 
 24 Kui siis Pilaatus nägi, et ta midagi ei võinud parata, vaid lärm läks aina suuremaks, siis ta võttis vett ja pesi rahvahulga ees oma käsi, öeldes: 'Ma olen süüta selle verest! Küll te näete!' 
+25 Ja kogu rahvas kostis talle: 'Tema veri tulgu meie ja meie laste peale!' 
 26 Siis ta laskis neile vabaks Barabase, Jeesust aga laskis piitsutada ja andis ta risti lüüa.
 27 Siis võtsid maavalitseja sõdurid Jeesuse kaasa kohtukotta ja kogusid tema kallale terve väesalga. 
 28 Ja nad võtsid ta riidest lahti ja panid talle selga punase mantli. 
@@ -29,7 +31,9 @@
 31 Ja kui nad olid teda küllalt teotanud, tõmbasid nad tal mantli seljast ja riietasid Jeesuse ta oma rõivastesse ja viisid ta ära ristilöömiseks.
 32 Välja minnes leidsid nad Küreene mehe, nimega Siimon, seda nad sundisid kandma Jeesuse risti.
 33 Ja kui nad jõudsid paika, mida hüütakse Kolgataks - see tähendab Pealuu paigaks -, 
+34 andsid nad Jeesusele juua sapiga segatud veini. Kui ta seda oli maitsnud, siis ta ei tahtnud juua. 
 35 Aga kui nad tema olid risti löönud, jagasid nad liisku heites ta rõivad omavahel 
+36 ja istusid maha ning valvasid teda seal. 
 37 Ja nad panid ta pea kohale kirja tema süüga: 'See on Jeesus, juutide kuningas.'
 38 Siis nad lõid koos Jeesusega risti kaks teeröövlit, ühe ta paremale ja teise vasemale käele. 
 39 Möödujad aga parastasid teda päid vangutades: 
@@ -49,11 +53,14 @@
 53 ja need tulid hauakambritest välja ja läksid pärast tema surnuist ülesäratamist pühasse linna ja paljud said seda näha. 
 54 Aga kui väeülem ja need, kes koos temaga Jeesust valvasid, nägid maavärisemist ja seda, mis sündis, lõid nad väga kartma ja ütlesid: 'Tõesti, see oli Jumala Poeg!'
 55 Aga seal oli toimuvat eemalt vaatamas palju naisi, kes olid Jeesusele järgnenud Galileast alates teda teenides, 
+56 nende seas Maarja Magdaleena ja Jaakobuse ja Joosepi ema Maarja ning Sebedeuse poegade ema.
 57 Aga õhtu jõudes tuli rikas mees Arimaatiast, nimega Joosep, kes oli ka Jeesuse jünger. 
 58 See läks Pilaatuse juurde ja palus enesele Jeesuse ihu. Siis Pilaatus käskis selle anda. 
 59 Ja Joosep võttis ihu, mässis selle puhtasse linasse 
 60 ja pani oma uude kaljusse raiutud hauakambrisse, ning veeretanud haua ukse ette suure kivi, läks ära. 
+61 Aga Maarja Magdaleena ja teine Maarja olid ka seal, nad istusid haua vastas.
 62 Järgmisel päeval, see oli pühade valmistuspäevale järgnev hingamispäev, tulid ülempreestrid ja variserid Pilaatuse juurde kokku 
 63 ja ütlesid: 'Isand, meile tuleb meelde, et see eksitaja ütles, kui ta alles elas: 'Mina ärkan kolme päeva pärast üles.' 
 64 Käsi nüüd hauda kolmanda päevani valve all pidada, et jüngrid ei tuleks ja teda ära ei varastaks ega ütleks rahvale, et ta on üles äratatud surnuist, sest nii oleks viimane pettus hullem kui esimene.' 
+65 Pilaatus lausus neile: 'Siin on teile valvesalk. Minge ning pidage valvet, nii nagu oskate!' 
 66 Nemad läksid ja võtsid haua valve alla ja koos valvesalgaga pitseerisid kivi.

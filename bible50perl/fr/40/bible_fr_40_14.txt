@@ -1,8 +1,10 @@
 1 En ce temps-là, Hérode le tétrarque, ayant entendu parler de Jésus, 
 2 (14:1) dit à ses serviteurs: C'est Jean-Baptiste! (14:2) Il est ressuscité des morts, et c'est pour cela qu'il se fait par lui des miracles. 
 3 Car Hérode, qui avait fait arrêter Jean, l'avait lié et mis en prison, à cause d'Hérodias, femme de Philippe, son frère, 
+4 parce que Jean lui disait: Il ne t'est pas permis de l'avoir pour femme. 
 5 Il voulait le faire mourir, mais il craignait la foule, parce qu'elle regardait Jean comme un prophète. 
 6 Or, lorsqu'on célébra l'anniversaire de la naissance d'Hérode, la fille d'Hérodias dansa au milieu des convives, et plut à Hérode, 
+7 de sorte qu'il promit avec serment de lui donner ce qu'elle demanderait. 
 8 A l'instigation de sa mère, elle dit: Donne-moi ici, sur un plat, la tête de Jean-Baptiste. 
 9 Le roi fut attristé; mais, à cause de ses serments et des convives, il commanda qu'on la lui donne, 
 10 et il envoya décapiter Jean dans la prison. 
@@ -12,6 +14,8 @@
 14 Quand il sortit de la barque, il vit une grande foule, et fut ému de compassion pour elle, et il guérit les malades. 
 15 Le soir étant venu, les disciples s'approchèrent de lui, et dirent: Ce lieu est désert, et l'heure est déjà avancée; renvoie la foule, afin qu'elle aille dans les villages, pour s'acheter des vivres. 
 16 Jésus leur répondit: Ils n'ont pas besoin de s'en aller; donnez-leur vous-mêmes à manger. 
+17 Mais ils lui dirent: Nous n'avons ici que cinq pains et deux poissons. 
+18 Et il dit: Apportez-les-moi. 
 19 Il fit asseoir la foule sur l'herbe, prit les cinq pains et les deux poissons, et, levant les yeux vers le ciel, il rendit grâces. Puis, il rompit les pains et les donna aux disciples, qui les distribuèrent à la foule. 
 20 Tous mangèrent et furent rassasiés, et l'on emporta douze paniers pleins des morceaux qui restaient. 
 21 Ceux qui avaient mangé étaient environ cinq mille hommes, sans les femmes et les enfants. 

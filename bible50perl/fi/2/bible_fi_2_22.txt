@@ -12,10 +12,12 @@
 12 Mutta jos se on häneltä varastettu, korvatkoon sen omistajalle.
 13 Jos se on raadeltu, tuokoon sen esiin todistukseksi, eikä hänen tarvitse raadeltua korvata.
 14 Jos joku lainaa toiselta elukan ja se vahingoittuu tai kuolee eikä sen omistaja ole saapuvilla, korvatkoon sen.
+15 Jos sen omistaja on saapuvilla, ei tarvitse korvausta maksaa; jos se oli vuokralla, olkoon vuokra korvauksena.
 16 Jos joku viettelee neitsyen, joka ei ole kihlattu, ja makaa hänet, maksakoon hänestä morsiamenhinnan ja ottakoon hänet vaimokseen.
 17 Jos isä kieltäytyy antamasta häntä hänelle, maksakoon mies rahassa morsiamenhinnan niinkuin neitsyestä.
 18 Velhonaisen älä salli elää.
 19 Jokainen, joka sekaantuu eläimeen, rangaistakoon kuolemalla.
+20 Joka uhraa muille jumalille kuin Herralle, ainoalle, olkoon vihitty tuhon omaksi.
 21 Älä sorra äläkä ahdista muukalaista, sillä te olette itse olleet muukalaisina Egyptin maassa.
 22 Älkää sortako leskeä tai orpoa.
 23 Sillä jos sinä sorrat heitä ja he huutavat minua avuksensa, niin minä totisesti kuulen heidän huutonsa,

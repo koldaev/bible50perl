@@ -32,7 +32,9 @@
 32 Benyamin, Malluk, Şemarya.
 33 Haşumoğullarından: Mattenay, Mattatta, Zavat, Elifelet, Yeremay, Manaşşe, Şimi.
 34 Banioğullarından: Maaday, Amram, Uel,
+35 Benaya, Bedeya, Keluhu,
 36 Vanya, Meremot, Elyaşiv,
+37 Mattanya, Mattenay, Yaasay,
 38 Bani, Binnuy, Şimi,
 39 Şelemya, Natan, Adaya,
 40 Maknadvay, Şaşay, Şaray,

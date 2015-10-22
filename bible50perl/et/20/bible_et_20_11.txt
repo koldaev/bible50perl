@@ -9,9 +9,12 @@
 9 Suuga hävitab jumalatu oma ligimese, aga õiged pääsevad teadlikkuse läbi. 
 10 Õigete õnnest hõiskab linn ja õelate hukkumisest tuntakse rõõmu. 
 11 Õigete õnnistusest kerkib linn, aga õelate suu kisub selle maha. 
+12 Napiaruline on, kes halvustab oma ligimest, aga arukas mees on vait. 
 13 Kes käib keelekandjana, reedab saladusi, aga kes on ustava vaimuga, varjab neid. 
 14 Kus ei ole juhtimist, seal langeb rahvas, aga kus on palju nõuandjaid, seal on abi. 
 15 Kes asub käendajaks võõrale, selle käsi käib halvasti, aga kes käendamist ei salli, võib olla muretu. 
+16 Veetlev naine saavutab au ja virgad saavutavad rikkuse. 
+17 Kes osutab halastust, teeb head iseenesele, aga kalk teeb valu oma ihule. 
 18 Õel teenib petise palga, aga õigluse külvaja tõelise tasu. 
 19 Kes püsib õigluses, jääb elama,  aga kes taotleb kurja, saab surma. 
 20 Need, kel valelik süda, on Issanda meelest jäledad, aga tal on hea meel neist, kelle tee on laitmatu. 
@@ -21,6 +24,7 @@
 24 Üks jagab välja, aga saab üha lisa, teine hoiab varandust, ometi on puudus käes. 
 25 Hing, kes jagab õnnistust, kosub, ja kes kastab teisi, seda ennastki kastetakse. 
 26 Kes keelab vilja, seda sajatab rahvas, aga müüja peale tuleb õnnistus. 
+27 Kes taotleb head, leiab tunnustuse,  aga kes kavatseb kurja, seda ennast see tabab. 
 28 Kes loodab oma rikkuse peale, langeb, aga õiged haljendavad nagu lehed. 
 29 Kes oma koja hooletusse jätab, lõikab tuult, ja rumal saab targale sulaseks. 
 30 Õiglase vili on elupuu, aga tark saab hinged. 

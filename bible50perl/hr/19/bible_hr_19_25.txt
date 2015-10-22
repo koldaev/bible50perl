@@ -4,12 +4,18 @@
 4 $DALET Pokaži mi, Jahve, svoje putove, nauči me svojim stazama!
 5 $HE Istinom me svojom vodi i pouči me, jer ti si Bog, moj Spasitelj: $VAU u tebe se pouzdajem svagda.
 6 $ZAJIN Spomeni se, Jahve, svoje nježnosti i ljubavi svoje dovijeka.
+7 $HET Ne spominji se grijeha moje mladosti ni prijestupa, spomeni me se po svojoj ljubavi - radi dobrote svoje, o Jahve!
 8 $TET Jahve je sama dobrota i pravednost: grešnike on na put privodi.
 9 $JOD On ponizne u pravdi vodi i uči malene putu svome.
 10 $KAF Sve su staze Jahvine istina i ljubav za onog koji čuva Savez njegov i propise.
+11 $LAMED Jahve, radi svojeg imena grijeh moj mi oprosti, jer je velik.
 12 $MEM Ima li koga da se boji Jahve? On će ga poučiti kojim će putem krenuti.
 13 $NUN Duša će mu u sreći počivati, a potomci će njegovi zaposjesti zemlju.
+14 $SAMEK Prisan je Jahve s onima koji ga se boje i Savez svoj objavljuje njima.
 15 $AJIN K Jahvi su svagda oči moje upravljene, jer mi nogu izvlači iz zamke.
+16 $PE Pogledaj na me i smiluj se meni, jer osamljen sam i nevoljan.
+17 $SADE Odagnaj tjeskobe srca moga, iz bojazni mojih izbavi me!
+18 Vidi nevolju moju i muku i oprosti sve grijehe moje!
 19 $REŠ Pogledaj dušmane moje: kako ih je mnogo i kakvom me mržnjom žestokom mrze.
 20 $ŠIN Čuvaj dušu moju, izbavi me: neću se postidjeti, jer se tebi utekoh.
 21 $TAU Nedužnost i čestitost nek' me štite, jer u tebe se uzdam, o Jahve.

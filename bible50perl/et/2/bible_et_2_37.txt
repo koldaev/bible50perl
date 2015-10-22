@@ -1,8 +1,10 @@
 1 Ja Betsaleel tegi akaatsiapuust laeka, kaks ja pool küünart pika, poolteist küünart laia ja poolteist küünart kõrge. 
 2 Ta kardas selle puhta kullaga seest- ja väljastpoolt ja tegi sellele kuldpärja ümber. 
 3 Ta valas sellele neli kuldrõngast nelja jala jaoks: kaks rõngast ühte külge ja kaks rõngast teise külge. 
+4 Ta tegi akaatsiapuust kandekangid ja kardas need kullaga. 
 5 Ta pistis kangid rõngastesse laeka külgedel, laeka kandmiseks. 
 6 Ta tegi puhtast kullast lepituskaane, kaks ja pool küünart pika ja poolteist küünart laia. 
+7 Ta tegi kullast kaks keerubit; ta tegi need sepisena lepituskaane kumbagi otsa, 
 8 ühe keerubi ühte ja teise keerubi teise otsa; ta tegi kummaski otsas olevad keerubid lepituskaanega ühest tükist. 
 9 Keerubid sirutasid oma tiivad ülespoole, kattes oma tiibadega lepituskaant, ja nende palged olid vastamisi; keerubite palged olid lepituskaane poole.
 10 Ja ta tegi akaatsiapuust laua, kaks küünart pika, küünar laia ja poolteist küünart kõrge. 
@@ -10,6 +12,8 @@
 12 Ta tegi sellele kämblalaiuse põõna ümber ja tegi ümber põõna kuldpärja. 
 13 Ta valas sellele neli kuldrõngast ja kinnitas rõngad nelja nurga külge selle nelja jala juures. 
 14 Rõngad olid otse põõna kõrval kangide asemeiks laua kandmisel. 
+15 Ta tegi akaatsiapuust kangid laua kandmiseks ja kardas need kullaga. 
+16 Ja ta tegi puhtast kullast riistad, mis olid laua peal: vaagnad ja kausid, peekrid ja kannud joogiohvri toomiseks.
 17 Ja ta tegi puhtast kullast lambijala; ta tegi selle lambijala koos aluse ja harudega sepisetööna; selle karikakesed, nupud ja õiekesed olid sellega ühest tükist. 
 18 Selle küljest lähtus kuus haru: ühest küljest kolm lambijala haru ja teisest küljest kolm lambijala haru. 
 19 Ühel harul oli kolm mandliõiekujulist karikakest nupu ja õiekesega, samuti oli teisel harul kolm mandliõiekujulist karikakest nupu ja õiekesega; nõnda oli neil kuuel harul, mis lambijalast lähtusid. 
@@ -21,4 +25,5 @@
 25 Ja ta tegi akaatsiapuust suitsutusaltari, küünar pika ja küünar laia, neljanurgelise ja kaks küünart kõrge; sarved olid sellega ühest tükist. 
 26 Ta kardas selle puhta kullaga, selle pealise, küljed ümberringi ja sarved; ja ta tegi sellele kuldääre ümber. 
 27 Ta tegi sellele kaks kuldrõngast selle ääre alla, kahele poole, kumbagi külge asemeiks kangidele, millega seda kanti. 
+28 Ta tegi kangid akaatsiapuust ja kardas need kullaga.
 29 Ja ta valmistas püha võideõli ja puhast, healõhnalist suitsutusrohtu rohusegajate viisil.

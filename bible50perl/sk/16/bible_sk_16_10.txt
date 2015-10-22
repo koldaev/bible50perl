@@ -4,6 +4,7 @@
 4 Pašchur, Amariáš, Malkiáš,
 5 Chatuš, Šebaniáš, Maluch,
 6 Charim, Meremot, Obadiáš,
+7 Daniel, Gineton, Baruch,
 8 Mešulam, Abiáš, Mijamin,
 9 Maásiáš, Bilgai, Šemaiáš; to boli kňazi.
 10 Ďalej leviti: Azaniášov syn Jozue, Binuji z Chenandadových potomkov, Kadmiel
@@ -12,9 +13,11 @@
 13 Zakur, Šerebiáš, Šebaniáš,
 14 Hodiáš, Bani a Beninu.
 15 Hlavní z ľudu: Paroš, Pachat-Moab, Elam, Zatu, Bani,
+16 Buni, Azgad, Bebai,
 17 Adoniáš, Bigvai, Adin,
 18 Ater, Chizekiáš, Azur,
 19 Hodiáš, Chašum, Besai,
+20 Charif, Anatot, Nebai,
 21 Magpiáš, Mešulam, Chezir,
 22 Mešezabel, Sadok, Jadua,
 23 Pelatiáš, Chanan, Anaiáš,

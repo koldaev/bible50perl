@@ -1,16 +1,34 @@
+1 Adam, Set, Enos, 
+2 Kenan, Mahalalel, Jared, 
+3 Enok, Metusalah, Lamek, 
+4 Noah, Sem, Kam og Jafet. 
 5 Jafets sønner var Gomer og Magog og Madai og Javan og Tubal og Mesek og Tiras. 
 6 Og Gomers sønner var Askenas og Difat og Togarma. 
 7 Og Javans sønner var Elisa og Tarsisa, Kittim og Rodanim. 
 8 Kams sønner var Kus og Misra'im, Put og Kana'an. 
 9 Og Kus' sønner var Seba og Havila og Sabta og Raema og Sabteka; og Raemas sønner var Sjeba og Dedan. 
 10 Og Kus fikk en sønn som hette Nimrod; han var den første som fikk velde på jorden. 
+11 Og Misra'im var stamfar til luderne og anamerne og lehaberne og naftuherne 
+12 og patruserne og kasluherne, som filistrene stammer fra, og kaftorerne. 
 13 Og Kana'an blev far til Sidon - det var hans førstefødte - og Het 
+14 og jebusittene og amorittene og girgasittene 
+15 og hevittene og arkittene og sinittene 
+16 og arvadittene og semarittene og hamatittene. 
 17 Sems sønner var Elam og Assur og Arpaksad og Lud og Aram og Us og Hul og Geter og Mesek. 
 18 Og Arpaksad fikk sønnen Salah, og Salah fikk Eber. 
 19 Og Eber fikk to sønner; den ene hette Peleg, for i hans dager blev menneskene spredt over jorden, og hans bror hette Joktan. 
+20 Og Joktan blev far til Almodad og Salef og Hasarmavet og Jarah 
+21 og Hadoram og Usal og Dikla 
+22 og Ebal og Abimael og Sjeba 
 23 og Ofir og Havila og Jobab; alle disse var Joktans sønner. 
+24 Sem, Arpaksad, Salah, 
+25 Eber, Peleg, Re'u, 
+26 Serug, Nakor, Tarah, 
+27 Abram, det er Abraham. 
 28 Abrahams sønner var Isak og Ismael. 
 29 Dette er deres ætter: Nebajot, Ismaels førstefødte, og Kedar og Adbe'el og Mibsam. 
+30 Misma og Duma, Massa, Hadad og Tema, 
+31 Jetur, Nafis og Kedma; dette var Ismaels venner. 
 32 Og de sønner som Abrahams medhustru Ketura fødte, var: Simran og Joksan og Medan og Midian og Jisbak og Suah; og Joksans sønner var Sjeba og Dedan; 
 33 og Midians sønner var Efa og Efer og Hanok og Abida og Elda'a. Alle disse var Keturas sønner. 
 34 Og Abraham fikk sønnen Isak. Isaks sønner var Esau og Israel. 
@@ -31,3 +49,6 @@
 49 Da Saul døde, blev Ba'al-Hanan, Akbors sønn, konge i hans sted. 
 50 Da Ba'al-Hanan døde, blev Hadad konge i hans sted; hans by hette Pa'i, og hans hustru hette Mehetabel, datter av Matred, Mesahabs datter. 
 51 Og Hadad døde. Og Edoms stammefyrster var: stammefyrsten Timna, stammefyrsten Alja, stammefyrsten Jetet, 
+52 stammefyrsten Oholibama, stammefyrsten Ela, stammefyrsten Pinon, 
+53 stammefyrsten Kenas, stammefyrsten Teman, stammefyrsten Mibsar, 
+54 stammefyrsten Magdiel, stammefyrsten Iram; dette var Edoms stammefyrster. 

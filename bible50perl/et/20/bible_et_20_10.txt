@@ -12,8 +12,10 @@
 12 Vihkamine õhutab riidu, aga armastus katab kinni kõik üleastumised. 
 13 Mõistliku huultel leidub tarkust, aga meeletu seljale on vitsa vaja. 
 14 Targad panevad tallele, mida teavad, aga rumala suu toob hukatuse lähedale. 
+15 Rikka varandus on tema tugev linn, vaestele on nende vaesus hukatuseks. 
 16 Õige inimese töötasu on eluks, õela tulu on patuks. 
 17 Kes hoiab õpetust, on elurajal, aga kes põlgab noomimist, eksib ära. 
+18 Kes peab salaviha, selle huuled on valelikud, ja kes ajab laimujuttu, on alp. 
 19 Kus on palju sõnu, seal ei puudu üleastumine, aga kes talitseb oma huuli, on mõistlik. 
 20 Õiglase keel on valitud hõbe, õelate süda on vähe väärt. 
 21 Õiglase huuled kosutavad paljusid, aga rumalad surevad arunappuse pärast. 
@@ -24,6 +26,7 @@
 26 Nagu äädikas hammastele ja suits silmadele, nõnda on laisk sellele, kes tema läkitab. 
 27 Issanda kartus jätkab elupäevi, aga õelate aastaid lühendatakse. 
 28 Õigete ootus on rõõm, aga õelate lootus hukkub. 
+29 Issanda tee on kindluseks laitmatule, aga kurjategijaile on ta hukatuseks. 
 30 Õige ei kõigu iialgi, aga õelad ei jää maale elama. 
 31 Õiglase suu edendab tarkust, aga valelik keel hävitatakse. 
 32 Õiglase huuled teavad, mis on meelepärane, aga õelate suu on pöörane.

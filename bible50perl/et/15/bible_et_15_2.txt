@@ -1,7 +1,9 @@
 1 Ja need on maa pojad, kes neist asumisele viidud vangidest teele läksid, keda Nebukadnetsar, Paabeli kuningas, oli viinud Paabelisse asumisele ja kes pöördusid tagasi Jeruusalemma ja Juudamaale, igaüks oma linna, 
+2 need, kes tulid koos Serubbaabeliga, Jeesuaga, Nehemjaga, Serajaga, Reelajaga, Mordokaiga, Bilsaniga, Mispariga, Bigvaiga, Rehumiga ja Baanaga. Iisraeli rahva meeste arv oli:
 3 Parosi poegi kaks tuhat ükssada seitsekümmend kaks; 
 4 Sefatja poegi kolmsada seitsekümmend kaks; 
 5 Aarahi poegi seitsesada seitsekümmend viis; 
+6 Pahat-Moabi poegi, Jeesua ja Joabi poegadest, kaks tuhat kaheksasada kaksteist; 
 7 Eelami poegi tuhat kakssada viiskümmend neli; 
 8 Sattu poegi üheksasada nelikümmend viis; 
 9 Sakkai poegi seitsesada kuuskümmend; 
@@ -13,6 +15,7 @@
 15 Aadini poegi nelisada viiskümmend neli; 
 16 Aateri poegi, Hiskija harust, üheksakümmend kaheksa; 
 17 Beesai poegi kolmsada kakskümmend kolm; 
+18 Joora poegi sada kaksteist; 
 19 Haasumi poegi kakssada kakskümmend kolm; 
 20 Gibbari mehi üheksakümmend viis; 
 21 Petlemma mehi sada kakskümmend kolm; 
@@ -33,9 +36,25 @@
 36 Preestreid oli: Jedaja poegi, Jeesua soost, üheksasada seitsekümmend kolm; 
 37 Immeri poegi tuhat viiskümmend kaks; 
 38 Pashuri poegi tuhat kakssada nelikümmend seitse; 
+39 Haarimi poegi tuhat seitseteist.
 40 Leviite oli: Jeesua ja Kadmieli poegi Hoodavja poegadest seitsekümmend neli.
 41 Lauljaid oli: Aasafi poegi sada kakskümmend kaheksa.
 42 Väravahoidjate poegi oli: Sallumi poegi, Aateri poegi, Talmoni poegi, Akkubi poegi, Hatita poegi, Soobai poegi - kokku sada kolmkümmend üheksa.
+43 Templisulased olid: Siiha pojad, Hasuufa pojad, Tabbaoti pojad; 
+44 Keerosi pojad, Siiaha pojad, Paadoni pojad; 
+45 Lebana pojad, Hagaba pojad, Akkubi pojad; 
+46 Haagabi pojad, Samlai pojad, Haanani pojad; 
+47 Giddeli pojad, Gahari pojad, Reaja pojad; 
+48 Resini pojad, Nekooda pojad, Gassami pojad; 
+49 Ussa pojad, Paaseahi pojad, Beesai pojad; 
+50 Asna pojad, meunlaste pojad, nefuslaste pojad; 
+51 Bakbuki pojad, Hakufa pojad, Harhuuri pojad; 
+52 Basluti pojad, Mehiida pojad, Harsa pojad; 
+53 Barkosi pojad, Siisera pojad, Taamahi pojad; 
+54 Nesiahi pojad, Hatiifa pojad.
+55 Saalomoni orjade pojad olid: Sootai pojad, Soofereti pojad, Peruuda pojad; 
+56 Jaala pojad, Darkoni pojad, Giddeli pojad; 
+57 Sefatja pojad, Hattili pojad, Pokeret-Hassebaimi pojad, Aami pojad.  
 58 Templisulaseid ja Saalomoni orjade poegi oli kokku kolmsada üheksakümmend kaks.
 59 Ja need olid teeleminejad Tel-Melahist, Tel-Harsast, Kerubist, Addanist, Immerist, kes ei suutnud selgeks teha, kas nende vanemate kodu ja sugu pärines Iisraelist: 
 60 Delaja pojad, Toobija pojad, Nekooda pojad - kuussada viiskümmend kaks. 

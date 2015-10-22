@@ -1,5 +1,6 @@
 1 Falou o Senhor a Moisés e a Arão, dizendo-lhes:
 2 Dizei aos filhos de Israel: Estes são os animais que podereis comer dentre todos os animais que há sobre a terra:
+3 dentre os animais, todo o que tem a unha fendida, de sorte que se divide em duas, o que rumina, esse podereis comer.
 4 Os seguintes, contudo, não comereis, dentre os que ruminam e dentre os que têm a unha fendida: o camelo, porque rumina mas não tem a unha fendida, esse vos será imundo;
 5 o querogrilo, porque rumina mas não tem a unha fendida, esse vos será imundo;
 6 a lebre, porque rumina mas não tem a unha fendida, essa vos será imunda;
@@ -13,6 +14,7 @@
 14 o açor, o falcão segundo a sua espécie,
 15 todo corvo segundo a sua espécie,
 16 o avestruz, o mocho, a gaivota, o gavião segundo a sua espécie,
+17 o bufo, o corvo marinho, a coruja,
 18 o porfirião, o pelicano, o abutre,
 19 a cegonha, a garça segundo a sua, espécie, a poupa e o morcego.
 20 Todos os insetos alados que andam sobre quatro pés, serão para vós uma abominação.
@@ -40,5 +42,6 @@
 42 Tudo o que anda sobre o ventre, tudo o que anda sobre quatro pés, e tudo o que tem muitos pés, enfim todos os animais rasteiros que se movem sobre a terra, desses não comereis, porquanto são abomináveis.
 43 Não vos tomareis abomináveis por nenhum animal rasteiro, nem neles vos contaminareis, para não vos tornardes imundos por eles.
 44 Porque eu sou o Senhor vosso Deus; portanto santificai-vos, e sede santos, porque eu sou santo; e não vos contaminareis com nenhum animal rasteiro que se move sobre a terra;
+45 porque eu sou o Senhor, que vos fiz subir da terra do Egito, para ser o vosso Deus, sereis pois santos, porque eu sou santo.
 46 Esta é a lei sobre os animais e as aves, e sobre toda criatura vivente que se move nas águas e toda criatura que se arrasta sobre a terra;
 47 para fazer separação entre o imundo e o limpo, e entre os animais que se podem comer e os animais que não se podem comer.

@@ -1,4 +1,5 @@
 1 Or questi sono i discendenti di Aaronne e di Mosè nel tempo in cui l’Eterno parlò a Mosè sul monte Sinai.
+2 Questi sono i nomi dei figliuoli di Aaronne: Nadab, il primogenito, Abihu, Eleazar e Ithamar.
 3 Tali i nomi dei figliuoli d’Aaronne, che ricevettero l’unzione come sacerdoti e furon consacrati per esercitare il sacerdozio.
 4 Nadab e Abihu morirono davanti all’Eterno quand’offrirono fuoco straniero davanti all’Eterno, nel deserto di Sinai. Essi non aveano figliuoli, ed Eleazar e Ithamar esercitarono il sacerdozio in presenza d’Aaronne, loro padre.
 5 E l’Eterno parlò a Mosè, dicendo:
@@ -13,15 +14,23 @@
 14 E l’Eterno parlò a Mosè nel deserto di Sinai, dicendo:
 15 "Fa’ il censimento de’ figliuoli di Levi secondo le case de’ loro padri, secondo le loro famiglie; farai il censimento di tutti i maschi dall’età d’un mese in su".
 16 E Mosè ne fece il censimento secondo l’ordine dell’Eterno, come gli era stato comandato di fare.
+17 Questi sono i figliuoli di Levi, secondo i loro nomi: Gherson, Kehath e Merari.
+18 Questi i nomi dei figliuoli di Gherson, secondo le loro famiglie: Libni e Scimei.
+19 E i figliuoli di Kehath, secondo le loro famiglie: Amram, Jitsehar, Hebron e Uzziel.
 20 E i figliuoli di Merari secondo le loro famiglie: Mahli e Musci. Queste sono le famiglie dei Leviti, secondo le case de’ loro padri.
+21 Da Gherson discendono la famiglia dei Libniti e la famiglia dei Scimeiti, che formano le famiglie dei Ghersoniti.
 22 Quelli de’ quali fu fatto il censimento, contando tutti i maschi dall’età di un mese in su, furono settemila cinquecento.
+23 Le famiglie dei Ghersoniti avevano il campo dietro il tabernacolo, a occidente.
 24 Il principe della casa de’ padri dei Ghersoniti era Eliasaf, figliuolo di Lael.
 25 Per quel che concerne la tenda di convegno, i figliuoli di Gherson doveano aver cura del tabernacolo e della tenda, della sua coperta, della portiera all’ingresso della tenda di convegno,
 26 delle tele del cortile e della portiera dell’ingresso del cortile, tutt’intorno al tabernacolo e all’altare, e dei suoi cordami per tutto il servizio del tabernacolo.
+27 Da Kehath discendono la famiglia degli Amramiti, la famiglia degli Jitsehariti, la famiglia degli Hebroniti e la famiglia degli Uzzieliti, che formano le famiglie dei Kehathiti.
 28 Contando tutti i maschi dall’età di un mese in su, furono ottomila seicento, incaricati della cura del santuario.
+29 Le famiglie dei figliuoli di Kehath avevano il campo al lato meridionale del tabernacolo.
 30 Il principe della casa de’ padri dei Kehathiti era Elitsafan, figliuolo di Uzziel.
 31 Alle loro cure erano affidati l’arca, la tavola, il candelabro, gli altari e gli utensili dei santuario coi quali si fa il servizio, il velo e tutto ciò che si riferisce al servizio del santuario.
 32 Il principe dei principi dei Leviti era Eleazar, figliuolo del sacerdote Aaronne; egli aveva la sorveglianza di quelli ch’erano incaricati della cura del santuario.
+33 Da Merari discendono la famiglia dei Mahliti e la famiglia dei Musciti, che formano le famiglie di Merari.
 34 Quelli di cui si fece il censimento, contando tutti i maschi dall’età di un mese in su, furono seimila duecento.
 35 Il principe della casa de’ padri delle famiglie di Merari era Tsuriel, figliuolo di Abihail. Essi aveano il campo dal lato settentrionale del tabernacolo.
 36 Alle cure dei figliuoli di Merari furono affidati le tavole del tabernacolo, le sue traverse, le sue colonne e le loro basi, tutti i suoi utensili e tutto ciò che si riferisce al servizio del tabernacolo,
@@ -36,6 +45,7 @@
 45 "Prendi i Leviti in luogo di tutti i primogeniti dei figliuoli d’Israele, e il bestiame de’ Leviti in luogo del loro bestiame; e i Leviti saranno miei. Io sono l’Eterno.
 46 Per il riscatto dei duecentosettantatre primogeniti dei figliuoli d’Israele che oltrepassano il numero dei Leviti,
 47 prenderai cinque sicli a testa; li prenderai secondo il siclo dei santuario, che è di venti ghere.
+48 Darai il danaro ad Aaronne e ai suoi figliuoli per il riscatto di quelli che oltrepassano il numero dei Leviti".
 49 E Mosè prese il danaro per il riscatto di quelli che oltrepassavano il numero dei primogeniti riscattati dai Leviti;
 50 prese il danaro dai primogeniti dei figliuoli d’Israele: milletrecento sessantacinque sicli, secondo il siclo del santuario.
 51 E Mosè dette il danaro del riscatto ad Aaronne e ai suoi figliuoli, secondo l’ordine dell’Eterno, come l’Eterno aveva ordinato a Mosè.

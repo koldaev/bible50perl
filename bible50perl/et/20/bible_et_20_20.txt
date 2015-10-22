@@ -17,6 +17,7 @@
 17 Valega saadud leib on mõnele magus, aga pärast on ta suu täis sõmerat. 
 18 Nõu pidades lähevad kavatsused korda, ja ainult targal juhtimisel pea sõda. 
 19 Kes käib keelekandjana, paljastab saladusi: seepärast ära seltsi lobisejaga! 
+20 Kes neab oma isa ja ema, selle lamp kustub pilkases pimeduses. 
 21 Pärand, millega esmalt on kiire, ei too lõpuks õnnistust. 
 22 Ära ütle: 'Ma tasun kätte kurja eest!' Oota Issandat, küll tema aitab sind! 
 23 Kahesugune kaaluviht on Issanda meelest jäle, ja vale kaal ei ole hea. 
@@ -26,3 +27,4 @@
 27 Inimese vaim on Issanda lamp: see uurib läbi kõik südamesopid. 
 28 Armastus ja ustavus hoiavad kuningat, ja ta toetab helduse läbi oma aujärge. 
 29 Noorte meeste uhkuseks on jõud, aga vanade ehteks on hallid juuksed. 
+30 Haavaarmid on kurja kasimiseks ja hoobid ihu soppide jaoks.

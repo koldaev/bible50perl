@@ -1,4 +1,5 @@
 1 Koorahilaisten laulu, virsi; veisuunjohtajalle; veisataan kuin: Sairaus; esrahilaisen Heemanin mietevirsi. (H88:2) Herra, minun pelastukseni Jumala, päivin ja öin minä huudan sinun edessäsi.
+2 (H88:3) Salli minun rukoukseni tulla kasvojesi eteen, kallista korvasi minun huutoni puoleen.
 3 (H88:4) Sillä minun sieluni on kärsimyksistä kylläinen, ja minun elämäni on lähellä tuonelaa.
 4 (H88:5) Minut luetaan hautaan menevien joukkoon, minä olen kuin mies, jolta voima on poissa.
 5 (H88:6) Minä olen jätetty kuolleitten joukkoon, olen kuin kaatuneet, jotka haudassa makaavat ja joita sinä et enää muista ja jotka ovat sinun kädestäsi erotetut.
@@ -7,6 +8,7 @@
 8 (H88:9) Sinä olet karkoittanut tuttavani minusta kauas, olet tehnyt minut heille inhoksi; minä olen suljettu sisään enkä pääse ulos.
 9 (H88:10) Minun kasvoni ovat kuihtuneet kurjuudesta. Joka päivä minä huudan sinua, Herra, ja ojennan käteni sinun puoleesi.
 10 (H88:11) Teetkö sinä ihmeitä kuolleille, tai nousevatko haamut sinua kiittämään? Sela.
+11 (H88:12) Kerrotaanko haudassa sinun armostasi, manalassa sinun uskollisuudestasi?
 12 (H88:13) Tunnetaanko sinun ihmeitäsi pimeydessä ja sinun vanhurskauttasi unhotuksen maassa?
 13 (H88:14) Mutta minä huudan avukseni sinua, Herra, ja minun rukoukseni tulee varhain sinun eteesi.
 14 (H88:15) Miksi, Herra, hylkäät minun sieluni, miksi peität kasvosi minulta?

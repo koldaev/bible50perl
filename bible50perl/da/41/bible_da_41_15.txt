@@ -1,6 +1,7 @@
 1 Og straks om Morgenen, da Ypperstepræsterne havde holdt Råd med de Ældste og de skriftkloge, hele Rådet, bandt de Jesus og førte ham bort og overgave ham til Pilatus.
 2 Og Pilatus spurgte ham: 'Er du Jødernes Konge?' Og han svarede og sagde til ham: 'Du siger det.'
 3 Og Ypperstepræsterne anklagede ham meget.
+4 Men Pilatus spurgte ham atter og sagde: 'Svarer du slet intet? Se, hvor meget de anklage dig for!'
 5 Men Jesus svarede ikke mere noget, så at Pilatus undrede sig.
 6 Men på Højtiden plejede han at løslade dem een Fange, hvilken de forlangte.
 7 Men der var en, som hed Barabbas, der var fangen tillige med de Oprørere, som under Oprøret havde begået Mord
@@ -19,12 +20,14 @@
 20 Og da de havde spottet ham, toge de Purpurkappen af ham og iførte ham hans egne Klæder. Og de føre ham ud for at korsfæste ham.
 21 Og de tvinge en, som gik forbi, Simon fra Kyrene, som kom fra Marken, Aleksanders og Rufus's Fader, til af bære hans Kors.
 22 Og de føre ham til det Sted Golgatha, det er udlagt: 'Hovedskalsted'
+23 Og de gave ham Vin at drikke med Myrra i; men han tog det ikke.
 24 Og de korsfæste ham, og de dele hans Klæder ved at kaste Lod om dem, hvad enhver skulde tage.
 25 Men det var den tredje Time, da de korsfæstede ham.
 26 Og Overskriften med Beskyldningen imod ham var påskreven således: 'Jødernes Konge'.
 27 Og de korsfæste to Røvere sammen med ham, en ved hans højre og en ved hans venstre Side.
 28 Og Skriften blev opfyldt, som siger: 'Og han blev regnet iblandt Overtrædere.'
 29 Og de, som gik forbi, spottede ham, idet de rystede på deres Hoveder og sagde: 'Tvi dig! du som nedbryder Templet og bygger det op i tre Dage;
+30 frels dig selv ved at stige ned af Korset!'
 31 Ligeså spottede også Ypperstepræsterne indbyrdes tillige med de skriftkloge og sagde: 'Andre har han frelst, sig selv kan han ikke frelse.
 32 Kristus, Israels Konge - lad ham nu stige ned af Korset, for at vi kunne se det og, tro!' Også de, som vare korsfæstede med ham, hånede ham.
 33 Og da den sjette Time var kommen, blev der Mørke over hele Landet indtil den niende Time.
@@ -36,6 +39,7 @@
 39 Men da Høvedsmanden, som stod hos, lige over for ham, så, af han udåndede på denne Vis, sagde han: 'Sandelig, dette Menneske var Guds Søn.'
 40 Men der var også Kvinder, som så til i Frastand, iblandt hvilke også vare Maria Magdalene og Maria, Jakob den Lilles og Joses's Moder, og Salome,
 41 hvilke også fulgte ham og tjente ham, da han var i Galilæa, og mange andre Kvinder, som vare gåede op til Jerusalem med ham.
+42 Og da det allerede var blevet Aften, (thi det var Beredelsesdag, det er Forsabbat,)
 43 kom Josef fra Arimathæa, en anset Rådsherre, som også selv forventede Guds Rige; han tog Mod til sig og gik ind til Pilatus og bad om Jesu Legeme.
 44 Men Pilatus forundrede sig over, at han allerede skulde være død,
 45 og han hidkaldte Høvedsmanden og spurgte ham, om han allerede nogen Tid havde været død; og da han fik det at vide af Høvedsmanden, skænkede han Josef Liget.

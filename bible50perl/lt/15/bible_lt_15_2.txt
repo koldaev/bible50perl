@@ -41,10 +41,19 @@
 41 Giedotojų: Asafo palikuonių­ šimtas dvidešimt aštuoni.
 42 Vartininkų: Šalumo, Atero, Talmono, Akubo, Hatitos ir Šobajo palikuonių­iš viso šimtas trisdešimt devyni.
 43 Šventyklos tarnai: Cihos, Hasufos, Tabaoto,
+44 Keroso, Siacho, Padono,
+45 Lebanos, Hagabos, Akubo,
 46 Hagabo, Šalmajo, Hanano,
+47 Gidelio, Gaharo, Reajos,
+48 Recino, Nekodos, Gazamo,
+49 Uzos, Paseaho, Besajo,
+50 Asnos, Meunimo, Nefusimo,
 51 Bakbuko, Hakufos, Harhūro,
 52 Bacluto, Mehidos, Haršos,
+53 Barkoso, Siseros, Temaho,
+54 Neciacho ir Hatifos palikuonys.
 55 Saliamono tarnų palikuonys: Sotajo, Sofereto, Perudos,
+56 Jaalos, Darkono, Gidelio,
 57 Šefatijos, Hatilo, Pocheret Cebaimo ir Amio palikuonys.
 58 Šventyklos ir Saliamono tarnų palikuonių buvo trys šimtai devyniasdešimt du.
 59 Šitie atvyko iš Tel Melacho, Tel Haršo, Kerubo, Adono ir Imero, bet negalėjo įrodyti savo tėvų ir savo kilmės, ar jie buvo kilę iš Izraelio:

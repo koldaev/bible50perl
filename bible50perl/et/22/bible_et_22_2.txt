@@ -1,5 +1,7 @@
+1 'Mina olen Saaroni liilia, orgude lilleke.' 
 2 'Otsekui lilleke orjavitste keskel, nõnda on mu kullake tütarlaste keskel.' 
 3 'Otsekui õunapuu metsa puude keskel, nõnda on mu kallim noorte meeste keskel. Tema varjus ma igatsen istuda ja tema vili on mu suulaele magus. 
+4 Tema on mind viinud pidukotta, ja selle lipp mu kohal on Armastus. 
 5 Kosutage mind rosinatega, elustage mind õuntega, sest ma olen armastusest haige! 
 6 Tema vasak käsi on mu pea all ja tema parem käsi kaisutab mind. 
 7 Ma vannutan teid, Jeruusalemma tütred, gasellide või aasa hirvede juures: ärge eksitage ega äratage armastust, enne kui see ise tahab! 
@@ -11,4 +13,5 @@
 13 Viigipuu küpsetab oma marju, viinapuud õitsevad ja lõhnavad. Tõuse, mu kullake, mu iludus, ja tule! 
 14 Mu tuvike kaljulõhedes, kuristiku peidupaigas! Näita mulle oma nägu, luba ma kuulen su häält, sest su hääl on meeldiv  ja su nägu on ilus!' 
 15 'Võtke meile kinni rebased, väikesed rebased, kes rikuvad viinamägesid, sest meie viinamäed õitsevad! 
+16 Mu kallim on minu, ja mina kuulun temale, kes lillekeste keskel karja hoiab. 
 17 Kuni tuul kuulutab päeva ja varjud põgenevad, tule taas, mu kallim, nagu gasell või noor hirv jäärakulistele mägedele!'

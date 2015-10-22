@@ -19,21 +19,46 @@
 19 A ona odpowiedziała: Daj mi błogosławieństwo; gdyżeś mi dał ziemię suchą, przydaj mi też źródła wód. I dał jej źródła wyższe, i źródła dolne.
 20 Toć jest dziedzictwo pokolenia synów Judowych według domów ich.
 21 I były miasta w granicach pokolenia synów Judowych podle granicy Edom ku południowi: Kabseel, i Eder, i Jagur.
+22 I Cyna, i Dymona, i Adada;
+23 I Kades, i Hasor, i Jetnan;
+24 I Zyf, i Telem, i Balot;
 25 I Hasor Hadata, i Karyjot Chesron, toć jest Hasor;
+26 Amam, i Sama, i Molada;
+27 I Asorgadda, i Hessemon, i Betfalet;
+28 I Hasersual, i Beersaba, i Bazotyja;
+29 Baala, i Ijim, i Esem;
+30 I Eltolad, i Kesyl, i Horma;
+31 I Syceleg, i Medemena, i Sensenna;
 32 I Lebaot, i Selim, Ain, i Remmon; wszystkich miast dwadzieścia i dziewięć, i wsi ich.
 33 W równinach zaś Estaol, i Sarea, i Asena;
+34 I Zanoe, i Engannim, Tepnach, i Enaim;
+35 Jerymot, i Adullam, Socho, i Aseka;
 36 I Saraim, i Adytaim, i Gedera, i Gederotaim, miast czternaście, i wsi ich.
+37 Sanany, i Hadasa, i Mygdalgad;
+38 I Delean, i Mesfa, i Jektel;
+39 Lachys, i Bassekat, i Eglon;
+40 I Chabbon, i Lachmas, i Chytlis;
 41 I Kiederot, Bet Dagon, i Naama, i Maceda, miast szesnaście, i wsi ich.
+42 Labana, i Eter, i Asan;
+43 I Iftach, i Esna, i Nesyb;
 44 I Ceila, i Achzyb, i Maresa, miast dziewięć, i wsi ich;
+45 Akkaron, i miasteczka jego, i wioski jego;
 46 Od Akkaronu aż do morza wszystko, co leży po bok Asotu, i ze wsiami ich;
 47 Azot, miasteczka jego, i wsi jego; Gaza, miasteczka jego, i wsi jego, aż do potoku Egipskiego, i morze wielkie za granicą jego.
 48 A na górze leżą Sam, i Jeter, i Soko;
 49 I Danna, i Karyjatsenna, które jest Dabir;
+50 I Anab, i Istemo, i Anim;
 51 I Gosen, i Holon, i Gilo, miast jedenaście, i wsi ich;
+52 Arab, i Duma, i Esaan;
+53 I Janum, i Bet Tafua, i Afeka;
 54 I Chumta, i Karyjat Arbe, toć jest Hebron, i Syjor, miast dziewięć, i wsi ich.
+55 Maon, Karmel, i Zyf, i Juta.
+56 I Jezrael, i Jukiedam, i Zanoe;
 57 Kain, Gabaa, i Tamna, miast dziesięć, i wsi ich.
+58 Halhul, Betsur i Giedor;
 59 I Maret, i Bet Anot, i Eltekon, miast sześć, i wsi ich.
 60 Karyjat Baal, które jest Karyjatyjarym, i Rabba, miasta dwa, i wsi ich.
+61 A na puszczy: Bet Araba, Meddyn, i Sechacha;
 62 I Nebsan, i miasto Soli, i Engaddy, miast sześć, i wsi ich.
 63 Ale Jebuzejczyka, obywatela Jeruzalemskiego, nie mogli synowie Judowi wypędzić; przetoż mieszkał Jebuzejczyk z syny Juda w Jeruzalemie aż do dnia tego.
 1 I był los pokolenia synów Judowych według domów ich przy granicach Edom, i przy puszczy Syn na południe od ostatecznej granicy południowej.
@@ -57,20 +82,45 @@
 19 A ona odpowiedziała: Daj mi błogosławieństwo; gdyżeś mi dał ziemię suchą, przydaj mi też źródła wód. I dał jej źródła wyższe, i źródła dolne.
 20 Toć jest dziedzictwo pokolenia synów Judowych według domów ich.
 21 I były miasta w granicach pokolenia synów Judowych podle granicy Edom ku południowi: Kabseel, i Eder, i Jagur.
+22 I Cyna, i Dymona, i Adada;
+23 I Kades, i Hasor, i Jetnan;
+24 I Zyf, i Telem, i Balot;
 25 I Hasor Hadata, i Karyjot Chesron, toć jest Hasor;
+26 Amam, i Sama, i Molada;
+27 I Asorgadda, i Hessemon, i Betfalet;
+28 I Hasersual, i Beersaba, i Bazotyja;
+29 Baala, i Ijim, i Esem;
+30 I Eltolad, i Kesyl, i Horma;
+31 I Syceleg, i Medemena, i Sensenna;
 32 I Lebaot, i Selim, Ain, i Remmon; wszystkich miast dwadzieścia i dziewięć, i wsi ich.
 33 W równinach zaś Estaol, i Sarea, i Asena;
+34 I Zanoe, i Engannim, Tepnach, i Enaim;
+35 Jerymot, i Adullam, Socho, i Aseka;
 36 I Saraim, i Adytaim, i Gedera, i Gederotaim, miast czternaście, i wsi ich.
+37 Sanany, i Hadasa, i Mygdalgad;
+38 I Delean, i Mesfa, i Jektel;
+39 Lachys, i Bassekat, i Eglon;
+40 I Chabbon, i Lachmas, i Chytlis;
 41 I Kiederot, Bet Dagon, i Naama, i Maceda, miast szesnaście, i wsi ich.
+42 Labana, i Eter, i Asan;
+43 I Iftach, i Esna, i Nesyb;
 44 I Ceila, i Achzyb, i Maresa, miast dziewięć, i wsi ich;
+45 Akkaron, i miasteczka jego, i wioski jego;
 46 Od Akkaronu aż do morza wszystko, co leży po bok Asotu, i ze wsiami ich;
 47 Azot, miasteczka jego, i wsi jego; Gaza, miasteczka jego, i wsi jego, aż do potoku Egipskiego, i morze wielkie za granicą jego.
 48 A na górze leżą Sam, i Jeter, i Soko;
 49 I Danna, i Karyjatsenna, które jest Dabir;
+50 I Anab, i Istemo, i Anim;
 51 I Gosen, i Holon, i Gilo, miast jedenaście, i wsi ich;
+52 Arab, i Duma, i Esaan;
+53 I Janum, i Bet Tafua, i Afeka;
 54 I Chumta, i Karyjat Arbe, toć jest Hebron, i Syjor, miast dziewięć, i wsi ich.
+55 Maon, Karmel, i Zyf, i Juta.
+56 I Jezrael, i Jukiedam, i Zanoe;
 57 Kain, Gabaa, i Tamna, miast dziesięć, i wsi ich.
+58 Halhul, Betsur i Giedor;
 59 I Maret, i Bet Anot, i Eltekon, miast sześć, i wsi ich.
 60 Karyjat Baal, które jest Karyjatyjarym, i Rabba, miasta dwa, i wsi ich.
+61 A na puszczy: Bet Araba, Meddyn, i Sechacha;
 62 I Nebsan, i miasto Soli, i Engaddy, miast sześć, i wsi ich.
 63 Ale Jebuzejczyka, obywatela Jeruzalemskiego, nie mogli synowie Judowi wypędzić; przetoż mieszkał Jebuzejczyk z syny Juda w Jeruzalemie aż do dnia tego.

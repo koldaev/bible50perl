@@ -1,6 +1,7 @@
 1 L'Éternel dit à Moïse: Parle aux sacrificateurs, fils d'Aaron, et tu leur diras: Un sacrificateur ne se rendra point impur parmi son peuple pour un mort, 
 2 excepté pour ses plus proches parents, pour sa mère, pour son père, pour son fils, pour son frère, 
 3 et aussi pour sa soeur encore vierge, qui le touche de près lorsqu'elle n'est pas mariée. 
+4 Chef parmi son peuple, il ne se rendra point impur en se profanant. 
 5 Les sacrificateurs ne se feront point de place chauve sur la tête, ils ne raseront point les coins de leur barbe, et ils ne feront point d'incisions dans leur chair. 
 6 Ils seront saints pour leur Dieu, et ils ne profaneront pas le nom de leur Dieu; car ils offrent à l'Éternel les sacrifices consumés par le feu, l'aliment de leur Dieu: ils seront saints. 
 7 Ils ne prendront point une femme prostituée ou déshonorée, ils ne prendront point une femme répudiée par son mari, car ils sont saints pour leur Dieu. 
@@ -9,6 +10,7 @@
 10 Le sacrificateur qui a la supériorité sur ses frères, sur la tête duquel a été répandue l'huile d'onction, et qui a été consacré et revêtu des vêtements sacrés, ne découvrira point sa tête et ne déchirera point ses vêtements. 
 11 Il n'ira vers aucun mort, il ne se rendra point impur, ni pour son père, ni pour sa mère. 
 12 Il ne sortira point du sanctuaire, et ne profanera point le sanctuaire de son Dieu; car l'huile d'onction de son Dieu est une couronne sur lui. Je suis l'Éternel. 
+13 Il prendra pour femme une vierge. 
 14 Il ne prendra ni une veuve, ni une femme répudiée, ni une femme déshonorée ou prostituée; mais il prendra pour femme une vierge parmi son peuple. 
 15 Il ne déshonorera point sa postérité parmi son peuple; car je suis l'Éternel, qui le sanctifie. 
 16 L'Éternel parla à Moïse, et dit: 

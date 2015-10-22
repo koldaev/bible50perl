@@ -19,15 +19,23 @@
 19 Kız, ‹‹Bana bir armağan ver›› dedi, ‹‹Madem Negevdeki toprakları bana verdin, su kaynaklarını da ver.›› Böylece Kalev yukarı ve aşağı su kaynaklarını ona verdi.
 20 Boy sayısına göre Yahudaoğulları oymağının payı buydu.
 21 Yahudaoğulları oymağının Edom sınırlarına doğru en güneyde kalan kentleri şunlardı: Kavseel, Eder, Yagur,
+22 Kina, Dimona, Adada,
 23 Kedeş, Hasor, Yitnan,
+24 Zif, Telem, Bealot,
+25 Hasor-Hadatta, Keriyot-Hesron -Hasor-
 26 Amam, Şema, Molada,
 27 Hasar-Gadda, Heşmon, Beytpelet,
 28 Hasar-Şual, Beer-Şeva, Bizyotya,
 29 Baala, İyim, Esem,
+30 Eltolat, Kesil, Horma,
+31 Ziklak, Madmanna, Sansanna,
 32 Levaot, Şilhim, Ayin ve Rimmon; köyleriyle birlikte yirmi dokuz kent.
 33 Şefeladakiler, Eştaol, Sora, Aşna,
+34 Zanoah, Eyn-Gannim, Tappuah, Enam,
+35 Yarmut, Adullam, Soko, Azeka,
 36 Şaarayim, Aditayim, Gedera ve Gederotayim; köyleriyle birlikte on dört kent.
 37 Senan, Hadaşa, Migdal-Gad,
+38 Dilan, Mispe, Yokteel,
 39 Lakiş, Boskat, Eglon,
 40 Kabbon, Lahmas, Kitliş,
 41 Gederot, Beytdagon, Naama ve Makkeda; köyleriyle birlikte on altı kent.
@@ -38,11 +46,16 @@
 46 Ekronun batısı, Aşdotun çevresindeki bütün köyler;
 47 kasaba ve köyleriyle birlikte Aşdot; Mısır Vadisine ve Akdenizin kıyısına kadar kasaba ve köyleriyle birlikte Gazze.
 48 Dağlık bölgede Şamir, Yattir, Soko,
+49 Danna, Kiryat-Sanna -Devir-
 50 Anav, Eştemo, Anim,
 51 Goşen, Holon ve Gilo; köyleriyle birlikte on bir kent.
 52 Arav, Duma, Eşan,
+53 Yanum, Beyttappuah, Afeka,
 54 Humta, Kiryat-Arba -Hevron- ve Sior; köyleriyle birlikte dokuz kent.
+55 Maon, Karmel, Zif, Yutta,
+56 Yizreel, Yokdeam, Zanoah,
 57 Kayin, Giva ve Timna; köyleriyle birlikte on kent.
+58 Halhul, Beytsur, Gedor,
 59 Maarat, Beytanot ve Eltekon; köyleriyle birlikte altı kent.
 60 Kiryat-Baal -Kiryat-Yearim- ve Rabba; köyleriyle birlikte iki kent.
 61 Çölde Beytarava, Middin, Sekaka,

@@ -3,7 +3,9 @@
 3 Od dvadcítiletých a výše všecky, kteříž by mohli jíti k boji v Izraeli, sečtěte je po houfích jejich, ty a Aron.
 4 A bude s vámi z každého pokolení jeden muž, kterýž by přední byl v domě otců svých.
 5 Tato pak jsou jména mužů, kteříž stanou s vámi: Z pokolení Rubenova Elisur, syn Sedeurův;
+6 Z Simeonova Salamiel, syn Surisaddai;
 7 Z Judova Názon, syn Aminadabův;
+8 Z Izacharova Natanael, syn Suar;
 9 Z Zabulonova Eliab, syn Helonův;
 10 Z synů Jozefových, z pokolení Efraimova Elisama, syn Amiudův; z Manassesova Gamaliel, syn Fadasurův;
 11 Z Beniaminova Abidan, syn Gedeonův;

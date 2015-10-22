@@ -27,5 +27,6 @@
 27 See ütles temale: 'Sinu vend on tulnud ja su isa on tapnud nuumvasika, sest ta on saanud tema tagasi täies tervises.' 
 28 Ent tema vihastas ega tahtnud sisse minna. Siis tuli isa õue ja palus teda. 
 29 Tema aga vastas isale: 'Vaata, nii palju aastaid olen mina sind orjanud ega ole kunagi astunud üle sinu käsust, ent sina ei ole mulle kunagi andnud üht sikkugi, et ma oleksin võinud rõõmsasti pidutseda oma sõpradega. 
+30 Aga kui see su poeg, kes su vara on hooradega nahka pannud, tuli tagasi, siis sa tapsid temale nuumvasika!' 
 31 Isa ütles talle: 'Poeg, sina oled alati minu juures, ja kõik, mis on minu, on sinu oma. 
 32 Nüüd aga oli tarvis pidutseda ja rõõmutseda, sest see su vend oli surnud ja on jälle saanud elavaks, ning oli kadunud ja on leitud.''

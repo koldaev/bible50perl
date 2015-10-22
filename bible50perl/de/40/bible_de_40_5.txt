@@ -1,11 +1,17 @@
 1 Als er aber die Volksmenge sah, stieg er auf den Berg; und als er sich setzte, traten seine Jünger zu ihm.
+2 Und er tat seinen Mund auf, lehrte sie und sprach:
+3 Selig sind die geistlich Armen; denn ihrer ist das Himmelreich!
 4 Selig sind die Trauernden; denn sie sollen getröstet werden!
 5 Selig sind die Sanftmütigen; denn sie werden das Land ererben!
 6 Selig sind, die nach der Gerechtigkeit hungern und dürsten; denn sie sollen satt werden!
+7 Selig sind die Barmherzigen; denn sie werden Barmherzigkeit erlangen!
+8 Selig sind, die reines Herzens sind; denn sie werden Gott schauen!
 9 Selig sind die Friedfertigen; denn sie werden Gottes Kinder heißen!
+10 Selig sind, die um der Gerechtigkeit willen verfolgt werden; denn ihrer ist das Himmelreich!
 11 Selig seid ihr, wenn sie euch schmähen und verfolgen und lügnerisch allerlei Arges wider euch reden um meinetwillen!
 12 Freuet euch und frohlocket; denn euer Lohn ist groß im Himmel; denn also haben sie die Propheten verfolgt, die vor euch gewesen sind.
 13 Ihr seid das Salz der Erde. Wenn aber das Salz fade wird, womit soll es wieder salzig gemacht werden? Es taugt zu nichts mehr, als daß es hinausgeworfen und von den Leuten zertreten werde.
+14 Ihr seid das Licht der Welt. Es kann eine Stadt, die auf einem Berge liegt, nicht verborgen bleiben.
 15 Man zündet auch nicht ein Licht an und setzt es unter den Scheffel, sondern auf den Leuchter, so leuchtet es allen, die im Hause sind.
 16 So soll euer Licht leuchten vor den Leuten, daß sie eure guten Werke sehen und euren Vater im Himmel preisen.
 17 Ihr sollt nicht wähnen, daß ich gekommen sei, das Gesetz oder die Propheten aufzulösen! Ich bin nicht gekommen aufzulösen, sondern zu erfüllen.
@@ -17,7 +23,9 @@
 23 Wenn du nun deine Gabe zum Altar bringst und daselbst eingedenk wirst, daß dein Bruder etwas wider dich habe,
 24 so laß deine Gabe dort vor dem Altar und gehe zuvor hin und versöhne dich mit deinem Bruder und alsdann komm und opfere deine Gabe.
 25 Sei deinem Widersacher bald geneigt, während du noch mit ihm auf dem Wege bist; damit der Widersacher dich nicht etwa dem Richter überantworte, und der Richter dich dem Gerichtsdiener übergebe, und du ins Gefängnis geworfen werdest.
+26 Wahrlich, ich sage dir, du wirst von dort nicht herauskommen, bis du den letzten Heller bezahlt hast!
 27 Ihr habt gehört, daß zu den Alten gesagt ist: «Du sollst nicht ehebrechen!»
+28 Ich aber sage euch: Wer ein Weib ansieht, ihrer zu begehren, der hat in seinem Herzen schon Ehebruch mit ihr begangen.
 29 Wenn dir aber dein rechtes Auge ein Anstoß zur Sünde wird, so reiß es aus und wirf es von dir. Denn es ist besser für dich, daß eins deiner Glieder verloren gehe, als daß dein ganzer Leib in die Hölle geworfen werde.
 30 Und wenn deine rechte Hand für dich ein Anstoß zur Sünde wird, so haue sie ab und wirf sie von dir. Denn es ist besser für dich, daß eins deiner Glieder verloren gehe, als daß dein ganzer Leib in die Hölle geworfen werde.
 31 Es ist auch gesagt: «Wer sich von seiner Frau scheidet, der gebe ihr einen Scheidebrief.»
@@ -31,8 +39,10 @@
 39 Ich aber sage euch: Ihr sollt dem Bösen nicht widerstehen; sondern wenn dich jemand auf deinen rechten Backen schlägt, so biete ihm auch den andern dar;
 40 und wer mit dir rechten und deinen Rock nehmen will, dem laß auch den Mantel;
 41 und wenn dich jemand eine Meile weit zu gehen nötigt, so gehe mit ihm zwei.
+42 Gib dem, der dich bittet, und wende dich nicht ab von dem, der von dir borgen will.
 43 Ihr habt gehört, daß gesagt ist: «Du sollst deinen Nächsten lieben und deinen Feind hassen!»
 44 Ich aber sage euch: Liebet eure Feinde, segnet, die euch fluchen, tut wohl denen, die euch hassen, und bittet für die, so euch beleidigen und verfolgen;
 45 auf daß ihr Kinder eures Vaters im Himmel seid. Denn er läßt seine Sonne aufgehen über Böse und Gute und läßt regnen über Gerechte und Ungerechte.
 46 Denn wenn ihr die liebt, die euch lieben, was habt ihr für einen Lohn? Tun nicht die Zöllner dasselbe?
 47 Und wenn ihr nur eure Brüder grüßt, was tut ihr Besonderes? Tun nicht auch die Heiden ebenso?
+48 Darum sollt ihr vollkommen sein, gleichwie euer himmlischer Vater vollkommen ist!

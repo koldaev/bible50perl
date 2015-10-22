@@ -17,6 +17,7 @@
 17 Le premier jour du premier mois, ils en finirent avec tous les hommes qui s'étaient alliés à des femmes étrangères. 
 18 Parmi les fils de sacrificateurs, il s'en trouva qui s'étaient alliés à des femmes étrangères: des fils de Josué, fils de Jotsadak, et de ses frères, Maaséja, Éliézer, Jarib et Guedalia, 
 19 qui s'engagèrent, en donnant la main, à renvoyer leurs femmes et à offrir un bélier en sacrifice de culpabilité; 
+20 des fils d'Immer, Hanani et Zebadia; 
 21 des fils de Harim, Maaséja, Élie, Schemaeja, Jehiel et Ozias; 
 22 des fils de Paschhur, Eljoénaï, Maaséja, Ismaël, Nethaneel, Jozabad et Éleasa. 
 23 Parmi les Lévites: Jozabad, Schimeï, Kélaja ou Kelitha, Pethachja, Juda et Éliézer. 
@@ -25,8 +26,10 @@
 26 des fils d'Élam, Matthania, Zacharie, Jehiel, Abdi, Jerémoth et Élie; 
 27 des fils de Zatthu, Eljoénaï, Éliaschib, Matthania, Jerémoth, Zabad et Aziza; 
 28 des fils de Bébaï, Jochanan, Hanania, Zabbaï et Athlaï; 
+29 des fils de Bani, Meschullam, Malluc, Adaja, Jaschub, Scheal et Ramoth; 
 30 des fils de Pachath-Moab, Adna, Kelal, Benaja, Maaséja, Matthania, Betsaleel, Binnuï et Manassé; 
 31 des fils de Harim, Éliézer, Jischija, Malkija, Schemaeja, Siméon, 
+32 Benjamin, Malluc et Schemaria; 
 33 des fils de Haschum, Matthnaï, Matthattha, Zabad, Éliphéleth, Jerémaï, Manassé et Schimeï; 
 34 des fils de Bani, Maadaï, Amram, Uel, 
 35 Benaja, Bédia, Keluhu, 
@@ -36,5 +39,6 @@
 39 Schélémia, Nathan, Adaja, 
 40 Macnadbaï, Schaschaï, Scharaï, 
 41 Azareel, Schélémia, Schemaria, 
+42 Schallum, Amaria et Joseph; 
 43 des fils de Nebo, Jeïel, Matthithia, Zabad, Zebina, Jaddaï, Joël et Benaja. 
 44 Tous ceux-là avaient pris des femmes étrangères, et plusieurs en avaient eu des enfants. 

@@ -2,8 +2,10 @@
 2 $ALEF Slavim te, Jahve, svim srcem svojim, ispovijedam sva čudesna djela tvoja.
 3 Radujem se i kličem tebi, pjevam imenu tvome, Svevišnji!
 4 $BET Dušmani moji natrag krenuše, padoše i pred licem tvojim pogiboše.
+5 Jer ti se zauze za moje pravo i parbu moju, ti sjede na prijesto - sudac pravedan:
 6 $GIMEL ti pokara pogane, pogubi bezbošca, ime im izbrisa dovijeka.
 7 Dušmani klonuše, smrvljeni zauvijek, ti im gradove razori - nesta im spomena.
+8 $HE Ali Jahve dovijeka stoluje, postavi prijesto svoj da sudi:
 9 sam po pravdi sudi krug zemaljski, izreče pucima osudu pravednu.
 10 $VAU Jahve je tvrđava tlačenom, tvrđava spasa u danima tjeskobe.
 11 Nek' se uzdaju u te koji znaju ime tvoje, jer ne ostavljaš onih što ljube tebe, o Jahve.
@@ -16,3 +18,4 @@
 18 $JOD Nek' grešnici odu u Podzemlje, svi pogani što zaboraviše Boga.
 19 $KAF Jer siromah neće pasti u zaborav zauvijek, ufanje ubogih neće biti zaludu dovijeka.
 20 Ustani, Jahve, da se ne osili čovjek, nek' pogani budu osuđeni pred tobom!
+21 Strah im, o Jahve, utjeraj, nek' spoznaju pogani da su smrtnici!

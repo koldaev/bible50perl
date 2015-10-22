@@ -1,8 +1,10 @@
+1 Laulujuhatajale: Korahi laste laul.  
 2 Kuulge seda, kõik rahvad! Pange tähele, kõik maailma elanikud, 
 3 nii alamad kui ülemad, üheskoos rikas ja vaene! 
 4 Mu suu räägib tarkusesõnu ja mu südame mõte sügavat tunnetust. 
 5 Ma pööran oma kõrva tähendamissõna poole ja teen kandlega avalikuks oma mõistatuse. 
 6 Miks ma peaksin kartma kurjal ajal, kui mind ümbritsevad mu tagakiusajate pahateod, 
+7 kes loodavad oma varanduse peale ja kiitlevad oma suurest rikkusest? 
 8 Ükski ei või venna eest anda luna ega tema eest maksta Jumalale lunastushinda, 
 9 sest nende hinge luna on liiga kallis ja peab jääma igavesti tasumata selleks, 
 10 et keegi ei jääks elama lõppemata ega näekski hauda. 
@@ -16,3 +18,4 @@
 18 Sest oma surma ei võta ta midagi kaasa, tema au ei järgne talle. 
 19 Kui tema ka kiidab oma hinge õnnelikuks oma elus ja teised kiidavad sind, et sa teed enesele hea elu, 
 20 lähed sa siiski oma esiisade sugupõlve juurde, kes iialgi ei saa näha valgust. 
+21 Inimene toreduses, kui tal pole arusaamist, on loomade sarnane, kellele tehakse ots.

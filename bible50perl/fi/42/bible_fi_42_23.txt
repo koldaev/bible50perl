@@ -10,6 +10,7 @@
 10 Ja ylipapit ja kirjanoppineet seisoivat siinä ja syyttivät häntä kiivaasti.
 11 Mutta Herodes joukkoineen kohteli häntä halveksivasti ja pilkkasi häntä; ja puetettuaan hänet loistavaan pukuun hän lähetti hänet takaisin Pilatuksen eteen.
 12 Ja Herodes ja Pilatus tulivat sinä päivänä ystäviksi keskenään; he olivat näet ennen olleet toistensa vihamiehiä.
+13 Niin Pilatus kutsui kokoon ylipapit ja hallitusmiehet ja kansan
 14 ja sanoi heille: Te olette tuoneet minulle tämän miehen kansan yllyttäjänä; ja katso, minä olen teidän läsnäollessanne häntä tutkinut enkä ole havainnut tätä miestä syylliseksi mihinkään, mistä te häntä syytätte,
 15 eikä Herodeskaan, sillä hän lähetti hänet takaisin meille. Ja katso, hän ei ole tehnyt mitään, mikä ansaitsee kuoleman.
 16 Kuritettuani häntä minä siis hänet päästän.

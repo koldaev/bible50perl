@@ -22,13 +22,19 @@
 22 Haşumoğulları: 328
 23 Besayoğulları: 324
 24 Harifoğulları: 112
+25 Givonlular: 95
 26 Beytlehemliler ve Netofalılar: 188
+27 Anatotlular: 128
+28 Beytazmavetliler: 42
 29 Kiryat-Yearimliler, Kefiralılar ve Beerotlular: 743
 30 Ramalılar ve Gevalılar: 621
 31 Mikmaslılar: 122
+32 Beytel ve Ay kentlerinden olanlar: 123
 33 Öbür Nevo Kentinden olanlar: 52
 34 Öbür Elam Kentinden olanlar: 1254
+35 Harimliler: 320
 36 Erihalılar: 345
+37 Lod, Hadit ve Ono kentlerinden olanlar: 721
 38 Senaalılar: 3930
 39 Kâhinler:  Yeşu soyundan Yedayaoğulları: 973
 40 İmmeroğulları: 1052

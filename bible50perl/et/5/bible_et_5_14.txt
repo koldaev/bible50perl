@@ -10,9 +10,11 @@
 10 Aga ühtegi, kellel ei ole uimi ja soomuseid, ei või te süüa - ta olgu teile roojane!
 11 Kõiki puhtaid linde võite süüa. 
 12 Aga keda te lindudest ei või süüa, on need: kotkas, lambakotkas, must raisakotkas, 
+13 harksabakull, raudkull oma liikidega, 
 14 kõik kaarnad oma liikidega, 
 15 jaanalind, kägu, kajakas, haugas oma liikidega, 
 16 kakuke, kassikakk, öökull, 
+17 puguhani, raisakull, kormoran, 
 18 toonekurg, haigur oma liikidega, vaenukägu ja nahkhiir.    
 19 Kõik tiivulised putukad olgu teile roojased, neid ärgu söödagu! 
 20 Kõiki puhtaid linde võite süüa.

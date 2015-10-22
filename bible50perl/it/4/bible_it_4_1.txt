@@ -2,7 +2,17 @@
 2 "Fate la somma di tutta la raunanza de’ figliuoli d’Israele secondo le loro famiglie, secondo le case dei loro padri, contando i nomi di tutti i maschi, uno per uno,
 3 dall’età di venti anni in su, tutti quelli che in Israele possono andare alla guerra; tu ed Aaronne ne farete il censimento, secondo le loro schiere.
 4 E con voi ci sarà un uomo per tribù, il capo della casa de’ suoi padri.
+5 Questi sono i nomi degli nomini che staranno con voi. Di Ruben: Elitsur, figliuolo di Scedeur;
+6 di Simeone: Scelumiel, figliuolo di Tsurishaddai;
+7 di Giuda: Nahshon, figliuolo di Aminadab;
+8 di Issacar: Nethaneel, figliuolo di Tsuar;
+9 di Zabulon: Eliab, figliuolo di Helon;
 10 de’ figliuoli di Giuseppe: di Efraim: Elishama, figliuolo di Ammihud; di Manasse: Gamaliel, figliuolo di Pedahtsur;
+11 di Beniamino: Abidan, figliuolo di Ghideoni;
+12 di Dan: Ahiezer, figliuolo di Ammishaddai;
+13 di Ascer: Paghiel, figliuolo di Ocran;
+14 di Gad: Eliasaf, figliuolo di Deuel;
+15 di Neftali: Ahira, figliuolo di Enan".
 16 Questi furono i chiamati dal seno della raunanza, i principi delle tribù de’ loro padri, i capi delle migliaia d’Israele.
 17 Mosè ed Aaronne presero dunque questi uomini ch’erano stati designati per nome,
 18 e convocarono tutta la raunanza, il primo giorno del secondo mese; e il popolo fu inscritto secondo le famiglie, secondo le case de’ padri, contando il numero delle persone dai venti anni in su, uno per uno.
@@ -33,6 +43,7 @@
 43 il censimento della tribù di Neftali dette la cifra di cinquantatremila quattrocento.
 44 Questi son quelli di cui Mosè ed Aaronne fecero il censimento, coi dodici uomini, principi d’Israele: ce n’era uno per ognuna delle case de’ loro padri.
 45 Così tutti i figliuoli d’Israele dei quali fu fatto il censimento secondo le case del loro padri, dall’età di vent’anni in su, cioè tutti gli uomini che in Israele potevano andare alla guerra,
+46 tutti quelli dei quali fu fatto il censimento, furono seicentotremila cinquecentocinquanta.
 47 Ma i Leviti, come tribù dei loro padri, non furon compresi nel censimento con gli altri;
 48 poiché l’Eterno avea parlato a Mosè, dicendo:
 49 "Soltanto della tribù di Levi non farai il censimento, e non ne unirai l’ammontare a quello de’ figliuoli d’Israele;

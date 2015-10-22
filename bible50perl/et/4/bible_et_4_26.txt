@@ -5,8 +5,10 @@
 5 Ruuben, Iisraeli esmasündinu; Ruubeni järeltulijad olid: Hanokist hanoklaste suguvõsa, Pallust pallulaste suguvõsa; 
 6 Hesronist hesronlaste suguvõsa, Karmist karmlaste suguvõsa. 
 7 Need olid ruubenlaste suguvõsad ja neist loetuid oli nelikümmend kolm tuhat seitsesada kolmkümmend. 
+8 Pallu poeg oli Eliab. 
 9 Eliabi pojad olid Nemuel, Daatan ja Abiram; need olid Daatan ja Abiram, kogudusest kutsutud mehed, kes riidlesid Moosesega ja Aaroniga Korahi jõugus, kui need riidlesid Issandaga  
 10 ja maa avas oma suu ja neelas nemad ja Korahi - siis kui see jõuk suri ja kakssada viiskümmend meest põles tules - ja nad said  hoiatusmärgiks. 
+11 Aga Korahi pojad ei surnud.
 12 Siimeoni järeltulijad olid oma suguvõsade kaupa: Nemuelist nemuellaste suguvõsa, Jaaminist jaaminlaste suguvõsa, Jaakinist jaakinlaste suguvõsa; 
 13 Serahist serahlaste suguvõsa, Saulist saullaste suguvõsa. 
 14 Need olid siimeonlaste suguvõsad - kakskümmend kaks tuhat kuussada. 
@@ -14,6 +16,7 @@
 16 Osnist osnilaste suguvõsa, Eerist eerlaste suguvõsa; 
 17 Arodist arodlaste suguvõsa, Areelist areellaste suguvõsa. 
 18 Need olid Gaadi poegade suguvõsad; neist loetuid oli nelikümmend tuhat viissada.
+19 Juuda pojad olid Eer ja Oonan, aga Eer ja Oonan surid Kaananimaal. 
 20 Ja need olid Juuda järeltulijad oma suguvõsade kaupa: Seelast seelalaste suguvõsa, Peretsist peretslaste suguvõsa, Serahist serahlaste suguvõsa. 
 21 Ja need olid Peretsi järeltulijad: Hesronist hesronlaste suguvõsa, Haamulist haamullaste suguvõsa. 
 22 Need olid Juuda suguvõsad; neist loetuid oli seitsekümmend kuus tuhat viissada.

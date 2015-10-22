@@ -13,6 +13,7 @@
 13 Pilaatus aga kutsus kokku ülempreestrid ja ülemad ja rahva 
 14 ning ütles neile: 'Te olete toonud minu juurde selle inimese otsekui rahva ässitaja, ja vaata, mina ei ole teie ees teda üle kuulates leidnud sellel inimesel ühtegi süüd, mida teie tema peale kaebate. 
 15 Kuid ühtegi süüd ei ole leidnud ka Heroodes, sest ta on tema saatnud tagasi meie juurde. Ja vaata, ta ei ole teinud midagi, mis vääriks surma. 
+16 Mina siis karistan teda ja lasen ta vabaks.' 
 17 [Aga ta oli kohustatud neile pühadeks ühe vangi vabaks laskma.]
 18 Aga rahvahulk karjus ja hüüdis: 'Hukka ta ära! Lase meile vabaks Barabas!' 
 19 Too oli linnas sündinud mässu ja mõrva pärast vangi heidetud. 
@@ -28,11 +29,13 @@
 29 sest vaata, päevad tulevad, mil öeldakse: Õndsad on sigimatud, ja ihud, mis ei ole ilmale kandnud, ja rinnad, mis ei ole imetanud! 
 30 Siis hakatakse ütlema mägedele: Langege meie peale! ja küngastele: Katke meid! 
 31 Sest kui seda tehakse toore puuga, mis sünnib siis kuivaga?'
+32 Aga ka kaks muud kurjategijat viidi hukkamisele koos temaga. 
 33 Ja kui nad tulid sinna paika, mida hüütakse Pealuuks, siis nad lõid Jeesuse sinna risti, samuti kurjategijad - ühe temast paremale, teise vasemale. 
 34 [Aga Jeesus ütles: 'Isa, anna neile andeks, sest nad ei tea, mida nad teevad!'] Aga nad heitsid liisku tema rõivaid jagades.
 35 Ja rahvas oli jäänud seisma ja teda vaatama. Aga ülemadki irvitasid Jeesuse üle: 'Teisi on ta päästnud, päästku iseennast, kui ta on see äravalitu, Jumala Messias!' 
 36 Ja ka sõdurid teotasid teda, astudes ta juurde, tuues talle äädikat 
 37 ja öeldes: 'Kui sa oled juutide kuningas, päästa iseennast!' 
+38 Aga tema kohal oli ka tahvel: See on juutide kuningas.
 39 Aga üks ristil rippuvaist kurjategijaist teotas Jeesust: 'Eks sa ole Messias? Päästa siis iseennast ja meid!' 
 40 Aga teine sõitles teda: 'Karda ometi Jumalat, kuna sa oled sellesama karistuse all! 
 41 Meie küll õigusega, sest me saame kätte, mis meie teod on väärt, aga tema ei ole teinud midagi sündmatut.' 
@@ -45,6 +48,7 @@
 48 Ja kogu rahvahulk, kes oli tulnud seda pealt vaatama, lõi sündivat nähes endale vastu rindu ja pöördus tagasi.
 49 Aga kõik, kes Jeesust tundsid, olid jäänud seisma eemale, samuti naised, kes olid käinud temaga kaasas Galileamaalt alates, ja nad nägid seda.
 50 Ja vaata, Juuda linnast Arimaatiast pärit Joosepi-nimeline Suurkohtu nõunik, kes oli hea ja õiglane mees, 
+51 kes ei olnud leppinud nende otsuse ega teoga ja kes ootas Jumala riiki, 
 52 läks Pilaatuse juurde ja palus enesele Jeesuse ihu. 
 53 Ja ta võttis selle maha, mähkis linasse ja asetas kaljusse raiutud hauda, kuhu polnud veel mitte kedagi maetud. 
 54 Ja see oli pühade valmistumispäev, ning hingamispäev oli algamas. 

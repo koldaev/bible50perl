@@ -1,16 +1,33 @@
+1 Adam, Set Enosj,
+2 Kenan, Mahalal'el, Jered,
+3 Enok, Metusalem, Lemek,
+4 Noa, Sem, Kam og Jafet.
 5 Jafets Sønner: Gomer, Magog, Madaj, Javan, Tubal, Mesjek og Tiras.
 6 Gomers Sønner: Asjkenaz, Rifat og Togarma.
 7 Javans Sønner: Elisja, Tarsis, Kitæerne og Rodosboerne.
 8 Kams Sønner: Kusj, Mizrajim, Put og Kana'an.
 9 Kusj' Sønner: Seba, Havila, Sabta, Ra'ma og Sabteka. Ra'mas Sønner: Saba og Dedan.
 10 Og Kusj avlede Nimrod, som var den første Storhersker på Jorden.
+11 Mizrajim avlede Luderne, Anamerne, Lehaberne, Naftuherne,
+12 Patruserne, Kasluherne, fra hvem Filisterne udgik, og Kaftorerne.
 13 Kana'an avlede Zidon, hans førstefødte, og Het,
+14 Jebusiterne, Amoriterne, Girgasjiterne,
+15 Hivviterne, Arkiterne, Siniterne,
+16 Arvaditerne, Zemariterne og Hamatiterne.
 17 Sems Sønner: Elam, Assur, Arpaksjad, Lud og Aram. Arams Sønner: Uz, Hul, Geter og Masj.
+18 Arpaksjad avlede Sjela; Sjela avlede Eber;
 19 Eber fødtes der to Sønner; den ene hed Peleg, thi på hans Tid adsplittedes Jordens Befolkning, og hans Broder hed Joktan.
+20 Joktan avlede Almodad, Sjelef, Hazarmavet, Jera,
+21 Hadoram, Uzal, Dikla,
+22 Ebal, Abimael, Saba,
 23 Ofir, Havila og Jobab. Alle disse var Joktans Sønner.
 24 Sems Sønner: Arpaksjad, Sjela,
+25 Eber, Peleg, Re'u,
+26 Serug, Nakor, Tara
+27 og Abram, det er Abraham.
 28 Abrahams Sønner: Isak og Ismael.
 29 Dette er deres Slægtebog: Ismaels førstefødte Nebajot, dernæst Kedar, Adbe'el, Mibsam,
+30 Misjma, Duma, Massa, Hadad, Tema,
 31 Jetur, Nafesj og Kedma. Det var Ismaels Sønner.
 32 De Sønner, som Abrahams Medhustru Hetura fødte: Zimran, Joksjan, Medan, Midjan, Jisjbak og Sjua. Joksjans Sønner: Saba og Dedan.
 33 Midjans Sønner: Efa, Efer, Hallok, Ahida og Elda'a. Alle disse var Keturas Sønner.
@@ -32,4 +49,6 @@
 49 Da Sja'ul døde, blev Ba'al-Hanan, Akbors Søn, Konge i hans Sted.
 50 Da Ba'al-Hanan døde, blev Hadad Konge i hans Sted; hans By hed Pa'i, og hans Hustru hed Mehetab'el, en Datter af Matred, en Datter af Mezahab.
 51 DaHadad døde, fremtrådte Edoms Stammehøvdinger: Høvdingerne Timna, Alja, Jetet,
+52 Oholibama, Ela, Pioon,
+53 Kenaz, Teman, Mibzar,
 54 Magdiel og Iram. Det var Edoms Stammehøvdinger.

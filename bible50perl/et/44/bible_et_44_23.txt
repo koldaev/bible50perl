@@ -22,6 +22,7 @@
 22 Siis laskis ülempealik poisi minema, keelates teda: 'Ära räägi kellelegi, et sa seda mulle teada andsid.'
 23 Ja ta kutsus enese juurde kaks pealikut ning ütles: 'Pange valmis kakssada sõdurit, seitsekümmend ratsanikku ja kakssada piigimeest Kaisareasse minekuks kolmandal öötunnil. 
 24 Ja varuge ratsaloomi, et ühe selga panna Paulus ja ta tervelt maavalitseja Feeliksi ette viia.' 
+25 Ta kirjutas ka sellise sisuga kirja: 
 26 'Klaudius Lüüsias tervitab üliaulist maavalitsejat Feeliksit! 
 27 Selle mehe olid juudid kinni võtnud ja teda oldi hukkamas, kui ma tulin väesalgaga vahele ja kiskusin ta nende käest ära, olles teada saanud, et ta on Rooma kodanik. 
 28 Tahtes aru saada, mis põhjusel nad tema peale kaebavad, viisin ma ta Suurkohtu ette. 

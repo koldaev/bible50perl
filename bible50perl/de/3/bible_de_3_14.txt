@@ -1,4 +1,5 @@
 1 Und der HERR redete zu Mose und sprach: Dieses Gesetz gilt für den Aussätzigen am Tage seiner Reinigung:
+2 Er soll zum Priester kommen.
 3 Und der Priester soll hinaus vor das Lager gehen, und wenn er nachsieht und findet, daß das Mal des Aussätzigen heil geworden ist,
 4 so soll er gebieten, daß man für den, der sich reinigen läßt, zwei lebendige Vögel bringe, welche rein sind, und Zedernholz, Karmesin und Ysop;
 5 und der Priester soll gebieten, daß man den einen Vogel schächte über einem irdenen Geschirr, darin lebendiges Wasser ist.
@@ -26,8 +27,11 @@
 27 und mit seinem rechten Finger vom Öl, das in seiner linken Hand ist, siebenmal vor dem HERRN sprengen.
 28 Darnach soll der Priester vom Öl in seiner Hand dem, der gereinigt werden soll, auf sein rechtes Ohrläpplein und auf den Daumen seiner rechten Hand und auf die große Zehe seines rechten Fußes tun, oben auf das Blut des Schuldopfers.
 29 Das übrige Öl in seiner Hand aber soll er dem zu Reinigenden auf das Haupt tun, um für ihn Sühne zu erwirken vor dem HERRN.
+30 Darnach soll er eine der Turteltauben oder der jungen Tauben (was seine Hand aufzubringen vermochte)
 31 zum Sündopfer zubereiten und die andere zum Brandopfer, samt dem Speisopfer; so soll der Priester für den, der gereinigt werden soll, Sühne erwirken vor dem HERRN.
 32 Das ist das Gesetz für den Aussätzigen, der mit seiner Hand nicht aufbringen kann, was zu seiner Reinigung gehört.
+33 Und der HERR redete zu Mose und Aaron:
+34 Wenn ihr in das Land Kanaan kommt, das ich euch zur Besitzung gebe, und ich irgendein Haus des Landes eurer Besitzung mit einem Aussatz belege,
 35 so soll der, dem das Haus gehört, kommen und es dem Priester anzeigen und sprechen: Es dünkt mich, als sei ein Aussatzmal an meinem Hause.
 36 Dann soll der Priester gebieten, daß man das Haus ausräume, ehe der Priester hineingeht, das Mal zu besehen, damit nicht alles unrein werde, was im Hause ist; darnach soll der Priester hineingehen, das Haus zu besehen.
 37 Wenn er nun das Mal besieht und findet, daß an der Wand des Hauses grüne oder rötliche Grüblein sind, die tieferliegend erscheinen als die übrige Wand,
@@ -36,8 +40,10 @@
 40 so soll der Priester befehlen, daß man die Steine ausbreche, wo das Mal ist, und daß man sie vor die Stadt hinaus an einen unreinen Ort werfe;
 41 und er soll befehlen, das Haus inwendig ringsum abzuschaben, und man soll den Schutt, den man abgeschabt hat, vor die Stadt hinaus an einen unreinen Ort schütten
 42 und andere Steine nehmen und an jene Stelle tun und andern Mörtel nehmen und das Haus bewerfen.
+43 Wenn dann das Mal wieder kommt und am Hause ausbricht, nachdem man die Steine ausgebrochen und das Haus abgekratzt und neu beworfen hat,
 44 so soll der Priester hineingehen; und wenn er sieht, daß das Mal am Hause weitergefressen hat, so ist es ein fressender Aussatz am Hause, und es ist unrein.
 45 Darum soll man das Haus abbrechen, seine Steine und sein Holz und allen Mörtel am Hause, und man soll es vor die Stadt hinaus an einen unreinen Ort führen.
+46 Und wer in das Haus geht, solang es verschlossen ist, der ist unrein bis zum Abend.
 47 Und wer darin liegt, der soll seine Kleider waschen; auch wer darin ißt, der soll seine Kleider waschen.
 48 Wenn aber der Priester beim Betreten des Hauses sieht, daß das Mal nicht weitergefressen hat am Hause, nachdem das Haus neu beworfen ist, so soll er es für rein erklären; denn das Mal ist heil geworden.
 49 Und er soll für das Haus zum Sündopfer zwei Vögel nehmen, Zedernholz, Karmesin und Ysop,

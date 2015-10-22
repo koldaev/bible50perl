@@ -1,7 +1,10 @@
 1 La donna savia edifica la sua casa, ma la stolta l’abbatte con le proprie mani.
 2 Chi cammina nella rettitudine teme l’Eterno, ma chi è pervertito nelle sue vie lo sprezza.
+3 Nella bocca dello stolto germoglia la superbia, ma le labbra dei savi son la loro custodia.
 4 Dove mancano i buoi è vuoto il granaio, ma l’abbondanza della raccolta sta nella forza del bove.
+5 Il testimonio fedele non mentisce, ma il testimonio falso spaccia menzogne.
 6 Il beffardo cerca la sapienza e non la trova, ma per l’uomo intelligente la scienza è cosa facile.
+7 Vattene lungi dallo stolto; sulle sue labbra certo non hai trovato scienza.
 8 La sapienza dell’uomo accorto sta nel discernere la propria strada, ma la follia degli stolti non è che inganno.
 9 Gli insensati si burlano delle colpe commesse, ma il favore dell’Eterno sta fra gli uomini retti.
 10 Il cuore conosce la sua propria amarezza, e alla sua gioia non può prender parte un estraneo.
@@ -19,6 +22,7 @@
 22 Quelli che meditano il male non son forse traviati? ma quelli che meditano il bene trovan grazia e fedeltà.
 23 In ogni fatica v’è profitto, ma il chiacchierare mena all’indigenza.
 24 La corona de’ savi è la loro ricchezza, ma la follia degli stolti non è che follia.
+25 Il testimonio verace salva delle vite, ma chi spaccia bugie non fa che ingannare.
 26 V’è una gran sicurezza nel timor dell’Eterno; Egli sarà un rifugio per i figli di chi lo teme.
 27 Il timor dell’Eterno è fonte di vita e fa schivare le insidie della morte.
 28 La moltitudine del popolo è la gloria del re, ma la scarsezza de’ sudditi è la rovina del principe.

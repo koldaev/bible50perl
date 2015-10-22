@@ -1,8 +1,11 @@
+1 (40-25) Ziehst du das Krokodil mit der Angel heraus, legst du ihm einen Zaum ins Maul?
 2 (40-26) Kannst du einen Ring an seine Nase legen und einen Haken durch seine Kinnbacken stoßen?
 3 (40-27) Wird es dich lange bitten oder dir Zärtlichkeiten sagen?
 4 (40-28) Wird es einen Bund mit dir schließen, daß du es zum ewigen Knechte machest?
 5 (40-29) Kannst du mit ihm spielen wie mit einem Vögelein, oder es anbinden für deine Mädchen?
 6 (40-30) Verkaufen es die Genossen untereinander, oder teilen es die Händler unter sich?
+7 (40-31) Kannst du seine Haut mit Pfeilen spicken und mit Fischerhaken seinen Kopf?
+8 (40-32) Lege deine Hand daran. Du wirst des Kampfes nicht vergessen, wirst es nicht zum zweitenmal tun!
 9 (41-1) Siehe, die Hoffnung auf dasselbe wird getäuscht; fällt man nicht schon bei seinem Anblick dahin?
 10 (41-2) Niemand ist so kühn, daß er es reizen möchte; wer kann aber vor Mir bestehen?
 11 (41-3) Wer ist mir zuvorgekommen, daß ich es ihm vergelte? Unter dem ganzen Himmel ist alles mein!
@@ -17,10 +20,15 @@
 20 (41-12) Dampf geht auf von seinen Nüstern, und der Sumpf wird wie ein siedender Topf.
 21 (41-13) Sein Atem facht Kohlen an, eine Flamme schießt aus seinem Munde.
 22 (41-14) Stärke wohnt auf seinem Nacken und Schrecken zieht vor ihm her.
+23 (41-15) Die Wampen seines Fleisches sitzen fest wie angegossen und bewegen sich nicht.
 24 (41-16) Sein Herz ist hart wie Stein und so fest wie der untere Mühlstein.
 25 (41-17) Die Helden erbeben, wenn es auffährt; vor Zittern geht ihr Bogen fehl.
 26 (41-18) Greift man es mit dem Schwerte an, so haftet dieses nicht, kein Speer, kein Wurfspieß und kein Pfeil.
 27 (41-19) Es achtet Eisen für einen Strohhalm, und Erz für faules Holz.
+28 (41-20) Kein Pfeil vermag es in die Flucht zu schlagen, und Schleudersteine fallen wie Spreu von ihm ab.
 29 (41-21) Es achtet die Keule für einen Halm und verlacht das Sausen der Spieße.
 30 (41-22) Unter ihm sind spitze Scherben, es zieht wie ein Dreschschlitten über den Schlamm dahin.
+31 (41-23) Es macht die Tiefe sieden wie einen Kessel, macht das Meer zu einem Salbentopf.
+32 (41-24) Hinter ihm her leuchtet der Pfad, es macht die Flut den Silberhaaren gleich.
+33 (41-25) Auf Erden ist nicht seinesgleichen; es ist gemacht, um ohne Furcht zu sein.
 34 (41-26) Es schaut alle Hohen furchtlos an, es ist ein König über alle Stolzen.

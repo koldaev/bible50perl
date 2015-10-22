@@ -1,9 +1,11 @@
 1 Nisso, pois, Pilatos tomou a Jesus, e mandou açoitá-lo.
 2 E os soldados, tecendo uma coroa de espinhos, puseram-lha sobre a cabeça, e lhe vestiram um manto de púrpura;
+3 e chegando-se a ele, diziam: Salve, rei dos judeus! e e davam-lhe bofetadas.
 4 Então Pilatos saiu outra vez, e disse-lhes: Eis aqui vo-lo trago fora, para que saibais que não acho nele crime algum.
 5 Saiu, pois, Jesus, trazendo a coroa de espinhos e o manto de púrpura. E disse-lhes Pilatos: Eis o homem!
 6 Quando o viram os principais sacerdotes e os guardas, clamaram, dizendo: Crucifica-o! Crucifica-o! Disse-lhes Pilatos: Tomai-o vós, e crucificai-o; porque nenhum crime acho nele.
 7 Responderam-lhe os judeus: Nós temos uma lei, e segundo esta lei ele deve morrer, porque se fez Filho de Deus.
+8 Ora, Pilatos, quando ouviu esta palavra, mais atemorizado ficou;
 9 e entrando outra vez no pretório, perguntou a Jesus: Donde és tu? Mas Jesus não lhe deu resposta.
 10 Disse-lhe, então, Pilatos: Não me respondes? não sabes que tenho autoridade para te soltar, e autoridade para te crucificar?
 11 Respondeu-lhe Jesus: Nenhuma autoridade terias sobre mim, se de cima não te fora dado; por isso aquele que me entregou a ti, maior pecado tem.
@@ -13,9 +15,11 @@
 15 Mas eles clamaram: Tira-o! tira-o! crucifica-o! Disse-lhes Pilatos: Hei de crucificar o vosso rei? responderam, os principais sacerdotes: Não temos rei, senão César.
 16 Então lho entregou para ser crucificado.
 17 Tomaram, pois, a Jesus; e ele, carregando a sua própria cruz, saiu para o lugar chamado Caveira, que em hebraico se chama Gólgota,
+18 onde o crucificaram, e com ele outros dois, um de cada lado, e Jesus no meio.
 19 E Pilatos escreveu também um título, e o colocou sobre a cruz; e nele estava escrito: JESUS O NAZARENO, O REI DOS JUDEUS.
 20 Muitos dos judeus, pois, leram este título; porque o lugar onde Jesus foi crucificado era próximo da cidade; e estava escrito em hebraico, latim e grego.
 21 Diziam então a Pilatos os principais sacerdotes dos judeus: Não escrevas: O rei dos judeus; mas que ele disse: Sou rei dos judeus.
+22 Respondeu Pilatos: O que escrevi, escrevi.
 23 Tendo, pois, os soldados crucificado a Jesus, tomaram as suas vestes, e fizeram delas quatro partes, para cada soldado uma parte. Tomaram também a túnica; ora a túnica não tinha costura, sendo toda tecida de alto a baixo.
 24 Pelo que disseram uns aos outros: Não a rasguemos, mas lancemos sortes sobre ela, para ver de quem será (para que se cumprisse a escritura que diz: Repartiram entre si as minhas vestes, e lançaram sortes). E, de fato, os soldados assim fizeram.
 25 Estavam em pé, junto à cruz de Jesus, sua mãe, e a irmã de sua mãe, e Maria, mulher de Clôpas, e Maria Madalena.

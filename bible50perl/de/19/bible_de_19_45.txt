@@ -3,11 +3,13 @@
 3 (45-4) Gürte dein Schwert an die Seite, du Held, deine Ehre und deine Pracht!
 4 (45-5) Fahre siegreich einher für die Sache der Wahrheit, der Milde und Gerechtigkeit, und deine Rechte lehre dich wunderbare Dinge!
 5 (45-6) Deine Pfeile sind scharf, sie unterwerfen dir die Völker; sie dringen ins Herz der Feinde des Königs.
+6 (45-7) Dein Thron, o Gott, bleibt immer und ewig, das Zepter deines Reiches ist ein gerades Zepter!
 7 (45-8) Du liebst die Gerechtigkeit und hassest das gottlose Wesen, darum hat dich, o Gott, dein Gott gesalbt mit dem Öl der Freuden mehr als deine Genossen.
 8 (45-9) Nach Myrrhen, Aloe und Kassia riechen deine Kleider; aus elfenbeinernen Palästen erfreut dich Saitenspiel.
 9 (45-10) Königstöchter sind unter deinen Geliebten; die Gemahlin steht zu deiner Rechten in Gold von Ophir.
 10 (45-11) Höre, Tochter, blicke her und neige dein Ohr, vergiß dein Volk und deines Vaters Haus!
 11 (45-12) Und wird der König Lust haben an deiner Schönheit (denn er ist dein Herr), so huldige ihm.
+12 (45-13) Und die Tochter von Tyrus wird mit Geschenken kommen, die Reichsten des Volkes deine Gunst suchen.
 13 (45-14) Ganz herrlich ist die Königstochter drinnen, von gewirktem Gold ist ihr Gewand.
 14 (45-15) In gestickten Kleidern wird sie dem König zugeführt; die Jungfrauen, die sie begleiten, ihre Gespielinnen, werden zu dir gebracht.
 15 (45-16) Man führt sie mit Freuden und Frohlocken, und sie gehen ein in des Königs Palast.

@@ -1,5 +1,8 @@
 1 Druhý lós padol na Simeona, na kmeň Simeonových synov podľa ich rodov. Ich dedičný podiel bol uprostred podielu Júdovcov.
 2 V ich dedičnom podiele bolo: Bersabe, (Sabe), Molada,
+3 Hasersual, Bala, Asem,
+4 Eltolad, Betul, Harma,
+5 Sikeleg, Bet-Marchabot, Hasersusa,
 6 Bet-Lebaot a Sarohen: trinásť miest s ich dedinami.
 7 Ain-Remon, (Talcha), Atar, Asan: štyri mestá s ich dedinami.
 8 Ďalej všetky dediny, ktoré sú okolo týchto miest až po Bálat-Bér a Ramu na juhu. To je dedičný podiel Simeonovcov podľa ich rodov.
@@ -12,9 +15,14 @@
 15 … Kated, Nálol, Semeron, Jedala a Betlehem: dvanásť miest s ich dedinami.
 16 To je dedičný podiel Zabulonovcov podľa ich rodov: tieto mestá s ich dedinami.
 17 Štvrtý lós padol na Isachara, na Isacharových synov podľa ich rodov.
+18 Ich hranica je Jezrael, Kasalot, Sunem,
+19 Hafaraim, Seon, Anaharat,
+20 Rabot, Kesion, Abes,
+21 Ramet, En-Ganim, En-Hada a Bet-Feses.
 22 Hranica siaha k Táboru, Sehesime, Bet-Šemešu a hranica sa končí na Jordáne: šestnásť miest s ich dedinami.
 23 To je dedičný podiel kmeňa Isacharovcov podľa ich rodov: mestá s ich dedinami.
 24 Piaty lós padol na kmeň Aserových synov podľa ich rodov.
+25 Ich hranica je Halkat, Chali, Beten, Aksaf,
 26 Elmelech, Amád a Mesal. Potom zasahuje (vrch) Karmel na západnej strane a potok (Sichor) Labanat.
 27 Nato sa stáča na východ do Bet-Dagona, siaha až k Zabulonovi a k údoliu Jeftahel na severe, ďalej k Bet-Emeku a Nehielu a pokračuje severne na Kabul,
 28 Abran, Rohob, Hamona a Kanu až do Veľkého Sidona.
@@ -25,10 +33,14 @@
 33 Ich hranica ide od Helefa, od Sánanimskej dubiny, od Adami-Nekeba a Jebnaela až k Lekumu a končí sa na Jordáne.
 34 Potom sa hranica zatáča na západ do Azanot-Tábora a odtiaľ ide ďalej do Hukuky. Na juhu siaha k Zabulonovi, na západe sa dotýka Asera a na východe Jordána.
 35 Opevnené mestá sú: Asedim, Ser, Emat, Rekat, Keneret,
+36 Edema, Arama, Asor,
+37 Kedes, Edrai, En-Hasor,
 38 Jeron, Magdalel, Horem, Bet-Anat a Bet-Šemeš: devätnásť miest s ich dedinami.
 39 To je dedičný podiel kmeňa Neftalimovcov podľa ich rodov: mestá s ich dedinami.
 40 Siedmy lós padol na kmeň Danových synov podľa ich rodov.
 41 Územie ich dedičného podielu je Saraa, Estaol, Hir-Šemeš,
+42 Selebin, Ajalon, Jetela,
+43 Elon, Temna, Akron,
 44 Elteke, Gebeton, Balát,
 45 Júd, Bane-Barach, Get-Remon,
 46 Mejarkon, Arekon s pobrežím pri Joppe.

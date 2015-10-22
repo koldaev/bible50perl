@@ -1,8 +1,10 @@
 1 Ne nama, o Jahve, ne nama, već svom imenu slavu daj zbog ljubavi i vjernosti svoje.
 2 Zašto da govore pogani: TÓa gdje je Bog njihov?
 3 Naš je Bog na nebesima, sve što mu se svidi to učini.
+4 Idoli su njihovi srebro i zlato, ljudskih su ruku djelo.
 5 Usta imaju, a ne govore, oči imaju, a ne vide.
 6 Uši imaju, a ne čuju, nosnice, a ne mirišu.
+7 Ruke imaju, a ne hvataju, noge imaju, a ne hodaju; glas im iz grla ne izlazi.
 8 Takvi su i oni koji ih napraviše i svi koji se u njih uzdaju.
 9 Dome Izraelov, u Jahvu se uzdaj! - On je štit i pomoćnik njihov.
 10 Dome Aronov, u Jahvu se uzdaj! - On je štit i pomoćnik njihov.
@@ -10,6 +12,7 @@
 12 Jahve će se nas spomenut' i on će nas blagoslovit': blagoslovit će dom Izraelov, blagoslovit će dom Aronov,
 13 blagoslovit će one koji se Jahve boje - i male i velike.
 14 Umnožio vas Jahve, vas i vaše sinove!
+15 Blagoslovio vas Jahve koji stvori nebo i zemlju!
 16 Nebo je nebo Jahvino, a zemlju dade sinovima čovječjim.
 17 Ne, Jahvu mrtvi ne hvale, nitko od onih što siđu u Podzemlje.
 18 Mi živi, mi Jahvu slavimo sada i dovijeka. Aleluja.

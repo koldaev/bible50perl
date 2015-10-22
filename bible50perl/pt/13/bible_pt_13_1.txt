@@ -3,10 +3,17 @@
 3 Enoque, Matusalém, Lameque,
 4 Noé, Sem, Cão e Jafé.
 5 Os filhos de Jafé: Gomer, Magogue, Madai, Javã, Tubal, Meseque e Tiras.
+6 Os filhos de Gomer: Asquenaz, Rifate e Togarma.
 7 Os filhos de Javã: Elisá, Társis, Quitim e Dodanim.
 8 Os filhos de Cão: Cuche, Mizraim, Pute e Canaã.
 9 Os filhos de Cuche: Seba, Havilá, Sabtá, Raamá e Sabtecá; e os filhos de Raamá: Sebá e Dedã.
+10 Cuche foi pai de Ninrode, o qual foi o primeiro a ser poderoso na terra:
+11 De Mizraim descenderam os ludeus, os anameus, os leabeus, os naftueus,
+12 os patrusins, os casluins (dos quais procederam os filisteus) e os caftoreus.
 13 Canaã foi pai de Sidom, seu primogênito, e de Hete,
+14 e dos jebuseus, dos amorreus, dos girgaseus,
+15 dos heveus, dos arqueus, dos sineus,
+16 dos arvadeus, dos zemareus e dos hamateus.
 17 Os filhos de Sem: Elão, Assur, Arfaxade, Lude, Arã, Uz, Hul, Geter e Meseque.
 18 Arfaxade foi pai de Selá; e Selá foi pai de Eber.
 19 A Eber nasceram dois filhos: o nome dum foi Pelegue, pois nos seus dias se repartiu a terra; e o nome do seu irmão foi Joctã.
@@ -16,6 +23,7 @@
 23 Ofir, Havilá e Jobabe; todos esses foram filhos de Joctã.
 24 Sem, Arfaxade, Selá;
 25 Eber, Pelegue, Reú;
+26 Serugue, Naor, Tera;
 27 Abrão, que é Abraão.
 28 Os filhos de Abraão: Isaque e Ismael.
 29 Estas são as suas gerações: o primogênito de Ismael, Nebaiote; depois Quedar, Adbeel, Mibsão,

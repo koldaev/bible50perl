@@ -1,3 +1,4 @@
+1 Ja Herra puhui Moosekselle sanoen:
 2 Tämä olkoon laki pitalitautisen puhdistamispäivästä. Hänet tuotakoon papin eteen,
 3 ja pappi menköön leirin ulkopuolelle; ja jos pappi tarkastaessaan pitalista huomaa, että hän on parantunut pitalitaudista,
 4 käskeköön pappi puhdistettavaa varten ottaa kaksi elävää, puhdasta lintua, setripuuta, helakanpunaista lankaa ja isoppikorren.
@@ -29,6 +30,7 @@
 30 Ja hän uhratkoon toisen niistä metsäkyyhkysistä tai kyyhkysenpojista, jotka hän on hankkinut,
 31 mikäli on saanut ne hankituiksi, toisen syntiuhriksi ja toisen polttouhriksi ruokauhrin ohella. Näin pappi toimittakoon puhdistettavalle sovituksen Herran edessä.
 32 Tämä on laki pitalitautia sairastavasta, joka ei saa hankituksi puhdistukseensa sitä, mikä on säädetty.
+33 Ja Herra puhui Moosekselle ja Aaronille sanoen:
 34 Kun te tulette Kanaanin maahan, jonka minä annan teille perintömaaksi, ja minä sallin pitalin tarttua johonkin taloon siinä maassa, jonka te saatte perintömaaksenne,
 35 niin talon omistaja menköön ja ilmoittakoon sen papille sanoen: 'Minun talooni näyttää ilmestyneen jotakin pitalitarttuman tapaista'.
 36 Ja pappi käskeköön tyhjentää talon, ennenkuin menee tarkastamaan tarttumaa, ettei kaikki, mitä talossa on, tulisi saastaiseksi; sitten pappi menköön tarkastamaan taloa.
@@ -50,5 +52,6 @@
 52 Näin hän puhdistakoon talon linnun verellä ja raikkaalla vedellä, elävällä linnulla, setripuulla, isoppikorrella ja helakanpunaisella langalla.
 53 Ja sitten hän päästäköön elävän linnun lentämään ulkopuolelle kaupunkia kedolle. Kun hän näin on toimittanut talolle sovituksen, on se puhdas.
 54 Tämä on laki kaikkinaisesta pitalitaudista ja syyhelmästä,
+55 pitalista vaatteissa ja taloissa,
 56 nystyröistä, ihottumista ja vaaleista pilkuista,
 57 neuvoksi siitä, milloin mikin on saastainen, milloin puhdas. Tämä on laki pitalista.

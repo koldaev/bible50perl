@@ -16,6 +16,7 @@
 16 Prišiel prvý a vravel: Pane, tvoja mína získala desať mín.
 17 On mu povedal: Správne, dobrý sluha; pretože si bol verný v maličkosti, maj moc nad desiatimi mestami.
 18 Prišiel druhý a vravel: Pane, tvoja mína vyniesla päť mín.
+19 Aj tomuto povedal: Ty maj moc nad piatimi mestami.
 20 Iný prišiel a hovoril: Pane, hľa, tvoja mína. Mal som ju uloženú v šatke;
 21 bál som sa ťa, lebo si prísny človek: berieš, čo si si neuložil, a žneš, čo si nezasial.
 22 On mu povedal: Zlý sluha! Podľa tvojich vlastných slov ťa súdim. Vedel si, že som prísny človek, že beriem, čo som si neuložil, a žnem, čo som nezasial?

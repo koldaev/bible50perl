@@ -1,5 +1,6 @@
 1 Prebivalište načini od deset zavjesa: od ljubičastog, crvenog  i tamnocrvenog prediva i prepredenog lana. Na njima neka budu  vezeni likovi kerubina - djelo umjetnika. 
 2 Dužina svake zavjese  neka je dvadeset i osam lakata, neka joj je širina četiri lakta.  Sve zavjese neka su iste mjere. 
+3 Pet zavjesa neka su sastavljene  jedna s drugom, a drugih pet zavjesa opet jedna s drugom. 
 4 Napravi  petlje od ljubičaste vune pri rubu krajnje zavjese u sastavljenom  komadu. 
 5 Napravi pedeset petlji na rubu jednoga sastavljenog  komada od zavjesa, a pedeset pri rubu drugoga. Neka su petlje  načinjene jedna spram druge. 
 6 Onda napravi pedeset kopča od  zlata. Zavjese zatim kopčama sastavi jednu s drugom. Tako će  Prebivalište biti jedna cjelina.
@@ -20,6 +21,7 @@
 21 i četrdeset srebrnih podnožja, dva podnožja za dva  klina prve trenice, i tako redom, dva podnožja za svaku trenicu. 
 22 Na stražnjoj strani Prebivališta, sa zapada, postavi šest  trenica. 
 23 Napravi i dvije trenice za stražnje uglove Prebivališta. 
+24 Neka budu rastavljene pri dnu, ali na vrhu kod prvoga koluta  neka budu sastavljene. Neka tako obadvije prave dva ugla. 
 25 Neka  dakle bude osam trenica s njihovim srebrnim podnožjima: šesnaest  podnožja, dva podnožja pod prvom trenicom, a dva opet podnožja  pod svakom slijedećom trenicom.
 26 Nadalje napravi priječnice od bagremova drva: pet njih  za trenice s jedne strane Prebivališta, 
 27 a pet priječnica  s druge strane Prebivališta; onda pet priječnica za trenice Prebivališta  straga prema zapadu. 

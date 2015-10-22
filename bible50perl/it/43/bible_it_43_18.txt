@@ -3,6 +3,7 @@
 3 Giuda dunque, presa la coorte e delle guardie mandate dai capi sacerdoti e dai Farisei, venne là con lanterne e torce ed armi.
 4 Onde Gesù, ben sapendo tutto quello che stava per accadergli, uscì e chiese loro: Chi cercate?
 5 Gli risposero: Gesù il Nazareno! Gesù disse loro: Son io. E Giuda, che lo tradiva, era anch’egli là con loro.
+6 Come dunque ebbe detto loro: "Son io", indietreggiarono e caddero in terra.
 7 Egli dunque domandò loro di nuovo: Chi cercate? Ed essi dissero: Gesù il Nazareno.
 8 Gesù rispose: V’ho detto che son io; se dunque cercate me, lasciate andar questi.
 9 E ciò affinché s’adempisse la parola ch’egli avea detta: Di quelli che tu m’hai dato, non ne ho perduto alcuno.
@@ -26,6 +27,7 @@
 27 E Pietro da capo lo negò, e subito il gallo cantò.
 28 Poi, da Caiàfa, menarono Gesù nel pretorio. Era mattina, ed essi non entrarono nel pretorio per non contaminarsi e così poter mangiare la pasqua.
 29 Pilato dunque uscì fuori verso di loro, e domandò: Quale accusa portate contro quest’uomo?
+30 Essi risposero e gli dissero: Se costui non fosse un malfattore, non te lo avremmo dato nelle mani.
 31 Pilato quindi disse loro: Pigliatelo voi, e giudicatelo secondo la vostra legge. I Giudei gli dissero: A noi non è lecito far morire alcuno.
 32 E ciò affinché si adempisse la parola che Gesù aveva detta, significando di qual morte dovea morire.
 33 Pilato dunque rientrò nel pretorio; chiamò Gesù e gli disse: Sei tu il Re dei Giudei?
@@ -35,3 +37,4 @@
 37 Allora Pilato gli disse: Ma dunque, sei tu re? Gesù rispose: Tu lo dici; io sono re; io sono nato per questo, e per questo son venuto nel mondo, per testimoniare della verità. Chiunque è per la verità ascolta la mia voce.
 38 Pilato gli disse: Che cos’è verità? E detto questo, uscì di nuovo verso i Giudei, e disse loro: Io non trovo alcuna colpa in lui.
 39 Ma voi avete l’usanza ch’io vi liberi uno per la Pasqua; volete dunque che vi liberi il Re de’ Giudei?
+40 Allora gridaron di nuovo: Non costui, ma Barabba! Or Barabba era un ladrone.

@@ -5,10 +5,13 @@
 5 Estos son los nombres de los varones que estarán con vosotros: De la tribu de Rubén, Elisur hijo de Sedeur. 
 6 De Simeón, Selumiel hijo de Zurisadai. 
 7 De Judá, Naasón hijo de Aminadab. 
+8 De Isacar, Natanael hijo de Zuar. 
 9 De Zabulón, Eliab hijo de Helón. 
 10 De los hijos de José: de Efraín, Elisama hijo de Amiud; de Manasés, Gamaliel hijo de Pedasur. 
 11 De Benjamín, Abidán hijo de Gedeoni. 
+12 De Dan, Ahiezer hijo de Amisadai. 
 13 De Aser, Pagiel hijo de Ocrán. 
+14 De Gad, Eliasaf hijo de Deuel. 
 15 De Neftalí, Ahira hijo de Enán. 
 16 Estos eran los nombrados de entre la congregación, príncipes de las tribus de sus padres, capitanes de los millares de Israel. 
 17 Tomaron, pues, Moisés y Aarón a estos varones que fueron designados por sus nombres, 
@@ -19,9 +22,11 @@
 22 De los hijos de Simeón, por su descendencia, por sus familias, según las casas de sus padres, fueron contados conforme a la cuenta de los nombres por cabeza, todos los varones de veinte años arriba, todos los que podían salir a la guerra; 
 23 los contados de la tribu de Simeón fueron cincuenta y nueve mil trescientos. 
 24 De los hijos de Gad, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de los nombres, de veinte años arriba, todos los que podían salir a la guerra; 
+25 los contados de la tribu de Gad fueron cuarenta y cinco mil seiscientos cincuenta. 
 26 De los hijos de Judá, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de los nombres, de veinte años arriba, todos los que podían salir a la guerra; 
 27 los contados de la tribu de Judá fueron setenta y cuatro mil seiscientos. 
 28 De los hijos de Isacar, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de los nombres, de veinte años arriba, todos los que podían salir a la guerra; 
+29 los contados de la tribu de Isacar fueron cincuenta y cuatro mil cuatrocientos. 
 30 De los hijos de Zabulón, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de sus nombres, de veinte años arriba, todos los que podían salir a la guerra; 
 31 los contados de la tribu de Zabulón fueron cincuenta y siete mil cuatrocientos. 
 32 De los hijos de José; de los hijos de Efraín, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de los nombres, de veinte años arriba, todos los que podían salir a la guerra; 
@@ -31,11 +36,14 @@
 36 De los hijos de Benjamín, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de los nombres, de veinte años arriba, todos los que podían salir a la guerra; 
 37 los contados de la tribu de Benjamín fueron treinta y cinco mil cuatrocientos. 
 38 De los hijos de Dan, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de los nombres, de veinte años arriba, todos los que podían salir a la guerra; 
+39 los contados de la tribu de Dan fueron sesenta y dos mil setecientos. 
 40 De los hijos de Aser, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de los nombres, de veinte años arriba, todos los que podían salir a la guerra; 
+41 los contados de la tribu de Aser fueron cuarenta y un mil quinientos. 
 42 De los hijos de Neftalí, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de los nombres, de veinte años arriba, todos los que podían salir a la guerra; 
 43 los contados de la tribu de Neftalí fueron cincuenta y tres mil cuatrocientos. 
 44 Estos fueron los contados, los cuales contaron Moisés y Aarón, con los príncipes de Israel, doce varones, uno por cada casa de sus padres. 
 45 Y todos los contados de los hijos de Israel por las casas de sus padres, de veinte años arriba, todos los que podían salir a la guerra en Israel, 
+46 fueron todos los contados seiscientos tres mil quinientos cincuenta. 
 47 Pero los levitas, según la tribu de sus padres, no fueron contados entre ellos; 
 48 porque habló Jehová a Moisés, diciendo: 
 49 Solamente no contarás la tribu de Leví, ni tomarás la cuenta de ellos entre los hijos de Israel, 

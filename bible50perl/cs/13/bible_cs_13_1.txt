@@ -1,3 +1,4 @@
+1 Adam, Set, Enos,
 2 Kainan, Mahalaleel, Járed,
 3 Enoch, Matuzalém, Lámech,
 4 Noé, Sem, Cham a Jáfet.
@@ -7,19 +8,26 @@
 8 Synové Chamovi: Chus, Mizraim, Put a Kanán.
 9 A synové Chusovi: Sába, Evila, Sabata, Regma, Sabatacha. Synové pak Regmovi: Sába a Dedan.
 10 Zplodil také Chus Nimroda; ten počal mocným býti na zemi.
+11 Mizraim pak zplodil Ludim, Anamim, Laabim a Neftuim,
 12 Fetruzim také a Chasluim, (odkudž pošli Filistinští), a Kafturim.
 13 Kanán pak zplodil Sidona, prvorozeného svého, a Het,
+14 A Jebuzea, Amorea a Gergezea,
+15 A Hevea, Aracea a Sinea,
+16 A Aradia, Samarea a Amatea.
 17 Synové Semovi: Elam, Assur, Arfaxad, Lud, Aram, Hus a Hul, Geter a Mas.
 18 A Arfaxad zplodil Sále, Sále pak zplodil Hebera.
 19 Heberovi pak narodili se dva synové, z nichž jednoho jméno Peleg, proto že za dnů jeho rozdělena byla země, jméno pak bratra jeho Jektan.
 20 Kterýžto Jektan zplodil Elmodada, Salefa, Azarmota a Járe,
 21 A Adoráma, Uzala a Dikla,
+22 A Ebale, Abimahele a Sebai,
 23 A Ofira, Evila a Jobaba. Všickni ti byli synové Jektanovi.
 24 Sem, Arfaxad, Sále,
 25 Heber, Peleg, Réhu,
 26 Sárug, Náchor, Táre,
+27 Abram, ten jest Abraham.
 28 Synové Abrahamovi: Izák a Izmael.
 29 Tito jsou rodové jejich: Prvorozený Izmaelův Nabajot, Cedar, Adbeel a Mabsan,
+30 Masma, Dumah, Massa, Hadad a Tema,
 31 Jetur, Nafis a Cedma. Ti jsou synové Izmaelovi.
 32 Synové pak Cetury, ženiny Abrahamovy: Ta porodila Zamrana, Jeksana, Madana, Madiana, Jezbocha a Suecha. Synové pak Jeksanovi: Sába a Dedan.
 33 Synové pak Madianovi: Efa, Efer, Enoch, Abida a Helda. Všickni ti synové Cetury.

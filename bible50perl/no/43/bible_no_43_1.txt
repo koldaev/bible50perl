@@ -1,6 +1,14 @@
+1 I begynnelsen var Ordet, og Ordet var hos Gud, og Ordet var Gud. 
+2 Han var i begynnelsen hos Gud. 
+3 Alt er blitt til ved ham, og uten ham er ikke noget blitt til av alt som er blitt til. 
+4 I ham var liv, og livet var menneskenes lys. 
 5 Og lyset skinner i mørket, og mørket tok ikke imot det. 
+6 Det fremstod en mann, utsendt fra Gud; hans navn var Johannes; 
 7 han kom til vidnesbyrd, for å vidne om lyset, forat alle skulde komme til troen ved ham. 
+8 Han var ikke lyset, men han skulde vidne om lyset. 
 9 Det sanne lys, som oplyser hvert menneske, var i ferd med å komme til verden. 
+10 Han var i verden, og verden er blitt til ved ham, og verden kjente ham ikke. 
+11 Han kom til sitt eget, og hans egne tok ikke imot ham. 
 12 Men alle dem som tok imot ham, dem gav han rett til å bli Guds barn, dem som tror på hans navn; 
 13 og de er født ikke av blod, heller ikke av kjøds vilje, heller ikke av manns vilje, men av Gud. 
 14 Og Ordet blev kjød og tok bolig iblandt oss, og vi så hans herlighet - en herlighet som den en enbåren sønn har fra sin far - full av nåde og sannhet. 
@@ -9,8 +17,11 @@
 17 for loven blev gitt ved Moses, nåden og sannheten kom ved Jesus Kristus. 
 18 Ingen har nogensinne sett Gud; den enbårne Sønn, som er i Faderens skjød, han har forklaret ham. 
 19 Og dette er Johannes' vidnesbyrd, da jødene sendte prester og levitter fra Jerusalem for å spørre ham: Hvem er du? 
+20 Da bekjente han og nektet ikke; han bekjente: Jeg er ikke Messias. 
+21 Og de spurte ham: Hvad da? Er du Elias? Han sa: Det er jeg ikke. Er du profeten? Og han svarte: Nei. 
 22 De sa da til ham: Hvem er du? så vi kan gi dem svar som har sendt oss; hvad sier du om dig selv? 
 23 Han sa: Jeg er en røst av en som roper i ørkenen: Gjør Herrens vei jevn, som profeten Esaias har sagt. 
+24 Og de som var utsendt, var fariseere, 
 25 og de spurte ham: Hvorfor døper du da, når du ikke er Messias, og heller ikke Elias, og heller ikke profeten? 
 26 Johannes svarte dem: Jeg døper med vann; midt iblandt eder står den I ikke kjenner, 
 27 han som kommer efter mig, han hvis skorem jeg ikke er verdig til å løse. 
@@ -21,6 +32,7 @@
 32 Og Johannes vidnet og sa: Jeg har sett Ånden komme ned som en due fra himmelen, og han blev over ham. 
 33 Og jeg kjente ham ikke; men han som sendte mig for å døpe med vann, han sa til mig: Den du ser Ånden komme ned og bli over, han er den som døper med den Hellige Ånd; 
 34 og jeg har sett det, og jeg har vidnet at han er Guds Sønn. 
+35 Dagen efter stod atter Johannes og to av hans disipler der, 
 36 og han så Jesus som kom gående, og sa: Se der Guds lam! 
 37 Og de to disipler hørte hans ord, og de fulgte efter Jesus. 
 38 Da vendte Jesus sig om, og da han så de fulgte efter ham, sa han til dem: 
@@ -30,7 +42,9 @@
 42 han finner først sin bror Simon, og sier til ham: Vi har funnet Messias, det er utlagt: Kristus. 
 43 Og han førte ham til Jesus. Jesus så på ham og sa: Du er Simon, Johannes' sønn; du skal hete Kefas, det er utlagt: Peter. 
 44 Dagen efter vilde han dra derfra til Galilea, og han traff Filip. Og Jesus sa til ham: Følg mig! 
+45 Men Filip var fra Betsaida, Andreas' og Peters by. 
 46 Filip traff Natanael, og sa til ham: Ham som Moses har skrevet om i loven, og likeså profetene, ham har vi funnet: Jesus, Josefs sønn, fra Nasaret! 
+47 Og Natanael sa til ham: Kan det komme noget godt fra Nasaret? Filip sa til ham: Kom og se! 
 48 Jesus så Natanael komme bortimot sig, og sa om ham: Se, det er en ekte israelitt, som det ikke er svik i. 
 49 Natanael sa til ham: Hvor kjenner du mig fra? Jesus svarte og sa til ham: Før Filip kalte på dig, mens du var under fikentreet, så jeg dig. 
 50 Natanael svarte ham: Rabbi! du er Guds Sønn, du er Israels konge! 

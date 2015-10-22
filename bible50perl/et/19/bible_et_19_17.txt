@@ -5,6 +5,7 @@
 5 Mu sammud hoidsid kinni su jälgedest, mu jalad ei kõikunud.  
 6 Ma hüüan sinu poole, sest sina, Jumal, vastad mulle; pööra oma kõrv mu poole, kuule mu kõnet! 
 7 Osuta imeliselt oma heldust, sa nende päästja, kes otsivad su juures pelgupaika su paremale käele vastupanijate eest! 
+8 Hoia mind nagu silmatera; oma tiibade varju alla peida mind 
 9 õelate eest, kes mind rõhuvad, mu verivaenlaste eest, kes mind piiravad! 
 10 Nad on sulgenud oma rasvunud südame, oma suuga nad räägivad ülbesti. 
 11 Nad on meie kannul; nüüd nad ümbritsevad mind. Oma silmad nad sihivad sellele, kuidas mind maha panna. 
@@ -21,11 +22,13 @@
 7 ning saatis nad minema õiget teed, et nad jõuaksid linna, kuhu asuda. 
 8 Tänagu nad Issandat ta helduse eest ja tema imeliste tegude eest inimlastele, 
 9 et ta kosutas janunevat hinge ja täitis nälgiva hinge heaga. 
+10 Nad istusid pimeduses ja surmavarjus, olid vangis viletsuses ja raudus, 
 11 sest nad olid tõrkunud vastu Jumala sõnadele ja olid põlanud Kõigekõrgema nõuannet. 
 12 Siis ta alandas nende südant vaevadega; nad komistasid, ja ei olnud aitajat. 
 13 Aga oma ahastuses nad kisendasid Issanda poole ja tema päästis nad nende kitsikustest. 
 14 Ta viis nad välja pimedusest ja surmavarjust ning rebis katki nende köidikud. 
 15 Tänagu nad Issandat ta helduse eest ja tema imeliste tegude eest inimlastele! 
+16 Sest tema on katki murdnud vaskuksed ja puruks raiunud raudriivid.  
 17 Nad olid meeletud oma üleastumise tee tõttu ja nad said näha vaeva oma pahategude pärast. 
 18 Iga toit oli neile jäle ja nad olid juba surmaväravate lähedal. 
 19 Aga oma ahastuses nad kisendasid Issanda poole ja tema päästis nad nende kitsikustest. 

@@ -8,9 +8,11 @@
 8 (H68:9) niin maa vapisi ja taivaat tiukkuivat Jumalan kasvojen edessä, Siinai vapisi Jumalan, Israelin Jumalan, kasvojen edessä.
 9 (H68:10) Runsaalla sateella sinä, Jumala, kostutit perintömaasi; ja kun se oli näännyksissä, niin sinä virvoitit sen.
 10 (H68:11) Sinun laumasi asettui siihen; hyvyydessäsi, Jumala, sinä sen kurjille valmistit.
+11 (H68:12) Herra antaa sanoman, suuri on voitonsanoman saattajatarten joukko:
 12 (H68:13) Sotajoukkojen kuninkaat pakenevat, he pakenevat, ja perheen emäntä jakaa saaliin.
 13 (H68:14) Jäättekö makailemaan karjatarhojen vaiheille? Kyyhkysen siivet ovat hopealla silatut, sen sulat keltaisella kullalla!
 14 (H68:15) Kun Kaikkivaltias siellä hajotti kuninkaat, satoi lunta Salmonilla.
+15 (H68:16) Baasanin vuori on Jumalan vuori, Baasanin vuori on monihuippuinen vuori.
 16 (H68:17) Miksi te, monihuippuiset vuoret, karsaasti katsotte vuorta, jolla Jumala on mielistynyt asumaan? Totisesti, Herra asuu siellä iankaikkisesti.
 17 (H68:18) Jumalan sotavaunuja on kymmenet tuhannet, on tuhannen kertaa tuhannet; Herra on niiden keskellä, pyhyydessään niinkuin Siinai.
 18 (H68:19) Sinä astuit ylös korkeuteen, otit vankeja saaliiksesi, sait ihmisiä lahjaksesi: niskoittelijatkin joutuvat asumaan Herran Jumalan tykönä.
@@ -27,6 +29,7 @@
 29 (H68:30) Sinun temppelisi tähden, joka kohoaa Jerusalemissa, kuninkaat tuovat sinulle lahjoja.
 30 (H68:31) Käske ankarasti ruovikon petoa, härkien laumaa ynnä vasikoita, kansoja, lankeamaan maahan hopeaharkkoinensa. Hän hajottaa kansat, jotka sotia rakastavat.
 31 (H68:32) Mahtavat saapuvat Egyptistä, Etiopia kiiruhtaa ojentamaan käsiänsä Jumalan puoleen.
+32 (H68:33) Te maan valtakunnat, laulakaa Jumalalle, veisatkaa Herran kiitosta, -Sela-
 33 (H68:34) hänen, joka kiitää ikuisten taivasten taivaissa! Katso, hän antaa äänellänsä väkevän jylinän.
 34 (H68:35) Antakaa väkevyys Jumalalle! Hänen herrautensa on Israelin yllä ja hänen voimansa pilvien tasalla.
 35 (H68:36) Peljättävä on Jumala, joka ilmestyy sinun pyhäköstäsi, Israelin Jumala. Hän antaa kansallensa voiman ja väkevyyden. Kiitetty olkoon Jumala.

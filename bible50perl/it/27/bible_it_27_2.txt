@@ -1,12 +1,17 @@
+1 Il secondo anno del regno di Nebucadnetsar, Nebucadnetsar ebbe dei sogni; il suo spirito ne fu turbato, e il suo sonno fu rotto.
 2 Il re fece chiamare i magi, gli astrologi, gl’incantatori e i Caldei, perché gli spiegassero i suoi sogni. Ed essi vennero e si presentarono al re.
 3 E il re disse loro: "Ho fatto un sogno; e il mio spirito è turbato, perché vorrei comprendere il sogno".
+4 Allora i Caldei risposero al re, in aramaico: "O re, possa tu vivere in perpetuo! Racconta il sogno ai tuoi servi, e noi ne daremo la interpretazione".
 5 Il re replicò, e disse ai Caldei: "La mia decisione è presa: se voi non mi fate conoscere il sogno e la sua interpretazione, sarete fatti a pezzi; e le vostre case saran ridotte in tanti immondezzai;
+6 ma se mi dite il sogno e la sua interpretazione, riceverete da me doni, ricompense e grandi onori; ditemi dunque il sogno e la sua interpretazione".
 7 Quelli risposero una seconda volta, e dissero: "Dica il re il sogno ai suoi servi, e noi ne daremo l’interpretazione".
 8 Il re replicò, e disse: "Io m’accorgo che di certo voi volete guadagnar tempo, perché vedete che la mia decisione è presa;
 9 se dunque non mi fate conoscere il sogno, non c’è che un’unica sentenza per voi; e voi vi siete messi d’accordo per dire davanti a me delle parole bugiarde e perverse, aspettando che mutino i tempi. Perciò ditemi il sogno, e io saprò che siete in grado di darmene l’interpretazione".
 10 I Caldei risposero in presenza del re, e dissero: "Non c’è uomo sulla terra che possa far conoscere quello che il re domanda; così non c’è mai stato re, per grande e potente che fosse, il quale abbia domandato una cosa siffatta a un mago, a un astrologo, o a un Caldeo.
 11 La cosa che il re domanda è ardua; e non v’è alcuno che la possa far conoscere al re, tranne gli dèi, la cui dimora non è fra i mortali".
 12 A questo, il re s’adirò, montò in furia, e ordinò che tutti i savi di Babilonia fossero fatti perire.
+13 E il decreto fu promulgato, e i savi dovevano essere uccisi; e si cercavano Daniele e i suoi compagni per uccidere anche loro.
+14 Allora Daniele si rivolse in modo prudente e sensato ad Arioc, capo delle guardie del re, il quale era uscito per uccidere i savi di Babilonia.
 15 Prese la parola e disse ad Arioc, ufficiale del re: "Perché questo decreto così perentorio da parte del re?" Allora Arioc fece sapere la cosa a Daniele.
 16 E Daniele entrò dal re, e gli chiese di dargli tempo; che avrebbe fatto conoscere al re l’interpretazione del sogno.
 17 Allora Daniele andò a casa sua, e informò della cosa Hanania, Mishael e Azaria, suoi compagni,
@@ -18,6 +23,7 @@
 23 O Dio de’ miei padri, io ti rendo gloria e lode, perché m’hai dato sapienza e forza, e m’hai fatto conoscere quello che t’abbiam domandato, rivelandoci la cosa che il re vuole".
 24 Daniele entrò quindi da Arioc, a cui il re aveva dato l’incarico di far perire i savi di Babilonia; entrò, e gli disse così: "Non far perire i savi di Babilonia! Conducimi davanti al re, e io darò al re l’interpretazione".
 25 Allora Arioc menò in tutta fretta Daniele davanti al re, e gli parlò così: "Io ha trovato, fra i Giudei che sono in cattività, un uomo che darà al re l’interpretazione".
+26 Il re prese a dire a Daniele, che si chiamava Beltsatsar: "Sei tu capace di farmi conoscere il sogno che ho fatto e la sua interpretazione?"
 27 Daniele rispose in presenza del re, e disse: "Il segreto che il re domanda, né savi, né incantatori, né magi, né astrologi possono svelarlo al re;
 28 Ma v’è nel cielo un Dio che rivela i segreti, ed egli ha fatto conoscere al re Nebucadnetsar quello che avverrà negli ultimi giorni. Ecco quali erano il tuo sogno e le visioni della tua mente quand’eri a letto.
 29 I tuoi pensieri, o re, quand’eri a letto, si riferivano a quello che deve avvenire da ora innanzi; e colui che rivela i segreti t’ha fatto conoscere quello che avverrà.
@@ -40,3 +46,4 @@
 46 Allora il re Nebucadnetsar cadde sulla sua faccia, si prostrò davanti a Daniele, e ordinò che gli fossero presentati offerte e profumi.
 47 Il re parlò a Daniele, e disse: "In verità il vostro Dio è l’Iddio degli dèi, il Signore dei re, e il rivelatore dei segreti, giacché tu hai potuto rivelare questo segreto".
 48 Allora il re elevò Daniele in dignità, lo colmò di numerosi e ricchi doni, gli diede il comando di tutta la provincia di Babilonia, e lo stabilì capo supremo di tutti i savi di Babilonia.
+49 E Daniele ottenne dal re che Shadrac, Meshac e Abed-nego fossero preposti agli affari della provincia di Babilonia; ma Daniele stava alla corte del re.

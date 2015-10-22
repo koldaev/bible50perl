@@ -3,11 +3,13 @@
 3 No ano quadragésimo, no mês undécimo, no primeiro dia do mês, Moisés falou aos filhos de Israel, conforme tudo o que o senhor lhes mandara por seu intermédio,
 4 depois que derrotou a Siom, rei dos amorreus, que habitava em Hesbom, e a Ogue, rei de Basã, que habitava em Astarote, em Edrei.
 5 Além do Jordão, na terra de Moabe, Moisés se pôs a explicar esta lei, e disse:
+6 O Senhor nosso Deus nos falou em Horebe, dizendo: Assaz vos haveis demorado neste monte.
 7 Voltai-vos, ponde-vos a caminho, e ide à região montanhosa dos amorreus, e a todos os lugares vizinhos, na Arabá, na região montanhosa, no vale e no sul; à beira do mar, à terra dos cananeus, e ao Líbano, até o grande rio, o rio Eufrates.
 8 Eis que tenho posto esta terra diante de vós; entrai e possuí a terra que o Senhor prometeu com juramento dar a vossos pais, Abraão, Isaque, e Jacó, a eles e à sua descendência depois deles.
 9 Nesse mesmo tempo eu vos disse: Eu sozinho não posso levar-vos,
 10 o Senhor vosso Deus já vos tem multiplicado, e eis que hoje sois tão numerosos como as estrelas do céu.
 11 O Senhor Deus de vossos pais vos faça mil vezes mais numerosos do que sois; e vos abençoe, como vos prometeu.
+12 Como posso eu sozinho suportar o vosso peso, as vossas cargas e as vossas contendas?
 13 Tomai-vos homens sábios, entendidos e experimentados, segundo as vossas tribos, e eu os porei como cabeças sobre vós.
 14 Então me respondestes: bom fazermos o que disseste.
 15 Tomei, pois, os cabeças de vossas tribos, homens sábios e experimentados, e os constituí por cabeças sobre vós, chefes de mil, chefes de cem, chefes de cinqüenta e chefes de dez, por oficiais, segundo as vossas tribos.
@@ -27,7 +29,9 @@
 29 Então eu vos disse: Não vos atemorizeis, e não tenhais medo deles.
 30 O Senhor vosso Deus, que vai adiante de vós, ele pelejará por vós, conforme tudo o que tem feito por vós diante dos vossos olhos, no Egito,
 31 como também no deserto, onde vistes como o Senhor vosso Deus vos levou, como um homem leva seu filho, por todo o caminho que andastes, até chegardes a este lugar.
+32 Mas nem ainda assim confiastes no Senhor vosso Deus,
 33 que ia adiante de vós no caminho, de noite no fogo e de dia na nuvem, para vos achar o lugar onde devíeis acampar, e para vos mostrar o caminho por onde havíeis de andar.
+34 Ouvindo, pois, o Senhor a voz das vossas palavras, indignou-se e jurou, dizendo:
 35 Nenhum dos homens desta geração perversa verá a boa terra que prometi com juramento dar a vossos pais,
 36 salvo Calebe, filho de Jefoné; ele a verá, e a terra que pisou darei a ele e a seus filhos, porquanto perseverou em seguir ao Senhor.
 37 Também contra mim o Senhor se indignou por vossa causa, dizendo: Igualmente tu lá não entrarás.
@@ -39,3 +43,4 @@
 43 Assim vos falei, mas não ouvistes; antes fostes rebeldes à ordem do Senhor e, agindo presunçosamente, subistes à montanha.
 44 E os amorreus, que habitavam naquela montanha, vos saíram ao encontro e, perseguindo-vos como fazem as abelhas, vos destroçaram desde Seir até Horma.
 45 Voltastes, pois, e chorastes perante o Senhor; mas o Senhor não ouviu a vossa voz, nem para vós inclinou os ouvidos.
+46 Assim foi grande a vossa demora em Cades, pois ali vos demorastes muitos dias.

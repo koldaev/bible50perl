@@ -1,4 +1,5 @@
 1 Adam, Set, Enoş,
+2 Chenan, Mahalaleel, Iered,
 3 Enoh, Metuşelah, Lemec,
 4 Noe. Sem, Ham şi Iafet.
 5 Fiii lui Iafet: Gomer, Magog, Madai, Iavan, Tubal, Meşec şi Tiras.
@@ -17,8 +18,12 @@
 18 Arpacşad a născut pe Şelah; şi Şelah a născut pe Eber.
 19 Lui Eber i s'au născut doi fii: numele unuia era Peleg, pentrucă pe vremea lui s'a împărţit pămîntul, iar numele fratelui său era Ioctan.
 20 Ioctan a născut pe Almodad, pe Şelef, pe Haţarmavet, pe Ierah,
+21 pe Hadoram, pe Uzal, pe Dicla,
+22 pe Ebal, pe Abimael, pe Seba,
 23 pe Ofir, pe Havila şi pe Iobab. Toţi aceştia au fost fii ai lui Ioctan. Cei zece patriarhi dela Sem la Avraam.
 24 Sem, Arpacşad, Şelah,
+25 Eber, Peleg, Rehu,
+26 Serug, Nahor, Terah,
 27 Avram, adică Avraam.
 28 Fiii lui Avraam: Isaac şi Ismael.
 29 Iată sămînţa lor: Nebaiot, întîiul născut al lui Ismael, Chedar, Adbeel, Mibsam,
@@ -43,6 +48,7 @@
 48 Samla a murit; şi, în locul lui, a domnit Saul, din Rehobot pe Rîu. -
 49 Saul a murit; şi, în locul lui, a domnit Baal-Hanan, fiul lui Acbor. -
 50 Baal-Hanan a murit; şi, în locul lui, a domnit Hadad. Numele cetăţii lui era Pahi; şi numele nevestei lui era Mehetabeel, fata lui Matred, fata lui Mezahab. -
+51 Hadad a murit.
 52 căpetenia Oholibama, căpetenia Ela, căpetenia Pinon,
 53 căpetenia Chenaz, căpetenia Teman, căpetenia Mibţar,
 54 căpetenia Magdiel, căpetenia Iram. Acestea sînt căpeteniile Edomului.

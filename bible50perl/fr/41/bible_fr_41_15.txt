@@ -1,5 +1,6 @@
 1 Dès le matin, les principaux sacrificateurs tinrent conseil avec les anciens et les scribes, et tout le sanhédrin. Après avoir lié Jésus, ils l'emmenèrent, et le livrèrent à Pilate. 
 2 Pilate l'interrogea: Es-tu le roi des Juifs? Jésus lui répondit: Tu le dis. 
+3 Les principaux sacrificateurs portaient contre lui plusieurs accusations. 
 4 Pilate l'interrogea de nouveau: Ne réponds-tu rien? Vois de combien de choses ils t'accusent. 
 5 Et Jésus ne fit plus aucune réponse, ce qui étonna Pilate. 
 6 A chaque fête, il relâchait un prisonnier, celui que demandait la foule. 
@@ -8,6 +9,7 @@
 9 Pilate leur répondit: Voulez-vous que je vous relâche le roi des Juifs? 
 10 Car il savait que c'était par envie que les principaux sacrificateurs l'avaient livré. 
 11 Mais les chefs des sacrificateurs excitèrent la foule, afin que Pilate leur relâchât plutôt Barabbas. 
+12 Pilate, reprenant la parole, leur dit: Que voulez-vous donc que je fasse de celui que vous appelez le roi des Juifs? 
 13 Ils crièrent de nouveau: Crucifie-le! 
 14 Pilate leur dit: Quel mal a-t-il fait? Et ils crièrent encore plus fort: Crucifie-le! 
 15 Pilate, voulant satisfaire la foule, leur relâcha Barabbas; et, après avoir fait battre de verges Jésus, il le livra pour être crucifié. 
@@ -21,6 +23,7 @@
 23 Ils lui donnèrent à boire du vin mêlé de myrrhe, mais il ne le prit pas. 
 24 Ils le crucifièrent, et se partagèrent ses vêtements, en tirant au sort pour savoir ce que chacun aurait. 
 25 C'était la troisième heure, quand ils le crucifièrent. 
+26 L'inscription indiquant le sujet de sa condamnation portait ces mots: Le roi des Juifs. 
 27 Ils crucifièrent avec lui deux brigands, l'un à sa droite, et l'autre à sa gauche. 
 28 Ainsi fut accompli ce que dit l'Écriture: Il a été mis au nombre des malfaiteurs. 
 29 Les passants l'injuriaient, et secouaient la tête, en disant: Hé! toi qui détruis le temple, et qui le rebâtis en trois jours, 

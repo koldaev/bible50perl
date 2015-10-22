@@ -5,6 +5,7 @@
 5 Synir Peres: Hesron og Hamúl.
 6 Synir Sera: Simrí, Etan, Heman, Kalkól og Dara 
 7 Synir Karmí: Akar, sá er steypti Ísrael í ógæfu með því að fara sviksamlega með hið bannfærða.
+8 Og synir Etans: Asarja.
 9 Og synir Hesrons, er fæddust honum: Jerahmeel, Ram og Kelúbaí.
 10 Ram gat Ammínadab, og Ammínadab gat Nahson, höfuðsmann Júdamanna.
 11 Nahson gat Salma, Salma gat Bóas,
@@ -35,6 +36,7 @@
 36 Og Attaí gat Natan, Natan gat Sabat,
 37 Sabat gat Eflal, Eflal gat Óbeð,
 38 Óbeð gat Jehú, Jehú gat Asarja,
+39 Asarja gat Heles, Heles gat Eleasa,
 40 Eleasa gat Sísemaí, Sísemaí gat Sallúm,
 41 Sallúm gat Jekamja og Jekamja gat Elísama.
 42 Synir Kalebs, bróður Jerahmeels: Mesa, frumgetinn sonur hans 

@@ -29,6 +29,7 @@
 29 Siis ma ütlesin teile: Ärge heituge ja ärge kartke neid! 
 30 Issand, teie Jumal, kes käib teie ees, sõdib teie eest, nõnda nagu ta teie silme ees tegi teie heaks Egiptuses 
 31 ja kõrbes, nagu sa ise oled näinud, kuidas Issand, sinu Jumal, sind kandis nagu mees, kes kannab oma poega, kogu teekonnal, mida te olete käinud, kuni te jõudsite siia paika. 
+32 Aga sellest hoolimata ei ole te uskunud Issandasse, oma Jumalasse, 
 33 kes käis teekonnal teie ees, otsimas teile leeripaika: öösel tules näitamas teile teed, mida te pidite käima, ja päeval pilves.
 34 Kui Issand kuulis teie valju kõnet, siis ta vihastus ja vandus, öeldes: 
 35 'Tõesti, ükski neist meestest sellest pahast sugupõlvest ei saa näha seda head maad, mille ma vandega olen tõotanud anda teie vanemaile, 

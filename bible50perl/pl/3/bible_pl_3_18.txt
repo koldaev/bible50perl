@@ -9,6 +9,8 @@
 9 Sromoty siostry twej, córki ojca twego, także córki matki twojej, tak rodzonej, jako i przyrodniej, nie odkryjesz sromoty ich.
 10 Sromoty córki syna twego, także sromoty córki córki twojej, nie odkryjesz; bo to sromota twoja.
 11 Sromoty córki żony ojca twego, która się narodziła z ojca twego, siostra twoja jest, nie odkryjesz sromoty jej.
+12 Sromoty siostry ojca twego nie odkryjesz; bo jest pokrewna ojca twego.
+13 Sromoty siostry matki twojej nie odkryjesz; bo pokrewna matki twojej jest.
 14 Sromoty brata ojca twego nie odkryjesz, do żony jego nie wnijdziesz; żona stryja twego jest.
 15 Sromoty synowej twojej nie odkryjesz; żona jest syna twego, nie odkryjesz sromoty jej;
 16 Sromoty żony brata twego nie odkryjesz: sromota brata twego jest.
@@ -37,6 +39,8 @@
 9 Sromoty siostry twej, córki ojca twego, także córki matki twojej, tak rodzonej, jako i przyrodniej, nie odkryjesz sromoty ich.
 10 Sromoty córki syna twego, także sromoty córki córki twojej, nie odkryjesz; bo to sromota twoja.
 11 Sromoty córki żony ojca twego, która się narodziła z ojca twego, siostra twoja jest, nie odkryjesz sromoty jej.
+12 Sromoty siostry ojca twego nie odkryjesz; bo jest pokrewna ojca twego.
+13 Sromoty siostry matki twojej nie odkryjesz; bo pokrewna matki twojej jest.
 14 Sromoty brata ojca twego nie odkryjesz, do żony jego nie wnijdziesz; żona stryja twego jest.
 15 Sromoty synowej twojej nie odkryjesz; żona jest syna twego, nie odkryjesz sromoty jej;
 16 Sromoty żony brata twego nie odkryjesz: sromota brata twego jest.

@@ -10,8 +10,10 @@
 10 $VAU Još malo i nestat će bezbožnika: mjesto ćeš njegovo tražiti, a njega više nema.
 11 Zemlju će posjedovati krotki, obilje mira oni će uživat'.
 12 $ZAJIN Bezbožnik smišlja zlo pravedniku i zubima škrguće na njega.
+13 A Gospod se njemu smije jer vidi da dan njegov dolazi.
 14 $HET Mač potežu bezbošci i zapinju lukove da obore jadnika i siromaha, da pokolju one koji hode pravim putem.
 15 Mačem će vlastito srce probiti, slomit će se njihovi lukovi.
+16 $TET Bolje je i malo u pravednika no golemo blago u zlotvora:
 17 jer će se ruke zlotvora slomiti, a Jahve je oslon pravedniku.
 18 $JOD Jahve se brine za život čestitih, dovijeka će trajati baština njihova.
 19 Neće se postidjeti u vrijeme nevolje, bit će siti u danima gladi.
@@ -21,9 +23,11 @@
 23 $MEM Jahve vodi i učvršćuje korake čovjeku i mio mu je put njegov.
 24 Ako i posrne, ne pada jer ga Jahve drži za ruku.
 25 $NUN Mlad bijah i ostarjeh, al' ne vidjeh pravednika napuštena ili da mu djeca kruha prose.
+26 Uvijek je milosrdan i u zajam daje, na njegovu je potomstvu blagoslov.
 27 $SAMEK Zla se kloni i čini dobro, i ostat ćeš dovijeka.
 28 Jer Jahve ljubi pravdu i pobožnika svojih ne ostavlja. $AJIN Zauvijek će biti zatrti zlikovci, istrijebit će se potomstvo bezbožnika.
 29 Zemlju će posjedovati pravednici i živjet će na njoj dovijeka.
+30 $PE Pravednikova usta mudrost kazuju, a jezik njegov govori pravo.
 31 Zakon mu je Božji u srcu, ne kolebaju se koraci njegovi.
 32 $SADE Bezbožnik vreba pravednoga i smišlja da ga usmrti.
 33 Jahve ga neće ostaviti u njegovoj vlasti i neće dopustiti da ga na sudu osude.
@@ -32,4 +36,5 @@
 36 Prođoh, i gle - nema ga više; potražih ga i ne nađoh.
 37 $ŠIN Promatraj čestita i gledaj neporočna: mirotvorac ima potomstvo.
 38 A grešnici bit će svi iskorijenjeni, istrijebit će se zlikovačko sjeme.
+39 $TAU Od Jahve dolazi spas pravednicima, on im je zaklon u vrijeme nevolje.
 40 Jahve im pomaže, on ih izbavlja: on će ih izbaviti od zlotvora i spasiti, jer u njemu traže okrilje.

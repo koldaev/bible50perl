@@ -1,6 +1,7 @@
 1 Quando dunque il Signore ebbe saputo che i Farisei aveano udito ch’egli faceva e battezzava più discepoli di Giovanni
 2 (quantunque non fosse Gesù che battezzava, ma i suoi discepoli),
 3 lasciò la Giudea e se n’andò di nuovo in Galilea.
+4 Or doveva passare per la Samaria.
 5 Giunse dunque a una città della Samaria, chiamata Sichar, vicina al podere che Giacobbe dette a Giuseppe, suo figliuolo;
 6 e quivi era la fonte di Giacobbe. Gesù dunque, stanco del cammino, stava così a sedere presso la fonte. Era circa l’ora sesta.
 7 Una donna samaritana venne ad attinger l’acqua. Gesù le disse: Dammi da bere.
@@ -15,6 +16,7 @@
 16 Gesù le disse: Va’ a chiamar tuo marito e vieni qua.
 17 La donna gli rispose: Non ho marito. E Gesù: Hai detto bene: Non ho marito;
 18 perché hai avuto cinque mariti; e quello che hai ora, non è tuo marito; in questo hai detto il vero.
+19 La donna gli disse: Signore, io vedo che tu sei un profeta.
 20 I nostri padri hanno adorato su questo monte, e voi dite che a Gerusalemme è il luogo dove bisogna adorare.
 21 Gesù le disse: Donna, credimi; l’ora viene che né su questo monte né a Gerusalemme adorerete il Padre.
 22 Voi adorate quel che non conoscete; noi adoriamo quel che conosciamo, perché la salvazione vien da’ Giudei.
@@ -26,6 +28,8 @@
 28 La donna lasciò dunque la sua secchia, se ne andò in città e disse alla gente:
 29 Venite a vedere un uomo che m’ha detto tutto quello che ho fatto; non sarebb’egli il Cristo?
 30 La gente uscì dalla città e veniva a lui.
+31 Intanto i discepoli lo pregavano, dicendo: Maestro, mangia.
+32 Ma egli disse loro: Io ho un cibo da mangiare che voi non sapete.
 33 Perciò i discepoli si dicevano l’uno all’altro: Forse qualcuno gli ha portato da mangiare?
 34 Gesù disse loro: Il mio cibo è di far la volontà di Colui che mi ha mandato, e di compiere l’opera sua.
 35 Non dite voi che ci sono ancora quattro mesi e poi vien la mietitura? Ecco, io vi dico: Levate gli occhi e mirate le campagne come già son bianche da mietere.
@@ -33,6 +37,7 @@
 37 Poiché in questo è vero il detto: L’uno semina e l’altro miete.
 38 Io v’ho mandati a mieter quello intorno a cui non avete faticato; altri hanno faticato, e voi siete entrati nella lor fatica.
 39 Or molti de’ Samaritani di quella città credettero in lui a motivo della testimonianza resa da quella donna: Egli m’ha detto tutte le cose che ho fatte.
+40 Quando dunque i Samaritani furono venuti a lui, lo pregarono di trattenersi da loro; ed egli si trattenne quivi due giorni.
 41 E più assai credettero a motivo della sua parola;
 42 e dicevano alla donna: Non è più a motivo di quel che tu ci hai detto, che crediamo; perché abbiamo udito da noi, e sappiamo che questi è veramente il Salvator del mondo.
 43 Passati que’ due giorni, egli partì di là per andare in Galilea;

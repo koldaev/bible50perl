@@ -1,14 +1,20 @@
 1 Ein Gebet des Elenden, wenn er schmachtet und seine Klage vor dem HERRN ausschüttet. (102-2) O HERR, höre mein Gebet, und mein Schreien komme vor dich!
 2 (102-3) Verbirg dein Angesicht nicht vor mir am Tage meiner Not; neige dein Ohr zu mir; am Tage, da ich dich anrufe, erhöre mich eilends!
 3 (102-4) Denn meine Tage sind in Rauch aufgegangen, und meine Gebeine glühen wie ein Ofen.
+4 (102-5) Mein Herz ist geschlagen und verdorrt wie Gras; denn ich habe vergessen, mein Brot zu essen.
+5 (102-6) Vor lauter Seufzen kleben meine Knochen an meinem Fleisch.
 6 (102-7) Ich gleiche einer Rohrdommel in der Wüste, bin wie ein Käuzlein in den Ruinen;
+7 (102-8) ich wache und bin wie ein einsamer Vogel auf dem Dach.
 8 (102-9) Täglich schmähen mich meine Feinde, und die wider mich toben, schwören bei mir;
 9 (102-10) denn ich esse Asche wie Brot und mische meinen Trank mit Tränen
 10 (102-11) wegen deines Grimms und deines Zorns, daß du mich aufgehoben und hingeschleudert hast.
+11 (102-12) Meine Tage sind wie ein langgestreckter Schatten, und ich verdorre wie Gras.
 12 (102-13) Aber du, o HERR, bleibst ewig und dein Gedächtnis von einem Geschlecht zum andern.
 13 (102-14) Du wollest dich aufmachen und dich über Zion erbarmen; denn es ist Zeit, daß du ihr gnädig seiest, die Stunde ist gekommen!
 14 (102-15) Denn deine Knechte lieben Zions Steine und trauern über ihren Schutt.
 15 (102-16) Dann werden die Heiden den Namen des HERRN fürchten und alle Könige auf Erden deine Herrlichkeit,
+16 (102-17) wenn der HERR Zion gebaut hat und erschienen ist in seiner Herrlichkeit,
+17 (102-18) wenn er sich zum Gebet der Heimatlosen gewendet und ihr Gebet nicht verachtet hat.
 18 (102-19) Das wird man aufschreiben für das spätere Geschlecht, und das Volk, das geschaffen werden soll, wird den HERRN loben,
 19 (102-20) daß er herabgeschaut hat von der Höhe seines Heiligtums, daß der HERR vom Himmel zur Erde geblickt hat,
 20 (102-21) zu hören das Seufzen der Gefangenen und loszumachen die Kinder des Todes;
@@ -17,3 +23,6 @@
 23 (102-24) Er hat auf dem Wege meine Kraft gebeugt, meine Tage verkürzt.
 24 (102-25) Ich spreche: Mein Gott, nimm mich nicht weg in der Hälfte meiner Tage! Deine Jahre währen für und für.
 25 (102-26) Du hast vormals die Erde gegründet, und die Himmel sind deiner Hände Werk.
+26 (102-27) Sie werden vergehen, du aber bleibst; sie alle werden wie ein Kleid veralten, wie ein Gewand wirst du sie wechseln, und sie werden verschwinden.
+27 (102-28) Du aber bleibst, der du bist, und deine Jahre nehmen kein Ende!
+28 (102-29) Die Kinder deiner Knechte werden bleiben, und ihr Same wird vor dir bestehen.

@@ -1,7 +1,10 @@
 1 Voici encore des Proverbes de Salomon, recueillis par les gens d'Ézéchias, roi de Juda. 
+2 La gloire de Dieu, c'est de cacher les choses; La gloire des rois, c'est de sonder les choses. 
 3 Les cieux dans leur hauteur, la terre dans sa profondeur, Et le coeur des rois, sont impénétrables. 
+4 Ote de l'argent les scories, Et il en sortira un vase pour le fondeur. 
 5 Ote le méchant de devant le roi, Et son trône s'affermira par la justice. 
 6 Ne t'élève pas devant le roi, Et ne prends pas la place des grands; 
+7 Car il vaut mieux qu'on te dise: Monte-ici! Que si l'on t'abaisse devant le prince que tes yeux voient. 
 8 Ne te hâte pas d'entrer en contestation, De peur qu'à la fin tu ne saches que faire, Lorsque ton prochain t'aura outragé. 
 9 Défends ta cause contre ton prochain, Mais ne révèle pas le secret d'un autre, 
 10 De peur qu'en l'apprenant il ne te couvre de honte, Et que ta mauvaise renommée ne s'efface pas. 
@@ -21,4 +24,5 @@
 24 Mieux vaut habiter à l'angle d'un toit, Que de partager la demeure d'une femme querelleuse. 
 25 Comme de l'eau fraîche pour une personne fatiguée, Ainsi est une bonne nouvelle venant d'une terre lointaine. 
 26 Comme une fontaine troublée et une source corrompue, Ainsi est le juste qui chancelle devant le méchant. 
+27 Il n'est pas bon de manger beaucoup de miel, Mais rechercher la gloire des autres est un honneur. 
 28 Comme une ville forcée et sans murailles, Ainsi est l'homme qui n'est pas maître de lui-même. 

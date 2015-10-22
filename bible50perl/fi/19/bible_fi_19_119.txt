@@ -1,3 +1,4 @@
+1 Autuaat ne, joiden tie on nuhteeton, jotka Herran laissa vaeltavat!
 2 Autuaat ne, jotka ottavat vaarin hänen todistuksistaan, jotka etsivät häntä kaikesta sydämestänsä,
 3 jotka eivät vääryyttä tee, vaan vaeltavat hänen teillään!
 4 Sinä olet asetuksesi säätänyt, että niitä tarkasti noudatettaisiin.
@@ -20,6 +21,7 @@
 21 Sinä nuhtelet julkeita, kirotuita, jotka poikkeavat pois sinun käskyistäsi.
 22 Poista minun päältäni häväistys ja ylenkatse, sillä minä otan sinun todistuksistasi vaarin.
 23 Ruhtinaatkin istuvat ja pitävät neuvoa minua vastaan, mutta palvelijasi tutkistelee sinun käskyjäsi.
+24 Sinun todistuksesi ovat minun iloni, ne ovat minun neuvonantajani.
 25 Minun sieluni on vaipunut tomuun; virvoita minua sanasi jälkeen.
 26 Minä kerron vaellukseni, ja sinä vastaat minulle; opeta minulle käskysi.
 27 Saata minut ymmärtämään asetustesi tie, niin minä tutkistelen sinun ihmeitäsi.
@@ -67,6 +69,7 @@
 69 Julkeat tahraavat minua valheillansa, mutta minä otan sinun asetuksistasi vaarin kaikesta sydämestäni.
 70 Heidän sydämensä on turta kuin ihra, mutta minä iloitsen sinun laistasi.
 71 Hyvä oli minulle, että minut nöyryytettiin: niin minä opin sinun käskysi.
+72 Sinun suusi laki on minulle kalliimpi kuin tuhannet kappaleet kultaa ja hopeata.
 73 Sinun kätesi ovat minut tehneet ja valmistaneet; anna minulle ymmärrys oppiakseni sinun käskysi.
 74 Sinua pelkääväiset näkevät minut ja iloitsevat, sillä minä panen toivoni sinun sanaasi.
 75 Herra, minä tiedän, että sinun tuomiosi ovat vanhurskaat, ja uskollisuudessasi sinä olet minut nöyryyttänyt.
@@ -83,8 +86,10 @@
 86 Kaikki sinun käskysi ovat todet; syyttä he minua vainoavat; auta minua.
 87 He ovat minut miltei tuhonneet tässä maassa, mutta minä en ole hyljännyt sinun asetuksiasi.
 88 Virvoita minua armosi jälkeen, niin minä noudatan sinun suusi todistuksia.
+89 Iankaikkisesti pysyy sinun sanasi, Herra, vahvana taivaissa.
 90 Sinun uskollisuutesi kestää polvesta polveen, sinä perustit maan, ja se pysyy.
 91 Sinun järjestyksesi mukaan ne pysyvät vielä tänä päivänä, sillä ne kaikki ovat sinun palvelijoitasi.
+92 Ellei sinun lakisi olisi ollut minun iloni, olisin menehtynyt kurjuuteeni.
 93 En minä ikinä unhota sinun asetuksiasi, sillä niillä sinä minua virvoitat.
 94 Sinun omasi minä olen, pelasta minut, sillä sinun asetuksiasi minä kysyn.
 95 Jumalattomat väijyvät minua, tuhotakseen minut, mutta minä tarkkaan sinun todistuksiasi.
@@ -95,10 +100,12 @@
 100 Minä olen ymmärtäväisempi kuin vanhat, sillä minä otan vaarin sinun asetuksistasi.
 11 Minä pidätän jalkani kaikilta pahoilta teiltä, noudattaakseni sinun sanaasi.
 12 Minä en poikkea sinun oikeuksistasi, sillä sinä neuvot minua.
+13 Kuinka makeat ovat minulle sinun lupauksesi! Ne ovat hunajaa makeammat minun suussani.
 14 Sinun asetuksistasi minä saan ymmärrystä; sentähden minä vihaan kaikkia valheen teitä.
 15 Sinun sanasi on minun jalkaini lamppu ja valkeus minun tielläni.
 16 Minä olen vannonut ja tahdon sen täyttää: noudattaa sinun vanhurskautesi oikeuksia.
 17 Minä olen kovin vaivattu; Herra, virvoita minua sanasi jälkeen.
+18 Kelvatkoot sinulle, Herra, minun suuni vapaaehtoiset uhrit, ja opeta minulle oikeutesi.
 19 Minun henkeni häälyy alati kämmenelläni, mutta sinun lakiasi minä en unhota.
 110 Jumalattomat virittävät pauloja minun eteeni, mutta sinun asetuksistasi minä en eksy.
 111 Sinun todistuksesi ovat minun ikuinen perintöosani, sillä ne ovat minun sydämeni ilo.
@@ -132,6 +139,7 @@
 139 Minun kiivauteni kuluttaa minut, sillä minun vihamieheni unhottavat sinun sanasi.
 140 Sinun sanasi on hyvin koeteltu, ja sinun palvelijasi rakastaa sitä.
 141 Minä olen vähäinen ja halveksittu, mutta minä en unhota sinun asetuksiasi.
+142 Sinun vanhurskautesi on iankaikkinen vanhurskaus, ja sinun lakisi on totuus.
 143 Hätä ja ahdistus ovat minut saavuttaneet, mutta sinun käskysi ovat minun iloni.
 144 Sinun todistuksesi ovat iankaikkisesti vanhurskaat; anna minulle ymmärrys, että minä eläisin.
 145 Kaikesta sydämestäni minä huudan; vastaa minulle, Herra. Minä tahdon ottaa sinun käskyistäsi vaarin.
@@ -145,6 +153,7 @@
 153 Katso minun kurjuuttani ja pelasta minut, sillä minä en unhota sinun lakiasi.
 154 Aja minun asiani ja lunasta minut, virvoita minua lupauksesi jälkeen.
 155 Kaukana on pelastus jumalattomista, sillä he eivät kysy sinun käskyjäsi.
+156 Herra, sinun armahtavaisuutesi on suuri, virvoita minua oikeutesi mukaan.
 157 Monta on minulla vainoojaa ja vihamiestä, mutta sinun todistuksistasi minä en poikkea.
 158 Minä näen uskottomat, ja minua iljettää, sillä he eivät noudata sinun sanaasi.
 159 Huomaa, että minä rakastan sinun asetuksiasi. Herra, virvoita minua armosi jälkeen.
@@ -158,6 +167,7 @@
 167 Minun sieluni noudattaa sinun todistuksiasi, ja suuresti minä niitä rakastan.
 168 Minä noudatan sinun asetuksiasi ja sinun todistuksiasi, sillä kaikki minun tieni ovat sinun edessäsi.
 169 Herra, suo minun valitukseni tulla sinun kasvojesi eteen, anna minulle ymmärrys sanasi jälkeen.
+170 Tulkoon minun anomiseni sinun kasvojesi eteen, pelasta minut lupauksesi mukaan.
 171 Vuodattakoot minun huuleni ylistystä, sillä sinä opetat minulle käskysi.
 172 Minun kieleni veisatkoon sinun lupauksistasi, sillä kaikki sinun käskysi ovat vanhurskaat.
 173 Sinun kätesi olkoon minun apuni, sillä minä olen valinnut sinun asetuksesi.

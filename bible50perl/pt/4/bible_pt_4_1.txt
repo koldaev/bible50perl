@@ -5,10 +5,13 @@
 5 Estes, pois, são os nomes dos homens que vos assistirão: de Rúben Elizur, filho de Sedeur;
 6 de Simeão, Selumiel, filho de Zurisadai;
 7 de Judá, Nasom, filho de Aminadabe;
+8 de Issacar, Netanel, filho de Zuar;
+9 de Zebulom, Eliabe, filho de Helom;
 10 dos filhos de José: de Efraim, Elisama, filho de Amiúde; de Manassés, Gamaliel, filho de Pedazur;
 11 de Benjamim, Abidã, filho de Gideôni;
 12 de Dã, Aizer, filho de Amisadai;
 13 de Aser, Pagiel, filho de Ocrã;
+14 de Gade, Eliasafe, filho de o Deuel;
 15 de Naftali, Airá, Filho de Enã.
 16 São esses os que foram chamados da congregação, os príncipes das tribos de seus pais, os cabeças dos milhares de Israel.
 17 Então tomaram Moisés e Arão a esses homens que são designados por nome;
@@ -27,12 +30,15 @@
 30 Dos filhos de Zebulom, as suas gerações, pelas suas famílias, segundo as casas de seus pais, conforme o número dos nomes dos de vinte anos para cima, todos os que podiam sair a guerra,
 31 os que foram contados deles, da tribo de Zebulom, eram cinqüenta e sete mil e quatrocentos.
 32 Dos filhos de José: dos filhos de Efraim, as suas gerações, pelas suas famílias, segundo as casas de seus pais, conforme o número dos nomes dos de vinte anos para cima, todos os que podiam sair à guerra,
+33 os que foram contados deles, da tribo de Efraim, eram quarenta mil e quinhentos;
 34 e dos filhos de Manassés, as suas gerações, pelas suas famílias, segundo as casas de seus pais, conforme o número dos nomes dos de vinte anos para cima, todos os que podiam sair à guerra,
 35 os que foram contados deles, da tribo de Manassés, eram trinta e dois mil e duzentos.
 36 Dos filhos de Benjamim, as suas gerações, pelas suas famílias, segundo as casas de seus pais, conforme o número dos nomes dos de vinte anos para cima, todos os que podiam sair à guerra,
+37 os que foram contados deles, da tribo de Benjamim, eram trinta e cinco mil e quatrocentos.
 38 Dos filhos de Dã, as suas gerações, pelas suas famílias, segundo as casas de seus pais, conforme o número dos nomes dos de vinte anos para cima, todos os que podiam sair à guerra,
 39 os que foram contados deles, da tribo de Dã, eram sessenta e dois mil e setecentos.
 40 Dos filhos de Aser, as suas gerações, pelas suas famílias, segundo as casas de seus pais, conforme o numero dos nomes dos de vinte anos para cima, todos os que podiam sair à guerra,
+41 os que foram contados deles, da tribo de Aser, eram quarenta e um mil e quinhentos.
 42 Dos filhos de Naftali, as suas gerações, pelas suas famílias, segundo as casas de seus pais, conforme o número dos nomes dos de vinte anos para cima, todos os que podiam sair a guerra,
 43 os que foram contados deles, da tribo de Naftali, eram cinqüenta e três mil e quatrocentos,
 44 São esses os que foram contados por Moisés e Arão, e pelos príncipes de Israel, sendo estes doze homens e representando cada um a casa de seus pais.

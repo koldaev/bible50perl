@@ -2,13 +2,16 @@
 2 Ükski ei ole nõnda julge, et teda ärritada. Ja kes suudaks siis püsida minu ees? 
 3 Kes on esmalt andnud mulle, et peaksin tasuma? Kõik, mis on taeva all, on minu oma. 
 4 Ma ei taha vaikida tema liikmeist, ta vägitegude asjast ning ta oleku ilust. 
+5 Kes paljastaks tema ta pealmisest kattest? Kes tungiks tema kahekordse soomuse vahele? 
 6 Kes avaks tema silmnäo väravad? Ta hambad ajavad hirmu peale. 
+7 Ta selg on kilpide rida, tihedalt pitseriga suletud: 
 8 üks on teisele nõnda ligi, et tuul ei pääse läbi nende vahelt. 
 9 Need on liibunud üksteise külge, seisavad koos ja neid ei saa lahutada. 
 10 Tema aevastustest välgub valgust ja ta silmad on nagu koidupuna kiired. 
 11 Tema suust käivad otsekui põlevad tõrvikud, kargavad välja tulesädemed. 
 12 Tema sõõrmeist tuleb välja suits nagu potist, mille all põlevad kõrkjad. 
 13 Tema hingeõhk süütab söed ja tema suust tuleb välja leek. 
+14 Tema turjal asub tugevus ja tema ees kargab kartus. 
 15 Tema lihav vats on otsekui valatud ta külge, liikumatult paigal. 
 16 Tema süda on kõva nagu kivi, otse alumise veskikivi kõvadune. 
 17 Kui ta tõuseb, siis kohkuvad vägevadki, tema murdmise tõttu on nad nagu arust ära. 
@@ -19,4 +22,5 @@
 22 Tal on kõhu all otsekui teravad kivikillud, ta hüpleb nagu pahmavanker mööda muda. 
 23 Ta paneb sügavuse keema nagu paja, teeb mere salvipoti sarnaseks. 
 24 Enese järel ta jätab läikiva raja, sügavus näib olevat otsekui raugajuuksed. 
+25 Ei ole maa peal tema sarnast, ta on kartmatuks loodud. 
 26 Kõik, mis kõrge on, kardab teda, tema on kõigi uhkete loomade kuningas.'

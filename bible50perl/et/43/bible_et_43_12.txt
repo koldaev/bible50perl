@@ -5,6 +5,7 @@
 5 'Miks seda salvi ei ole kolmesaja teenari eest müüdud ja raha antud vaestele?' 
 6 Aga seda ta ei öelnud vaestest hoolimise pärast, vaid et ta oli varas; kukruhoidjana ta poetas kõrvale sissepandut. 
 7 Siis ütles Jeesus: 'Jäta naine rahule, et ta seda hoiaks minu matmise päevaks. 
+8 Vaeseid on ju alati teie juures, aga mind ei ole teil alati.'
 9 Siis sai suur hulk juute teada, et Jeesus on seal, ja nad ei tulnud mitte üksnes tema pärast, vaid et näha saada ka Laatsarust, kelle ta oli surnuist üles äratanud. 
 10 Aga ülempreestrid võtsid nõuks ka Laatsarus ära tappa, 
 11 sest tema pärast läks sinna palju juute ja hakkas Jeesusesse uskuma.
@@ -21,6 +22,7 @@
 22 Filippus tuli ja ütles seda Andreasele. Andreas ja Filippus tulid ja ütlesid seda Jeesusele. 
 23 Aga Jeesus ütles neile: 'Tund on tulnud, et Inimese Poeg kirgastataks. 
 24 Tõesti, tõesti, ma ütlen teile, kui nisuiva ei lange maasse ega sure, siis see jääb üksi, aga kui see sureb, siis see kannab palju vilja. 
+25 Kes oma elu armastab, see kaotab selle, ja kes oma elu vihkab selles maailmas, see hoiab selle igaveseks eluks. 
 26 Kes tahab mind teenida, peab järgnema mulle, ja kus olen mina, sinna saab ka mu teenija. Kes iganes mind teenib, seda austab mu Isa.
 27 Nüüd on mu hing ehmunud. Ja mida ma ütlen? Kas ma pean ütlema: Isa, päästa mind sellest tunnist? Kuid ma olen juba astunud sellesse tundi. 
 28 Isa, kirgasta oma nime!' Siis tuli hääl taevast: 'Ma olen kirgastanud ja kirgastan veel.' 
@@ -38,6 +40,7 @@
 40 'Ta on pimestanud nende silmad ja teinud nende südame kõvaks, et nad silmadega ei näeks ja südamega ei mõistaks ega pöörduks, et ma parandaksin neid.'  
 41 Seda ütles Jesaja, sest ta nägi Jeesuse kirkust ning rääkis temast. 
 42 Siiski uskus ka palju ülemaid temasse, kuid nad ei tunnistanud seda variseride pärast, et neid ei heidetaks kogudusest välja, 
+43 sest nad eelistasid inimeste tunnustust Jumala tunnustusele.
 44 Aga Jeesus hüüdis valjusti: 'Kes minusse usub, see ei usu minusse, vaid temasse, kes minu on saatnud, 
 45 ja kes mind näeb, see näeb teda, kes minu on saatnud. 
 46 Mina olen tulnud valguseks maailma, et ükski, kes usub minusse, ei jääks pimedusse. 

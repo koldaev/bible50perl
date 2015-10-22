@@ -7,6 +7,7 @@
 7 Mutta heillä ei ollut lasta, sillä Elisabet oli hedelmätön; ja he olivat molemmat tulleet iällisiksi.
 8 Niin tapahtui, kun hänen osastonsa palvelusvuoro tuli ja hän toimitti papillisia tehtäviä Jumalan edessä,
 9 että hän tavanmukaisessa pappistehtävien arpomisessa sai osaksensa mennä Herran temppeliin suitsuttamaan.
+10 Ja kaikki kansa oli suitsuttamisen aikana ulkopuolella rukoilemassa.
 11 Silloin ilmestyi hänelle Herran enkeli seisoen suitsutusalttarin oikealla puolella.
 12 Ja hänet nähdessään Sakarias hämmästyi, ja hänet valtasi pelko.
 13 Mutta enkeli sanoi hänelle: Älä pelkää, Sakarias; sillä sinun rukouksesi on kuultu, ja vaimosi Elisabet on synnyttävä sinulle pojan, ja sinun on annettava hänelle nimi Johannes.
@@ -36,12 +37,14 @@
 37 sillä Jumalalle ei mikään ole mahdotonta.
 38 Silloin Maria sanoi: Katso, minä olen Herran palvelijatar; tapahtukoon minulle sinun sanasi mukaan. Ja enkeli lähti hänen tyköänsä.
 39 Niinä päivinä Maria nousi ja kulki kiiruusti vuorimaahan erääseen Juudan kaupunkiin
+40 ja meni Sakariaan kotiin ja tervehti Elisabetia.
 41 Ja kun Elisabet kuuli Marian tervehdyksen, hypähti lapsi hänen kohdussansa; ja Elisabet täytettiin Pyhällä Hengellä.
 42 Ja hän puhkesi puhumaan suurella äänellä ja sanoi: Siunattu sinä vaimojen joukossa, ja siunattu sinun kohtusi hedelmä!
 43 Ja kuinka minulle tapahtuu tämä, että minun Herrani äiti tulee minun tyköni?
 44 Sillä katso, kun sinun tervehdyksesi ääni tuli minun korviini, hypähti lapsi ilosta minun kohdussani.
 45 Ja autuas se, joka uskoi, sillä se sana on täyttyvä, mikä hänelle on tullut Herralta!
 46 Ja Maria sanoi: Minun sieluni suuresti ylistää Herraa,
+47 ja minun henkeni riemuitsee Jumalasta, vapahtajastani;
 48 sillä hän on katsonut palvelijattarensa alhaisuuteen. Katso, tästedes kaikki sukupolvet ylistävät minua autuaaksi.
 49 Sillä Voimallinen on tehnyt minulle suuria, ja hänen nimensä on pyhä,
 50 ja hänen laupeutensa pysyy polvesta polveen niille, jotka häntä pelkäävät.
@@ -63,6 +66,7 @@
 66 ja kaikki, jotka niistä kuulivat, panivat ne mieleensä ja sanoivat: Mikähän tästä lapsesta tulee? Sillä Herran käsi oli hänen kanssansa.
 67 Ja Sakarias, hänen isänsä, täytettiin Pyhällä Hengellä, ja hän ennusti sanoen:
 68 Kiitetty olkoon Herra, Israelin Jumala, sillä hän on katsonut kansansa puoleen ja valmistanut sille lunastuksen
+69 ja kohottanut meille pelastuksen sarven palvelijansa Daavidin huoneesta
 70 -niinkuin hän on puhunut hamasta ikiajoista pyhäin profeettainsa suun kautta-
 71 pelastukseksi vihollisistamme ja kaikkien niiden kädestä, jotka meitä vihaavat,
 72 tehdäkseen laupeuden meidän isillemme ja muistaakseen pyhän liittonsa,

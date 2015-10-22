@@ -1,3 +1,4 @@
+1 Ja Herra puhui Moosekselle ja Aaronille sanoen:
 2 Jos jonkun ihoon tulee nystyrä tai ihottuma tai vaalea pilkku, niinkuin pitalitauti olisi tulemassa hänen ihoonsa, vietäköön hänet pappi Aaronin tai jonkun hänen poikansa, pappien, eteen.
 3 Ja jos pappi tarkastaessaan sairasta paikkaa ihossa huomaa, että karvat sairaassa paikassa ovat muuttuneet valkoisiksi ja että se paikka näyttää muuta ihoa matalammalta, on se pitalitautia; ja niin pian kuin pappi on sen huomannut, julistakoon hän hänet saastaiseksi.
 4 Ja jos hänen ihossansa on valkea pilkku, mutta se ei näytä muuta ihoa matalammalta eivätkä karvat ole muuttuneet valkoisiksi, sulkekoon pappi sairaan sisälle seitsemäksi päiväksi.
@@ -20,6 +21,7 @@
 21 Mutta jos pappi tarkastaessaan huomaa, ettei siinä ole valkoisia karvoja ja ettei se paikka ole muuta ihoa matalampi ja että se on käynyt vaaleaksi, sulkekoon pappi hänet sisälle seitsemäksi päiväksi.
 22 Ja jos se leviää leviämistään hänen ihossaan, julistakoon pappi hänet saastaiseksi; se on pitalia.
 23 Mutta jos pilkku pysyy alallansa eikä leviä, on se paiseen arpi, ja pappi julistakoon hänet puhtaaksi.
+24 Tahi jos joku saa palohaavan ihoonsa ja palohaavaan kasvavaan lihaan ilmestyy vaaleanpunainen tai valkoinen pilkku,
 25 ja jos pappi tarkastaessaan huomaa karvojen muuttuneen valkoisiksi siinä pilkussa ja sen paikan näyttävän muuta ihoa matalammalta, niin on palohaavaan puhjennut pitali, ja pappi julistakoon hänet saastaiseksi; se on pitalitautia.
 26 Mutta jos pappi tarkastaessaan huomaa, ettei pilkussa ole valkoisia karvoja ja ettei se ole muuta ihoa matalampi ja että se on käynyt vaaleaksi, niin sulkekoon pappi hänet sisälle seitsemäksi päiväksi.
 27 Ja seitsemäntenä päivänä pappi tarkastakoon häntä; jos se on yhä levinnyt ihossa, julistakoon pappi hänet saastaiseksi; se on pitalitautia.
@@ -33,13 +35,17 @@
 35 Mutta jos syyhelmä leviää leviämistään ihossa, sen jälkeen kuin hänet julistettiin puhtaaksi,
 36 ja jos pappi tarkastaessaan häntä huomaa, että syyhelmä on levinnyt ihossa, älköön pappi enää etsikö kellertäviä karvoja; hän on saastainen.
 37 Mutta jos syyhelmä hänestä näyttää pysyneen entisellään ja jos siihen on kasvanut mustia karvoja, on syyhelmä parantunut; hän on puhdas, ja pappi julistakoon hänet puhtaaksi.
+38 Jos miehen tai naisen ihoon tulee pilkkuja, valkoisia pilkkuja,
 39 ja jos pappi tarkastaessaan huomaa vaalenevia, valkoisia pilkkuja heidän ihossaan, on se vaaratonta valkoista ihottumaa, joka on puhjennut ihoon; hän on puhdas.
 40 Jos hiukset lähtevät miehen päästä, takaraivosta, on hän takakalju; hän on puhdas.
 41 Ja jos hiukset lähtevät päästä, ohimoista, on hän otsakalju; hän on puhdas.
+42 Mutta jos vaaleanpunainen pilkku ilmestyy takaraivon tai otsapuolen paljaaseen paikkaan, on se pitalia, joka on puhkeamassa takaraivon tai otsapuolen paljaaseen paikkaan.
 43 Ja jos pappi tarkastaessaan häntä huomaa, että nystyrä takaraivon tai otsapuolen paljaassa paikassa on vaaleanpunainen näyttäen samanlaiselta kuin pitali muussa ihossa,
 44 niin mies on pitalinen ja saastainen; pappi julistakoon hänet heti saastaiseksi hänen päässänsä olevan sairauden tähden.
 45 Joka sairastaa pitalia, hän käyköön rikkirevityissä vaatteissa, tukka hajallaan ja parta peitettynä ja huutakoon: 'Saastainen, saastainen!'
 46 Niin kauan kuin sairaus hänessä on, olkoon hän saastainen; saastaisena hän asukoon yksinänsä, hänen asuinsijansa olkoon leirin ulkopuolella.
+47 Jos pitalitartuntaa tulee vaatekappaleeseen, olipa vaatekappale villainen tai pellavainen,
+48 tai kudottuun tai solmustettuun kankaaseen, olipa se pellavaista tai villaista, tai nahkaan tai mihin nahasta tehtyyn esineeseen tahansa,
 49 ja jos tartunnan paikka näyttää vihertävältä tai punertavalta vaatekappaleessa tai nahassa tai kudotussa tai solmustetussa kankaassa tai missä nahasta tehdyssä esineessä tahansa, niin se on pitalia, ja se on näytettävä papille.
 50 Ja kun pappi on tarkastanut tartunnan paikan, sulkekoon hän tartutetun sisälle seitsemäksi päiväksi.
 51 Ja jos hän seitsemäntenä päivänä tarkastaessaan tartunnan paikkaa huomaa, että tarttuma on levinnyt vaatekappaleessa tai kudotussa tai solmustetussa kankaassa tai nahassa tai missä nahasta tehdyssä esineessä tahansa, on tarttuma pahanlaatuista pitalia; ne ovat saastaiset.

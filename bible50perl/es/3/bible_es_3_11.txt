@@ -14,6 +14,7 @@
 14 el gallinazo, el milano según su especie; 
 15 todo cuervo según su especie; 
 16 el avestruz, la lechuza, la gaviota, el gavilán según su especie; 
+17 el buho, el somormujo, el ibis, 
 18 el calamón, el pelícano, el buitre, 
 19 la cigüeña, la garza según su especie, la abubilla y el murciélago. 
 20 Todo insecto alado que anduviere sobre cuatro patas, tendréis en abominación. 
@@ -42,3 +43,5 @@
 43 No hagáis abominables vuestras personas con ningún animal que se arrastra, ni os contaminéis con ellos, ni seáis inmundos por ellos. 
 44 Porque yo soy Jehová vuestro Dios; vosotros por tanto os santificaréis, y seréis santos, porque yo soy santo; así que no contaminéis vuestras personas con ningún animal que se arrastre sobre la tierra. 
 45 Porque yo soy Jehová, que os hago subir de la tierra de Egipto para ser vuestro Dios: seréis, pues, santos, porque yo soy santo. 
+46 Esta es la ley acerca de las bestias, y las aves, y todo ser viviente que se mueve en las aguas, y todo animal que se arrastra sobre la tierra, 
+47 para hacer diferencia entre lo inmundo y lo limpio, y entre los animales que se pueden comer y los animales que no se pueden comer. 

@@ -19,18 +19,43 @@
 19 Ja ta vastas: 'Anna mulle üks kingitus! Et sa mind oled andnud kuivale maale, siis anna mulle ka veeallikaid!' Ja ta andis temale ülemised allikad ja alumised allikad.
 20 See on juudalaste pärisosa nende suguvõsade kaupa: 
 21 linnad olid, alates juudalaste suguharu servast Edomi piiri ääres lõunas: Kabseel, Eeder, Jaagur, 
+22 Kiina, Diimona, Adada, 
+23 Kedes, Haasor, Jitnan, 
+24 Siif, Telem, Bealot, 
+25 Haasor-Hadatta, Kerijot-Hesron, see on Haasor, 
+26 Amam, Sema, Moolada, 
+27 Hasar-Gadda, Hesmon, Beet-Pelet, 
 28 Hasar-Suual, Beer-Seba ja selle tütarlinnad, 
+29 Baala, Ijjim, Esem, 
+30 Eltolad, Kesil, Horma, 
+31 Siklag, Madmanna, Sansanna, 
 32 Lebaot, Silhim, Ain ja Rimmon - kokku kakskümmend üheksa linna ja nende külad.
+33 Madalikul: Estaol, Sora, Asna, 
+34 Saanoah, Een-Gannim, Tappuah, Eenam, 
+35 Jarmut, Adullam, Sooko, Aseka, 
 36 Saaraim, Aditaim, Gedera ja Gederotaim - neliteist linna ja nende külad; 
+37 Senan, Hadasa, Migdal-Gaad, 
+38 Dilan, Mispe, Jokteel, 
+39 Laakis, Boskat, Eglon, 
+40 Kabbon, Lahmas, Kitlis, 
 41 Gederot, Beet-Daagon, Naama ja Makkeda - kuusteist linna ja nende külad; 
+42 Libna, Eter, Aasan, 
+43 Jiftah, Asna, Nesib, 
 44 Keila, Aksib ja Maaresa - üheksa linna ja nende külad; 
 45 Ekron, selle tütarlinnad ja külad; 
 46 Ekronist alates mere poole kõik, mis on Asdodi kõrval, ja nende külad. 
 47 Asdod, selle tütarlinnad ja külad; Assa, selle tütarlinnad ja külad kuni Egiptuseojani. Ja piiriks on suur meri.
 48 Mäestikus: Saamir, Jattir, Sooko, 
+49 Danna, Kirjat-Sanna, see on Debir, 
+50 Anab, Estemo, Aanim, 
 51 Goosen, Holon ja Gilo - üksteist linna ja nende külad; 
+52 Arab, Duuma, Esan, 
+53 Jaanum, Beet-Tappuah, Afeka, 
 54 Humta, Kirjat-Arba, see on Hebron, ja Siior - üheksa linna ja nende külad; 
+55 Maon, Karmel, Siif, Jutta, 
+56 Jisreel, Jokdeam, Saanoah, 
 57 Kain, Gibea ja Timna - kümme linna ja nende külad; 
+58 Halhul, Beet-Suur, Gedoor, 
 59 Maarat, Beet-Anot ja Eltekon - kuus linna ja nende külad; 
 60 Kirjat-Baal, see on Kirjat-Jearim, ja Rabba - kaks linna ja nende külad.
 61 Kõrbes: Beet-Araba, Middin, Sekaka, 

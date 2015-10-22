@@ -1,20 +1,30 @@
+1 Adomas, Setas, Enas,
+2 Kainamas, Maleleelis, Jaretas,
 3 Henochas, Matūzalis, Lamechas,
+4 Nojus, Semas, Chamas ir Jafetas.
 5 Jafeto sūnūs: Gomeras, Magogas, Madajas, Javanas, Tubalas, Mešechas ir Tyras.
 6 Gomero sūnūs: Aškenazas, Rifatas ir Togarmas.
 7 Javano sūnūs: Eliša, Taršišas, Kitimas ir Dodanimas.
 8 Chamo sūnūs: Kušas, Micraimas, Putas ir Kanaanas.
 9 Kušo sūnūs: Seba, Havila, Sabta, Ramair Sabtecha. Ramo sūnūs: Šeba ir Dedanas.
 10 Kušas buvo tėvas Nimrodo, kuris tapo galingas žemėje.
+11 Mizraimas buvo Ludo, Anamimo, Lehabo, Naftoacho,
 12 Patroso, Kasluho, iš kurių kilo filistinai, ir Kaftoro tėvas.
 13 Kanaanui gimė pirmagimis Sidonas, Hetas,
 14 jebusiečiai, amoritai, girgašai,
+15 hivai, arkai, sinai,
 16 arvadiečiai, cemarai ir hamatiečiai.
 17 Semo sūnūs: Elamas, Asūras, Arfaksadas, Aramas, Ludas, Ucas, Hulas, Geteras ir Mešechas.
 18 Arfaksadas buvo Salos tėvas, o Sala buvo Ebero tėvas.
 19 Eberas turėjo du sūnus: vienas buvo vardu Falekas, nes jo dienomis buvo padalinta žemė, o jo brolis buvo vardu Joktanas.
 20 Joktanas buvo Almodado, Šelefo, Hazarmaveto, Jeracho,
+21 Hadoramo, Uzalio, Diklo,
 22 Obalio, Abimaelio, Šebo,
 23 Ofyro, Havilos ir Jobabo tėvas; tie visi buvo Joktano sūnūs.
+24 Semas, Arfaksadas, Sala,
+25 Eberas, Falekas, Ragaujas,
+26 Seruchas, Nachoras, Tara,
+27 Abramas, jis taip pat Abraomas.
 28 Abraomo sūnūs: Izaokas ir Izmaelis.
 29 Šitie yra jų palikuonys: Izmaelio pirmagimis Nebajotas, po jo Kedaras, Adbeeis, Mibsamas,
 30 Mišma, Dūma, Masa, Hadadas, Tema,
@@ -39,3 +49,6 @@
 49 Sauliui mirus, jo vietoje viešpatavo Achboro sūnus Baal Hananas.
 50 Baal Hananui mirus, jo vietoje viešpatavo Hadadas, kurio miestas buvo Pajas; jo žmona buvo vardu Mehetabelė, duktė Me Zahabo, duktė Matredo.
 51 Hadadas taip pat mirė. Edomo kunigaikščiai buvo Timna, Alija, Jetetas,
+52 Oholibama, Ela, Pinonas,
+53 Kenazas, Temanas, Mibcaras,
+54 Magdielis, Iramas.

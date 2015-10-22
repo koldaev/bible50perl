@@ -1,19 +1,52 @@
+1 Aadam, Sett, Enos,  
+2 Keenan, Mahalalel, Jered, 
+3 Eenok, Metuusala, Lemek, 
+4 Noa, Seem, Haam ja Jaafet.
+5 Jaafeti pojad olid Gomer, Maagoog, Maadai, Jaavan, Tubal, Mesek ja Tiiras. 
+6 Ja Gomeri pojad olid Askenas, Diifat ja Toogarma. 
+7 Ja Jaavani pojad olid Eliisa ja Tarsis, kittid ja rodanlased.
+8 Haami pojad olid Kuus, Mitsraim, Puut ja Kaanan. 
+9 Ja Kuusi pojad olid Seba, Havila, Sabta, Raema ja Sabteka; ja Raema pojad olid Seeba ja Dedan. 
 10 Ja Kuusile sündis Nimrod, kes oli esimene vägev mees maa peal. 
 11 Ja Mitsraimile sündisid luudid, anamlased, lehablased, naftuhlased, 
 12 patruuslased ja kasluhlased, kellest vilistid on lähtunud, ja kaftoorlased.  
 13 Ja Kaananile sündisid Siidon, tema esmasündinu, ja Heet, 
+14 ja jebuuslased, emorlased, girgaaslased, 
+15 hiivlased, arklased, siinlased, 
+16 arvadlased, semarlased ja hamatlased.
+17 Seemi pojad olid Eelam, Assur, Arpaksad, Luud, Aram, Uuts, Huul, Geter ja Mesek. 
 18 Ja Arpaksadile sündis Selah, ja Selahile sündis Eeber. 
 19 Ja Eeberile sündis kaks poega: ühe nimi oli Peleg, sest tema päevil jagunes maa; ja tema venna nimi oli Joktan. 
 20 Ja Joktanile sündisid Almodad, Selef, Hasarmavet, Jerah, 
+21 Hadoram, Uusal, Dikla, 
+22 Eebal, Abimael, Seeba, 
 23 Oofir, Havila ja Joobab. Need kõik olid Joktani pojad.
+24 Seem, Arpaksad, Selah, 
+25 Eeber, Peleg, Reu, 
+26 Serug, Naahor, Terah, 
+27 Aabram, see on Aabraham.
+28 Aabrahami pojad olid Iisak ja Ismael. 
 29 Need olid nende järeltulijad: Nebajot, Ismaeli esmasündinu, siis Keedar, Adbeel, Mibsam, 
+30 Misma, Duuma, Massa, Hadad, Teema, 
+31 Jetuur, Naafis ja Keedma. Need olid Ismaeli pojad. 
 32 Ja Ketuura, Aabrahami liignaise pojad, keda tema sünnitas, olid: Simran, Joksan, Medan, Midjan, Jisbak ja Suuah. Ja Joksani pojad olid Seeba ja Dedan. 
 33 Ja Midjani pojad olid Eefa, Eefer, Hanok, Abiida ja Eldaa. Need kõik olid Ketuura järeltulijad.
 34 Ja Aabrahamile sündis Iisak; Iisaki pojad olid Eesav ja Iisrael. 
+35 Eesavi pojad olid Eliifas, Reuel, Jeus, Jalam ja Korah.  
+36 Eliifase pojad olid Teeman, Oomar, Sefi, Gatam, Kenas, Timna ja Amalek. 
+37 Reueli pojad olid Nahat, Serah, Samma ja Missa. 
+38 Seiri pojad olid Lootan, Soobal, Sibeon, Ana, Diison, Eeser ja Diisan. 
 39 Lootani pojad olid Hori ja Hoomam; ja Lootani õde oli Timna.  
+40 Soobali pojad olid Aljan, Maanahat, Eebal, Sefi ja Oonam; ja Sibeoni pojad olid Ajja ja Ana. 
+41 Ana poegi oli Diison; ja Diisoni pojad olid Hamran, Esban, Jitran ja Keran. 
+42 Eeseri pojad olid Bilhan, Saavan ja Jaakan; Diisani pojad olid Uuts ja Aran.
 43 Ja need olid kuningad, kes valitsesid Edomimaal, enne kui ükski kuningas Iisraeli laste üle valitses: Bela, Beori poeg; tema linna nimi oli Dinhaba. 
+44 Kui Bela suri, sai tema asemel kuningaks Joobab, Serahi poeg Bosrast. 
+45 Kui Joobab suri, sai tema asemel kuningaks Huusam teemanlaste maalt. 
 46 Kui Huusam suri, sai tema asemel kuningaks Hadad, Bedadi poeg, kes lõi midjanlasi Moabi väljadel; tema linna nimi oli Aviit.  
+47 Kui Hadad suri, sai tema asemel kuningaks Samla Masreekast.  
 48 Kui Samla suri, sai tema asemel kuningaks Saul jõeäärsest Rehobotist.  
+49 Kui Saul suri, sai tema asemel kuningaks Baal-Haanan, Akbori poeg.  
 50 Kui Baal-Haanan suri, sai tema asemel kuningaks Hadad; tema linna nimi oli Pai ja tema naise nimi oli Mehetabel, Mee-Sahabi tütre Matredi tütar. 
 51 Kui Hadad suri, siis olid Edomi vürstideks: vürst Timna, vürst Alja, vürst Jetet, 
 52 vürst Oholibama, vürst Eela, vürst Piinon, 

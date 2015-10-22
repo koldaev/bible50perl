@@ -3,6 +3,7 @@
 3 Mojsije, dakle, i svećenik Eleazar popišu ih na Moapskim  poljanama, uz Jordan blizu Jerihona, 
 4 sve od dvadeset godina  pa naviše, kako je Jahve naredio Mojsiju i Izraelcima. Sinovi  Izraelovi koji su izašli iz zemlje egipatske bili su:
 5 Izraelov prvorođenac Ruben. Sinovi Rubenovi: od Henoka  rod Henokovaca; od Palua rod Paluovaca; 
+6 od Hesrona rod Hesronovaca  i od Karmija rod Karmijevaca. 
 7 To su rodovi Rubenovaca. Njih  je bilo četrdeset i tri tisuće sedam stotina i trideset.
 8 Paluov sin bijaše Eliab, 
 9 a sinovi Eliabovi: Nemuel, Datan i Abiram. Taj Datan i Abiram bijahu ugledni članovi zajednice  koji se podigoše protiv Mojsija i Arona u buni Korahovoj, kad  se pobuniše protiv Jahve. 
@@ -12,15 +13,21 @@
 13 od Zeraha  rod Zerahovaca i od Šaula rod Šaulovaca. 
 14 To su rodovi Šimunovaca, njih dvadeset i dvije tisuće i dvjesta.
 15 Sinovi Gadovi po svojim rodovima: od Sefona rod Sefonovaca;  od Hagija rod Hagijevaca; od Šunija rod Šunijevaca; 
+16 od Oznija  rod Oznijevaca; od Erija rod Erijevaca; 
+17 od Aroda roda Arodovaca  i od Arelija rod Arelijevaca. 
 18 To su rodovi Gadovih potomaka.  Njih je upisano četrdeset tisuća i pet stotina.
 19 Judini sinovi: Er i Onan. I Er i Onan umriješe u zemlji  kanaanskoj. 
 20 Sinovi Judini po svojim rodovima bijahu: od Šele rod  Šelinaca; od Peresa rod Peresovaca i od Zeraha rod Zerahovaca. 
+21 Peresovi su sinovi opet bili: od Hesrona rod Hesronovaca  i od Hamula rod Hamulovaca. 
 22 To su Judini rodovi. Njih je  upisano sedamdeset i šest tisuća i petsto.
+23 Sinovi Jisakarovi, prema svojim rodovima: od Tole rod  Tolinaca; od Puve rod Puvinaca; 
 24 od Jašuba rod Jašubovaca  i od Šimrona rod Šimronovaca. 
 25 To su Jisakarovi rodovi. Njih  je upisano šezdeset i četiri tisuće i trista.
+26 Sinovi Zebulunovi, po svojim rodovima: od Sereda rod  Seredovaca; od Elona rod Elonovaca i od Jahleela rod Jahleelovaca. 
 27 To su rodovi Zebulunovaca. Njih je upisano šezdeset tisuća  i pet stotina.
 28 Sinovi Josipovi, po svojim rodovima: Manaše i Efrajim. 
 29 Sinovi Manašeovi: od Makira rod Makirovaca. Makiru se rodio  Gilead. Od Gileada rod Gileadovaca. 
+30 Ovo su bili sinovi Gileadovi:  od Jezera rod Jezerovaca; od Heleka rod Helekovaca; 
 31 od Asriela  rod Asrielovaca; od Šekema rod Šekemovaca; 
 32 od Šemide rod  Šemidinaca i od Hefera rod Heferovaca. 
 33 Heferov sin Selofhad  nije imao sinova, nego kćeri. Imena Selofhadovih kćeri bila su:  Mahla, Noa, Hogla, Milka i Tirsa. 
@@ -30,12 +37,15 @@
 37 To su rodovi Efrajimovih sinova. Njih je upisano trideset  i dvije tisuće i pet stotina. To su sinovi Josipovi, po svojim rodovima.
 38 Sinovi Benjaminovi, po svojim rodovima: od Bele rod Belinaca;  od Ašbela rod Ašbelovaca; od Ahirama rod Ahiramovaca; 
 39 od  Šefufama rod Šefufamovaca i od Hufama rod Hufamovaca. 
+40 Belini  sinovi bili su: Ard i Naaman. I tako, od Arda rod Ardovaca, a  od Naamana rod Naamanovaca. 
 41 To su sinovi Benjaminovi, po  svojim rodovima. Njih je upisano četrdeset i pet tisuća i šest  stotina. 
 42 Ovo su sinovi Danovi, po svojim rodovima: od Šuhama rod  Šuhamovaca. To su sinovi Danovi, prema svojim rodovima. 
 43 Od  svih rodova Šuhamovaca bilo je upisano šezdeset i četiri tisuće  i četiri stotine.
 44 Sinovi Ašerovi, po svojim rodovima: od Jimne rod Jimninaca;  od Jišvija rod Jišvijevaca i od Berije rod Berijevaca. 
+45 Od  sinova Berijinih: od Hebera rod Heberovaca i od Malkiela rod  Malkielovaca. 
 46 Ašerovoj kćeri bilo je ime Serah. 
 47 To su  rodovi Ašerovih sinova. Njih je upisano pedeset i tri tisuće  i četiri stotine.
+48 Sinovi Naftalijevi, po svojim rodovima: od Jahseela rod  Jahseelovaca; od Gunija rod Gunijevaca; 
 49 od Jesera rod Jeserovaca  i od Šilema rod Šilemovaca. 
 50 To su rodovi Naftalijevaca. Po  njihovim rodovima upisano ih je četrdeset i pet tisuća i četiri  stotine. 
 51 Bilo je, dakle, upisanih Izraelaca šest stotina i jedna  tisuća i sedam stotina i trideset.
@@ -47,6 +57,7 @@
 57 Ovo je popis Levijevaca, po njihovim rodovima: od Geršona  rod Geršonovaca; od Kehata rod Kehatovaca i od Merarija rod Merarijevaca. 
 58 Ovo su rodovi Levijevaca: rod Libnijevaca, rod Hebronovaca, rod Mahlijevaca, rod Mušijevaca i rod Korahovaca. Kehatu se  rodio Amram. 
 59 Amramovoj ženi bijaše ime Jokebeda. Bila je  kći Levijeva, koja se Leviju rodila u Egiptu. Ona je Amramu rodila:  Arona, Mojsija i njihovu sestru Mirjam. 
+60 Aronu se rodili:  Nadab, Abihu, Eleazar i Itamar. 
 61 Nadab i Abihu poginuli su  kad su prinosili neposvećenu vatru pred Jahvom. 
 62 Svih je popisanih  muškaraca od jednog mjeseca pa naviše bilo dvadeset i tri tisuće.  Oni nisu bili popisani s Izraelcima i nije im bila dodijeljena  baština među Izraelcima.
 63 To su, dakle, oni koje je popisao Mojsije i svećenik  Eleazar; oni su obavili ovaj popis Izraelaca uz Jordan, na Moapskim  poljanama nasuprot Jerihonu. 

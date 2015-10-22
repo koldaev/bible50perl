@@ -12,6 +12,7 @@
 12 (H89:13) Sinä loit pohjoisen ja etelän; sinun nimestäsi riemuitsevat Taabor ja Hermon.
 13 (H89:14) Sinulla on käsivarsi voimaa täynnä, väkevä on sinun kätesi, korotettu sinun oikea kätesi.
 14 (H89:15) Vanhurskaus ja oikeus on sinun valtaistuimesi perustus, armo ja totuus käy sinun kasvojesi edellä.
+15 (H89:16) Autuas se kansa, joka tuntee juhlariemun, ne, jotka vaeltavat sinun kasvojesi valkeudessa, Herra!
 16 (H89:17) He riemuitsevat sinun nimestäsi kaikkina päivinänsä, ja sinun vanhurskautesi voimasta heidät korotetaan.
 17 (H89:18) Sillä sinä olet heidän väkevyytensä, heidän kaunistuksensa, ja sinä armossasi kohotat meidän sarvemme.
 18 (H89:19) Sillä meidän kilpemme on Herran huomassa, meidän kuninkaamme on Israelin Pyhän huomassa.
@@ -47,3 +48,5 @@
 48 (H89:49) Kuka on se mies, joka jää eloon eikä kuoloa näe, joka pelastaa sielunsa tuonelan kädestä? Sela.
 49 (H89:50) Herra, missä ovat sinun entiset armotekosi, jotka sinä uskollisuudessasi vannoit Daavidille?
 50 (H89:51) Ajattele, Herra, palvelijaisi häpäisyä ja mitä minun kaikilta noilta monilta kansoilta täytyy povessani kestää,
+51 (H89:52) kun, Herra, sinun vihollisesi herjaavat, herjaavat sinun voideltusi askeleita.
+52 (H89:53) Kiitetty olkoon Herra iankaikkisesti. Amen, amen.

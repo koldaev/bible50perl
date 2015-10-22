@@ -1,3 +1,4 @@
+1 HERREN talede fremdeles til Moses og sagde:
 2 Dette er Loven om, hvorledes man skal forholde sig med Renselsen af en spedalsk: Han skal fremstilles for Præsten,
 3 og Præsten skal gå uden for Lejren og syne ham, og viser det sig da, at Spedalskheden er helbredt hos den spedalske,
 4 skal Præsten give Ordre til at tage to levende, rene Fugle, Cedertræ, karmoisinrødt Garn og en Ysopkvist til den, der skal renses.
@@ -29,6 +30,7 @@
 30 Derpå skal han ofre den ene Turteldue eller Dueunge, hvad han nu har evnet at give,
 31 den ene som Syndoffer, den anden som Brændoffet, sammen med Afgrødeofferet; og Præsten skal skaffe den, der skal renses, Soning for HERRENs Åsyn.
 32 Det er Loven om den, der har været angrebet af Spedalskhed og ikke evner at bringe det almindelige Offer ved sin Renselse.
+33 Og HERREN talede til Moses og Aron og sagde:
 34 Når I kommer til Kanåns Land, som jeg vil give eder i Eje, og jeg lader Spedalskhed komme frem på et Hus i eders Ejendomsland,
 35 så skal Husets Ejer gå hen og melde det til Præsten og sige: 'Der har i mit Hus vist sig noget, der ligner Spedalskhed!'
 36 Da skal Præsten give Ordre til at flytte alt ud af Huset, inden han kommer for at syne Pletten, for at ikke noget af, hvad der er i Huset, skal blive urent; derpå skal Præsten komme for at syne Huset.
@@ -45,9 +47,11 @@
 47 den, der sover deri skal tvætte sine Klæder, og den der spiser deri, skal tvætte sine Klæder.
 48 Men hvis det, når Præsten kommer og syner Huset, viser sig, at Pletten ikke har bredt sig på det, efter at det er pudset på ny, skal Præsten erklære Huset for rent, thi Pletten er helbredt.
 49 Da skal han for at rense Huset for Synd tage to Fugle, Cedertræ, karmoisinrødt Garn og en Ysopkvist.
+50 Den ene Fugl skal han slagte over et Lerkar med rindende Vand,
 51 og han skal tage Cedertræet, Ysopkvisten, det karmoisinrøde Garn og den levende Fugl og dyppe dem i Blodet af den slagtede Fugl og det rindende Vand og syv Gange foretage Bestænkning på Huset
 52 og således rense det for Synd med Fuglens Blod, det rindende Vand, den levende Fugl, Cedertræet, Ysopkvisten og det karmoisinrøde Garn.
 53 Og den levende Fugl skal han lade flyve ud af Byen hen over Marken og således skaffe Huset Soning; så er det rent.
+54 Det er Loven om al Slags Spedalskhed og Skurv,
 55 om Spedalskhed på Klæder og Huse
 56 og om Hævelser, Udslæt og lyse Pletter,
 57 til Belæring om, når noget er urent, og når det er rent. Det er Loven om Spedalskhed.

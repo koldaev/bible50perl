@@ -1,12 +1,15 @@
 1 Ja Issand rääkis Moosesega, öeldes: 
 2 'Esimese kuu esimesel päeval püstita elamu-kogudusetelk! 
+3 Aseta sinna tunnistuslaegas ja varja laegast eesriidega! 
 4 Vii sinna laud ja korralda, mis selle peal tuleb korraldada; vii sinna lambijalg ja sea lambid üles! 
+5 Aseta kuldne suitsutusaltar tunnistuslaeka ette ja riputa kate elamu uksele! 
 6 Aseta põletusohvri altar elamu-kogudusetelgi ukse ette! 
 7 Aseta pesemisnõu kogudusetelgi ja altari vahele ja pane sellesse vett! 
 8 Sea õu ümberringi üles ja riputa kate õueväravale! 
 9 Võta võideõli ja võia elamut ja kõike, mis selles on; pühitse seda ja kõiki selle riistu, et see saaks pühaks! 
 10 Võia põletusohvri altarit ja kõiki selle riistu, ja pühitse altarit, et altar saaks kõige pühamaks! 
 11 Võia pesemisnõu ja selle jalga ja pühitse seda! 
+12 Lase Aaron ja tema pojad astuda kogudusetelgi ukse juurde ja pese neid veega! 
 13 Pane Aaronile selga pühad riided ja võia ning pühitse teda, ja tema olgu mulle preestriks! 
 14 Lase ka tema pojad ette astuda ja pane neile särgid selga! 
 15 Võia neid, nagu sa võidsid nende isa, ja nad saagu mulle preestriteks! See olgu neile igavesse preestriametisse võidmiseks põlvest põlve!'
@@ -20,7 +23,9 @@
 23 ja seadis selle peal leivad Issanda ette korra kohaselt, nagu Issand Moosest oli käskinud. 
 24 Ta asetas lambijala kogudusetelki, elamu lõunapoolsesse külge, lauaga kohakuti, 
 25 ja seadis lambid üles Issanda ette, nagu Issand Moosest oli käskinud. 
+26 Ta asetas kuldaltari kogudusetelki eesriide ette 
 27 ja süütas selle peal healõhnalist suitsutusrohtu, nagu Issand Moosest oli käskinud. 
+28 Ta riputas elamule uksekatte. 
 29 Ta asetas põletusohvri altari elamu-kogudusetelgi ukse ette ja ohverdas selle peal põletus- ja roaohvreid, nagu Issand Moosest oli käskinud. 
 30 Ta asetas pesemisnõu kogudusetelgi ja altari vahele ja pani sellesse vett pesemiseks. 
 31 Mooses, Aaron ja tema pojad pesid selles oma käsi ja jalgu: 

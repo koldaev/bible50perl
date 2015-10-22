@@ -1,6 +1,7 @@
 1 Ja Issand rääkis Moosese ja Aaroniga, öeldes: 
 2 'Rääkige Iisraeli lastega ja öelge neile: Iga mees, kellel on ihust voolus, on selle vooluse tõttu roojane. 
 3 Ja tema roojasus vooluse pärast on niisugune: ta ihu kas eritab voolust või on ta ihu voolusest ummuksis - selles on tema roojasus. 
+4 Iga ase, millel magab see, kellel on voolus, saab roojaseks, ja iga ese, millel ta istub, saab ka roojaseks. 
 5 Igaüks, kes puudutab tema aset, peab pesema oma riided ja loputama ennast veega ning olema õhtuni roojane. 
 6 Ja kes istub esemel, millel on istunud see, kellel on voolus, peab pesema oma riided ja loputama ennast veega ning olema õhtuni roojane. 
 7 Ja kes puudutab selle ihu, kellel on voolus, see peab pesema oma riided ja loputama ennast veega ning olema õhtuni roojane. 
@@ -28,4 +29,5 @@
 29 Ja kaheksandal päeval võtku ta enesele kaks turteltuvi või kaks muud tuvi ja viigu need preestrile kogudusetelgi ukse juurde! 
 30 Ja preester ohverdagu üks neist patuohvriks ja teine põletusohvriks ning preester toimetagu tema eest lepitust Issanda ees ta ebapuhta vooluse pärast!
 31 Nõnda te peate Iisraeli lapsed hoidma eemal ebapuhtusest, et nad ei sureks oma roojasusest, roojastades minu eluaset, mis on teie keskel!
+32 See on seadus selle kohta, kellel on mingi voolus ja kellel seeme voolab, tehes teda roojaseks, 
 33 ja selle kohta, kellel on kuuverejooks ja kellel on muu voolus, olgu meeste- või naisterahvas, ja mehe kohta, kes magab naise juures, kui see ei ole puhas.'

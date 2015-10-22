@@ -22,3 +22,4 @@
 22 Tema ilmutab saladused pimedusest ja toob surmavarju valguse kätte. 
 23 Tema teeb rahvaid suureks ja hukkab neid, tema laotab rahvaid laiali ja hävitab neid. 
 24 Maa rahva peameestelt võtab ta mõistuse ja paneb nad eksima tühjal teeta maal. 
+25 Nad kobavad pimeduses valguseta ja ekslevad nagu joobnud.

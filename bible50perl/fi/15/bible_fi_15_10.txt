@@ -21,6 +21,7 @@
 21 Haarimin jälkeläisiä Maaseja, Elia, Semaja, Jehiel ja Ussia;
 22 Pashurin jälkeläisiä Eljoenai, Maaseja, Ismael, Netanel, Joosabad ja Elasa.
 23 Leeviläisiä: Joosabad, Siimei, Kelaja, se on Kelita, Petahja, Juuda ja Elieser.
+24 Veisaajia: Eljasib. Ovenvartijoita: Sallum, Telem ja Uuri.
 25 Israelilaisia: Paroksen jälkeläisiä Ramja, Jissia, Malkia, Miijamin, Elasar, Malkia ja Benaja;
 26 Eelamin jälkeläisiä Mattanja, Sakarja, Jehiel, Abdi, Jeremot ja Elia;
 27 Sattun jälkeläisiä Eljoenai, Eljasib, Mattanja, Jeremot, Saabad ja Asisa;
@@ -28,7 +29,16 @@
 29 Baanin jälkeläisiä Mesullam, Malluk, Adaja, Jaasub, Seal ja Jeramot;
 30 Pahat-Mooabin jälkeläisiä Adna, Kelal, Benaja, Maaseja, Mattanja, Besalel, Binnui ja Manasse;
 31 Haarimin jälkeläisiä Elieser, Jissia, Malkia, Semaja, Simeon,
+32 Benjamin, Malluk ja Semarja;
 33 Haasumin jälkeläisiä Mattenai, Mattatta, Saabad, Elifelet, Jeremai, Manasse ja Siimei;
 34 Baanin jälkeläisiä Maadai, Amram, Uuel,
+35 Benaja, Beedja, Keluhu,
+36 Vanja, Meremot, Eljasib,
+37 Mattanja, Mattenai, Jaasai,
+38 Baani, Binnui, Siimei,
+39 Selemja, Naatan, Adaja,
+40 Maknadbai, Saasai, Saarai,
+41 Asarel, Selemja, Semarja,
+42 Sallum, Amarja ja Joosef;
 43 Nebon jälkeläisiä Jegiel, Mattitja, Saabad, Sebina, Jaddai, Jooel ja Benaja.
 44 Nämä kaikki olivat ottaneet muukalaisia vaimoja; ja osa näistä vaimoista oli synnyttänyt lapsia.

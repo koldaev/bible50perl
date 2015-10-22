@@ -1,8 +1,30 @@
 1 (H10:2) Sinetöidyissä asiakirjoissa ovat nämä nimet: Nehemia, Hakaljan poika, maaherra, ja Sidkia,
+2 (H10:3) Seraja, Asarja, Jeremia,
+3 Pashur, Amarja, Malkia,
+4 Hattus, Sebanja, Malluk,
+5 Haarim, Meremot, Obadja,
+6 Daniel, Ginneton, Baaruk,
+7 Mesullam, Abia, Miijamin,
 8 Maasja, Bilgai ja Semaja-nämä ovat pappeja.
 9 Leeviläisiä ovat: Jeesua, Asanjan poika, Binnui, Heenadadin jälkeläinen, Kadmiel
 10 ja heidän veljensä Sebanja, Hoodia, Kelita, Pelaja, Haanan,
+11 Miika, Rehob, Hasabja,
+12 Sakkur, Seerebja, Sebanja,
+13 Hoodia, Baani ja Beninu.
 14 Kansan päämiehiä ovat: Paros, Pahat-Mooab, Eelam, Sattu, Baani,
+15 Bunni, Asgad, Beebai,
+16 Adonia, Bigvai, Aadin,
+17 Aater, Hiskia, Assur,
+18 Hoodia, Haasum, Beesai,
+19 Haarif, Anatot, Nuubai,
+20 Magpias, Mesullam, Heesir,
+21 Mesesabel, Saadok, Jaddua,
+22 Pelatja, Haanan, Anaja,
+23 Hoosea, Hananja, Hassub,
+24 Loohes, Pilha, Soobek,
+25 Rehum, Hasabna, Maaseja,
+26 Ahia, Haanan, Aanan,
+27 Malluk, Haarim ja Baana.
 28 Ja muu kansa, papit, leeviläiset, ovenvartijat, veisaajat, temppelipalvelijat ja kaikki, jotka ovat eristäytyneet pakanallisista kansoista Jumalan lain puolelle, sekä heidän vaimonsa, poikansa ja tyttärensä, kaikki, jotka pystyvät sen ymmärtämään,
 29 liittyvät ylhäisiin veljiinsä, tulevat valalle ja vannovat vaeltavansa Jumalan lain mukaan, joka on annettu Jumalan palvelijan Mooseksen kautta, ja noudattavansa ja seuraavansa kaikkia Herran, meidän Herramme, käskyjä, oikeuksia ja säädöksiä.
 30 Me emme anna tyttäriämme maan kansoille emmekä ota heidän tyttäriänsä pojillemme vaimoiksi.

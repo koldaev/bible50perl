@@ -13,7 +13,12 @@
 13 Kymmenes, kymmenentenä kuukautena, oli netofalainen Mahrai, serahilaisia; ja hänen osastossaan oli kaksikymmentäneljä tuhatta.
 14 Yhdestoista, yhdentenätoista kuukautena, oli piratonilainen Benaja, efraimilaisia; ja hänen osastossaan oli kaksikymmentäneljä tuhatta.
 15 Kahdestoista, kahdentenatoista kuukautena, oli netofalainen Heldai, Otnielista polveutuva; ja hänen osastossaan oli kaksikymmentäneljä tuhatta.
+16 Israelin sukukuntien johtajat olivat: ruubenilaisten ruhtinas oli Elieser, Sikrin poika; simeonilaisten Sefatja, Maakan poika;
+17 Leevin oli Hasabja, Kemuelin poika; Aaronin Saadok;
 18 Juudan oli Elihu, Daavidin veljiä; Isaskarin Omri, Miikaelin poika;
+19 Sebulonin oli Jismaja, Obadjan poika; Naftalin Jerimot, Asrielin poika;
+20 efraimilaisten oli Hoosea, Asasjan poika; toisen puolen Manassen sukukuntaa Jooel, Pedajan poika;
+21 toisen puolen Manassea, Gileadissa, oli Jiddo, Sakarjan poika; Benjaminin Jaasiel, Abnerin poika;
 22 Daanin Asarel, Jerohamin poika. Nämä olivat Israelin sukukuntien ruhtinaat.
 23 Mutta Daavid ei ottanut luetteloon kaksikymmenvuotiaita ja sitä nuorempia, sillä Herra oli luvannut tehdä Israelin monilukuiseksi niinkuin taivaan tähdet.
 24 Jooab, Serujan poika, oli alottanut laskemisen, mutta ei sitä lopettanut, sillä siitä kohtasi viha Israelia; eikä se luku tullut kuningas Daavidin aikakirjaan.
@@ -22,6 +27,7 @@
 27 Viinitarhain hoitaja oli raamatilainen Siimei. Viinitarhoista koottujen viinivarastojen hoitaja oli sifmiläinen Sabdi.
 28 Öljypuiden ja Alankomaassa kasvavien metsäviikunapuiden hoitaja oli gaderilainen Baal-Haanan. Öljyvarastojen hoitaja oli Jooas.
 29 Saaronissa laitumella käyvien raavasten kaitsija oli saaronilainen Sitrai, ja tasangoilla laitumella käyvien raavasten kaitsija Saafat, Adlain poika.
+30 Kamelien kaitsija oli ismaelilainen Oobil; aasintammojen meeronotilainen Jehdeja.
 31 Pikkukarjan kaitsija oli hagrilainen Jaasis. Nämä kaikki olivat kuningas Daavidin omaisuuden ylihoitajia.
 32 Ja Joonatan, Daavidin setä, joka oli ymmärtäväinen mies ja kirjanoppinut, oli neuvonantaja. Jehiel, Hakmonin poika, oli kuninkaan lasten luona.
 33 Ahitofel oli kuninkaan neuvonantaja, ja arkilainen Huusai oli kuninkaan ystävä.

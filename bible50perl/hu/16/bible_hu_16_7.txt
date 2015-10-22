@@ -50,7 +50,10 @@
 50 Reája fiai, Resin fiai, Nekóda fiai,
 51 Gazzám fiai, Uzza fiai, Pászéah fiai,
 52 Bészai fiai, Meunim fiai, Nefiszim fiai,
+53 Bakbuk fiai, Hakufa fiai, Harhur fiai,
+54 Basluth fiai, Mehida fiai, Harsa fiai,
 55 Barkósz fiai, Sziszera fiai, Temah fiai,
+56 Nesiah fiai, Hatifa fiai;
 57 A Salamon szolgáinak fiai: Szótai fiai, Szófereth fiai, Perida fiai,
 58 Jaalá fiai, Darkón fiai, Giddél fiai,
 59 Sefátia fiai, Hattil fiai, Pókhereth-Hassebaim fiai, Ámon fiai;

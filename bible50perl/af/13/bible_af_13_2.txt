@@ -1,11 +1,18 @@
 1 Dit is die seuns van Israel: Ruben, Símeon, Levi en Juda, Issaskar en Sébulon,
 2 Dan, Josef en Benjamin, Náftali, Gad en Aser.
 3 Die seuns van Juda was: Er en Onan en Sela, drie vir hom gebore uit die dogter van Sua, die Kanaänitiese vrou; en Er, die eersgeborene van Juda, het die HERE mishaag, daarom het Hy hom laat sterwe.
+4 En Tamar, sy skoondogter, het vir hom Peres en Serag gebaar. Al die seuns van Juda was vyf.
+5 Die seuns van Peres was Hesron en Hamul.
+6 En die seuns van Serag was: Simri en Etan en Heman en Kalkol en Dara; almal saam vyf.
+7 En die seuns van Karmi was: Agar, wat Israel in die ongeluk gestort het deurdat hy hom vergryp het aan die bangoed.
 8 En die seuns van Etan was Asárja.
 9 En die seuns van Hesron wat vir hom gebore is, was Jerágmeël en Ram en Kelúbai.
 10 En Ram was die vader van Ammínadab, en Ammínadab van Nagson, die vors van die kinders van Juda.
+11 En Nagson was die vader van Salma, en Salma van Boas;
+12 en Boas van Obed, en Obed van Isai;
 13 en Isai was die vader van Elíab, sy eersgeborene, en van Abinádab, die tweede, en Símea, die derde;
 14 van Netáneël, die vierde, van Ráddai, die vyfde,
+15 van Osem, die sesde, van Dawid, die sewende.
 16 En hulle susters was Serúja en Abígail. En die seuns van Serúja was: Abísai en Joab en Asahel, drie.
 17 En Abígail het Amása gebaar; en die vader van Amása was Jeter, die Ismaeliet.
 18 En Kaleb, die seun van Hesron, het by sy vrou Asúba Jeríot verwek. En dit is haar seuns: Jeser en Sobab en Ardon.
@@ -24,6 +31,10 @@
 31 En die seuns van Appáim was Jíseï; en die seuns van Jíseï was Sesan; en die seuns van Sesan, Aglai.
 32 En die seuns van Jada, die broer van Sámmai, was Jeter en Jónatan; en Jeter het gesterwe sonder kinders.
 33 En die seuns van Jónatan was Pelet en Sasa. Dit was die seuns van Jerágmeël.
+34 En Sesan het nie seuns gehad nie, net dogters; en Sesan het 'n Egiptiese dienaar gehad met die naam van Jarha;
+35 en Sesan het sy dogter aan sy dienaar Jarha as vrou gegee; en sy het vir hom Attai gebaar.
+36 En Attai was die vader van Natan, en Natan van Sabad;
+37 en Sabad van Eflal, en Eflal van Obed;
 38 en Obed van Jehu, en Jehu van Asárja;
 39 en Asárja van Heles, en Heles van Eleása;
 40 en Eleása van Sísemai, en Sísemai van Sallum;
@@ -32,10 +43,13 @@
 43 En die seuns van Hebron was: Korag en Tappúag en Rekem en Sema.
 44 En Sema was die vader van Raham, die vader van Jórkeam; en Rekem van Sámmai.
 45 En die seun van Sámmai was Máon; en Máon was die vader van Bet-Sur.
+46 En Efa, die byvrou van Kaleb, het Haran en Mosa en Gases gebaar; en Haran was die vader van Gases.
 47 En die seuns van Jóhdai was: Regem en Jotam en Gesan en Pelet en Efa en Saäf.
 48 Die byvrou van Kaleb, Máäga, het Seber en Tírhana gebaar;
 49 en sy het Saäf gebaar, die vader van Madmánna, Sewa, die vader van Magbéna en die vader van Gíbea; en die dogter van Kaleb was Agsa.
 50 Dit was die seuns van Kaleb. Die seuns van Hur, die eersgeborene van Éfrata, was Sobal, die vader van Kirjat-Jeárim,
+51 Salma, die vader van Betlehem, Haref, die vader van Bet-Gader.
 52 En die seuns van Sobal, die vader van Kirjat-Jeárim, was Hároë en die helfte van Menúgot.
 53 En die geslagte van Kirjat-Jeárim was: die Jitriete en Putiete en Sumatiete en die Misraïete; uit hulle het die Soreatiete en Estaoliete voortgekom.
 54 Die seuns van Salma was: Betlehem en die Netofatiete, Atrot-Bet-Joab en die helfte van die Managtiete, die Soreïete.
+55 En die geslagte van die skrywers wat in Jabes gewoon het: die Tireatiete, die Simeatiete, die Sugatiete; dit is die Keniete wat van Hammat, die vader van die huis van Regab, afkomstig is.

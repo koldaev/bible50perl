@@ -7,8 +7,11 @@
 7 Nu var det en som hette Barabbas; han var kastet i fengsel sammen med nogen oprørere som hadde gjort et mord under oprøret; 
 8 og folket kom op og begynte å be Pilatus om det som han alltid pleide å gjøre. 
 9 Da svarte han dem og sa: Vil I jeg skal gi eder jødenes konge fri? 
+10 For han visste at det var av avind yppersteprestene hadde overgitt ham til ham. 
 11 Men yppersteprestene egget folket op til å be om at han heller skulde gi dem Barabbas fri. 
 12 Da svarte Pilatus atter og sa til dem: Hvad vil I da jeg skal gjøre med ham som I kaller jødenes konge? 
+13 De ropte igjen: Korsfest ham! 
+14 Pilatus sa til dem: Hvad ondt har han da gjort? Men de ropte enda sterkere: Korsfest ham! 
 15 Da nu Pilatus vilde gjøre folket til lags, gav han dem Barabbas fri og lot Jesus hudstryke og overgav ham til å korsfestes. 
 16 Og stridsmennene førte ham bort, inn i gården, det er borgen, og kalte hele vakten sammen, 
 17 og de klædde ham i en purpurkappe, og flettet en tornekrone og satte på ham, 
@@ -17,10 +20,14 @@
 20 Og da de hadde spottet ham, tok de purpurkappen av ham og klædde ham i hans egne klær. Så førte de ham ut for å korsfeste ham. 
 21 Og det møtte dem en mann som kom ute fra landet, Simon fra Kyrene, far til Aleksander og Rufus; ham tvang de til å bære hans kors. 
 22 Og de førte ham til stedet Golgata, det er utlagt: Hodeskallestedet, 
+23 og de gav ham vin med myrra i; men han tok den ikke. 
 24 Og de korsfestet ham og delte hans klær imellem sig og kastet lodd om hvad hver skulde få. 
+25 Det var den tredje time da de korsfestet ham. 
 26 Og innskriften med klagemålet imot ham lød: Jødenes konge. 
 27 Og sammen med ham korsfestet de to røvere, en på hans høire og en på hans venstre side; 
+28 og Skriften blev opfylt, som sier: Og han blev regnet blandt ugjerningsmenn. 
 29 Og de som gikk forbi, spottet ham, og rystet på hodet og sa: Tvi dig, du som bryter ned templet og bygger det op igjen på tre dager! 
+30 frels dig selv og stig ned av korset! 
 31 Likeså spottet også yppersteprestene ham sig imellem sammen med de skriftlærde og sa: Andre har han frelst, sig selv kan han ikke frelse! 
 32 La nu Messias, Israels konge, stige ned av korset, så vi kan se det og tro! Også de som var korsfestet sammen med ham, hånte ham. 
 33 Og da den sjette time var kommet, blev det mørke over hele landet like til den niende time. 
@@ -31,6 +38,7 @@
 38 Og forhenget i templet revnet i to stykker fra øverst til nederst. 
 39 Men da høvedsmannen, som stod like imot ham, så at han utåndet med et sådant rop, sa han: Sannelig, denne mann var Guds Sønn! 
 40 Men der var også nogen kvinner som så på i frastand; blandt dem var også Maria Magdalena og Maria, mor til Jakob den yngre og Joses, og Salome, 
+41 som hadde fulgt ham og tjent ham da han var i Galilea, og mange andre kvinner som hadde draget op med ham til Jerusalem. 
 42 Og da det alt var blitt aften - det var beredelses-dagen, det er dagen før sabbaten - 
 43 kom Josef av Arimatea, en høit aktet rådsherre, som også ventet på Guds rike, og han vågde sig til å gå inn til Pilatus og be om Jesu legeme. 
 44 Men Pilatus undret sig om han alt skulde være død, 

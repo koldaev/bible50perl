@@ -1,5 +1,6 @@
 1 Pärast seda oli juutide püha ja Jeesus läks üles Jeruusalemma. 
 2 Aga Jeruusalemmas on Lambavärava juures tiik, mida heebrea keeles hüütakse Betsata; sellel on viis sammaskäiku. 
+3 Siin lamas suur hulk haigeid, pimedaid, jalutuid, halvatuid [kes ootasid vee liikumist, 
 4 sest aeg-ajalt tuli ingel alla tiiki ja segas vett. Kes nüüd esimesena pärast veesegamist sisse astus, sai terveks, ükskõik mis haiguses ta oli]. 
 5 Aga seal oli inimene, kes oli olnud haige kolmkümmend kaheksa aastat. 
 6 Kui Jeesus nägi teda seal lamamas ja sai teada, et ta on juba nii kaua aega haige, küsis ta temalt: 'Kas sa tahad terveks saada?' 
@@ -27,6 +28,8 @@
 28 Ärge pange seda imeks; sest tuleb tund, mil kõik, kes on haudades, kuulevad tema häält 
 29 ning tulevad välja: need, kes on teinud head, elu ülestõusmiseks, aga need, kes on teinud halba, hukkamõistmise ülestõusmiseks. 
 30 Mina ei saa iseenesest teha midagi. Ma mõistan kohut nõnda, nagu ma kuulen, ja minu otsus on õiglane, sest ma ei otsi oma tahtmist, vaid tema tahtmist, kes minu on saatnud.
+31 Kui ma tunnistaksin iseenese kohta, ei oleks mu tunnistus kehtiv. 
+32 See, kes minu kohta tunnistab, on keegi teine, ja ma tean: see tunnistus, mida tema minu kohta tunnistab, on kehtiv. 
 33 Teie olete läkitanud saadikuid Johannese juurde, ja tema on tunnistanud tõtt. 
 34 Aga mina ei vaja mingit inimese tunnistust, vaid räägin seda selleks, et teie võiksite pääseda. 
 35 Johannes oli lamp, mis põles ja paistis, teie aga tahtsite üürikest aega ilutseda tema valguses. 
@@ -34,7 +37,11 @@
 37 Ja Isa, kes minu on saatnud, tema ise tunnistab minu kohta. Teie ei ole iialgi kuulnud tema häält ega näinud tema nägu 
 38 ega püsi tema sõna teis, sest te ei usu teda, kelle tema on läkitanud. 
 39 Te uurite pühi kirju, sest te arvate nendest saavat igavese elu - ja just need on, mis tunnistavad minust. 
+40 Aga te ei taha tulla minu juurde, et saada elu.
+41 Mina ei vaja austust inimestelt, 
+42 kuid ma tunnen teid: teie sees ei ole armastust Jumala vastu. 
 43 Mina olen tulnud oma Isa nimel, ja ometi ei võta te mind vastu. Kui mõni teine tuleb iseenese nimel, siis tolle te võtate vastu. 
 44 Kuidas te võite uskuda, kui te ootate austust üksteiselt ega otsi seda austust, mis tuleb üksnes Jumalalt? 
 45 Ometi ärge arvake, et mina hakkan teid Isa ees süüdistama. See, kes teid süüdistab, on hoopis Mooses, kelle peale te oma lootuse olete pannud, 
+46 sest kui te usuksite Moosest, siis te usuksite ka mind, sest tema on kirjutanud minust. 
 47 Aga kui te isegi tema kirju ei usu, kuidas te siis saate uskuda minu sõnu?'

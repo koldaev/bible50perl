@@ -15,9 +15,11 @@
 15 Siurbėlė turi dvi dukteris, kurios šaukia: ‘Duok, duok!’ Trys dalykai yra nepasotinami, o ketvirtas niekada nesako: ‘Užtenka’.
 16 Tai mirusiųjų buveinė, nevaisingos įsčios, žemė, kuri sugeria vandenį, ir ugnis­ji nesako: ‘Užtenka!’
 17 Akis, kurios tyčiojasi iš tėvo ir niekina paklusnumą motinai, iškapos varnai slėnyje ir suės erelio jaunikliai.
+18 Trys dalykai man nesuvokiami ir ketvirtojo nesuprantu:
 19 erelio kelias padangėje, gyvatės­ant uolos, laivo­jūroje ir vyro kelias su mergaite.
 20 Štai kelias neištikimos moters; ji pavalgo ir, nusišluosčiusi lūpas, sako: ‘Nieko blogo nepadariau’.
 21 Dėl trijų dalykų sujuda žemė, ketvirtojo ji negali pakęsti:
+22 tarno, kai jis karaliauja, kvailio, kai jis pasisotina,
 23 bjaurios moteriškės, kai ji išteka, ir tarnaitės, kuri užima šeimininkės vietą.
 24 Keturi žemės gyvūnai yra maži, bet labai išmintingi:
 25 skruzdės nėra stipri tauta, tačiau vasarą prisirengia sau maisto;

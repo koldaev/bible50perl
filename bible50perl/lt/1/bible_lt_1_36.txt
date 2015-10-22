@@ -5,6 +5,7 @@
 5 Oholibamos sūnūs: Jeušas, Jalamas ir Korachas. Šitie yra Ezavo sūnūs, gimę jam Kanaano žemėje.
 6 Ezavas pasiėmė savo žmonas, sūnus, dukteris, visus savo žmones, gyvulių bandas ir visą nuosavybę, kurią buvo įsigijęs Kanaano krašte, ir išvyko į kitą šalį, pasitraukdamas nuo savo brolio Jokūbo.
 7 Jų turtai buvo per dideli, kad jie galėtų gyventi kartu, o žemė, kurioje jie buvo ateiviai, nebegalėjo išmaitinti jų gyvulių.
+8 Ezavas apsigyveno Seyro kalnyne. Ezavas yra Edomas.
 9 Šitie yra Ezavo, edomitų tėvo palikuonys Seyro kalnyne.
 10 Ezavo sūnų vardai: Ezavo žmonos Ados sūnus­Elifazas, Ezavo žmonos Basmatos sūnus­Reuelis.
 11 Elifazo sūnūs: Temanas, Omaras, Cefojas, Gatamas ir Kenazas.
@@ -18,6 +19,7 @@
 19 Jie yra Ezavo, tai yra Edomo sūnūs­tos šalies kunigaikščiai.
 20 Horo Seyro sūnūs, gyvenę krašte: Lotanas, Šobalas, Cibeonas, Ana,
 21 Dišonas, Eceras, Dišanas. Jie horų, Seyro sūnų, kunigaikščiai Edomo krašte.
+22 Lotano vaikai: Horis, Hemamas ir Lotano sesuo Timna.
 23 Sobalio sūnūs: Alvanas, Manahatas, Ebalas, Šefojas ir Onamas.
 24 Cibeono sūnūs: Aja ir Ana. Ana, beganydamas savo tėvo Cibeono asilus, dykumoje rado šiltąsias versmes.
 25 Anos vaikai: Dišonas ir duktė Oholibama.
@@ -36,4 +38,6 @@
 38 Sauliui mirus, sostas atiteko Achboro sūnui Baal Hananui.
 39 Achboro sūnui Baal Hananui mirus, jo vietą užėmė Hadaras. Jo miestas vadinosi Pavas. Jo žmona buvo vardu Mehetabelė; ji buvo Me Zahabo dukters Matredos duktė.
 40 Ezavo kunigaikščių vardai pagal jų kilmę ir vietos pavadinimą: Timna, Alva, Jetetas,
+41 Oholibama, Ela, Pinonas,
+42 Kenazas, Temanas, Mibcaras,
 43 Magdielis, Iramas. Šitie Edomo kunigaikščiai gyveno jų nuosavame krašte. Ezavas­edomitų protėvis.

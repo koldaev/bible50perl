@@ -1,10 +1,13 @@
+1 (H39:34) Niin Herra vastasi Jobille ja sanoi:
 2 (H39:35) Tahtooko vikoilija riidellä Kaikkivaltiasta vastaan? Jumalan syyttäjä vastatkoon tähän!
+3 (H39:36) Silloin Job vastasi Herralle ja sanoi:
 4 (H39:37) Katso, minä olen siihen liian halpa; mitäpä sinulle vastaisin? Panen käteni suulleni;
 5 (H39:38) kerran minä olen puhunut, enkä enää mitään virka, kahdesti, enkä enää sitä tee.
 6 (H40:1) Silloin Herra vastasi Jobille tuulispäästä ja sanoi:
 7 (H40:2) Vyötä nyt kupeesi kuin mies; minä kysyn sinulta, opeta sinä minua.
 8 (H40:3) Sinäkö teet tyhjäksi minun oikeuteni, tuomitset minut syylliseksi, ollaksesi itse oikeassa?
 9 (H40:4) Tahi onko sinun käsivartesi niinkuin Jumalan, ja voitko korottaa äänesi jylinän niinkuin hän?
+10 (H40:5) Kaunistaudu kunnialla ja korkeudella, pukeudu loistoon ja kirkkauteen.
 11 (H40:6) Anna vihasi kiivastuksen purkautua, ja masenna katseellasi kaikki ylpeät.
 12 (H40:7) Nöyryytä katseellasi kaikki ylpeät, ja muserra jumalattomat siihen paikkaan.
 13 (H40:8) Kätke heidät tomuun kaikki tyynni, sulje heidän kasvonsa salaiseen kätköön.
@@ -12,6 +15,7 @@
 15 (H40:10) Katso Behemotia, jonka minä loin niinkuin sinutkin; se syö ruohoa niinkuin raavas.
 16 (H40:11) Katso, sen voima on lanteissa, sen väkevyys vatsalihaksissa.
 17 (H40:12) Se ojentaa jäykäksi häntänsä kuin setripuun, sen reisijänteet ovat lujiksi punotut.
+18 (H40:13) Sen luut ovat niinkuin vaskiputket, sen nikamat niinkuin raudasta taotut.
 19 (H40:14) Se on Jumalan töiden esikoinen; sen luoja ojentaa sille miekan.
 20 (H40:15) Sille kantavat satonsa vuoret, joilla kaikki metsän eläimet leikitsevät.
 21 (H40:16) Lootuspensaiden alla se makaa, ruovikon ja rämeen kätkössä.

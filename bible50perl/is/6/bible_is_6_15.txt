@@ -24,9 +24,11 @@
 24 Síf, Telem, Bealót,
 25 Hasór Hadatta og Keríjót Hesron, það er Hasór;
 26 Amam, Sema, Mólada,
+27 Hasar Gadda, Hesmon, Bet Pelet,
 28 Hasar Súal, Beerseba og Bisjótja,
 29 Baala, Ijím, Esem,
 30 Eltólað, Kesíl, Horma,
+31 Siklag, Madmanna, Sansanna,
 32 Lebaót, Silhím, Aín og Rimmon, 
 33 Á láglendinu: Estaól, Sórea, Asna,
 34 Sanóa og En Ganním, Tappúa og Enam,

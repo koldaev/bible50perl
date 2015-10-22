@@ -1,3 +1,4 @@
+1 Ja Herra puhui Moosekselle sanoen:
 2 Käske Aaronia ja hänen poikiansa pyhästi pitelemään israelilaisten pyhiä lahjoja, heidän minulle pyhittämiänsä, etteivät he häpäisisi minun pyhää nimeäni. Minä olen Herra.
 3 Sano heille polvesta polveen: Jos kuka tahansa teidän jälkeläisistänne saastuneena ollessaan lähestyy niitä pyhiä lahjoja, joita israelilaiset pyhittävät Herralle, hänet hävitettäköön minun kasvojeni edestä.
 4 Minä olen Herra. Älköön kukaan Aaronin jälkeläinen, joka on pitalinen tai jolla on vuoto, syökö pyhistä lahjoista, ennenkuin hän on tullut puhtaaksi; ja joka koskee johonkin kuolleesta saastuneeseen tahi jolla on siemenvuoto,
@@ -13,6 +14,7 @@
 14 Ja jos joku erehdyksessä syö pyhästä lahjasta, korvatkoon papille pyhän lahjan ja pankoon siihen vielä lisäksi viidennen osan sen arvosta.
 15 Älkööt papit häväiskö israelilaisten pyhiä lahjoja, joita nämä antavat Herralle,
 16 Älköötkä saattako heitä syynalaisiksi ja vikapäiksi sallimalla heidän syödä pyhiä lahjojansa; sillä minä olen Herra, joka pyhitän heidät.
+17 Ja Herra puhui Moosekselle sanoen:
 18 Puhu Aaronille ja hänen pojillensa ja kaikille israelilaisille ja sano heille: Kuka ikinä Israelin heimosta tai muukalaisista Israelissa tuo polttouhriksi uhrilahjansa, olipa se mikä hyvänsä lupausuhri tai vapaaehtoinen uhri, jonka he tuovat Herralle,
 19 niin tuokaa sellainen uhri, että hänen mielisuosionsa tulee teidän osaksenne: virheetön urospuoli raavaista, lampaista tai vuohista.
 20 Mutta yhtään eläintä, jossa on vamma, älkää tuoko, sillä siitä hänen mielisuosionsa ei tule teidän osaksenne.
@@ -21,6 +23,7 @@
 23 Härän tai lampaan, joka on jäseniltään muodoton tai vaivainen, sinä saat uhrata vapaaehtoisena uhrina, mutta lupausuhriksi se ei ole otollinen.
 24 Älkää uhratko Herralle eläintä, joka on kuohittu puristamalla tai musertamalla tai repimällä tai leikkaamalla; älkää tehkö maassanne sellaista.
 25 Älkää myöskään muukalaiselta ostako mitään sellaisia eläimiä tuodaksenne niitä Jumalanne ruuaksi, sillä ne ovat turmeltuja, niissä on vamma; niistä ei tule teidän osaksenne mielisuosio.
+26 Ja Herra puhui Moosekselle sanoen:
 27 Kun vasikka tai karitsa tai vohla on syntynyt, olkoon se emänsä luona seitsemän päivää; mutta kahdeksannesta päivästä alkaen se on otollinen uhrilahjaksi Herralle.
 28 Älkää raavaseläintä tai lammasta ja sen sikiötä teurastako samana päivänä.
 29 Kun te uhraatte Herralle kiitosuhrin, uhratkaa se niin, että hänen mielisuosionsa tulee teidän osaksenne.

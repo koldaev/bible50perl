@@ -1,4 +1,5 @@
 1 Siis on taevariik kümne neitsi sarnane, kes võtsid oma lambid ja läksid peigmehele vastu. 
+2 Viis nendest olid rumalad ja viis arukad, 
 3 rumalad võtsid küll oma lambid, kuid ei võtnud kaasa õli, 
 4 arukad võtsid aga lampidele lisaks kaasa õlianumad. 
 5 Aga kui peigmees viibis, jäid nad kõik tukkuma ja uinusid magama. 
@@ -32,6 +33,7 @@
 33 Ja ta seab lambad oma paremale käele, sikud aga vasakule käele. 
 34 Siis ütleb kuningas oma paremal käel olijatele: 'Tulge siia, minu Isa õnnistatud, pärige kuningriik, mis teile on valmistatud maailma rajamisest peale! 
 35 Sest mul oli nälg ja te andsite mulle süüa, mul oli janu ja te andsite mulle juua, ma olin kodutu ja te võtsite mu vastu, 
+36 ma olin alasti ja te riietasite mind, ma olin haige ja te tulite mind vaatama, ma olin vangis ja te tulite mu juurde.' 
 37 Siis vastavad õiged talle: 'Issand, millal me nägime sind näljasena ja toitsime sind, või janusena ja jootsime sind? 
 38 Millal me nägime sind kodutuna ja võtsime su vastu, või alasti ja riietasime sind? 
 39 Millal me nägime sind haigena või vangis ja tulime su juurde?' 

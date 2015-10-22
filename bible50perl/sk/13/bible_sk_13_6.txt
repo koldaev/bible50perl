@@ -2,21 +2,33 @@
 2 Toto sú mená Gersonových synov: Lobni a Semei.
 3 Kaátovi synovia: Amram, Isaár, Hebron a Oziel.
 4 Merariho synovia: Moholi a Musi. A toto sú Léviho rody podľa rodín:
+5 Od Gersona jeho syn Lobni, jeho syn Jahat, jeho syn Zama,
+6 jeho syn Joah, jeho syn Ado, jeho syn Zara, jeho syn Jetrai.
 7 Kaátovi synovia: jeho syn Aminadab, jeho syn Kore, jeho syn Asir,
+8 jeho syn Elkana, jeho syn Abiasaf, jeho syn Asir,
 9 jeho syn Tahat, jeho syn Uriel, jeho syn Oziáš, jeho syn Šaul.
+10 Elkanovi synovia: Amasai, Achimot
+11 a Elkana. Elka-Enovi synovia: jeho syn Sofai, jeho syn Nahat,
 12 jeho syn Eliab, jeho syn Jeroham, jeho syn Elkana …
 13 Samuelovi synovia: … , prvorodený, a druhý Abiáš.
+14 Merariho synovia: Moholi, jeho syn Lobni, jeho syn Semei, jeho syn Oza,
 15 jeho syn Samaa, jeho syn Hagiáš, jeho syn Asaiáš.
 16 A toto sú tí, ktorých Dávid ustanovil na spev v Pánovom dome odvtedy, keď sa archa dostala na pokoj.
 17 Konali službu spevu pred stanom zhromaždenia, kým Šalamún nepostavil v Jeruzaleme Pánov dom. Svoju službu zastávali podľa svojich ustanovení.
 18 Službu konali títo a ich synovia: Z Kaátových synov: spevák Heman, syn Joela, syna Samuela,
+19 syna Elkanu, syna Jerohama, syna Eliela, syna Tohuho,
+20 syna Sufa, syna Elkanu, syna Mahata, syna Amasaiho,
 21 syna Elkanu, syna Johela, syna Azariáša, syna Sofoniáša,
+22 syna Tahata, syna Asira, syna Abiasafa, syna Koreho,
 23 syna Isaára, syna Kaáta, syna Léviho, syna Izraela.
 24 A jeho brat Asaf, ktorý mu stál po pravici; Asaf, syn Barachiáša, syna Samau,
 25 syna Michaela, syna Basaiáša, syna Melchiáša,
+26 syna Atanaiho, syna Zaru, syna Adaiho,
+27 syna Etana, syna Zamu, syna Semeia,
 28 syna Jeta, syna Gersona, syna Léviho.
 29 Merariho synovia, ich bratia, po ľavej strane: Etan, syn Kusiho, syna Abdiho, syna Malocha,
 30 syna Hasabiáša, syna Amasiáša, syna Helkiáša,
+31 syna Amasaiho, syna Boniho, syna Somera,
 32 syna Moholiho, syna Musiho, syna Merariho, syna Léviho.
 33 Ich bratia leviti boli ustanovení na rozličnú službu v stánku Pánovho domu:
 34 Áron a jeho synovia pálili na oltári zápalných obiet a na kadidlovom oltári, konali rozličné služby vo veľsvätyni a mali uzmierovať za Izrael podľa všetkého toho, čo prikázal Pánov služobník Mojžiš.
@@ -28,6 +40,8 @@
 40 V júdskej krajine im dali Hebron s okolitými pastvinami,
 41 ale pole, mestá a jeho dvory dali Jefonovmu synovi Kalebovi.
 42 Áronovým synom dali útočištné mesto Hebron, ďalej Lobnu a jej pastviny, Jeter a Estemo s jeho pastvinami,
+43 Helon a jeho pastviny, Dabir a jeho pastviny,
+44 Asan a jeho pastviny, Betsemes a jeho pastviny.
 45 Z Benjamínovho kmeňa Gebu a jej pastviny, Almat a jeho pastviny, Anatot a jeho pastviny: všetkých ich miest bolo trinásť, podľa ich rodov.
 46 A Kaátovým synom, ktorí ešte ostali z rodov kmeňa, (určili) z polovice Manassesovho kmeňa žrebom desať miest.
 47 Gersonovým synom podľa ich rodov z Isacharovho kmeňa, z Aserovho kmeňa, z Neftaliho kmeňa a z Manassesovho kmeňa v Bášane trinásť miest.
@@ -37,12 +51,16 @@
 51 Podielové mestá tých, čo patrili k rodom Kaátových synov, boli z Efraimovho kmeňa.
 52 Dali im útočištné mesto Sichem a jeho pastviny na Efraimských vrchoch, potom Gazer a jeho pastviny,
 53 Jekmaám a jeho pastviny, Bethoron a jeho pastviny,
+54 Helon a jeho pastviny, Getremon a jeho pastviny.
 55 A z polovice Manassesovho kmeňa Aner a jeho pastviny a Balám a jeho pastviny ostatným rodom Kaátových synov.
 56 Gersonovým synom (dali) z rodov polovice Manassesovho kmeňa Golan v Bášane a jeho pastviny, Aštarot a jeho pastviny,
 57 z Isacharovho kmeňa Kedeš a jeho pastviny, Daberet a jeho pastviny,
+58 Ramot a jeho pastviny, Anem a jeho pastviny,
 59 z Aserovho kmeňa Masal a jeho pastviny, Abdon a jeho pastviny,
+60 Hukak a jeho pastviny a Rohob a jeho pastviny,
 61 z Neftaliho kmeňa Kedeš v Galilei a jeho pastviny, Hamon a jeho pastviny a Karjataim a jeho pastviny.
 62 Ostatným Merariho synom zo Zabulonovho kmeňa Remono a jeho pastviny a Tábor a jeho pastviny.
 63 V Zajordánsku naproti Jerichu, východne od Jordána z Rubenovho kmeňa Bosor na pustatine a jeho pastviny, Jasu a jej pastviny,
 64 Kademot a jeho pastviny a Mefaát a jeho pastviny.
 65 A z Gadovho kmeňa Ramot v Galaáde a jeho pastviny, Manaim a jeho pastviny,
+66 Hesebon a jeho pastviny a Jezer a jeho pastviny.

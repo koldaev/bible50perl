@@ -2,6 +2,8 @@
 2 e tutte queste benedizioni verranno su te e si compiranno per te, se darai ascolto alla voce dell’Eterno, dell’Iddio tuo:
 3 Sarai benedetto nelle città e sarai benedetto nella campagna.
 4 Benedetto sarà il frutto delle tue viscere, il frutto del tuo suolo e il frutto del tuo bestiame; benedetti i parti delle tue vacche e delle tue pecore.
+5 Benedetti saranno il tuo paniere e la tua madia.
+6 Sarai benedetto al tuo entrare e benedetto al tuo uscire.
 7 L’Eterno farà sì che i tuoi nemici, quando si leveranno contro di te, siano sconfitti dinanzi a te; usciranno contro a te per una via, e per sette vie fuggiranno d’innanzi a te.
 8 L’Eterno ordinerà alla benedizione d’esser teco ne’ tuoi granai e in tutto ciò a cui metterai mano; e ti benedirà nel paese che l’Eterno, il tuo Dio, ti dà.
 9 L’Eterno ti stabilirà perché tu gli sia un popolo santo, come t’ha giurato, se osserverai i comandamenti dell’Eterno, ch’è il tuo Dio, e se camminerai nelle sue vie;
@@ -12,7 +14,9 @@
 14 e se non devierai né a destra né a sinistra da alcuna delle cose che oggi vi comando, per andar dietro ad altri dèi e per servirli.
 15 Ma se non ubbidisci alla voce dell’Eterno, del tuo Dio, se non hai cura di mettere in pratica tutti i suoi comandamenti e tutte le sue leggi che oggi ti do, avverrà che tutte queste maledizioni verranno su te e si compiranno per te:
 16 Sarai maledetto nella città e sarai maledetto nella campagna.
+17 Maledetti saranno il tuo paniere e la tua madia.
 18 Maledetto sarà il frutto delle tue viscere, il frutto del tuo suolo; maledetti i parti delle tue vacche e delle tue pecore.
+19 Sarai maledetto al tuo entrare e maledetto al tuo uscire.
 20 L’Eterno manderà contro di te la maledizione, lo spavento e la minaccia in ogni cosa a cui metterai mano e che farai, finché tu sia distrutto e tu perisca rapidamente, a motivo della malvagità delle tue azioni per la quale m’avrai abbandonato.
 21 L’Eterno farà sì che la peste s’attaccherà a te, finch’essa t’abbia consumato nel paese nel quale stai per entrare per prenderne possesso.
 22 L’Eterno ti colpirà di consunzione, di febbre, d’infiammazione, d’arsura, di aridità, di carbonchio e di ruggine, che ti perseguiteranno finché tu sia perito.
@@ -27,6 +31,7 @@
 31 Il tuo bue sarà ammazzato sotto i tuoi occhi, e tu non ne mangerai; il tuo asino sarà portato via in tua presenza, e non ti sarà reso; le tue pecore saranno date ai tuoi nemici, e non vi sarà chi ti soccorra.
 32 I tuoi figliuoli e le tue figliuole saran dati in balìa d’un altro popolo; i tuoi occhi lo vedranno e languiranno del continuo dal rimpianto di loro, e la tua mano sarà senza forza.
 33 Un popolo, che tu non avrai conosciuto, mangerà il frutto della tua terra e di tutta la tua fatica, e sarai del continuo oppresso e schiacciato.
+34 E sarai fuor di te per le cose che vedrai con gli occhi tuoi.
 35 L’Eterno ti colpirà sulle ginocchia e sulle cosce con un’ulcera maligna, della quale non potrai guarire; ti colpirà dalle piante de’ piedi alla sommità del capo.
 36 L’Eterno farà andare te e il tuo re che avrai costituito sopra di te, verso una nazione che né tu né i padri tuoi avrete conosciuta; e quivi servirai a dèi stranieri, al legno e alla pietra;
 37 e diverrai lo stupore, il proverbio e la favola di tutti i popoli fra i quali l’Eterno t’avrà condotto.
@@ -34,9 +39,11 @@
 39 Pianterai vigne, le coltiverai, ma non berrai vino ne coglierai uva, perché il verme le roderà.
 40 Avrai degli ulivi in tutto il tuo territorio ma non t’ungerai d’olio, perché i tuoi ulivi perderanno il loro frutto.
 41 Genererai figliuoli e figliuole, ma non saranno tuoi perché andranno in schiavitù.
+42 Tutti i tuoi alberi e il frutto del tuo suolo saran preda alla locusta.
 43 Lo straniero che sarà in mezzo a te salirà sempre più in alto al disopra di te, e tu scenderai sempre più in basso.
 44 Egli presterà a te, e tu non presterai a lui; egli sarà alla testa, e tu in coda.
 45 Tutte queste maledizioni verranno su te, ti perseguiteranno e ti raggiungeranno, finché tu sia distrutto, perché non avrai ubbidito alla voce dell’Eterno, del tuo Dio, osservando i comandamenti e le leggi ch’egli t’ha dato.
+46 Esse saranno per te e per la tua progenie come un segno e come un prodigio, in perpetuo.
 47 E perché non avrai servito all’Eterno, al tuo Dio, con gioia e di buon cuore in mezzo all’abbondanza d’ogni cosa,
 48 servirai ai tuoi nemici che l’Eterno manderà contro di te, in mezzo alla fame, alla sete, alla nudità e alla mancanza d’ogni cosa; ed essi ti metteranno un giogo di ferro sul collo, finché t’abbiano distrutto.
 49 L’Eterno farà muover contro di te, da lontano, dalle estremità della terra, una nazione, pari all’aquila che vola, una nazione della quale non intenderai la lingua,

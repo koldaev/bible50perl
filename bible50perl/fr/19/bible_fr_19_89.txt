@@ -18,13 +18,16 @@
 18 (89:19) Car l'Éternel est notre bouclier, Le Saint d'Israël est notre roi. 
 19 (89:20) Alors tu parlas dans une vision à ton bien-aimé, Et tu dis: J'ai prêté mon secours à un héros, J'ai élevé du milieu du peuple un jeune homme; 
 20 (89:21) J'ai trouvé David, mon serviteur, Je l'ai oint de mon huile sainte. 
+21 (89:22) Ma main le soutiendra, Et mon bras le fortifiera. 
 22 (89:23) L'ennemi ne le surprendra pas, Et le méchant ne l'opprimera point; 
 23 (89:24) J'écraserai devant lui ses adversaires, Et je frapperai ceux qui le haïssent. 
 24 (89:25) Ma fidélité et ma bonté seront avec lui, Et sa force s'élèvera par mon nom. 
+25 (89:26) Je mettrai sa main sur la mer, Et sa droite sur les fleuves. 
 26 (89:27) Lui, il m'invoquera: Tu es mon père, Mon Dieu et le rocher de mon salut! 
 27 (89:28) Et moi, je ferai de lui le premier-né, Le plus élevé des rois de la terre. 
 28 (89:29) Je lui conserverai toujours ma bonté, Et mon alliance lui sera fidèle; 
 29 (89:30) Je rendrai sa postérité éternelle, Et son trône comme les jours des cieux. 
+30 (89:31) Si ses fils abandonnent ma loi Et ne marchent pas selon ses ordonnances, 
 31 (89:32) S'ils violent mes préceptes Et n'observent pas mes commandements, 
 32 (89:33) Je punirai de la verge leurs transgressions, Et par des coups leurs iniquités; 
 33 (89:34) Mais je ne lui retirerai point ma bonté Et je ne trahirai pas ma fidélité, 
@@ -37,11 +40,13 @@
 40 (89:41) Tu as détruit toutes ses murailles, Tu as mis en ruines ses forteresses. 
 41 (89:42) Tous les passants le dépouillent; Il est un objet d'opprobre pour ses voisins. 
 42 (89:43) Tu as élevé la droite de ses adversaires, Tu as réjoui tous ses ennemis; 
+43 (89:44) Tu as fait reculer le tranchant de son glaive, Et tu ne l'as pas soutenu dans le combat. 
 44 (89:45) Tu as mis un terme à sa splendeur, Et tu as jeté son trône à terre; 
 45 (89:46) Tu as abrégé les jours de sa jeunesse, Tu l'as couvert de honte. Pause. 
 46 (89:47) Jusques à quand, Éternel! te cacheras-tu sans cesse, Et ta fureur s'embrasera-t-elle comme le feu? 
 47 (89:48) Rappelle-toi ce qu'est la durée de ma vie, Et pour quel néant tu as créé tous les fils de l'homme. 
 48 (89:49) Y a-t-il un homme qui puisse vivre et ne pas voir la mort, Qui puisse sauver son âme du séjour des morts? Pause. 
 49 (89:50) Où sont, Seigneur! tes bontés premières, Que tu juras à David dans ta fidélité? 
+50 (89:51) Souviens-toi, Seigneur! de l'opprobre de tes serviteurs, Souviens-toi que je porte en mon sein tous les peuples nombreux; 
 51 (89:52) Souviens-toi des outrages de tes ennemis, ô Éternel! De leurs outrages contre les pas de ton oint. 
 52 (89:53) Béni soit à jamais l'Éternel! Amen! Amen! 

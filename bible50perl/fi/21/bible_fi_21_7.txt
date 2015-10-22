@@ -2,6 +2,7 @@
 2 (H7:3) Parempi kuin pitotaloon on mennä surutaloon, sillä siinä on kaikkien ihmisten loppu, ja elossa oleva painaa sen mieleensä.
 3 (H7:4) Suru on parempi kuin nauru, sillä sydämelle on hyväksi, että kasvot ovat murheelliset.
 4 (H7:5) Viisaitten sydän on surutalossa, tyhmien sydän ilotalossa.
+5 (H7:6) Parempi on kuulla viisaan nuhdetta, kuin olla kuulemassa tyhmien laulua;
 6 (H7:7) sillä niinkuin orjantappurain rätinä padan alla, on tyhmän nauru. Ja sekin on turhuutta.
 7 (H7:8) Sillä väärä voitto tekee viisaan hulluksi, ja lahja turmelee sydämen.
 8 (H7:9) Asian loppu on parempi kuin sen alku, ja pitkämielinen on parempi kuin korkeamielinen.

@@ -7,6 +7,7 @@
 7 Oma kitsikuses ma hüüdsin Issandat ja kisendasin oma Jumala poole. Ta kuulis mu häält oma templist ja mu appihüüd jõudis ta palge ette, ta kõrvu. 
 8 Siis värises ja vabises maa, mägede alused kõikusid ja põrusid üksteise vastu, sest ta viha süttis. 
 9 Suits tõusis ta sõõrmeist ja tuli ta suust oli neelamas, tulised söed lõõmasid tema seest. 
+10 Ta vajutas taeva ja tuli maha, ja ta jalge all oli tume pilv. 
 11 Ta sõitis keerubi peal ja lendas ning ta hõljus tuule tiibadel. 
 12 Ta pani enesele katteks pimeduse, majaks enda ümber mustavad veed, paksud pilved. 
 13 Kumast lõhkesid pilved ta ees, sadas rahet ja tuliseid süsi. 
@@ -20,16 +21,20 @@
 21 Issand teeb mulle head mu õigust mööda, ta tasub mulle mu käte puhtust mööda. 
 22 Sest ma hoidsin Issanda teid ega taganenud õelasti Jumalast. 
 23 Sest kõik ta määrused on mu ees, ma ei ole hüljanud tema seadlusi. 
+24 Ma olin laitmatu tema ees ja hoidusin pahateost. 
 25 Seepärast Issand tasus mulle mu õigust mööda, mu käte puhtust mööda tema silma ees. 
+26 Heldele sa osutad heldust, laitmatu mehe vastu sa oled laitmatu; 
 27 puhta vastu sa oled puhas ja kõvera vastu sa osutud keeruliseks. 
 28 Sest sina päästad viletsa rahva, aga alandad suurelised silmad.  
 29 Sest sina süütad mu lambi; Issand, mu Jumal, valgustab mu pimedust. 
 30 Sest sinuga ma jooksen väehulga kallale, oma Jumalaga ma hüppan üle müüri. 
 31 Jumala tee on laitmatu, Issanda kõne on sulatatud puhtaks; tema on kilbiks kõigile, kes tema juures pelgupaika otsivad.  
+32 Sest kes on Jumal peale Issanda? Ja kes muu on kalju, kui mitte meie Jumal? 
 33 See on Jumal, kes paneb rammu mu vööle ja teeb laitmatuks mu tee. 
 34 Ta teeb mu jalad emahirve jalgade sarnaseks ja paneb mind seisma mu kõrgustikele. 
 35 Ta õpetab mu käsi sõdima ja mu käsivart vaskambu vinnastama. 
 36 Sa annad mulle oma päästekilbi, su parem käsi toetab mind, su abi teeb mind suureks. 
+37 Sa teed maa avaraks mu sammule, et mu luupeksed ei libiseks. 
 38 Ma tahan jälitada oma vaenlasi ja nad kätte saada ega taha tulla tagasi enne, kui olen teinud neile lõpu. 
 39 Ma tahan nad purustada, nõnda et nad ei saa tõusta, vaid langevad mu jalge alla. 
 40 Sa vöötad mind rammuga sõja jaoks, sa surud maha mu alla need, kes tõusevad mu vastu. 
@@ -44,6 +49,7 @@
 49 Sina, kes mind päästad mu vaenlaste käest, sa ülendad mu mulle vastuhakkajate üle ja vabastad mu vägivallameeste käest. 
 50 Sellepärast ma tahan, Issand, sind tänada rahvaste seas ja laulda kiitust su nimele. 
 51 Sina teed suureks oma kuninga võidud ning osutad heldust oma võitule, Taavetile ja tema soole igavesti!'
+1 Taaveti laul ja lugu.  
 2 Kindel on mu süda, oh Jumal! Ma tahan laulda ja mängida, samuti mu au. 
 3 Virgu, naabel, virgu, kannel, ma äratan üles koidu! 
 4 Issand, ma tahan sind tänada rahvaste seas, ja tahan sulle mängida rahvahõimude keskel. 
@@ -51,7 +57,9 @@
 6 Jumal, ülenda ennast üle taevaste ja üle kogu ilmamaa olgu su auhiilgus!  
 7 Et pääseksid su armsad, selleks aita oma parema käega ja vasta meile! 
 8 Jumal on rääkinud oma pühamus: Ma tahan võidutseda, jaotada Sekemi ja mõõta ära Sukkoti oru. 
+9 Gilead on minu ja Manasse on minu, Efraim on mu pea kaitse. Juuda on mu valitsuskepp, 
 10 Moab on mu pesukauss, Edomi peale ma viskan oma sandaali. Vilistimaa, hõiska minule! 
+11 Kes viib mu kindlasse linna? Kes saadab mind Edomini?  
 12 Eks sina, Jumal, tõuganud meid ära, ega sina, Jumal, läinudki välja meie sõjaväega?! 
 13 Anna meile abi kitsikuses, sest tühine on inimeste abi! 
 14 Jumalaga me teeme vägevaid tegusid ja tema tallab maha meie rõhujad.

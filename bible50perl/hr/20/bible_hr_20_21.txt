@@ -14,6 +14,7 @@
 14 Potajan dar utišava srdžbu, a poklon ispod ruke i žestoku jarost.
 15 Sud pravičan radost je pravedniku a užas zločincima.
 16 Čovjek koji skreće s puta razbora počivat će u zboru mrtvačkom.
+17 Tko ljubi veselje, postaje siromah, i tko ljubi vino i mirisno ulje, ne obogati se.
 18 Opak čovjek otkup je za pravednika, i bezbožnik stupa na mjesto pravednog.
 19 Bolje je živjeti u pustinji nego sa ženom svadljivom i gnjevljivom.
 20 Krasno je blago i ulje u stanu mudroga, a bezuman ih čovjek rasipa.
@@ -26,3 +27,5 @@
 27 Mrska je žrtva opakih, osobito kad se požudno prinosi.
 28 Lažljiv svjedok propada, a čovjek koji sluša, opet će govoriti.
 29 Opaki pokazuju drsko lice, a poštenjak učvršćuje put svoj.
+30 Nema mudrosti i nema razuma i nema savjeta protiv Jahve.
+31 Konj se oprema za dan boja, ali Jahve daje pobjedu.

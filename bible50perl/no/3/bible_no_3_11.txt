@@ -1,3 +1,4 @@
+1 Og Herren talte til Moses og Aron og sa til dem: 
 2 Tal til Israels barn og si: Dette er de dyr som I kan ete av alle firføtte dyr på jorden: 
 3 Alle de firføtte dyr som har klover og har klovene kløvd helt igjennem, og som tygger drøv, dem kan I ete. 
 4 Det er bare disse I ikke skal ete blandt dem som tygger drøv, og blandt dem som har klover: kamelen, for den tygger vel drøv, men den har ikke klover, den skal være uren for eder, 
@@ -5,14 +6,20 @@
 6 og haren, for den tygger vel drøv, men har ikke klover, den skal være uren for eder, 
 7 og svinet, for det har vel klover og har klovene kløvd helt igjennem, men det tygger ikke drøv, det skal være urent for eder. 
 8 Av disse dyrs kjøtt skal I ikke ete, og ved deres døde kropper skal I ikke røre; de skal være urene for eder. 
+9 Dette kan I ete av alt det som er i vannet: Alt det i vannet - i havene og i elvene - som har finner og skjell, det kan I ete. 
 10 Men det som ikke har finner og skjell av alt det som finnes i havene og i elvene, av alt det som vrimler i vannet, og av alt levende som er i vannet, det skal være en vederstyggelighet for eder. 
 11 En vederstyggelighet skal de være for eder; av deres kjøtt skal I ikke ete, og deres døde kropper skal I holde for en vederstyggelighet. 
 12 Alt i vannet som ikke har finner og skjell, det skal være en vederstyggelighet for eder. 
 13 Dette er de fugler I skal holde for en vederstyggelighet, de skal ikke etes, de er en vederstyggelighet: landørnen og havørnen og fiskeørnen 
+14 og glenten, og falken efter sine arter, 
+15 alle ravner efter sine arter, 
 16 og strutsen og gjøken og måken, og høken efter sine arter, 
+17 og kattuglen og dykkeren og hubroen 
+18 og nattravnen og pelikanen og gribben 
 19 og storken, og heiren efter sine arter, og hærfuglen og flaggermusen. 
 20 Alt kryp som har vinger og går på fire føtter, skal være en vederstyggelighet for eder. 
 21 Av alt kryp som har vinger og går på fire føtter, må I bare ete dem som har springben ovenfor sine føtter til å hoppe på marken med. 
+22 Av dem kan I ete: arbe efter sine arter og solam efter sine arter og hargol efter sine arter og hagab efter sine arter. 
 23 Men alt annet kryp som har vinger og fire føtter, skal være en vederstyggelighet for eder. 
 24 Ved disse dyr blir I urene; enhver som rører ved deres døde kropper, skal være uren til om aftenen, 
 25 og enhver som har båret slik en død kropp, skal tvette sine klær og være uren til om aftenen. 
@@ -20,9 +27,11 @@
 27 Og alle firføtte dyr som går på labber, skal være urene for eder; enhver som rører ved deres døde kropper, skal være uren til om aftenen, 
 28 og den som har båret deres døde kropper, skal tvette sine klær og være uren til om aftenen; de skal være urene for eder. 
 29 Og blandt de smådyr som kryper på jorden, skal disse være de ureneste for eder: muldvarpen og musen og alle slags firben, 
+30 og pinnsvinet og jordrotten og padden og sneglen og kameleonen. 
 31 Disse skal være de ureneste for eder blandt alle smådyr; enhver som rører ved dem når de er døde, skal være uren til om aftenen. 
 32 Og alt det som noget av disse dyr faller på når de er døde, blir urent, enten det er et trekar eller klær eller skinn eller sekker, eller hvad redskap det kan være som det gjøres noget arbeid med; det skal legges i vann og være urent til om aftenen; da er det rent. 
 33 Og om noget av dem faller i et lerkar, så blir alt det som er i karet urent, og karet selv skal I slå i stykker; 
+34 all mat som folk eter, og som tillages med vann, blir da uren, og alt drikke som folk drikker, blir urent, hvad kar det enn er i. 
 35 Og alt det som slik en død kropp faller på, blir urent; enten det er ovn eller gryte, skal de brytes i stykker, de er urene og skal være urene for eder. 
 36 Bare kilder og brønner som det samler sig vann i, blir like rene; men den som rører ved deres døde kropper, blir uren. 
 37 Og om slik en død kropp faller på korn som skal såes, er kornet like rent; 

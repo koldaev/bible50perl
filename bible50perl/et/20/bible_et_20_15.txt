@@ -1,15 +1,19 @@
 1 Rahulik vastus vaigistab raevu, aga haavav sõna õhutab viha. 
+2 Tarkade keel teeb tundmise heaks, aga alpide suu laseb voolata rumalust. 
 3 Issanda silmad on igas paigas,  valvates kurje ja häid. 
+4 Keele mahedus on elupuu, aga selle valelikkus murrab vaimu. 
 5 Meeletu laidab oma isa õpetust, aga kes noomimist tähele paneb, teeb targasti. 
 6 Õige kojas on palju vara, aga õela saak jääb tarvitamata. 
 7 Tarkade huuled külvavad teadmisi, aga alpide süda ei tee nõnda. 
 8 Õelate ohver on Issandale jäle, aga õigete palve on temale meelepärane. 
 9 Õela tee on Issanda meelest jäle, aga ta armastab õigusenõudjat. 
+10 Rajalt lahkuja karistus on karm, noomimise vihkaja peab surema. 
 11 Surmavald ja kadupaik on lahti Issanda ees, saati siis inimlaste südamed. 
 12 Pilkaja ei armasta, et teda noomitakse, tarkade juurde ta ei lähe. 
 13 Rõõmus süda teeb näo rõõmsaks, aga südamevalus pekstakse vaim rusuks. 
 14 Mõistlik süda otsib tunnetust,  aga alpide suu leiab toitu rumalusest. 
 15 Viletsal on kõik päevad pahad, aga rõõmsal südamel on alati pidu. 
+16 Parem pisut Issanda kartuses kui suur varandus ja rahutus selle juures. 
 17 Parem taimetoit armastusega  kui nuumhärg, mille juures on vihkamine. 
 18 Raevutsev mees õhutab tüli, aga pikameelne vaigistab riidu. 
 19 Laisa tee on nagu kibuvitsahekk, aga õigete rada on sillutatud. 
@@ -26,3 +30,4 @@
 30 Silmade särast rõõmustab süda, hea sõnum kosutab luid-liikmeid. 
 31 Kõrv, mis kuulab eluks vajalikku noomimist, jääb tarkade seltsi. 
 32 Kes ei hooli õpetusest, põlgab oma hinge, aga kes kuulab noomimist, saab targa südame. 
+33 Issanda kartus on tarkuse kool, aga enne au on alandus.

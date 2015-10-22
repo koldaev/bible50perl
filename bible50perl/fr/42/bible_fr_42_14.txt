@@ -17,6 +17,7 @@
 17 A l'heure du souper, il envoya son serviteur dire aux conviés: Venez, car tout est déjà prêt. 
 18 Mais tous unanimement se mirent à s'excuser. Le premier lui dit: J'ai acheté un champ, et je suis obligé d'aller le voir; excuse-moi, je te prie. 
 19 Un autre dit: J'ai acheté cinq paires de boeufs, et je vais les essayer; excuse-moi, je te prie. 
+20 Un autre dit: Je viens de me marier, et c'est pourquoi je ne puis aller. 
 21 Le serviteur, de retour, rapporta ces choses à son maître. Alors le maître de la maison irrité dit à son serviteur: Va promptement dans les places et dans les rues de la ville, et amène ici les pauvres, les estropiés, les aveugles et les boiteux. 
 22 Le serviteur dit: Maître, ce que tu as ordonné a été fait, et il y a encore de la place. 
 23 Et le maître dit au serviteur: Va dans les chemins et le long des haies, et ceux que tu trouveras, contrains-les d'entrer, afin que ma maison soit remplie. 
@@ -28,4 +29,7 @@
 29 de peur qu'après avoir posé les fondements, il ne puisse l'achever, et que tous ceux qui le verront ne se mettent à le railler, 
 30 en disant: Cet homme a commencé à bâtir, et il n'a pu achever? 
 31 Ou quel roi, s'il va faire la guerre à un autre roi, ne s'assied d'abord pour examiner s'il peut, avec dix mille hommes, marcher à la rencontre de celui qui vient l'attaquer avec vingt mille? 
+32 S'il ne le peut, tandis que cet autre roi est encore loin, il lui envoie une ambassade pour demander la paix. 
 33 Ainsi donc, quiconque d'entre vous ne renonce pas à tout ce qu'il possède ne peut être mon disciple. 
+34 Le sel est une bonne chose; mais si le sel perd sa saveur, avec quoi l'assaisonnera-t-on? 
+35 Il n'est bon ni pour la terre, ni pour le fumier; on le jette dehors. Que celui qui a des oreilles pour entendre entende. 

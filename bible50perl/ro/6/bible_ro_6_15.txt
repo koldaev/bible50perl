@@ -19,15 +19,20 @@
 19 Ea a răspuns: 'Fă-mi un dar, căci mi-ai dat un pămînt secetos; dă-mi şi izvoare de apă.' Şi el i -a dat izvoarele de sus şi izvoarele de jos.
 20 Aceasta a fost moştenirea fiilor lui Iuda, după familiile lor.
 21 Cetăţile aşezate în ţinutul dela miazăzi, la marginea cea mai depărtată a seminţiei fiilor lui Iuda, spre hotarul Edomului, erau: Cabţeel, Eder, Iagur,
+22 China, Dimona, Adada,
 23 Chedeş, Haţor, Itnan,
+24 Zif, Telem, Bealot,
 25 Haţor-Hadata, Cheriot-Heţron, care este Haţor,
 26 Amam, Şema, Molada,
 27 Haţar-Gada, Heşmon, Bet-Palet,
 28 Haţar-Şual, Beer-Şeba, Biziotia,
 29 Baala, Iim, Aţem,
+30 Eltolad, Chesil, Horma,
 31 Ţiclag, Madmana, Sansana,
 32 Lebaot, Şilhim, Ain, şi Rimon. Toate cetăţile: douăzeci şi nouă, împreună cu satele lor.
 33 În cîmpie: Eştaol, Ţorea, Aşna,
+34 Zanoah, En-Ganim, Tapuah, Enam,
+35 Iarmut, Adulam, Soco, Azeca,
 36 Şaaraim, Aditaim, Ghedera, şi Ghederotaim; patruzeci de cetăţi, şi satele lor.
 37 Ţenan, Hadaşa, Migdal-Gad,
 38 Dilean, Miţpe, Iocteel,
@@ -41,10 +46,14 @@
 46 dela Ecron şi la apus, toate cetăţile de lîngă Asdod, şi satele lor,
 47 Asdod, cetăţile şi satele lui; Gaza, cetăţile şi satele ei, pînă la pîrîul Egiptului, şi la marea cea mare, care slujeşte ca hotar.
 48 În munte: Şamir, Iatir, Soco,
+49 Dana, Chiriat-Sana, care este Debirul,
 50 Anab, Eştemo, Anim,
 51 Gosen, Holon, şi Ghilo, unsprezece cetăţi şi satele lor.
 52 Arab, Duma, Eşean,
+53 Janum, Bet-Tapuah, Afeca,
 54 Humta, Chiriat-Arba, care este Hebronul, şi Ţior; nouă cetăţi, şi satele lor.
+55 Maon, Carmel, Zif, Iuta,
+56 Iizreel, Iocdeam, Zanoah,
 57 Cain, Ghibea, şi Timna; zece cetăţi şi satele lor.
 58 Halhul, Bet-Ţur, Ghedor,
 59 Maarat, Bet-Anot, şi Eltecon; şase cetăţi şi satele lor.

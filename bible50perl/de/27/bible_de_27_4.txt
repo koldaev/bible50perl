@@ -1,11 +1,13 @@
 1 (3-31) König Nebukadnezar wünscht allen Völkern, Stämmen und Zungen, die auf der ganzen Erde wohnen, großen Frieden!
 2 (3-32) Es hat mir gefallen, die Zeichen und Wunder kundzutun, die der höchste Gott an mir getan hat.
 3 (3-33) Wie groß sind seine Zeichen und wie gewaltig seine Wunder! Sein Reich ist ein ewiges Reich, und seine Herrschaft währt für und für!
+4 (4-1) Ich, Nebukadnezar, lebte sorglos in meinem Hause und gesund in meinem Palast.
 5 (4-2) Da hatte ich einen Traum, der mich erschreckte, und die Gedanken auf meinem Lager und die Gesichte meines Hauptes ängstigten mich.
 6 (4-3) Und es ward von mir Befehl gegeben, alle Weisen Babels vor mich zu bringen, damit sie mir des Traumes Deutung kundtäten.
 7 (4-4) Alsbald kamen die Schriftkundigen, Wahrsager, Chaldäer und Sterndeuter herbei, und ich erzählte vor ihnen den Traum; aber sie konnten mir die Deutung nicht kundtun,
 8 (4-5) bis zuletzt Daniel vor mich kam, der Beltsazar heißt nach dem Namen meines Gottes, und in welchem der Geist der heiligen Götter ist; vor dem erzählte ich meinen Traum:
 9 (4-6) Beltsazar, du Oberster der Schriftkundigen, von dem ich weiß, daß der Geist der heiligen Götter in dir ist und daß kein Geheimnis dir Mühe macht, vernimm das Traumgesicht, das ich gesehen habe, und sage mir, was es bedeutet!
+10 (4-7) Das sind aber die Gesichte meines Hauptes auf meinem Lager: Ich schaute, und siehe, es stand ein sehr hoher Baum mitten auf der Erde.
 11 (4-8) Der Baum war groß und stark, und sein Wipfel reichte bis an den Himmel, und er wurde gesehen bis ans Ende der ganzen Erde.
 12 (4-9) Sein Laub war schön und seiner Früchte viel, und Nahrung für alle fand sich an ihm; unter ihm suchten Schatten die Tiere des Feldes, und die Vögel des Himmels wohnten auf seinen Zweigen, und von ihm nährte sich alles Fleisch.
 13 (4-10) Ich sah in den Gesichten meines Hauptes auf meinem Lager und siehe, ein heiliger Wächter fuhr vom Himmel herab;

@@ -9,9 +9,12 @@
 9 y piedras de ónice y piedras de engaste para el efod y para el pectoral. 
 10 Todo sabio de corazón de entre vosotros vendrá y hará todas las cosas que Jehová ha mandado: 
 11 el tabernáculo, su tienda, su cubierta, sus corchetes, sus tablas, sus barras, sus columnas y sus basas; 
+12 el arca y sus varas, el propiciatorio, el velo de la tienda; 
 13 la mesa y sus varas, y todos sus utensilios, y el pan de la proposición; 
 14 el candelero del alumbrado y sus utensilios, sus lámparas, y el aceite para el alumbrado; 
 15 el altar del incienso y sus varas, el aceite de la unción, el incienso aromático, la cortina de la puerta para la entrada del tabernáculo; 
+16 el altar del holocausto, su enrejado de bronce y sus varas, y todos sus utensilios, y la fuente con su base; 
+17 las cortinas del atrio, sus columnas y sus basas, la cortina de la puerta del atrio; 
 18 las estacas del tabernáculo, y las estacas del atrio y sus cuerdas; 
 19 las vestiduras del servicio para ministrar en el santuario, las sagradas vestiduras de Aarón el sacerdote, y las vestiduras de sus hijos para servir en el sacerdocio. 
 20 Y salió toda la congregación de los hijos de Israel de delante de Moisés. 
@@ -27,5 +30,6 @@
 30 Y dijo Moisés a los hijos de Israel: Mirad, Jehová ha nombrado a Bezaleel hijo de Uri, hijo de Hur, de la tribu de Judá; 
 31 y lo ha llenado del Espíritu de Dios, en sabiduría, en inteligencia, en ciencia y en todo arte, 
 32 para proyectar diseños, para trabajar en oro, en plata y en bronce, 
+33 y en la talla de piedras de engaste, y en obra de madera, para trabajar en toda labor ingeniosa. 
 34 Y ha puesto en su corazón el que pueda enseñar, así él como Aholiab hijo de Ahisamac, de la tribu de Dan; 
 35 y los ha llenado de sabiduría de corazón, para que hagan toda obra de arte y de invención, y de bordado en azul, en púrpura, en carmesí, en lino fino y en telar, para que hagan toda labor, e inventen todo diseño. 

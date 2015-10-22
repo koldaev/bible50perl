@@ -9,7 +9,9 @@
 9 Ava oma suu, mõista õiglast kohut, tee õigust viletsale ja vaesele!
 10 Tubli naine on palju enam väärt kui pärlid. Kes leiab tema? 
 11 Ta mehe süda loodab tema peale ja tulust ei ole tal puudust. 
+12 Kogu oma eluaja teeb ta mehele head ja mitte kurja. 
 13 Ta muretseb villu ja linu ning töötab virkade kätega. 
+14 Ta on kaupmehe laevade sarnane: ta toob oma leiva kaugelt. 
 15 Ta tõuseb, kui on alles öö, ja annab oma perele rooga ja määratud osa oma teenijaile. 
 16 Ta soovib põldu ja hangib selle, oma käte viljast ta istutab viinamäe. 
 17 Ta paneb enesele vöö kõvasti vööle ja teeb oma käsivarred tugevaks. 
@@ -17,6 +19,7 @@
 19 Ta paneb oma käed koonlapuu külge ja ta pihud hoiavad kedervart. 
 20 Ta avab oma pihu viletsale ja sirutab vaestele mõlemad käed. 
 21 Ei ta karda lund oma pere pärast, sest kogu ta perel on kahekordsed riided. 
+22 Ta valmistab enesele vaipu, ta riietus on linane ja purpurpunane. 
 23 Ta mees on tuntud väravais, kui ta istub maa vanemate hulgas. 
 24 Ta valmistab ja müüb särke ning annab kaupmeestele vöösid. 
 25 Ta riided on tugevad ja ilusad ja ta vaatab rõõmsalt tulevikku. 

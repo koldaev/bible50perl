@@ -10,6 +10,7 @@
 10 et ils les ont données pour le champ du potier, comme le Seigneur me l'avait ordonné. 
 11 Jésus comparut devant le gouverneur. Le gouverneur l'interrogea, en ces termes: Es-tu le roi des Juifs? Jésus lui répondit: Tu le dis. 
 12 Mais il ne répondit rien aux accusations des principaux sacrificateurs et des anciens. 
+13 Alors Pilate lui dit: N'entends-tu pas de combien de choses ils t'accusent? 
 14 Et Jésus ne lui donna de réponse sur aucune parole, ce qui étonna beaucoup le gouverneur. 
 15 A chaque fête, le gouverneur avait coutume de relâcher un prisonnier, celui que demandait la foule. 
 16 Ils avaient alors un prisonnier fameux, nommé Barabbas. 
@@ -37,6 +38,7 @@
 38 Avec lui furent crucifiés deux brigands, l'un à sa droite, et l'autre à sa gauche. 
 39 Les passants l'injuriaient, et secouaient la tête, 
 40 en disant: Toi qui détruis le temple, et qui le rebâtis en trois jours, sauve-toi toi-même! Si tu es le Fils de Dieu, descends de la croix! 
+41 Les principaux sacrificateurs, avec les scribes et les anciens, se moquaient aussi de lui, et disaient: 
 42 Il a sauvé les autres, et il ne peut se sauver lui-même! S'il est roi d'Israël, qu'il descende de la croix, et nous croirons en lui. 
 43 Il s'est confié en Dieu; que Dieu le délivre maintenant, s'il l'aime. Car il a dit: Je suis Fils de Dieu. 
 44 Les brigands, crucifiés avec lui, l'insultaient de la même manière. 
@@ -54,9 +56,11 @@
 56 Parmi elles étaient Marie de Magdala, Marie, mère de Jacques et de Joseph, et la mère des fils de Zébédée. 
 57 Le soir étant venu, arriva un homme riche d'Arimathée, nommé Joseph, lequel était aussi disciple de Jésus. 
 58 Il se rendit vers Pilate, et demanda le corps de Jésus. Et Pilate ordonna de le remettre. 
+59 Joseph prit le corps, l'enveloppa d'un linceul blanc, 
 60 et le déposa dans un sépulcre neuf, qu'il s'était fait tailler dans le roc. Puis il roula une grande pierre à l'entrée du sépulcre, et il s'en alla. 
 61 Marie de Magdala et l'autre Marie étaient là, assises vis-à-vis du sépulcre. 
 62 Le lendemain, qui était le jour après la préparation, les principaux sacrificateurs et les pharisiens allèrent ensemble auprès de Pilate, 
 63 et dirent: Seigneur, nous nous souvenons que cet imposteur a dit, quand il vivait encore: Après trois jours je ressusciterai. 
 64 Ordonne donc que le sépulcre soit gardé jusqu'au troisième jour, afin que ses disciples ne viennent pas dérober le corps, et dire au peuple: Il est ressuscité des morts. Cette dernière imposture serait pire que la première. 
+65 Pilate leur dit: Vous avez une garde; allez, gardez-le comme vous l'entendrez. 
 66 Ils s'en allèrent, et s'assurèrent du sépulcre au moyen de la garde, après avoir scellé la pierre. 

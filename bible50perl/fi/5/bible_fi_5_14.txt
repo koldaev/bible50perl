@@ -10,6 +10,8 @@
 10 Mutta kaikista niistä, joilla ei ole eviä eikä suomuksia, älkää syökö mitään: ne olkoot teille saastaiset.
 11 Kaikkia puhtaita lintuja te saatte syödä.
 12 Mutta nämä ovat linnuista ne, joita älkää syökö: kotka, partakorppikotka, harmaa korppikotka,
+13 haarahaukka ja suohaukkalajit,
+14 kaikki kaarnelajit,
 15 kamelikurki, pääskynen, kalalokki, jalohaukkalajit,
 16 huuhkaja, kissapöllö, sarvipöllö,
 17 pelikaani, likakorppikotka, kalasääksi,

@@ -1,3 +1,4 @@
+1 Ja Herra puhui Moosekselle sanoen:
 2 Kosta israelilaisten puolesta midianilaisille. Senjälkeen sinut otetaan pois heimosi tykö.
 3 Niin Mooses puhui kansalle sanoen: Varustakaa joukostanne miehiä sotaan, ja lähtekööt he Midiania vastaan toimittamaan Herran koston Midianille.
 4 Tuhat miestä jokaisesta sukukunnasta, kaikista Israelin sukukunnista, lähettäkää sotaan.
@@ -18,11 +19,14 @@
 19 Mutta itse oleskelkaa leirin ulkopuolella seitsemän päivää. Jokainen teistä, joka on jonkun surmannut, ja jokainen teistä, joka on koskenut surmattuun, puhdistautukoon kolmantena ja seitsemäntenä päivänä, sekä te että teidän vankinne.
 20 Ja puhdistettakoon jokainen vaate ja jokainen nahkaesine ja kaikki, mikä on tehty vuohen karvoista, ja jokainen puuesine.
 21 Ja pappi Eleasar sanoi sotamiehille, jotka olivat menneet sotaan: Tämä on lakisäädös, jonka Herra antoi Moosekselle:
+22 Vain kulta, hopea, vaski, rauta, tina ja lyijy,
 23 kaikki, mikä tulta kestää, käyttäkää tulessa, niin se puhdistuu; puhdistettakoon se kuitenkin vielä puhdistusvedellä. Mutta mikä ei tulta kestä, käyttäkää se vedessä.
 24 Ja peskää vaatteenne seitsemäntenä päivänä, niin te puhdistutte; ja sitten tulkaa leiriin.
+25 Ja Herra puhui Moosekselle sanoen:
 26 Laskekaa, sinä ja pappi Eleasar ja kansan perhekuntien päämiehet, otetun saaliin määrä, ihmiset ja karja.
 27 Ja pane saalis kahtia soturien, sotaan lähteneiden, ja kaiken muun kansan kesken.
 28 Ja ota Herralle verona sotamiehiltä, sotaan lähteneiltä, yksi viidestäsadasta, ihmisiä, raavaita, aaseja ja lampaita.
+29 Ota se heille tulevasta puoliskosta ja anna se pappi Eleasarille antina Herralle.
 30 Ja israelilaisille tulevasta puoliskosta ota yksi viidestäkymmenestä, ihmisiä, raavaita, aaseja, lampaita ja kaikkia karjaeläimiä, ja anna ne leeviläisille, joiden on hoidettava tehtävät Herran asumuksessa.
 31 Ja Mooses ja pappi Eleasar tekivät, niinkuin Herra oli Moosekselle käskyn antanut.
 32 Ja saalis, jäännös siitä, mitä sotajoukko oli ryöstänyt, oli: lampaita kuusisataa seitsemänkymmentäviisi tuhatta
@@ -35,6 +39,7 @@
 39 ja aaseja kolmekymmentä tuhatta viisisataa sekä niistä Herralle tuleva vero kuusikymmentä yksi;
 40 ja ihmisiä kuusitoista tuhatta sekä niistä Herralle tuleva vero kolmekymmentä kaksi.
 41 Ja Mooses antoi Herran antiveron pappi Eleasarille, niinkuin Herra oli Moosekselle käskyn antanut.
+42 Ja israelilaisille tuleva puolisko, jonka Mooses oli erottanut sotamiesten osasta,
 43 tämä seurakunnalle tuleva puolisko oli: lampaita kolmesataa kolmekymmentäseitsemän tuhatta viisisataa
 44 ja raavaita kolmekymmentäkuusi tuhatta
 45 ja aaseja kolmekymmentä tuhatta viisisataa
@@ -45,4 +50,5 @@
 50 Sentähden me tuomme nyt Herralle lahjaksi, mitä kukin on saanut kultakaluja: käätyjä, rannerenkaita, sormuksia, korvarenkaita ja kaulakoristeita, saadaksemme itsellemme sovituksen Herran edessä.
 51 Niin Mooses ja pappi Eleasar ottivat heiltä kullan, kaikkinaiset taidokkaasti valmistetut esineet.
 52 Ja anniksi annettua kultaa, jonka he antoivat Herralle tuhannen-ja sadanpäämiesten puolesta, oli kaikkiaan kuusitoista tuhatta seitsemänsataa viisikymmentä sekeliä.
+53 Sotamiehet olivat ottaneet saalista kukin itselleen.
 54 Ja Mooses ja pappi Eleasar ottivat kullan tuhannen-ja sadanpäämiehiltä ja veivät sen ilmestysmajaan, että se johdattaisi israelilaiset Herran muistoon.

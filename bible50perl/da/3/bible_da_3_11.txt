@@ -1,3 +1,4 @@
+1 HERREN talede til Moses og Aron og sagde til dem:
 2 Tal til Israeliterne og sig: Af alle Dyr på Jorden må du spise følgende:
 3 Alle Dyr, der har Klove, helt spaltede Klove, og tygger Drøv, må I spise.
 4 Men følgende må I ikke spise af dem der tygger Drøv, og af dem, der har Klove: Kamelen, thi den tygger vel Drøv, men har ikke Klove; den skal være eder uren;
@@ -10,7 +11,10 @@
 11 De skal være eder en Vederstyggelighed, deres Kød må I ikke spise, og Ådslerne af dem skal I regne for en Vederstyggelighed.
 12 Alt i Vandet, som ikke har Finner eller Skæl, skal være eder en Vederstyggelighed.
 13 Følgende er de Fugle, I skal regne for en Vederstyggelighed, de må ikke spises, de er en Vederstyggelighed: Ørnen, Lammegribben, Havørnen,
+14 Glenten, de forskellige Arter af Falke,
+15 alle de forskellige Arter af Ravne,
 16 Strudsen, Takmasfuglen, Mågen, de forskellige Arter af Høge,
+17 Uglen, Fiskepelikanen, Hornuglen,
 18 Tinsjemetfuglen,Pelikanen, Ådselgribben,
 19 Storken, de forskellige Arter af Hejrer, Hærfuglen og Flagermusen.
 20 Alt vinget Kryb der går på fire, skal være eder en Vederstyggelighed.

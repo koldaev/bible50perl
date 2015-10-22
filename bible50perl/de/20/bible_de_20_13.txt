@@ -4,6 +4,7 @@
 4 Der Faule wünscht sich viel und hat doch nichts; die Seele der Fleißigen aber wird fett.
 5 Der Gerechte haßt die Verleumdungen; aber der Gottlose verursacht Schande und Spott.
 6 Die Gerechtigkeit bewahrt den Unschuldigen; die Gottlosigkeit aber stürzt den Sünder ins Verderben.
+7 Einer stellt sich reich und hat doch gar nichts, ein anderer stellt sich arm und besitzt doch viel.
 8 Mit seinem Reichtum kann jemand sich das Leben retten; ein Armer aber bekommt keine Drohungen zu hören.
 9 Das Licht der Gerechten wird hell brennen; die Leuchte der Gottlosen aber wird erlöschen.
 10 Durch Übermut entsteht nur Zank, wo man sich aber raten läßt, da wohnt Weisheit.
@@ -11,6 +12,8 @@
 12 Langes Harren macht das Herz krank; ein erfüllter Wunsch aber ist ein Baum des Lebens.
 13 Wer die Mahnung verachtet, wird von ihr gepfändet; wer aber das Gebot fürchtet, wird belohnt.
 14 Die Lehre des Weisen ist eine Quelle des Lebens, daß man meide die Stricke des Todes.
+15 Guter Verstand erwirbt Gunst; aber der Weg der Heuchler ist schwierig.
+16 Der Kluge tut alles mit Vernunft; aber der Tor verbreitet Dummheiten.
 17 Ein gottloser Bote stürzt ins Unglück, aber ein treuer Zeuge bringt Heilung.
 18 Wer aus der Schule läuft, gerät in Armut und Schande; wer aber auf Zurechtweisungen achtet, kommt zu Ehren.
 19 Die Befriedigung eines Verlangens tut der Seele wohl; aber vom Bösen zu weichen, ist den Toren ein Greuel.

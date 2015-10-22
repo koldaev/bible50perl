@@ -1,9 +1,12 @@
 1 Aproximava-se a festa dos pães ázimos, que se chama a páscoa.
+2 E os principais sacerdotes e os escribas andavam procurando um modo de o matar; pois temiam o povo.
 3 Entrou então Satanás em Judas, que tinha por sobrenome Iscariotes, que era um dos doze;
 4 e foi ele tratar com os principais sacerdotes e com os capitães de como lho entregaria.
+5 Eles se alegraram com isso, e convieram em lhe dar dinheiro.
 6 E ele concordou, e buscava ocasião para lho entregar sem alvoroço.
 7 Ora, chegou o dia dos pães ázimos, em que se devia imolar a páscoa;
 8 e Jesus enviou a Pedro e a João, dizendo: Ide, preparai-nos a páscoa, para que a comamos.
+9 Perguntaram-lhe eles: Onde queres que a preparemos?
 10 Respondeu-lhes: Quando entrardes na cidade, sair-vos-á ao encontro um homem, levando um cântaro de água; segui-o até a casa em que ele entrar.
 11 E direis ao dono da casa: O Mestre manda perguntar-te: Onde está o aposento em que hei de comer a páscoa com os meus discípulos?
 12 Então ele vos mostrará um grande cenáculo mobiliado; aí fazei os preparativos.
@@ -29,10 +32,13 @@
 32 mas eu roguei por ti, para que a tua fé não desfaleça; e tu, quando te converteres, fortalece teus irmãos.
 33 Respondeu-lhe Pedro: Senhor, estou pronto a ir contigo tanto para a prisão como para a morte.
 34 Tornou-lhe Jesus: Digo-te, Pedro, que não cantará hoje o galo antes que três vezes tenhas negado que me conheces.
+35 E perguntou-lhes: Quando vos mandei sem bolsa, alforje, ou alparcas, faltou-vos porventura alguma coisa? Eles responderam: Nada.
 36 Disse-lhes pois: Mas agora, quem tiver bolsa, tome-a, como também o alforje; e quem não tiver espada, venda o seu manto e compre-a.
 37 Porquanto vos digo que importa que se cumpra em mim isto que está escrito: E com os malfeitores foi contado. Pois o que me diz respeito tem seu cumprimento.
+38 Disseram eles: Senhor, eis aqui duas espadas. Respondeu-lhes: Basta.
 39 Então saiu e, segundo o seu costume, foi para o Monte das Oliveiras; e os discípulos o seguiam.
 40 Quando chegou àquele lugar, disse-lhes: Orai, para que não entreis em tentação.
+41 E apartou-se deles cerca de um tiro de pedra; e pondo-se de joelhos, orava,
 42 dizendo: Pai, se queres afasta de mim este cálice; todavia não se faça a minha vontade, mas a tua.
 43 Então lhe apareceu um anjo do céu, que o confortava.
 44 E, posto em agonia, orava mais intensamente; e o seu suor tornou-se como grandes gotas de sangue, que caíam sobre o chão.
@@ -40,7 +46,9 @@
 46 e disse-lhes: Por que estais dormindo? Lenvantai-vos, e orai, para que não entreis em tentação.
 47 E estando ele ainda a falar, eis que surgiu uma multidão; e aquele que se chamava Judas, um dos doze, ia adiante dela, e chegou-se a Jesus para o beijar.
 48 Jesus, porém, lhe disse: Judas, com um beijo trais o Filho do homem?
+49 Quando os que estavam com ele viram o que ia suceder, disseram: Senhor, feri-los-emos a espada?
 50 Então um deles feriu o servo do sumo sacerdote, e cortou-lhe a orelha direita.
+51 Mas Jesus disse: Deixei-os; basta. E tocando-lhe a orelha, o curou.
 52 Então disse Jesus aos principais sacerdotes, oficiais do templo e anciãos, que tinham ido contra ele: Saístes, como a um salteador, com espadas e varapaus?
 53 Todos os dias estava eu convosco no templo, e não estendestes as mãos contra mim; mas esta é a vossa hora e o poder das trevas.
 54 Então, prendendo-o, o levaram e o introduziram na casa do sumo sacerdote; e Pedro seguia-o de longe.
@@ -52,8 +60,12 @@
 60 Mas Pedro respondeu: Homem, não sei o que dizes. E imediatamente estando ele ainda a falar, cantou o galo.
 61 Virando-se o Senhor, olhou para Pedro; e Pedro lembrou-se da palavra do Senhor, como lhe havia dito: Hoje, antes que o galo cante, três vezes me negarás.
 62 E, havendo saído, chorou amargamente.
+63 Os homens que detinham Jesus zombavam dele, e feriam-no;
+64 e, vendando-lhe os olhos, perguntavam, dizendo: Profetiza, quem foi que te bateu?
+65 E, blasfemando, diziam muitas outras coisas contra ele.
 66 Logo que amanheceu reuniu-se a assembléia dos anciãos do povo, tanto os principais sacerdotes como os escribas, e o conduziam ao sinédrio deles, onde lhe disseram:
 67 Se tu és o Cristo, dize-no-lo. Replicou-lhes ele: Se eu vo-lo disser, não o crereis;
+68 e se eu vos interrogar, de modo algum me respondereis.
 69 Mas desde agora estará assentado o Filho do homem à mão direita do poder de Deus.
 70 Ao que perguntaram todos: Logo, tu és o Filho de Deus? Respondeu-lhes: Vós dizeis que eu sou.
 71 Então disseram: Por que ainda temos necessidade de testemunho? pois nós mesmos o ouvimos da sua própria boca.

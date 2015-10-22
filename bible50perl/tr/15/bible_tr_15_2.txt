@@ -18,12 +18,19 @@
 18 Yoraoğulları: 112
 19 Haşumoğulları: 223
 20 Gibbaroğulları: 95
+21 Beytlehemliler: 123
 22 Netofalılar: 56
+23 Anatotlular: 128
+24 Azmavetliler: 42
 25 Kiryat-Yearimliler, Kefiralılar ve Beerotlular: 743
 26 Ramalılar ve Gevalılar: 621
 27 Mikmaslılar: 122
+28 Beytel ve Ay kentlerinden olanlar: 223
+29 Nevolular: 52
 30 Magbişliler: 156
 31 Öbür Elam Kentinden olanlar: 1254
+32 Harimliler: 320
+33 Lod, Hadit ve Ono kentlerinden olanlar: 725
 34 Erihalılar: 345
 35 Senaalılar: 3630.
 36 Kâhinler:  Yeşu soyundan Yedayaoğulları: 973

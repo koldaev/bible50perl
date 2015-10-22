@@ -1,4 +1,5 @@
 1 Ja Issand rääkis Moosese ja Aaroniga Egiptusemaal, öeldes: 
+2 'See kuu olgu teil esimeseks kuuks; see olgu teil aasta esimeseks kuuks. 
 3 Rääkige kogu Iisraeli kogudusega ja öelge: Selle kuu kümnendal päeval võtku iga perevanem tall, igale perele tall. 
 4 Aga kui pere on talle jaoks väike, siis võtku tema ja ta naaber, kes ta kojale on lähemal, vastavalt hingede arvule; kui palju igaüks jõuab süüa, sellele vastavalt arvake neid talle kohta. 
 5 Tall olgu teil veatu, isane, üheaastane; võtke see lammastest või kitsedest. 
@@ -20,6 +21,7 @@
 21 Ja Mooses kutsus kõik Iisraeli vanemad ning ütles neile: 'Minge ja võtke enestele suguvõsade kaupa talled ja tapke paasatall! 
 22 Ja võtke iisopikimbuke, kastke kausis olevasse verre ja määrige ukse pealispuud ning mõlemat piitjalga kausis oleva verega! Ja ükski teist ärgu väljugu hommikuni oma koja uksest, 
 23 sest Issand läheb egiptlasi nuhtlema. Aga kui ta näeb verd ukse pealispuul ja mõlemal piitjalal, siis Issand ruttab sellest uksest mööda ega lase hävitajat tulla teie kodadesse nuhtlema. 
+24 Pidage see asi meeles: see olgu igaveseks seadluseks sinule ja su lastele! 
 25 Ja kui te tulete maale, mille Issand teile annab, nagu ta on öelnud, siis pidage seda teenistust! 
 26 Ja kui teie lapsed teilt küsivad: Mis teenistus see teil on?, 
 27 siis vastake: See on paasaohver Issanda auks, kes ruttas mööda Iisraeli laste kodadest Egiptuses, kui ta nuhtles egiptlasi ja päästis meie kojad.' Siis rahvas kummardas ning heitis silmili maha. 
@@ -42,6 +44,7 @@
 44 Aga raha eest ostetud iga sulane võib seda süüa siis, kui oled tema ümber lõiganud. 
 45 Majaline ja palgaline ärgu seda söögu! 
 46 Ühes ja samas kojas tuleb seda süüa, lihast ei tohi midagi viia kojast välja õue, ja luid ei tohi sellel murda! 
+47 Kogu Iisraeli kogudus pidagu seda! 
 48 Ja kui su juures viibib mõni võõras ning tahab valmistada Issandale paasatalle, siis tuleb kõik ta meesterahvad ümber lõigata; alles siis tohib ta ligi tulla seda valmistama ja on nagu maa päriselanik; aga ükski ümberlõikamatu ei tohi seda süüa! 
 49 Seadlus on üks päriselanikule ja muulasele, kes võõrana teie keskel elab.'
 50 Ja kõik Iisraeli lapsed tegid, nagu Issand Moosest ja Aaronit oli käskinud; nõnda nad tegid. 

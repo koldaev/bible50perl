@@ -4,11 +4,13 @@
 4 Valigem endile, mis on õige, tunnetagem isekeskis, mis on hea!  
 5 Sest Iiob on öelnud: 'Ma olen õige, aga Jumal on võtnud minult õiguse. 
 6 Kuigi mul on õigus, peetakse mind valetajaks. Mul on parandamatu haav, kuigi ma pole üle astunud.'  
+7 Kas on Iiobi sarnast meest, kes pilget joob nagu vett, 
 8 kes läheb ülekohtutegijate kilda ja käib koos õelate inimestega? 
 9 Sest tema ütleb: 'Ei ole inimesel sellest kasu, et tal on sõprus Jumalaga!'  
 10 Seepärast kuulge, mõistlikud mehed, mind: kaugel on Jumalast õelus ja Kõigevägevamast ülekohtutegu. 
 11 Sest inimese tegu mööda tasub ta temale, ja nagu on kellegi tee, nõnda temale antakse. 
 12 Jah, tõesti, Jumal ei tee ülekohut ja Kõigevägevam ei vääna õigust. 
+13 Kes on temale usaldanud maa? Ja kes on loonud kogu maailma? 
 14 Kui ta iseenesesse tõmbuks, oma Vaimu ja hingeõhu tagasi võtaks, 
 15 siis heidaks kõik liha üheskoos hinge ja inimene saaks jälle põrmuks. 
 16 Kui sul nüüd on arukust, siis kuule seda, võta kõrvu mu sõnade kõla! 
@@ -18,6 +20,7 @@
 20 Nad surevad äkitselt keset ööd: inimesed vaaruvad ja lähevad, ja ilma käetagi võetakse ära vägev. 
 21 Sest tema silmad on igaühe teede peal ja ta näeb kõiki tema samme. 
 22 Ei ole pimedust ega varjulist paika, kuhu ülekohtutegijad saaksid peitu pugeda. 
+23 Sest tema ei anna inimesele aega Jumala juurde kohtusse minekuks: 
 24 ta peksab vägevad üle kuulamata puruks ja paneb teised nende asemele. 
 25 Sellepärast, et ta nende tegusid tunneb, hävitab ta nad öösel ja nad purustatakse. 
 26 Ta peksab neid nagu kurjategijaid paigas, kus on nägijaid, 

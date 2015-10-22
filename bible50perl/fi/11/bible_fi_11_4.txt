@@ -1,4 +1,6 @@
+1 Kuningas Salomo oli koko Israelin kuningas.
 2 Ja nämä olivat hänen ylimmät virkamiehensä: Asarja, Saadokin poika, oli ylipappina;
+3 Elihoref ja Ahia, Siisan pojat, olivat kirjureina; Joosafat, Ahiludin poika, oli kanslerina;
 4 Benaja, Joojadan poika, oli sotaväen ylipäällikkönä; Saadok ja Ebjatar olivat pappeina.
 5 Asarja, Naatanin poika, oli ylimaaherrana; Saabud, Naatanin poika, pappi, oli kuninkaan ystävänä.
 6 Ahisar oli linnanpäällikkönä; Adoniram, Abdan poika, oli verotöiden valvojana.
@@ -7,8 +9,13 @@
 9 Dekerin poika Maakaassa, Saalbimissa, Beet-Semeksessä, Eelonissa ja Beet-Haananissa;
 10 Hesedin poika Arubbotissa; hänellä oli Sooko ja koko Heeferin maa;
 11 Abinadabin poika koko Doorin kukkula-alueella; hänellä oli vaimona Taafat, Salomon tytär;
+12 Baana, Ahiludin poika, Taanakissa ja Megiddossa ja koko Beet-Seanissa, joka on Saaretanin sivulla Jisreelin alapuolella, Beet-Seanista aina Aabel-Meholaan, tuolle puolelle Jokmeamin;
 13 Geberin poika Gileadin Raamotissa; hänellä oli Jaairin, Manassen pojan, leirikylät, jotka ovat Gileadissa; hänellä oli siis Argobin seutu, joka on Baasanissa, kuusikymmentä suurta, muureilla ja vaskisalvoilla varustettua kaupunkia;
+14 Ahinadab, Iddon poika, Mahanaimissa;
 15 Ahimaas Naftalissa; hänkin oli ottanut vaimokseen Salomon tyttären, Baasematin;
+16 Baana, Huusain poika, Asserissa ja Bealotissa;
+17 Joosafat, Paaruahin poika, Isaskarissa;
+18 Siimei, Eelan poika, Benjaminissa;
 19 Geber, Uurin poika, Gileadin maassa, Siihonin, amorilaisten kuninkaan, ja Oogin, Baasanin kuninkaan, maassa; sillä siinä maassa oli yksi maaherra.
 20 Juudaa ja Israelia oli paljon, niin paljon kuin hiekkaa meren rannalla; he söivät ja joivat ja olivat iloisia.
 21 Ja Salomo hallitsi kaikkia valtakuntia Eufrat-virrasta aina filistealaisten maahan ja Egyptin rajaan asti. He toivat lahjoja ja palvelivat Salomoa, niin kauan kuin hän eli.

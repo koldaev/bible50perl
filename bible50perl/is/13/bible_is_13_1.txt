@@ -1,3 +1,5 @@
+1 Adam, Set, Enos.
+2 Kenan, Mahalalel, Jared.
 3 Henok, Methúsala, Lamek.
 4 Nói, Sem, Kam og Jafet.
 5 Synir Jafets voru: Gómer, Magóg, Madaí, Javan, Túbal, Mesek og Tíras.
@@ -13,11 +15,13 @@
 15 Hevíta, Arkíta, Síníta,
 16 Arvadíta, Semaríta og Hamatíta.
 17 Synir Sems: Elam, Assúr, Arpaksad, Lúd, Aram, Ús, Húl, Geter og Mas.
+18 Og Arpaksad gat Sela og Sela gat Eber.
 19 Og Eber fæddust tveir synir. Hét annar Peleg, því að á hans dögum greindist fólkið á jörðinni, en bróðir hans hét Joktan.
 20 Og Joktan gat Almódad, Salef, Hasarmavet, Jara,
 21 Hadóram, Úsal, Dikla,
 22 Ebal, Abímael, Séba,
 23 Ófír, Havíla og Jóbab. Þessir allir voru synir Joktans.
+24 Sem, Arpaksad, Sela,
 25 Eber, Peleg, Reú,
 26 Serúg, Nahor, Tara,
 27 Abram, það er Abraham.
