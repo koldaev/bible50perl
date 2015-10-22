@@ -29,6 +29,10 @@ my $book = $ARGV[1];
 if (not defined $book) {
     $book = 1;
 }
+my $chapter = $ARGV[2];
+if (not defined $chapter) {
+    $chapter = 1;
+}
 
 binmode(STDOUT, ":utf8");
 
@@ -36,7 +40,7 @@ open MORE, '|more' or die "unable to start pager";
 
 #print MORE "hello $_!\n" for 1..1000;
 
-my $filename = $dirscript.'/'.$lang.'/'.$book.'/bible_'.$lang.'_'.$book.'_1.txt';
+my $filename = $dirscript.'/'.$lang.'/'.$book.'/bible_'.$lang.'_'.$book.'_'.$chapter.'.txt';
 open(my $fh, $filename) or die "Could not open file '$filename' $!";
 my $lines = "\n\n\n\n\n\n\n\n\n";
 while (my $row = <$fh>) {
